@@ -12,3 +12,5 @@ S:
 L:
 >Coincidentally that's also the one I drew while listening to a losing proposition. Guess it's pretty good at conveying the mood you want huh :D
 
+#general #strfs
+

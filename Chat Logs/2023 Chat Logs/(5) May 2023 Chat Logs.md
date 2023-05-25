@@ -41,6 +41,8 @@ L:
 S:
 >Skeletal issue
 
+
+
 # 2023-05-16
 
 L:
@@ -362,3 +364,5 @@ L:
 
 S:
 >If it's supposed to be based on the monomyth, it's fitting that it would be reminiscent of many other stories
+
+#general #cursed-al #the-orb #strfs #boring-straight-greg #luke-campbell #the-horse #the-dragon #the-emperoress 

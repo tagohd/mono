@@ -31,3 +31,5 @@ lunathrix:
 
 ***
 I really don't want to bother copy/pasting the rest of this right now. TL;DR is the orb is actually just [[Luke Campbell#Various Luke Characterizations|a chocolate orange]]. Cf: [[The Story So Far#^6a412b|The Story So Far]]
+
+#general #the-orb #luke-campbell #cursed-al #strfs 

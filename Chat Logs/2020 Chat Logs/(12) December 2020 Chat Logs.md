@@ -52,3 +52,5 @@ L:
 S:
 >![[A Losing Proposition.png]]
 >It doesn't have to be exactly this, but this is roughly what I had in mind in terms of text placement.
+
+#general #luke-campbell #james-redawic #the-dragon

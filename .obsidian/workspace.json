@@ -11,8 +11,12 @@
             "id": "dade2d3f3a793143",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Story So Far.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Story So Far.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Story So Far.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Story So Far.md"
+              }
             }
           }
         ]
@@ -139,51 +147,52 @@
   },
   "active": "dade2d3f3a793143",
   "lastOpenFiles": [
+    "The Beginning.md",
+    "README.md",
+    "Other Ideas from Lunathrix.md",
+    "Magic.md",
+    "End of Journey.md",
+    "CURSED AL'S CURSED ORB.md",
+    "Places/Rhapsody.md",
+    "Places/Plata.md",
+    "Places/Genton.md",
+    "Places/CURSED AL'S CURSED DOMAIN.md",
+    "Places/Boringsville.md",
     "Chat Logs/2023 Chat Logs/(5) May 2023 Chat Logs.md",
-    "Chat Logs/2020 Chat Logs/(12) December 2020 Chat Logs.md",
-    "Chat Logs/2021 Chat Logs/(1) January 2021 Chat Logs.md",
-    "Chat Logs/2021 Chat Logs/(3) March 2021 Chat Logs.md",
-    "Chat Logs/2021 Chat Logs/(4) April 2021 Chat Logs.md",
-    "Chat Logs/2022 Chat Logs/(9) September 2022 Chat Logs.md",
-    "Chat Logs/2023 Chat Logs/(2) February 2023 Chat Logs.md",
     "Chat Logs/2023 Chat Logs/(4) April 2023 Chat Logs.md",
+    "Chat Logs/2023 Chat Logs/(2) February 2023 Chat Logs.md",
+    "Chat Logs/2022 Chat Logs/(9) September 2022 Chat Logs.md",
+    "Chat Logs/2021 Chat Logs/(4) April 2021 Chat Logs.md",
+    "Chat Logs/2021 Chat Logs/(3) March 2021 Chat Logs.md",
+    "Chat Logs/2021 Chat Logs/(1) January 2021 Chat Logs.md",
+    "Chat Logs/2020 Chat Logs/(12) December 2020 Chat Logs.md",
+    "Characters/Sam Ward.md",
+    "Characters/Luke Campbell.md",
+    "Characters/James Redawić.md",
+    "Characters/CURSED AL.md",
+    "Characters/Case Weston.md",
+    "ACT III. RETURN/17 - Freedom to Live.md",
+    "ACT I. DEPARTURE/5 - Belly of the Whale.md",
     "Resources/the dog absorbed the.gif",
     "Resources/starship_troopers.gif",
     "Resources/dog_luke.png",
-    "Characters/Luke Campbell.md",
     "Resources/THE_ORB.jpg",
     "Resources/various_lukes_cropped.jpg",
     "Resources/various_lukes.png",
     "Resources/rhapsody_art4.png",
-    "CURSED AL'S CURSED ORB.md",
-    "Places/Rhapsody.md",
     "Resources/rhapsody_art2.png",
     "Resources/rhapsody_art1.png",
     "Resources/big_gay_crybaby.png",
-    "Characters/CURSED AL.md",
     "Chat Logs/2023 Chat Logs",
     "Chat Logs/2022 Chat Logs",
     "Chat Logs/2020 Chat Logs",
-    "Places/CURSED AL'S CURSED DOMAIN.md",
     "Resources/Cursed Domain.mp3",
     "Resources/NES Legend of Zelda Vibes.mp3",
     "Resources/AbletonTmp-0000",
-    "README.md",
     "Chat Logs/2021 Chat Logs",
     "Chat Logs",
-    "Places/Plata.md",
-    "End of Journey.md",
-    "ACT I. DEPARTURE/5 - Belly of the Whale.md",
     "ACT III. RETURN",
     "ACT II. INITIATION",
-    "ACT III. RETURN/17 - Freedom to Live.md",
-    "The Beginning.md",
-    "ACT I. DEPARTURE.md",
-    "ACT I. DEPARTURE/1 - The Call to Adventure.md",
-    "ACT I. DEPARTURE/4 - The Crossing of the First Threshold.md",
-    "ACT I. DEPARTURE/3 - Supernatural Aid.md",
-    "ACT I. DEPARTURE/2 - Refusal of the Call.md",
-    "The Story So Far.md",
     "ACT I. DEPARTURE/Untitled.canvas"
   ]
 }

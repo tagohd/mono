@@ -1,5 +1,6 @@
 # 2023-02-21
 
+## New CURSED AL Song?
 S:
 >Although, I did have something of an idea for a completely unrelated song
 
@@ -63,6 +64,7 @@ L:
 
 \[...\]
 
+## The Most Important Change I've Made
 L:
 >well it has a gay couple so it's really all i need in a game's lore
 
@@ -135,3 +137,5 @@ S:
 
 L:
 >EXCELLENT. TRULY EXCELLENT.
+
+#general #cursed-al #cursed-domain #james-redawic #boring-straight-greg
