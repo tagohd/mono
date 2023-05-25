@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Story So Far.md",
+                "file": "Places/Rhapsody.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#stub",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Story So Far.md",
+                "file": "Places/Rhapsody.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Story So Far.md",
+                "file": "Places/Rhapsody.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Story So Far.md"
+                "file": "Places/Rhapsody.md"
               }
             }
           }
@@ -147,32 +147,32 @@
   },
   "active": "dade2d3f3a793143",
   "lastOpenFiles": [
+    "Magic.md",
+    "SOUL.md",
+    "Characters/Sam Ward.md",
+    "Characters/CURSED AL.md",
+    "Places/Boringsville.md",
+    "Places/Genton.md",
+    "Places/CURSED AL'S CURSED DOMAIN.md",
+    "The Story So Far.md",
+    "CURSED AL'S CURSED ORB.md",
+    "Characters/Luke Campbell.md",
+    "ACT I. DEPARTURE/4 - The Crossing of the First Threshold.md",
+    "Chat Logs/2023 Chat Logs/(5) May 2023 Chat Logs.md",
+    "ACT I. DEPARTURE/1 - The Call to Adventure.md",
+    "Chat Logs/2021 Chat Logs/(4) April 2021 Chat Logs.md",
+    "Characters/Case Weston.md",
+    "Characters/James Redawić.md",
+    "Chat Logs/2023 Chat Logs/(2) February 2023 Chat Logs.md",
     "The Beginning.md",
     "README.md",
     "Other Ideas from Lunathrix.md",
-    "Magic.md",
     "End of Journey.md",
-    "CURSED AL'S CURSED ORB.md",
     "Places/Rhapsody.md",
     "Places/Plata.md",
-    "Places/Genton.md",
-    "Places/CURSED AL'S CURSED DOMAIN.md",
-    "Places/Boringsville.md",
-    "Chat Logs/2023 Chat Logs/(5) May 2023 Chat Logs.md",
     "Chat Logs/2023 Chat Logs/(4) April 2023 Chat Logs.md",
-    "Chat Logs/2023 Chat Logs/(2) February 2023 Chat Logs.md",
     "Chat Logs/2022 Chat Logs/(9) September 2022 Chat Logs.md",
-    "Chat Logs/2021 Chat Logs/(4) April 2021 Chat Logs.md",
     "Chat Logs/2021 Chat Logs/(3) March 2021 Chat Logs.md",
-    "Chat Logs/2021 Chat Logs/(1) January 2021 Chat Logs.md",
-    "Chat Logs/2020 Chat Logs/(12) December 2020 Chat Logs.md",
-    "Characters/Sam Ward.md",
-    "Characters/Luke Campbell.md",
-    "Characters/James Redawić.md",
-    "Characters/CURSED AL.md",
-    "Characters/Case Weston.md",
-    "ACT III. RETURN/17 - Freedom to Live.md",
-    "ACT I. DEPARTURE/5 - Belly of the Whale.md",
     "Resources/the dog absorbed the.gif",
     "Resources/starship_troopers.gif",
     "Resources/dog_luke.png",

@@ -32,12 +32,12 @@ S:
 >Yeah. I was just screwing around on the piano and thought, "Hey, this sounds cool and foreboding. Maybe it can be, like, the theme of [[CURSED AL'S CURSED DOMAIN|the bad guy's castle]]"
 
 L:
->"maybe the bad guy uses some sort of soul magic or something"
+>"maybe the bad guy uses some sort of [[SOUL|soul]] magic or something"
 >but no it does sound v cool
 
 S:
 >[[CURSED AL#Al, THE SOUL TAKER|Al, THE SOUL TAKER]]
->>With enough souls, he will become godlike. His essence is eternal, but there has always been someone to banish him. Souls taken by Al are gradually forgotten until they all but disappear from existence.
+>>With enough [[SOUL|souls]], he will become godlike. His essence is eternal, but there has always been someone to banish him. Souls taken by Al are gradually forgotten until they all but disappear from existence.
 >>
 >>What draws people to Al? Not what makes someone willing to forfeit their soul, but what are the first steps? Does Al seek them out, or is he summoned?
 >Uh...

@@ -106,7 +106,7 @@ S:
 >Actually, maybe that *is* his end goal.
 >![[THE_ORB.jpg]]
 >Behold: [[CURSED AL'S CURSED ORB|The Orb]]
->Eating it is the only thing that can save the people whose souls were stolen by Cursed Al. It's also the last one they had in stock. He's really not supposed to eat it, but that's its corrupting influence: being really tasty.
+>Eating it is the only thing that can save the people whose [[SOUL|souls]] were stolen by Cursed Al. It's also the last one they had in stock. He's really not supposed to eat it, but that's its corrupting influence: being really tasty.
 >This will, of course, be played completely straight. The characters will never acknowledge how ridiculous the premise is
 
 ## He actually does look like a bitch
