@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,9 +139,41 @@
   },
   "active": "dade2d3f3a793143",
   "lastOpenFiles": [
+    "Chat Logs/2023 Chat Logs/(5) May 2023 Chat Logs.md",
+    "Chat Logs/2020 Chat Logs/(12) December 2020 Chat Logs.md",
+    "Chat Logs/2021 Chat Logs/(1) January 2021 Chat Logs.md",
+    "Chat Logs/2021 Chat Logs/(3) March 2021 Chat Logs.md",
+    "Chat Logs/2021 Chat Logs/(4) April 2021 Chat Logs.md",
+    "Chat Logs/2022 Chat Logs/(9) September 2022 Chat Logs.md",
+    "Chat Logs/2023 Chat Logs/(2) February 2023 Chat Logs.md",
+    "Chat Logs/2023 Chat Logs/(4) April 2023 Chat Logs.md",
+    "Resources/the dog absorbed the.gif",
+    "Resources/starship_troopers.gif",
+    "Resources/dog_luke.png",
+    "Characters/Luke Campbell.md",
+    "Resources/THE_ORB.jpg",
+    "Resources/various_lukes_cropped.jpg",
+    "Resources/various_lukes.png",
+    "Resources/rhapsody_art4.png",
+    "CURSED AL'S CURSED ORB.md",
+    "Places/Rhapsody.md",
+    "Resources/rhapsody_art2.png",
+    "Resources/rhapsody_art1.png",
+    "Resources/big_gay_crybaby.png",
+    "Characters/CURSED AL.md",
+    "Chat Logs/2023 Chat Logs",
+    "Chat Logs/2022 Chat Logs",
+    "Chat Logs/2020 Chat Logs",
+    "Places/CURSED AL'S CURSED DOMAIN.md",
+    "Resources/Cursed Domain.mp3",
+    "Resources/NES Legend of Zelda Vibes.mp3",
+    "Resources/AbletonTmp-0000",
+    "README.md",
+    "Chat Logs/2021 Chat Logs",
+    "Chat Logs",
+    "Places/Plata.md",
     "End of Journey.md",
     "ACT I. DEPARTURE/5 - Belly of the Whale.md",
-    "README.md",
     "ACT III. RETURN",
     "ACT II. INITIATION",
     "ACT III. RETURN/17 - Freedom to Live.md",
@@ -153,9 +184,6 @@
     "ACT I. DEPARTURE/3 - Supernatural Aid.md",
     "ACT I. DEPARTURE/2 - Refusal of the Call.md",
     "The Story So Far.md",
-    "Other Ideas from Lunathrix.md",
-    "CURSED AL'S CURSED ORB.md",
-    "ACT I. DEPARTURE/Untitled.canvas",
-    "ACT I. DEPARTURE"
+    "ACT I. DEPARTURE/Untitled.canvas"
   ]
 }

@@ -26,4 +26,8 @@ You know how you can broadly divide dog races into the group that got bred to do
 - Regrettably for him, he gets feelings for Luke after being saved by him, therefore becoming the (main?) love interest (enemies to lovers anyone?)
 - While he was initially trying to get the orb because he was ordered to do so by [[Other Ideas from Lunathrix|the big bad]], he gradually ends up trying to take the orb from Luke to prevent him from poisoning himself, thereby fulfilling the “What’s that in your mouth? SPIT THAT OUT!” role
 
+## Lucas Progresso
+
+Maybe he has to go into hiding and he changes his name to this at some point?
+
 #character #luke-campbell 
