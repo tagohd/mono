@@ -2,4 +2,4 @@
 
 Maybe the lost [[SOUL|SOULS]] are forgotten. As Sam’s SOUL is drawn further into [[CURSED AL]]’s control, Luke struggles to remember them. Perhaps it will be a recurring theme that Luke will find something that reminds him of Sam. As he draws closer to his final battle, he’ll remember some detail about them.
 
-#general #luke-campbell #james-redawic #sam-ward #cursed-al #act-1 
+#general #luke-campbell #james-redawic #sam-ward #cursed-al #act-1 #plot-outline 

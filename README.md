@@ -26,3 +26,5 @@ MONO is a fictional RPG based on the Hero's Journey. The purpose of this site is
 15. [[15 -The Crossing of the Return Threshold|The Crossing of the Return Threshold]]
 16. [[16 - Master of the Two Worlds|Master of the Two Worlds]]
 17. [[17 - Freedom to Live|Freedom to Live]]
+
+#refdoc 

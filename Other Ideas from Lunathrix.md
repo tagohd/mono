@@ -1,6 +1,6 @@
-- The big bads are known as “The Emperor” and “The Empress”, who both wear some sick looking armor / a mech suit or something that hides their face. In reality, however, they are both the same, gender-fluid person who wears a different armor depending on how they’re feeling. This leads to some really cool plot twist I’m sure.
+- The big bads are known as “The Emperor” and “The Empress”, who both wear some sick looking armor / a mech suit or something that hides their face. In reality, however, they are both [[The Emperoress|the same, gender-fluid person]] who wears a different armor depending on how they’re feeling. This leads to some really cool plot twist I’m sure.
 - You know how in a lot of games you can make “important decisions” which ends up having 0 impact on the story because game devs can’t make 2^10 splits in the story to account for the player’s choices? Well in this game, whenever any major choices have to be made in the story, one of the other characters ends up making the choice for Luke. While he himself is impervious to this, to the player it is apparent that the other characters are just trying to make sure Luke doesn’t make any important decisions because he is dumb as hell.
 - As a lot of characters in this story are already dumb of ass and kind of heart, it’s only natural someone completes the prophecy and is also swole of body, thereby attaining the title of himbo.
 - There’s already a few good male himbo’s (Kronk, Johnny Bravo), so how about a female himbo? A herbo?
 - Not sure what her role is in the story, perhaps lackey/partner of the emperoress?
-#general #the-emperoress
+#general #the-emperoress #character-ideas 

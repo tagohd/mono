@@ -8,4 +8,4 @@
 - Unfortunately, even though it’s not the legendary artifact, he still can’t eat it. It’s a chocolate orange. He’s a dogboy. Chocolate and oranges are both bad for him. (True ending: he _can_ eat it. He’s not just a dog, but a _dogboy_. The rules are different.)
 
 #general #luke-campbell #sam-ward #james-redawic #plata #rhapsody
-#james-still-remembers-you 
+#james-still-remembers-you #plot-outline 

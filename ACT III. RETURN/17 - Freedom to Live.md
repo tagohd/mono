@@ -1,3 +1,3 @@
 See: [[End of Journey]]
 
-#general #stub
+#general #stub #plot-outline 

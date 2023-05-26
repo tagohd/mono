@@ -2,4 +2,4 @@
 
 Perhaps [[James Redawić|James]] challenges Luke to a test of strength, and Luke accidentally kills him. Despite this, James tells him with his dying breath that he is proud of Luke, and he knows Luke will ultimately be victorious. James knew Luke would kill him, as it had been foretold, but he dies before telling Luke he is doomed to a similar fate.
 
-#general #luke-campbell #james-redawic #act-1 
+#general #luke-campbell #james-redawic #act-1 #plot-outline 

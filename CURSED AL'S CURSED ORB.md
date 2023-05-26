@@ -6,4 +6,4 @@ Cf: [[Luke Campbell#Various Luke Characterizations|Various Luke Characterization
 
 What is THE ORB? Is it the secret to CURSED AL'S power? Can it restore your [[SOUL]]? Is it a dragon egg? Or is it really just a chocolate orange? A cursed chocolate orange, perhaps?
 
-#general #the-orb #luke-campbell #cursed-al #strfs 
+#general #the-orb #luke-campbell #cursed-al #strfs #items

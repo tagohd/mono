@@ -365,4 +365,4 @@ L:
 S:
 >If it's supposed to be based on the monomyth, it's fitting that it would be reminiscent of many other stories
 
-#general #cursed-al #the-orb #strfs #boring-straight-greg #luke-campbell #the-horse #the-dragon #the-emperoress 
+#general #cursed-al #the-orb #strfs #boring-straight-greg #luke-campbell #the-horse #the-dragon #the-emperoress #plot-ideas #character-ideas 

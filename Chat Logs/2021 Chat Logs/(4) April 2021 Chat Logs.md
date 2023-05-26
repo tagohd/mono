@@ -91,5 +91,5 @@ S:
 L:
 >Assumedly?
 
-#general #luke-campbell #the-dragon #eeby-deeby
+#general #luke-campbell #the-dragon #eeby-deeby #character-ideas #place-ideas 
 

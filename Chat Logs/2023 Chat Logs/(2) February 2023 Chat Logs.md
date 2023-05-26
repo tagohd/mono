@@ -139,4 +139,4 @@ L:
 >EXCELLENT. TRULY EXCELLENT.
 
 #general #cursed-al #cursed-domain #james-redawic #boring-straight-greg 
-#james-still-remembers-you 
+#james-still-remembers-you #character-ideas

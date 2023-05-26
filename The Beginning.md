@@ -5,4 +5,4 @@
 “Wait, am I a good boy?” His tail slowed as he began to ponder this.
 
 But why had he changed so suddenly? He seemed to recall that boys his age often went through drastic changes to their bodies, but he was pretty sure he had already experienced that a couple years ago. Perhaps his teachers had simply neglected to cover this apparent second phase. Genton wasn’t exactly renowned for its school system after all. But no matter. He knew he had to tell [Sam](Sam%20Ward.md) about this! They’d be sure to get a kick out of it. He turned to race downstairs, knocking a framed photo of himself and Sam off his nightstand with his tail. Having a tail might take some more getting used to than he thought.
-#general #luke-campbell #sam-ward #genton
+#general #luke-campbell #sam-ward #genton #plot 
