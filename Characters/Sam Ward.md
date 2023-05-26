@@ -1,3 +1,6 @@
+---
+alias: Sam
+---
 ## Sam, THE INNOCENT ONE
 Love interest for [Luke](Luke%20Campbell.md).
 

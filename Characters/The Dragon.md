@@ -1,5 +1,5 @@
 ---
-alias: Edna
+alias: Edna, Ednathrallor
 ---
 # Diversity Dragon
 
