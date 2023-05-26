@@ -1,10 +1,7 @@
 ---
 alias: hero, protagonist, Luke
 ---
-
-## Luke's Theme?
-![[The Chosen One.mp3]]
-## Luke, THE RELUCTANT HERO
+# Luke, THE RELUCTANT HERO
 His bond with [[Sam Ward|Sam]] is so strong that it allows him to track their SOUL to [[CURSED AL]]. Luke’s SOUL is also quite powerful itself, allowing him to use [[Magic]], but it’s his bond with Sam that truly gives him strength.
 
 **Plot:** Luke awakens in his house. He is a young man of average height, perhaps somewhat on the short side, and a bit scrawny. He’s not malnourished, per se, but he isn’t exactly musclebound, either. He gets dressed, heads outside, and picks some tulips from the garden. It’s a beautiful day outside. He goes to the neighboring house, knocks on the door, and asks for Sam.
@@ -33,5 +30,8 @@ You know how you can broadly divide dog races into the group that got bred to do
 ## Lucas Progresso
 
 Maybe he has to go into hiding and he changes his name to this at some point?
+
+# Luke's Theme?
+![[The Chosen One.mp3]]
 
 #character #luke-campbell 
