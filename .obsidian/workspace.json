@@ -11,12 +11,8 @@
             "id": "e159e827797dc04a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/All Characters.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/All Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/All Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Characters/All Characters.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,13 +140,13 @@
   },
   "active": "e159e827797dc04a",
   "lastOpenFiles": [
+    "Characters/James Redawić.md",
+    "Characters/All Characters.md",
     "Characters/The Dragon.md",
     "Places/Plata/The Old Silver Mine.md",
-    "Characters/All Characters.md",
     "Characters/Bering Strait Grigori.md",
     "Characters/Case Weston.md",
     "Characters/CURSED AL.md",
-    "Characters/James Redawić.md",
     "Characters/Luke's Noble Steed.md",
     "Resources/sudorimeTurbo3000.png",
     "Resources/A Losing Proposition.png",

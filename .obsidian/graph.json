@@ -1,22 +1,51 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Characters -file:\"All Characters\"",
+      "color": {
+        "a": 1,
+        "rgb": 10682368
+      }
+    },
+    {
+      "query": "path:Places",
+      "color": {
+        "a": 1,
+        "rgb": 14394631
+      }
+    },
+    {
+      "query": "tag:#items OR tag:#concepts",
+      "color": {
+        "a": 1,
+        "rgb": 878982
+      }
+    },
+    {
+      "query": "tag:#refdoc OR tag:#plot-outline OR path:\"Chat Logs\" OR tag:#plot",
+      "color": {
+        "a": 1,
+        "rgb": 11155191
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -2,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 0.508333333333333,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.625,
+  "repelStrength": 11.25,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224449,
+  "scale": 0.7132754626224461,
   "close": true
 }
