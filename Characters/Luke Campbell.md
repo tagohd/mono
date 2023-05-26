@@ -1,5 +1,5 @@
 ---
-alias: hero, protagonist
+alias: hero, protagonist, Luke
 ---
 
 ## Luke's Theme?
@@ -10,7 +10,7 @@ His bond with [[Sam Ward|Sam]] is so strong that it allows him to track their SO
 **Plot:** Luke awakens in his house. He is a young man of average height, perhaps somewhat on the short side, and a bit scrawny. He’s not malnourished, per se, but he isn’t exactly musclebound, either. He gets dressed, heads outside, and picks some tulips from the garden. It’s a beautiful day outside. He goes to the neighboring house, knocks on the door, and asks for Sam.
 
 ## Various Luke Characterizations
-Main idea: Luke was fully aware the Orb was made of chocolate and wanted to eat it from the start
+Main idea: Luke was fully aware [[CURSED AL'S CURSED ORB|the Orb]] was made of chocolate and wanted to eat it from the start
 
 - As the middle way between dogs and humans, dog people are very intolerant to chocolate, but don’t die from it (unless they eat a ton maybe). 
 - Because of this, some more reckless dog people (deople?) want to eat chocolate even more as it is the forbidden snack
