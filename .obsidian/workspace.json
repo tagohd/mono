@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Boringsville.md",
+                "file": "Characters/All Characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Boringsville.md",
+                "file": "Characters/All Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Boringsville.md",
+                "file": "Characters/All Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Boringsville.md"
+                "file": "Characters/All Characters.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,12 +148,27 @@
   },
   "active": "e159e827797dc04a",
   "lastOpenFiles": [
-    "Places/Boringsville.md",
-    "Places/CURSED AL'S CURSED DOMAIN.md",
-    "ACT I. DEPARTURE/5 - Belly of the Whale.md",
+    "Characters/The Dragon.md",
+    "Places/Plata/The Old Silver Mine.md",
+    "Characters/All Characters.md",
+    "Characters/Bering Strait Grigori.md",
+    "Characters/Case Weston.md",
+    "Characters/CURSED AL.md",
+    "Characters/James Redawić.md",
+    "Characters/Luke's Noble Steed.md",
+    "Resources/sudorimeTurbo3000.png",
+    "Resources/A Losing Proposition.png",
+    "Places/Genton.md",
+    "Characters/Luke Campbell.md",
     "Characters/Sam Ward.md",
-    "The Story So Far.md",
+    "Places/Plata/Plata.md",
+    "Places/CURSED AL'S CURSED DOMAIN.md",
+    "Places/Plata",
     "The Beginning.md",
+    "Places/Boringsville.md",
+    "New Text Document.txt",
+    "ACT I. DEPARTURE/5 - Belly of the Whale.md",
+    "The Story So Far.md",
     "Places/Rhapsody.md",
     "README.md",
     "SOUL.md",
@@ -160,19 +176,7 @@
     "Magic.md",
     "End of Journey.md",
     "CURSED AL'S CURSED ORB.md",
-    "Characters/All Characters.md",
     "ACT III. RETURN/17 - Freedom to Live.md",
-    "ACT I. DEPARTURE/4 - The Crossing of the First Threshold.md",
-    "ACT I. DEPARTURE/3 - Supernatural Aid.md",
-    "ACT I. DEPARTURE/2 - Refusal of the Call.md",
-    "ACT I. DEPARTURE/1 - The Call to Adventure.md",
-    "Chat Logs/2020 Chat Logs/(12) December 2020 Chat Logs.md",
-    "Chat Logs/2022 Chat Logs/(9) September 2022 Chat Logs.md",
-    "Chat Logs/2023 Chat Logs/(5) May 2023 Chat Logs.md",
-    "Chat Logs/2023 Chat Logs/(4) April 2023 Chat Logs.md",
-    "Chat Logs/2021 Chat Logs/(4) April 2021 Chat Logs.md",
-    "Chat Logs/2021 Chat Logs/(3) March 2021 Chat Logs.md",
-    "Chat Logs/2023 Chat Logs/(2) February 2023 Chat Logs.md",
     "Resources/case_weston.jpg",
     "Resources/the dog absorbed the.gif",
     "Resources/starship_troopers.gif",
@@ -181,8 +185,6 @@
     "Resources/various_lukes_cropped.jpg",
     "Resources/various_lukes.png",
     "Resources/rhapsody_art4.png",
-    "Resources/rhapsody_art2.png",
-    "Resources/rhapsody_art1.png",
     "Chat Logs/2023 Chat Logs",
     "Chat Logs/2022 Chat Logs",
     "Chat Logs/2020 Chat Logs",
@@ -191,8 +193,6 @@
     "Resources/AbletonTmp-0000",
     "Chat Logs/2021 Chat Logs",
     "Chat Logs",
-    "ACT III. RETURN",
-    "ACT II. INITIATION",
     "ACT I. DEPARTURE/Untitled.canvas"
   ]
 }
