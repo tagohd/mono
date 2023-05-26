@@ -37,14 +37,17 @@
 - He shows up near the end of Act I, first as an antagonist and later as a love interest?
 	- Maybe it's one-sided. However, Luke *does* have two hands...
 - Nicholas D. Wolfwood. He's Nicholas D. Wolfwood.
+	- He's not a wolf, though. That would be too obvious.
 
 ## [[The Emperoress]]
 - The one actually pulling all the strings
-- The genderfluid master of CURSED AL
+- The bigender/genderfluid master of CURSED AL
+	- Many believe they're two separate people
 - Possibly the same as [[The Dragon]]
 
 ## [[The Dragon]]
 - You'd think this is the true main antagonist, but she's actually [[(12) December 2020 Chat Logs#^8a0296|super chill]]
+- Tragically in love with Pauline, the horse
 
 ## [[Luke's Noble Steed|Pauline]]
 - Luke's noble steed
