@@ -27,6 +27,8 @@ lunathrix:
 sudoscience:
 >Well, the knight is probably the villain from the dragon's perspective, at least. Or maybe it's a really chill dragon, and the knight is just attacking it for no reason? Maybe the knight wants revenge but is attacking the wrong dragon? Idk
 
+^8a0296
+
 lunathrix:
 >Ok but that "knight attacking the wrong dragon" is hilarious. Imagine a knight on this giant quest for vengeance, finally coming face to face with the dragon after years of tracking it down, and it's just like "Bro... you got the wrong guy. Rektar the Terrible attacked your town and ate your family. I'm Lisa the Puppysaver. I'm literally vegan. Sorry for your loss though".
 

@@ -125,7 +125,7 @@ L:
 
 S:
 >Of course. It's your sacred duty
->It is actually giving me an idea. Not sure yet how it will translate into music. "James Still Remembers You". For some reason, I always thought the "You" was referring to Luke, but what if it's actually referring to Al?
+>It is actually giving me an idea. Not sure yet how it will translate into music. "James Still Remembers You". For some reason, I always thought the "You" was referring to [[Luke Campbell|Luke]], but what if it's actually referring to Al?
 >![[big_gay_crybaby.png]]
 >I'm just going to hope that picture conveys what I mean
 
@@ -138,4 +138,5 @@ S:
 L:
 >EXCELLENT. TRULY EXCELLENT.
 
-#general #cursed-al #cursed-domain #james-redawic #boring-straight-greg
+#general #cursed-al #cursed-domain #james-redawic #boring-straight-greg 
+#james-still-remembers-you 
