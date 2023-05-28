@@ -365,4 +365,182 @@ L:
 S:
 >If it's supposed to be based on the monomyth, it's fitting that it would be reminiscent of many other stories
 
+# 2023-05-26
+
+S:
+> Oh, what did you think of the pull requests?
+
+L:
+> oh, didnt look at that yet
+> i was still thinking about the horse situation
+> pauline...
+
+S:
+>F
+
+L:
+>oh the old mentor being really laconic until you talk about his obsession is very cute
+
+S:
+> Now that I think about it, that might be hard to write. I don't know shit about mines
+
+L:
+>i can write stuff about minerals?
+
+S:
+>Except don't dig straight down
+>And don't waste your diamonds on a hoe
+
+L:
+>diamond hoe squad unite and smite this heathen\
+>oh also
+>![[Chat20230526-1.png]]
+>BLOND?!
+
+S:
+>I might be colorblind
+>He doesn't have to blond
+
+L:
+>light brown?
+
+S:
+>I'm not actually colorblind (I think). I just wasn't looking at the picture when I wrote that
+
+L:
+>this could generate a whole lore section on hair dye, though
+
+S:
+>There's a thriving wig industry
+
+L:
+>a great alternative
+
+S:
+>Between being short and not blond, he's not really going to look a lot like Vash. He's just going to have a similar personality
+>Maybe he has a sick red coat, though
+>Which he obviously acquires later
+>Because he doesn't have a coat in any of the other pictures
+
+L:
+>im currently doing the lineart for luke and i almost had a heart attack
+>do you want him to look cuter and less evil btw?
+>im at the face
+
+S:
+>He can be a little evil. As a treat
+
+L:
+>yippie!!
+
+S:
+>But he does need to be less evil than he currently is
+>Devious, perhaps, more so than evil
+
+L:
+>i tried lowering the evil%
+
+S:
+>Oh, but speaking of fucked up and evil guys, I think you missed my question about the spookiest animal-person you're comfortable drawing. Or I missed your answer
+
+L:
+>i didnt miss it, i just completely forgot about it
+>if you want spooky i can do spooky
+>i dont mind spooky at all
+
+S:
+>But I mean, are there any hybrids you're not willing to draw? Since I know you're drawing the line at furries
+>Or is it just "no snoots"
+>Like no capes
+>I'm guessing beaks are probably also out of the question?
+
+L:
+>birds are my favorite animals (also to draw), so beaks i feel pretty comfortable with
+
+S:
+>You can't just draw everyone at a slight angle so you're not drawing the snoot head-on?
+
+L:
+>that is a possible duct-tape fix for the anatomical part, but i also just vastly prefer drawing humans over furries
+
+S:
+>I mean, you're already doing the line art, so don't feel like you need to completely change it now
+>Fair
+
+L:
+>i dont mind having a few characters going more to the furry side of things, but the protagonist is the one ill have to draw the most
+>so i want him to be fun to draw
+>well, for me
+
+S:
+>Oh, for sure. Definitely want it to be fun for you, too
+>So it's some fucked up world where people and furries can interbreed, and then their children are hybrids
+>Got it
+>Maybe Luke's mom is human and his dad is an anthro dog
+>Or vice versa
+
+L:
+>that wasnt exactly what i had in mind but i cant really object, that is the most likely explanation to a difference in furry%
+
+S:
+>Yeah, maybe funnier the one way around, then he's literally a son of a bitch
+>Maybe that's just not an insult there. Feels kinda racist
+
+L:
+>we keep that pun for the end of the game
+>![[weird_bird.png]]
+>here's my entry to the "can you draw a fucked up bird hybrid"
+
+S:
+>That's pretty fucked up, alright
+>In a good way
+
+L:
+>i dare say hes fucked up in a rather bad way
+
+\[...\]
+
+L:
+>been a while i stayed up way too late cause im too invested in my drawing
+>![[rhapsody art luke less evil.png]]
+>i have orange-sized the orb
+>pretty much all thats left is the text, trying out windows on the bg and some more polish
+>oh wait, i made the orb glow again
+>forgot it was an orange for a second
+
+S:
+>No, see, it's misdirection. It glows and it even plays the little "you just got a super duper special item" jingle when you acquire it. And then you take it back to James and he's just like
+>![[picard facepalm.jpg]]
+>But, really, it looks great!
+>And yeah, far be it from me to tell you how to live your life, but you should probably go to sleep
+>Isn't it like 01:30?
+
+L:
+>it sure is!
+>but you made me a scene i have to draw really quickly to get the point across
+>made me remember*
+>boy i sure am getting tired
+
+S:
+>Now I need to write "Fanfare for a Super Duper Special Item"
+>Or really any of the short musical cues that videos game have
+
+L:
+>![[luke dumbass.png]]
+>HERE WE GO
+
+S:
+>I'm not sure I get it. The hot rival knows Luke is grabbing the wrong orb?
+>Is that what's going on?
+
+L:
+>yes, but mostly that the real orb was in plain vision of luke just offscreen for the player
+>and very much clearly The Actual Orb
+
+S:
+>Lol
+
+L:
+>im glad i have transferred t his idea
+
 #general #cursed-al #the-orb #strfs #boring-straight-greg #luke-campbell #the-horse #the-dragon #the-emperoress #plot-ideas #character-ideas 
