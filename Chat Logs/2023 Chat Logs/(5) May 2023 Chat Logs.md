@@ -367,6 +367,7 @@ S:
 
 # 2023-05-26
 
+## Luke Can Be A Little Evil, As A Treat
 S:
 > Oh, what did you think of the pull requests?
 
@@ -500,6 +501,7 @@ L:
 
 \[...\]
 
+## Behold, THE ORBNGE
 L:
 >been a while i stayed up way too late cause im too invested in my drawing
 >![[rhapsody art luke less evil.png]]
