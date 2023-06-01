@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#unanswered-questions OR tag:#stub",
@@ -25,6 +25,6 @@
   "repelStrength": 11.25,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224466,
-  "close": false
+  "scale": 0.7132754626224469,
+  "close": true
 }

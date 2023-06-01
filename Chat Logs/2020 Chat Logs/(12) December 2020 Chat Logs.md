@@ -42,7 +42,7 @@ L:
 >By the by, do you have any idea for how you would call your first album?
 
 S:
->I have several ideas, actually. If I was sticking with the hero's journey thing, my original plan was to split it into 3 EPs and name them after the 3 acts of [[README|the hero's journey]]: Departure, Initiation, and Return. Then the whole album would be called MONO, but it would just be all 3 EPs in one album. The problem there is that the songs I've written so far aren't necessarily all from the same "act".
+>I have several ideas, actually. If I was sticking with the hero's journey thing, my original plan was to split it into 3 EPs and name them after the 3 acts of [[README#The Hero's Journey|the hero's journey]]: Departure, Initiation, and Return. Then the whole album would be called MONO, but it would just be all 3 EPs in one album. The problem there is that the songs I've written so far aren't necessarily all from the same "act".
 >If I published the 6 songs I have now, I'd probably call it "The [[James Redawić|James]] EP", since most of the songs borrow melodies from "James Still Remembers You". I might also just name it after one of the tracks, probably either "James Still Remembers You" or "A Losing Proposition".
 >The other problem is that I've been thinking I should probably write a few more songs first. The copyright office will let me register up to 10 unpublished songs in a single application for $85, so I figure I should write 4 more songs to get my money's worth. If they're already published, it's $45/song.
 
