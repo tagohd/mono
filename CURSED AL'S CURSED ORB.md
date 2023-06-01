@@ -14,4 +14,4 @@ Anyway, here's part of a song that might play when you're in the vicinity of THE
 ![[Power.mp3]]
 It also plays when you acquire THE ORANGE. I say "part of a song" because I want to add some more stuff to it, like a violin perhaps. Maybe you only hear this part when you get THE ORANGE, and you get to hear the whole song when you acquire THE ORB. Though if this were a real game, I'd imagine most players likely wouldn't hear the whole song; it will probably end up being much longer than the scene in which it plays.
 
-#general #the-orb #luke-campbell #cursed-al #case-weston #items
+#general #the-orb #luke-campbell #cursed-al #case-weston #items #unanswered-questions 

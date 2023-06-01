@@ -7,4 +7,4 @@ What draws people to Al? Not what makes someone willing to forfeit their SOUL, b
 ![[weird_bird.png]]
 CURSED AL maybe?
 
-#character #cursed-al #the-cursed-one
+#character #cursed-al #the-cursed-one #unanswered-questions 

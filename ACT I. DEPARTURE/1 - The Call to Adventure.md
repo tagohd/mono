@@ -6,4 +6,4 @@ How does Luke learn he is THE CHOSEN ONE? People have been going missing. [[Sam 
 
 See also: [[The Beginning]]
 
-#general #act-1 #luke-campbell #sam-ward #cursed-al #plot-outline 
+#general #act-1 #luke-campbell #sam-ward #cursed-al #plot-outline #unanswered-questions 

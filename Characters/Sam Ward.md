@@ -1,7 +1,7 @@
 ---
 alias: Sam
 ---
-## Sam, THE INNOCENT ONE
+# Sam, THE INNOCENT ONE
 Love interest for [Luke](Luke%20Campbell.md).
 
 (Note 2023-05-21: I really haven’t written much about Sam. All that’s been decided so far is that they’re nonbinary, and their [[SOUL]] has been taken by [[CURSED AL]].)
@@ -13,7 +13,7 @@ How old are they? What do they look like? What's their personality? Why does Luk
 
 What are some things that would remind Luke of Sam? And are they directly connected to Sam (i.e. something they actually owned), or is it just like, "These are Sam's favorite flowers"? Maybe Sam is also very fond of [[CURSED AL'S CURSED ORB|chocolate oranges]]?
 
-## Appearance
+# Appearance
 
 * They're about Luke's age, so... 16-17? (I haven't really decided how old Luke is, either.)
 * They're taller than [[Luke Campbell|Luke]]. In addition to being kind and dumb, Luke is also smol, so most people are taller than him, actually.
@@ -21,4 +21,4 @@ What are some things that would remind Luke of Sam? And are they directly connec
 * Do they *really* need saving from CURSED AL? Maybe they're more capable than Luke thinks.
 * Or maybe (dun DUN DUNNN), getting captured was their plan all along!!! (Big maybe)
 
-#character #sam-ward #stub 
+#character #sam-ward #unanswered-questions 

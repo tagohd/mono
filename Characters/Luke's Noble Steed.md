@@ -6,4 +6,4 @@ A bay mare named Pauline. A good, reliable horse, but just a normal horse noneth
 
 [[The Dragon|Edna]] is in love with her, but she can't reciprocate because she's a horse.
 
-#character #the-horse #ma-and-pa-campbell #luke-campbell #the-dragon 
+#character #the-horse #ma-and-pa-campbell #luke-campbell #the-dragon #unanswered-questions 
