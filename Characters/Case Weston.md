@@ -7,4 +7,6 @@ Another person trying to obtain [[CURSED AL'S CURSED ORB]] in the city of [[Rhap
 ![[case_weston.jpg]]
 Wolfwood == Case, Vash == Luke
 
+Maybe instead of meeting Luke in Rhapsody, he works at [[The Old Silver Mine]] for [[James Redawić|James]], or is otherwise another apprentice of James.
+
 #character #case-weston

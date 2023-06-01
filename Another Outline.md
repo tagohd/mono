@@ -1,6 +1,6 @@
 #general #plot-outline #act-1 #luke-campbell #sam-ward #james-redawic #cursed-al #the-orb #the-horse #the-dragon #the-old-mine #genton #ma-and-pa-campbell #rhapsody 
 # Act I
-## [[1 - The Call to Adventure]]
+## [[1.1 The Call to Adventure]]
 ### EXT. [[Genton|GENTON]]
 
 **[[Luke Campbell|LUKE]]:** Hey, there's some weird shit going down in town, and now [[Sam Ward|my best friend]] is missing. What can I do?
@@ -33,7 +33,7 @@
 
 \[...\]
 
-## [[2 - Refusal of the Call]]
+## [[1.2 Refusal of the Call]]
 ### INT. JAMES'S HOUSE
 
 **JAMES:** My gods... So it's true. CURSED AL has returned.
@@ -103,7 +103,7 @@
 
 **LUKE:** ...Fine.
 
-## [[3 - Supernatural Aid]]
+## [[1.3 Supernatural Aid]]
 ### EXT. OUTSIDE OF PLATA
 **JAMES:** Okay, here's a sword. If that doesn't work, I also have this gun.
 
