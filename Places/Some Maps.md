@@ -13,6 +13,8 @@ Not sure if I'll actually use these, but here are some maps from back when I int
 
 Anyway, maps:
 
+Let's just edit this file real quick to make sure Obsidian Git is working.
+
 # MAPS!
 ## A Robinson Projection with Continents Labeled
 ![[Medari Robinson Labels.png]]
