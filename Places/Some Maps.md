@@ -41,6 +41,7 @@ Blue currents are cold. Red currents are warm.
 ![[Medari Wind Patterns.png]]
 Again, my sincere apologies if you're red-green colorblind. I don't remember what the red and green bands represent. They seem to roughly correspond to the tropics and... whatever the opposite of that is. You'll notice that I did account for the Coriolis effect.
 Lunsays:: They're convection cells! :D
+Sudosays:: Neat!
 
 ## A Very Ugly Map Combining Climates, Wind Patterns, and Ocean Currents
 ![[Medari Climates.png]]
