@@ -15,7 +15,7 @@ L:
 >hohoho I am part of the exclusive cool club now
 >sounds cool!
 >not at all upbeat as you said
->more of a [[9 - Atonement with the Father|"Father... I will avenge you..."]] kinda song
+>more of a [[2.4 Atonement with the Father|"Father... I will avenge you..."]] kinda song
 
 S:
 >Yeah, it was more just, "Hey, this is cool! I can't use this here, but I should definitely save it for later.^[Hey, what do you know?]"

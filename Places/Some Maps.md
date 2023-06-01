@@ -1,3 +1,4 @@
+#places #refdoc 
 # An abandoned WIP from ~9 years ago
 Not sure if I'll actually use these, but here are some maps from back when I interpreted "worldbuilding" a bit too literally. I'm not sure I have the accompanying lore anymore (it's probably _somewhere_, but I actually wrote it out by hand), but here's what I remember about them:
 

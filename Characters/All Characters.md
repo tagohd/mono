@@ -15,6 +15,7 @@
 - Main Antagonist
 - Unspeakably old (or maybe he's James's age?)
 - Species: spoopy (a raven, maybe?)
+- Has antlers though
 
 ## [[James Redawić]]
 - Mentor to Luke
