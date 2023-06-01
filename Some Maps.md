@@ -1,12 +1,14 @@
 # An abandoned WIP from ~9 years ago
 Not sure if I'll actually use these, but here are some maps from back when I interpreted "worldbuilding" a bit too literally. I'm not sure I have the accompanying lore anymore (it's probably _somewhere_, but I actually wrote it out by hand), but here's what I remember about them:
 
-- I made them in 2014-15 for a D&D campaign that I was planning to DM. Unfortunately, the campaign never happened because I was too busy figuring out the **goddamn tectonic plates** of my world.
+- I made them in 2014-15 for a D&D campaign that I was planning to DM. Unfortunately, the campaign never happened because I was too busy figuring out the **goddamn tectonic plates** (and other minutiae) of my world.
 - The premise of the campaign had something to do with a race of fanatically religious bear-people. My thought process was roughly:
 	- The phrase "Does the pope shit in the woods?" is funny because it's a combination of "Is the pope Catholic?" and "Does a bear shit in the woods?"
 	- Logically, the counterpart to this question must be "Are bears Catholic?"
 	- $\therefore$ Bear Crusaders.
 	- I don't really remember anything else, but that's the definitely the most important part.
+
+(Hmmm... I see a slight problem here, actually. If the story doesn't take place on Earth, we're going to have to change [[Bering Strait Grigori|Bering Strait Grigori's]] name, given that there is no Bering Strait. Also, he's still a bear, but I don't think he's Catholic.)
 
 Anyway, maps:
 
