@@ -1,3 +1,4 @@
+#unanswered-questions 
 ![[The_Monomyth.jpg]]
 
 # Joseph Campbell
@@ -6,6 +7,13 @@ Copied from [Wikipedia](https://en.wikipedia.org/wiki/Hero%27s_journey) unless n
 ## Departure/Separation
 ### The Call to Adventure
 The hero begins in a situation of normality from which some information is received that acts as a call to head off into the unknown.
+
+#### MONO
+[[Luke Campbell]] is a fairly normal guy. He lives in a sleepy little farming town called [[Genton]], where he helps [[Ma & Pa Campbell|his parents]] out on their farm. (What do they grow? And if everyone's some kind of animal-person, do they still eat meat?) He's 16. He runs cross-country for his high school, and he hates it. He's never been particularly interested in sports, but given that Genton is a small, mostly rural town, high school football is kinda the main event; consequently, Luke doesn't fit in all that well.
+
+What would he rather do instead? Maybe he's more of a theater kid? Whatever it is, it's something he feels he can't do in Genton. (It might also be good if it's something that ends up being relevant to his quest.) Maybe he feels he just can't be himself here. (This is more just a side-effect of being 16. You might think because it's a farming town that Genton isn't very accepting, but they're actually quite progressive. I mean, they'd have to be if everyone in the story is queer, unless we're just saying only the main characters are queer.) I think his big thing is just that he wants to do something that feels meaningful. If he stays here in Genton, his options are basically: farmer or maybe mechanic.
+
+So, what's the call to adventure? He wakes up one morning, takes care of his farm chores, and goes next door to [[Sam Ward|Sam's]] house to run with them. Sam is also on the cross-country team, but they're actually into it. Actually, maybe they would be the one coming to Luke's house since Luke hates cross-country. (It probably goes without saying, but Sam is the only reason Luke joined the team.) So, when they don't show up to force Luke to exercise, Luke gets worried and goes over to their house to investigate. That's when he discovers that they've disappeared.
 
 ### Refusal of the Call
 Often when the call is given, the future hero first refuses to heed it. This may be from a sense of duty or obligation, fear, insecurity, a sense of inadequacy, or any of a range of reasons that work to hold the person in his current circumstances.
@@ -81,7 +89,7 @@ Luke refuses Kenobi, telling him that he can take Kenobi and the droids as far a
 ### Meeting with the Mentor
 The hero encounters a mentor that can give them advice, wisdom, information, or items that ready them for the journey ahead.
 
-\[Combined with "Call to Adventure".]
+\[Combined with "Call to Adventure"?]
 
 ### Crossing the (First) Threshold
 The hero leaves their ordinary world for the first time and crosses the threshold into adventure.
