@@ -1,5 +1,5 @@
 # All
 ```dataview
-TABLE file.cday AS "Last changed", Lunsays, Sudosays
-SORT file.cday DESC
+TABLE file.mtime AS "Last changed", Lunsays, Sudosays
+SORT file.mtime DESC
 ```
