@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# I'm so sorry... (makes all line endings the windows default)
+* text eol=lf

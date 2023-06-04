@@ -15,6 +15,17 @@ The Legendary Artifacts are objects [[Luke Campbell|Luke]] must retrieve on his 
 
 Yeah, okay, I think I'm going with the idea that they form SOUL AMPLIFIER for now. Of course, now I need to figure out what *that* does. But CURSED AL is trying to build one for... reasons. (If CURSED AL isn't the real Big Bad, then it may be likely that his reasons are inscrutable to mere mortals. He's merely carrying out the wishes of some eldritch being, and we all know eldritch beings love acting in ways humans can't even hope to comprehend.) Whatever his reasons, it's going to be very bad if he's successful.
 
+Lunsays:: Read this last!
+
+---
+Lun
+--
+Going yet even further on my [[Magic]] system, perhaps the Legendary Artifacts offer a way to more easily control the veil between planes, thereby allowing the caster to cast more powerful spells without repercussions. Collecting all of them and gaining total control over the veil would essentially make a mage all-powerful, assuming they have the skill to control large amounts of mana (to convert them into spells - otherwise the mana will still go boom). A mage like [[CURSED AL]] would definitely like their hands on these bad boys, perhaps one might even gain enough power to break a CURSE... (Or maybe he really wants to kill someone, like [[The Dragon]], assuming she also got his horse killed? Or maybe he wants to revive a certain someone (cough cough [[James Redawić|James]]))?
+
+For [[Luke Campbell|Luke]], collecting them might just expand his spell options, considering he's only a beginning mage and is mostly limited in what spells he can cast by the difficulty in stitching the veil.
+
+---
+
 # List of Legendary Artifacts
 
 | Artifact | Location | Purpose? |
@@ -23,4 +34,4 @@ Yeah, okay, I think I'm going with the idea that they form SOUL AMPLIFIER for no
 
 #items #legendary-artifact #the-orb #soul-amplifier #soul #luke-campbell #cursed-al #unanswered-questions #rhapsody 
 
-Sudosays:: If it's linked, do I really need to tag it?
+Sudosays:: If it's linked, do I really need to tag it? (L: not really!)
