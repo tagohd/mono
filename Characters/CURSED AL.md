@@ -22,7 +22,7 @@ Going off the above and the ideas in [[Magic]], [[The Legendary Artifacts]], and
 
 Oh, also, maybe he put himself into some sort of stasis dimension while he was working this out. So he just kinda disappeared for who knows how long before suddenly reemerging shortly before James was fated to die. Maybe he thought it would work like this:
 %%
-Sudosays:: BIG changes here. Also, look! I made a flowchart! TWO flowcharts! Please look at my flowcharts! (#1)
+Sudosays: BIG changes here. Also, look! I made a flowchart! TWO flowcharts! Please look at my flowcharts! (#1)
 %%
 ```mermaid
 flowchart TB
@@ -75,13 +75,14 @@ Also, he is the only one allowed to call James "Jimmy". ^b26734
 
 %%
 Lunsays:: Holy shit, you can make flowcharts with Obsidian? That's awesome I'm definitely using that thanks. Also I really like the idea of combining souls to handle more mana.
+Sudosays:: Thank you for looking at my flowcharts
 %%
 
 ---
 Considering he's _preparing_ to cast a big fucko spell with this new addition (and has not yet cast it), what caused AL to become CURSED? His time in the stasis dimension thing? Or is he Just Like That.
 
 ---
-
+Maybe the real curse was all the friends we made along the way. Wait, no, that's not right. I'll come back to you on that.
 
 
 #character #cursed-al #the-cursed-one #unanswered-questions 

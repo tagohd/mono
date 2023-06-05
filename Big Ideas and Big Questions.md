@@ -12,6 +12,7 @@ Not what's the plot. What's it *about*?
 I don't know if I can answer that yet...
 
 [Lun]: Currently, it seems like some recurring themes are sacrifice and love? AL wants to sacrifice the universe to be with James, James want to sacrifice Luke to protect the universe, and Luke is kind of sacrificing himself to find Sam (though he might not see it in that way, or realize it at least). Also, friendship, of course. Oh, also, maybe solitude? A big motivation for AL is not wanting to live along (without James), the story starts of with Luke finding that Sam is missing, and most important of all it fits really well with the title: The greek word μόνος (monos) means "alone" after all
+[Sudo]: That last one is an excellent point that I hadn't considered, but it's a very convenient coincidence.
 
 ## Themes according to [[(6) June 2023 Chat Logs]]
 - The existence of fate, and the inevitability thereof
@@ -22,7 +23,7 @@ I don't know if I can answer that yet...
 [Lun]: Don't forget about people being idiots!
 
 %%
-Sudosays:: We're getting meta up in here...
+Sudosays:: I have responded
 %%
 
 #general #luke-campbell #cursed-al #unanswered-questions 
