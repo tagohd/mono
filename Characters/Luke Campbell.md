@@ -38,7 +38,7 @@ Maybe he has to go into hiding and he changes his name to this at some point?
 
 # Not really THE CHOSEN ONE
 %%
-Sudosays:: Big changes here (#2)
+Sudosays:: I have responded
 %%
 Adapted from [[(6) June 2023 Chat Logs#^aecda7|(6) June 2023 Chat Logs]]:
 
@@ -54,5 +54,7 @@ And he's not even lying. Anyone can use any type of [[Magic#^03cfb6|magic]]. The
 I'm sure this represents *some* step on the Hero's Journey, but I'm not sure which one (probably "[[2.4 Atonement with the Father]]"). I just realized the *Star Wars* comparison I referenced in the [[README]] is only about *A New Hope* and not the entire trilogy; this is obviously more like *The Empire Strikes Back*.
 
 [Lun]: James is kind of a bitch for this one, but I guess that be how it be sometimes
+[Sudo]: Yeah, I'm going to have to come up with some excuse for why he can't just go and do it himself. Maybe he's too busy running the museum?
+[Sudo]: Too busy to save the fucking universe? Yeah, I don't think that's gonna fly. But I should probably put this in James's note and not Luke's.
 
 #character #luke-campbell 

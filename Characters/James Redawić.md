@@ -26,9 +26,12 @@ Or maybe CURSED AL is manipulating James into manipulating Luke? James knows whe
 [Sudo]: "Oh, pwease don't destwoy us, Mr. Wizard! Think about all the weally cool spells you could cast with us!"
 [Sudo]: And James is like, "Hmmm, that's a good point."
 
+### Why doesn't James just get the Artifacts himself?
+![[uhhh.jpg]]
+
 # James Still Remembers You
 ![[3 - James Still Remembers You.mp3]]
 See: [[(2) February 2023 Chat Logs#The Most Important Change I've Made|The Most Important Change I've Made]]
 
 
-#character #james-redawic #james-still-remembers-you #bering-strait-grigori #plata 
+#character #james-redawic #james-still-remembers-you #bering-strait-grigori #plata #unanswered-questions 
