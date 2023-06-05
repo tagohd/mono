@@ -1,6 +1,7 @@
 ---
 alias: James
 ---
+![[wizard that knows fuck all.jpg]]
 # James, THE DARK MAGICIAN
 Perhaps he meddled with something he shouldn’t have and released [[CURSED AL]] from his prison. Former lover of Al?
 

@@ -36,7 +36,7 @@ Maybe he has to go into hiding and he changes his name to this at some point?
 
 # Not really THE CHOSEN ONE
 %%
-Sudosays:: Big changes here (2)
+Sudosays:: Big changes here (#2)
 %%
 Adapted from [[(6) June 2023 Chat Logs#^aecda7|(6) June 2023 Chat Logs]]:
 

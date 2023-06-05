@@ -26,7 +26,7 @@ Going off the above and the ideas in [[Magic]], [[The Legendary Artifacts]], and
 
 Oh, also, maybe he put himself into some sort of stasis dimension while he was working this out. So he just kinda disappeared for who knows how long before suddenly reemerging shortly before James was fated to die. Maybe he thought it would work like this:
 %%
-Sudosays:: BIG changes here. Also, look! I made a flowchart! TWO flowcharts! Please look at my flowcharts! (1)
+Sudosays:: BIG changes here. Also, look! I made a flowchart! TWO flowcharts! Please look at my flowcharts! (#1)
 %%
 ```mermaid
 flowchart TB
