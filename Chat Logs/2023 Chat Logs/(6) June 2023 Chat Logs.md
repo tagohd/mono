@@ -1,3 +1,6 @@
+---
+tags: general, plot-ideas, character-ideas
+---
 # 2023-06-03
 S:
 >![[samus aran.png]]
@@ -28,14 +31,14 @@ S:
 
 L:
 >you were thinking about what assembling the cursed objects achieved
->why not an orbital cannon
+>why not [[SOUL AMPLIFIER|an orbital cannon]]
 >i have no idea this is like the fifth result on google images
 
 # 2023-06-04
 
 L:
 >oh btw
->im currently writing about a magic system i thought off
+>im currently writing about a [[magic]] system i thought off
 >maybe it'll fit in mono
 
 S:
@@ -98,7 +101,7 @@ L:
 \[...\]
 
 S:
->Alright, but just one more thing. For some reason I am imagining the mana plane being like this:
+>Alright, but just one more thing. For some reason I am imagining the [[mana]] plane being like this:
 >![[fma truth.jpeg]]
 >Or maybe like this:
 >![[squidward.png]]
@@ -109,19 +112,19 @@ L:
 S:
 >I'll try to keep that in mind, but something about meddling with the primal forces of nature to resurrect a dead loved one is giving me some strong Fullmetal Alchemist vibes
 >
->Oh, wait. There's a thought. James is still alive at the beginning of the story, but AL is already trying to build the SOUL AMPLIFIER to resurrect him. Maybe that ties into the cyclical nature of things. And also the idea I had at the very beginning of things that James was predestined to die
+>Oh, wait. There's a thought. [[James Redawić|James]] is still alive at the beginning of the story, but [[CURSED AL|AL]] is already trying to build the [[SOUL AMPLIFIER]] to resurrect him. Maybe that ties into the cyclical nature of things. And also the idea I had at the very beginning of things that James was predestined to die
 >
 >Maybe AL knows he can't prevent James from dying, so he's trying to resurrect him after the fact
 >And AL is so obsessed with this idea that it leads to their breakup, even though he's (ostensibly) doing it out of love for James
 >
 >AL's like, "I love you so much that I would tear apart the fabric of the universe to keep you with me", but James is like, "AL, you idiot, we *live* in the universe!"
 >
->And there's another potential FMA parallel: the SOUL AMPLIFIER is kinda like the giant transmutation circle, and it's going to draw on the power of everyone's SOULS.
+>And there's another potential FMA parallel: the SOUL AMPLIFIER is kinda like the giant transmutation circle, and it's going to draw on the power of everyone's [[SOUL|SOULS]].
 >
->And CURSED AL is after Sam because they're a ginger and therefore don't have a SOUL, so he's going to, like, focus the power of everybody's SOULS onto them and use them as a vessel or something
+>And CURSED AL is after [[Sam Ward|Sam]] because they're a ginger and therefore don't have a SOUL, so he's going to, like, focus the power of everybody's SOULS onto them and use them as a vessel or something
 >Is that racist?
 >
->But what makes Luke special? Why is he THE CHOSEN ONE? He's not, actually. There is no CHOSEN ONE. James just says that to everyone. The only thing that makes Luke special is that he was stupid enough to actually believe James
+>But what makes [[Luke Campbell|Luke]] special? Why is he THE CHOSEN ONE? He's not, actually. There is no CHOSEN ONE. James just says that to everyone. The only thing that makes Luke special is that he was stupid enough to actually believe James
 >
 >This could also set up something of a "No, I am your father" moment when Luke first confronts AL. AL just wipes the floor with Luke (maybe it's one of those scripted battles where you're supposed to lose), and Luke says something like, "How could I have lost? I thought I was THE CHOSEN ONE." And AL's just like
 >![[queen of england.jpeg]]
@@ -138,8 +141,7 @@ S:
 >Anyway, I'm going to continue blowing up your DMs because I'm too cheap to pay $8/mo for Obsidian Sync and too lazy to figure out how to make obsidian-git work on my phone. Sorry for being weird about my OCs in your DMs. It will happen again.
 
 >So, themes of the story:
-- The existence of fate, and the inevitability thereof
-- Fucked up ideas of enlightenment
-- Gay furries go brrr
-- Wizard Divorce or: if two wizards were in the mana plane and one killed the other with a spell, would that be fucked up or what?
-
+>- The existence of fate, and the inevitability thereof
+>- Fucked up ideas of enlightenment
+>- Gay furries go brrr
+>- Wizard Divorce or: if two wizards were in the mana plane and one killed the other with a spell, would that be fucked up or what?
