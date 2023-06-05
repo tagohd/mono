@@ -112,7 +112,7 @@ S:
 ## He actually does look like a bitch
 
 S:
->Oh, wait, I just remembered... Didn't I say that in addition to everyone being queer, they're also all furries? Heh, maybe that's another reason Luke really shouldn't eat the chocolate orange: he's a dogboy
+>Oh, wait, I just remembered... Didn't I say that in addition to everyone being queer, they're also all furries? Heh, maybe that's another reason Luke really shouldn't eat the [[chocolate orange]]: he's a dogboy
 >Or maybe some kind of fox? But foxes are canids, so I'm assuming they probably can't eat chocolate either
 >Don't worry that chocolate is toxic to other animals, though. The rules only apply when they're funny
 

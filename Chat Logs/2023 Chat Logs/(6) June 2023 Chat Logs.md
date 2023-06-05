@@ -1,6 +1,6 @@
----
-tags: general, plot-ideas, character-ideas
----
+%%
+Sudosays:: A brand new article! (But you've probably seen most of it already...)
+%%
 # 2023-06-03
 S:
 >![[samus aran.png]]
@@ -101,7 +101,7 @@ L:
 \[...\]
 
 S:
->Alright, but just one more thing. For some reason I am imagining the [[mana]] plane being like this:
+>Alright, but just one more thing. For some reason I am imagining the [[Mana|mana]] plane being like this:
 >![[fma truth.jpeg]]
 >Or maybe like this:
 >![[squidward.png]]
@@ -135,6 +135,8 @@ S:
 >His curse is that he's allergic to electricity
 >And maybe he calls James "Jimmy"
 
+^aecda7
+
 \[...\]
 
 S:
@@ -144,4 +146,6 @@ S:
 >- The existence of fate, and the inevitability thereof
 >- Fucked up ideas of enlightenment
 >- Gay furries go brrr
->- Wizard Divorce or: if two wizards were in the mana plane and one killed the other with a spell, would that be fucked up or what?
+>- Wizard Divorce or: if two wizards were in the [[mana plane]] and one killed the other with a spell, would that be fucked up or what?
+
+#general #plot-ideas #character-ideas #place-ideas 

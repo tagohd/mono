@@ -9,6 +9,14 @@ Not what's the plot. What's it *about*?
 
 I don't know if I can answer that yet...
 
+## Themes according to [[(6) June 2023 Chat Logs]]
+- The existence of fate, and the inevitability thereof
+- Fucked up ideas of enlightenment
+- Gay furries go brrr
+- Wizard Divorce or: if two wizards were in the [[mana plane]] and one killed the other with a spell, would that be fucked up or what?
+
+%%
 Sudosays:: We're getting meta up in here...
+%%
 
 #general #luke-campbell #cursed-al #unanswered-questions 

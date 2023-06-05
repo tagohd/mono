@@ -28,10 +28,10 @@ For [[Luke Campbell|Luke]], collecting them might just expand his spell options,
 
 # List of Legendary Artifacts
 
-| Artifact | Location | Purpose? |
+| Artifact | Location | Purpose |
 |----------|----------|----------|
-| [[CURSED AL'S CURSED ORB]] | [[Rhapsody]] | ? |
+| [[CURSED AL'S CURSED ORB]] | [[Rhapsody]] | Refracts mana? Idk |
+| [[THE BLADE OF POWER]] | ? | Ya gotta stick it in something to start the AMP. Ideally into the sacrifice. |
+
 
 #items #legendary-artifact #the-orb #soul-amplifier #soul #luke-campbell #cursed-al #unanswered-questions #rhapsody 
-
-Sudosays:: If it's linked, do I really need to tag it? (L: not really!)
