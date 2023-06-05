@@ -34,6 +34,8 @@ Maybe he has to go into hiding and he changes his name to this at some point?
 # Luke's Theme?
 ![[The Chosen One.mp3]]
 
+[Lun]: ᕕ(⌐■_■)ᕗ ♪♬
+
 # Not really THE CHOSEN ONE
 %%
 Sudosays:: Big changes here (#2)
@@ -50,5 +52,7 @@ This could also set up something of a "No, I am your father" moment when Luke fi
 And he's not even lying. Anyone can use any type of [[Magic#^03cfb6|magic]]. There is nothing special about Luke. Of course, Luke only focuses on that second part, and he completely loses his self-confidence.
 
 I'm sure this represents *some* step on the Hero's Journey, but I'm not sure which one (probably "[[2.4 Atonement with the Father]]"). I just realized the *Star Wars* comparison I referenced in the [[README]] is only about *A New Hope* and not the entire trilogy; this is obviously more like *The Empire Strikes Back*.
+
+[Lun]: James is kind of a bitch for this one, but I guess that be how it be sometimes
 
 #character #luke-campbell 

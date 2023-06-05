@@ -17,7 +17,11 @@ Sudosays:: Important change here (3)
 
 He's manipulating Luke into defeating CURSED AL. I mean, you don't date a guy like CURSED AL if you're not at least a little evil yourself. (It wasn't an abusive relationship or anything, btw. They were just both evil.)
 
-Or maybe CURSED AL is manipulating James into manipulating Luke? James knows where [[The Legendary Artifacts]] because AL told him. James gives this information to Luke so that he can stop AL from making the [[SOUL AMPLIFIER]] (James does not want to live forever, especially if it means the destruction of the universe), but this does mean that Luke ends up making AL's job easier.
+[Lun]: Oh, that explains the "James is kind of a bitch" thing
+
+Or maybe CURSED AL is manipulating James into manipulating Luke? James knows where [[The Legendary Artifacts]] are because AL told him. James gives this information to Luke so that he can stop AL from making the [[SOUL AMPLIFIER]] (James does not want to live forever, especially if it means the destruction of the universe), but this does mean that Luke ends up making AL's job easier.
+
+[Lun]: Having someone collect all parts of some cursed machine to stop someone else from collecting them seems to indeed be quite the idiot move. Is James also dumb?  Or did Luke just misinterpret whatever James said and was then unable to get corrected after James fucking Died™
 
 # James Still Remembers You
 ![[3 - James Still Remembers You.mp3]]

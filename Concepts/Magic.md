@@ -36,7 +36,11 @@ Involves the [[SOUL]] somehow, hence the desire for the [[SOUL AMPLIFIER]]. (Sin
 ![[ohio.jpg]]
 (Did you know imgflip lets you upload your own fonts?)
 
+[Lun]: I didn't! Very cool!
+
 This isn't to say that only certain people can cast certain spells. It's just that certain spells come easier to you if your SOUL is the right "color". ^03cfb6
+
+[Lun]: I like the Mana-SOUL connection, but maybe this is just a bit too much uhhh "borrowing" from undertale? Maybe people can train their SOUL to better resonate with certain mana (which would translate to like leveling a skill tree in game) rather than it being a born trait? Or maybe it doesn't work like an amplifier at all, but instead works like kind of a Mana-container you can fill by poking rifts between the realms and thereafter use it to cast a spell? In which case it functions like kind of a classic Mana-bar, except that you charge it by poking holes in the veil between dimensions and that you have to immediately use all of the Mana you stored to cast a spell because storing pure, highly unstable energy in your body for a maintained duration is not the safest thing to do. So in essence it functions like a sort of Mana-stabilizer and converter.
 
 
 

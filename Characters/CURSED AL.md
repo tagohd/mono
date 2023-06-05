@@ -10,10 +10,6 @@ CURSED AL maybe?
 Voice: he sounds like Michael McKean as Chuck McGill.
 >I am not ~~crazy~~ cursed! I know he swapped those numbers. I knew it was 1216. One after Magna Carta. As if I could ever make such a mistake. Never. Never! I just - I just couldn't prove it. He covered his tracks, he got that idiot at the copy shop to lie for him. You think this is something? You think this is bad? This? This chicanery? He's done worse. That billboard! Are you telling me that a man just happens to fall like that? No! *He* orchestrated it! [[CURSED AL#^b26734|Jimmy]]! He *defecated* through a *sunroof*! And I saved him! And I shouldn't have. I took him into my own firm! What was I *thinking*? He'll never change. He'll *never* change! Ever since he was 9, *always* the same! Couldn't keep his hands out of the cash drawer! "But not our Jimmy! Couldn't be precious *Jimmy*!" Stealing them blind! And *HE* gets to be a ~~lawyer~~ wizard? What a sick joke! I should've stopped him when I had the chance!
 
-%%
-Lunsays:: Read this second!
-%%
-
 ---
 Lun
 --
@@ -76,5 +72,16 @@ flowchart TB
 ```
 
 Also, he is the only one allowed to call James "Jimmy". ^b26734
+
+%%
+Lunsays:: Holy shit, you can make flowcharts with Obsidian? That's awesome I'm definitely using that thanks. Also I really like the idea of combining souls to handle more mana.
+%%
+
+---
+Considering he's _preparing_ to cast a big fucko spell with this new addition (and has not yet cast it), what caused AL to become CURSED? His time in the stasis dimension thing? Or is he Just Like That.
+
+---
+
+
 
 #character #cursed-al #the-cursed-one #unanswered-questions 
