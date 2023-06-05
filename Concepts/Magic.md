@@ -27,7 +27,13 @@ This system has some of the following practical consequences:
 
 ---
 
+Involves the [[SOUL]] somehow, hence the desire for the [[SOUL AMPLIFIER]]. (Since I have yet to define what the SOUL is, maybe it doesn't make sense to amplify them; I might have to change the name later.) But maybe the SOUL acts like a lightning rod for mana, or the SOUL itself is the one doing the amplification. Maybe mana comes in a variety of wavelengths and each SOUL has a specific "resonant frequency", so to speak. If you want to cast a protection spell, you channel green mana; if you want to cast Magic Missile, you channel yellow mana; etc.
+
+![[ohio.jpg]]
+(Did you know imgflip lets you upload your own fonts?)
+
+This isn't to say that only certain people can cast certain spells. It's just that certain spells come easier to you if your SOUL is the right "color".
 
 
 
-#general #stub #concepts #magic 
+#general #concepts #magic #unanswered-questions 
