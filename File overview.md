@@ -1,3 +1,11 @@
+---
+number headings
+
+# All
+```dataview
+TABLE file.mday AS "Last changed", Lunsays, Sudosays
+SORT file.mtime DESC
+```
 # Changes
 Delete the tags when you've read the changes and they'll disappear from the tables. Or maybe we could have the tags #unseenBySudo and #unseenByLun, and we delete our respective tags when we've seen the changes?
 
@@ -36,10 +44,7 @@ FROM #trivialChange
 SORT file.mtime DESC
 ```
 
-# All
+# Files with Music
 ```dataview
-TABLE file.mday AS "Last changed", Lunsays, Sudosays
-FROM -#minorChange and -#majorChange and -#trivialChange
-WHERE file.mtime >= date(today) - dur(2 days)
-SORT file.mtime DESC
+LIST from #contains-music 
 ```
