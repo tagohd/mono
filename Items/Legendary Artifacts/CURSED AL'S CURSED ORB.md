@@ -19,7 +19,8 @@ If THE ORB is one of many (see: [[1.3 Supernatural Aid]]), what if more instrume
 ![[Power2.mp3]]
 
 %%
-Sudosays:: Hey, there's a new song here (it's not new anymore)
+Sudosays:: Added tag "contains-music"
+#trivialChange 
 %%
 
-#items #the-orb #luke-campbell #cursed-al #case-weston #unanswered-questions #legendary-artifact 
+#items #the-orb #luke-campbell #cursed-al #case-weston #unanswered-questions #legendary-artifact #contains-music 

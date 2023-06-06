@@ -1,3 +1,7 @@
+%%
+Sudosays:: Maybe they're like the Infinity Stones?
+#minorChange 
+%%
 # About
 The Legendary Artifacts are objects [[Luke Campbell|Luke]] must retrieve on his quest to defeat [[CURSED AL]].
 

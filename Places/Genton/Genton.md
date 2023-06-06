@@ -33,4 +33,9 @@ So, the "lore" here is that this is the theme of the protagonist's hometown. (Th
 
 That's kinda what I was trying to represent by having the instruments change. The broader idea here is that this is the soundtrack for an imaginary video game with a vaguely defined plot, so maybe it's a dynamic soundtrack and the instruments get replaced as you forge relationships with the other residents or rebuild the town or something. I think it makes more sense as separate tracks, but I spent longer than I should have working on this, so I'm just going to post this.
 
-#places #genton 
+%%
+Sudosays:: Added tags for Works Cited. Added tag "contains-music".
+#trivialChange 
+%%
+
+#places #genton #contains-music 

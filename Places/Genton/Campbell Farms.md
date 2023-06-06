@@ -7,4 +7,9 @@ What do they grow here? Moisture? #Cite/Movie/Star-Wars
 
 Maybe they're sheep herders? #Cite/Game/Mother3 
 
+%%
+Sudosays:: New note!
+#minorChange 
+%%
+
 #places #the-farm #unanswered-questions 

@@ -98,6 +98,7 @@ L:
 \[...\]
 %%
 Sudosays:: Links to Mana Plane instead of Mana
+#trivialChange 
 %%
 S:
 >Alright, but just one more thing. For some reason I am imagining the [[Mana Plane|mana plane]] being like this:

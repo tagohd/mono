@@ -20,7 +20,9 @@ And there's another potential FMA parallel: the SOUL AMPLIFIER is kinda like the
 And CURSED AL is after [[Sam Ward|Sam]] because they're a ginger and therefore don't have a SOUL, so he's going to, like, focus the power of everybody's SOULS onto them and use them as a vessel or something
 
 %%
-Sudosays:: I don't think tagging the same thing multiple times will really accomplish anything, but it does make it feel more like a citation
+Sudosays:: Added tags for Works Cited. Added information from Chat Logs.
+#minorChange 
+I don't think tagging the same thing multiple times will really accomplish anything, but it does make it feel more like a citation
 %%
 
  #items #soul #soul-amplifier #stub 

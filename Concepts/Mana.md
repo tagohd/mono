@@ -8,6 +8,7 @@ It exists in a separate plane to reality. [[Magic]] users pierce the veil betwee
 
 %%
 Sudosays:: Added tags for Works Cited
+#trivialChange 
 %%
 
 #general #concepts #mana #magic #stub #Cite/Movie/Star-Wars 

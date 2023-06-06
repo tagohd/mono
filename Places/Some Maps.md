@@ -1,4 +1,9 @@
 #places #refdoc 
+
+%%
+Sudosays:: Deleted some comments
+#trivialChange 
+%%
 # An abandoned WIP from ~9 years ago
 Not sure if I'll actually use these, but here are some maps from back when I interpreted "worldbuilding" a bit too literally. I'm not sure I have the accompanying lore anymore (it's probably _somewhere_, but I actually wrote it out by hand), but here's what I remember about them:
 
@@ -12,8 +17,6 @@ Not sure if I'll actually use these, but here are some maps from back when I int
 (Hmmm... I see a slight problem here, actually. If the story doesn't take place on Earth, we're going to have to change [[Bering Strait Grigori|Bering Strait Grigori's]] name, given that there is no Bering Strait. Also, he's still a bear, but I don't think he's Catholic.)
 
 Anyway, maps:
-
-Let's just edit this file real quick to make sure Obsidian Git is working.
 
 # MAPS!
 ## A Robinson Projection with Continents Labeled
@@ -41,9 +44,7 @@ Blue currents are cold. Red currents are warm.
 
 ## Prevailing Wind Patterns
 ![[Medari Wind Patterns.png]]
-Again, my sincere apologies if you're red-green colorblind. I don't remember what the red and green bands represent. They seem to roughly correspond to the tropics and... whatever the opposite of that is. You'll notice that I did account for the Coriolis effect.
-Lunsays:: They're convection cells! :D
-Sudosays:: Neat!
+Again, my sincere apologies if you're red-green colorblind. I don't remember what the red and green bands represent (convection cells). They seem to roughly correspond to the tropics and... whatever the opposite of that is. You'll notice that I did account for the Coriolis effect.
 
 ## A Very Ugly Map Combining Climates, Wind Patterns, and Ocean Currents
 ![[Medari Climates.png]]

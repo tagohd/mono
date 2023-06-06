@@ -23,6 +23,9 @@ What are some things that would remind Luke of Sam? And are they directly connec
 * On the cross-country team with Luke, except they actually enjoy it
 * Their lack of SOUL makes them a crucial component of CURSED AL's plan
 
-Sudosays:: Added some bits from the plot to here.
+%%
+Sudosays:: Added some bits from the plot to here, but nothing I haven't already said.
+#trivialChange 
+%%
 
 #character #sam-ward #unanswered-questions 

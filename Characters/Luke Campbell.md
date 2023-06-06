@@ -1,8 +1,8 @@
 ---
 alias: hero, protagonist, Luke
 ---
+#majorChange
 #Cite/Movie/Star-Wars
-#Cite/Lit/Hero-With-a-Thousand-Faces (That's where his name comes) 
 
 # Luke, THE RELUCTANT HERO
 His bond with [[Sam Ward|Sam]] is so strong that it allows him to track their SOUL to [[CURSED AL]]. Luke’s SOUL is also quite powerful itself, allowing him to use [[Magic]], but it’s his bond with Sam that truly gives him strength.
@@ -58,10 +58,11 @@ This could also set up something of a "No, I am your father" moment when Luke fi
 And he's not even lying. Anyone can use any type of [[Magic#^03cfb6|magic]]. There is nothing special about Luke. Of course, Luke only focuses on that second part, and he completely loses his self-confidence.
 
 I'm sure this represents *some* step on the Hero's Journey, but I'm not sure which one (probably "[[2.4 Atonement with the Father]]"). I just realized the *Star Wars* comparison I referenced in the [[README]] is only about *A New Hope* and not the entire trilogy; this is obviously more like *The Empire Strikes Back*.
+#Cite/Movie/Star-Wars 
 
 [Lun]: James is kind of a bitch for this one, but I guess that be how it be sometimes
 [Sudo]: Yeah, I'm going to have to come up with some excuse for why he can't just go and do it himself. Maybe he's too busy running the museum?
 [Sudo]: Too busy to save the fucking universe? Yeah, I don't think that's gonna fly. But I should probably put this in James's note and not Luke's.
 
 
-#character #luke-campbell 
+#character #luke-campbell #contains-music 

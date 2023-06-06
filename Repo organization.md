@@ -1,7 +1,11 @@
 ---
 number headings: auto, max 2
 ---
-Sudosays:: I installed a new plugin called "Number Headings"
+%%
+Sudosays:: I elaborated on my responses if you haven't already read them.
+Sudosays:: Also, I installed a new plugin called "Number Headings"
+#majorChange 
+%%
 
 # 1 Organization
 [Lun]: In order to not clutter files with Lunsays and Sudosays, maybe we should delete eachothers' comments after reading them? Their main function is just warning eachother of new stuff anyways. 

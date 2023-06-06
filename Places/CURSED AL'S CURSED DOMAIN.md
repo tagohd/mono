@@ -4,4 +4,9 @@ Where [[CURSED AL]] resides and where the final battle takes place (against him,
 
 A separate plane of reality?
 
-#places #cursed-domain #cursed-al #stub #cacd 
+%%
+Sudosays:: Added tag "contains-music".
+#trivialChange 
+%%
+
+#places #cursed-domain #cursed-al #stub #cacd #contains-music 

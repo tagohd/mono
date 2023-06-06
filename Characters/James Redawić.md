@@ -13,6 +13,7 @@ He's not necessarily rude, but he tends to be laconic, and he doesn't volunteer 
 ## The Enemy of My Enemy Is Not My Friend
 %%
 Sudosays:: I have responded.
+#majorChange 
 %%
 
 He's manipulating Luke into defeating CURSED AL. I mean, you don't date a guy like CURSED AL if you're not at least a little evil yourself. (It wasn't an abusive relationship or anything, btw. They were just both evil.)
@@ -37,4 +38,4 @@ Or maybe CURSED AL is manipulating James into manipulating Luke? James knows whe
 See: [[(2) February 2023 Chat Logs#The Most Important Change I've Made|The Most Important Change I've Made]]
 
 
-#character #james-redawic #james-still-remembers-you #bering-strait-grigori #plata #unanswered-questions 
+#character #james-redawic #james-still-remembers-you #bering-strait-grigori #plata #unanswered-questions #contains-music  
