@@ -2,6 +2,8 @@
 Location: SPACE
 Purpose: UNLIMITED POWER
 Description: Orbital Space Laser???
+OrderAcquired: 99
+IncludeInTable: True
 ---
 Gives the user's [[SOUL]] access to the \[\[BIG SHOT\]\] ability. (Not really. Probably.)
 #Cite/Game/Undertale (Okay, yes, that's Deltarune. But I don't see a need to distinguish them for this purpose.) %%[gameRefType:: Undertale/General]%%

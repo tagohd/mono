@@ -1,5 +1,8 @@
+---
+IncludeInTable: False
+---
 %%
-Sudosays:: Maybe they're like the Infinity Stones?
+Sudosays:: Maybe they're like the Infinity Stones? Also added DATAVIEW
 #minorChange #unseenByLun 
 %%
 # About
@@ -37,10 +40,13 @@ For [[Luke Campbell|Luke]], collecting them might just expand his spell options,
 
 # List of Legendary Artifacts
 
-| Artifact | Location | Purpose |
-|----------|----------|----------|
-| [[CURSED AL'S CURSED ORB]] | [[Rhapsody]] | Refracts mana? Idk |
-| [[THE BLADE OF POWER]] | ? | Ya gotta stick it in something to start the AMP. Ideally into the sacrifice. |
+```dataview
+TABLE WITHOUT ID
+file.link AS "Artifact", Description, Location, Purpose
+FROM "Items/Legendary Artifacts" WHERE IncludeInTable
+SORT OrderAcquired
+```
+
 
 
 #items #legendary-artifact #the-orb #soul-amplifier #soul #luke-campbell #cursed-al #unanswered-questions #rhapsody 
