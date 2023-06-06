@@ -2,7 +2,7 @@
 tags: refdoc
 ---
 
-There, now you can't say it's plagiarism.
+There, now you can't say it's plagiarism. (I don't think it really works that way.)
 
 # Games
 ## Chrono Trigger
