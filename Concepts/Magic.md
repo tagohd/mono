@@ -40,4 +40,4 @@ This isn't to say that only certain people can cast certain spells. It's just th
 
 [Sudo]: Oh, so we're just gonna steal from Hollow Knight instead? SOUL Vessels? (And you poke rifts between planes by attacking enemies?) But, yeah, whenever I suggest something that's just "blatant plagiarism of Undertale", I'm mostly joking. Mostly. (But really, it's more like a placeholder until I come up with something that's less "blatant plagiarism of Undertale".)
 
-#general #concepts #magic #unanswered-questions 
+#general #concepts #magic #unanswered-questions #Cite/Game/Undertale #Cite/Game/Hollow-Knight

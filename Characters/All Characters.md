@@ -1,12 +1,15 @@
+Sudosays:: Added tags for Works Cited
+
 # General Notes
 - Every character is queer (except for [[All Characters#Boring Straight Greg|Boring Straight Greg]]) and some sort of furry
 
 # Main
 ## [[Luke Campbell]]
+#Cite/Movie/Star-Wars (for the name)
 - Protagonist
 - Dogboy
 - 16-ish?
-- Imagine if Vash the Stampede were a short king. And a dogboy.
+- Imagine if Vash the Stampede were a short king. And a dogboy. #Cite/TV/Trigun98 
 	- Goofy blond guy that doesn't look like he could easily fuck you up, but he can. He just chooses not to.
 	- Tragic backstory?
 	- Also has a tendency to be put into Situations (TM)
@@ -15,7 +18,7 @@
 - Main Antagonist
 - Unspeakably old (or maybe he's James's age?)
 - Species: spoopy (a raven, maybe?)
-- Has antlers though
+- Has antlers though #Cite/TV/The-Owl-House
 
 ## [[James Redawić]]
 - Mentor to Luke
@@ -29,6 +32,7 @@
 	- They're already an absolute U N I T, but then you put them next to Luke, who is a smol bean, and they look even more massive
 	- Like, you look at them next to CURSED AL, and it's clear they could easily just snap him in half, but they're completely unaware of this
 		- I'm going to say that, depending on how many [[SOUL|souls]] CURSED AL currently possesses, a light breeze could knock him over
+		- #Cite/Unknown
 - Luke's neighbor/best friend/love interest
 - Red fox
 - Close in age to Luke
@@ -37,18 +41,18 @@
 ## [[Case Weston]]
 - He shows up near the end of Act I, first as an antagonist and later as a love interest?
 	- Maybe it's one-sided. However, Luke *does* have two hands...
-- Nicholas D. Wolfwood. He's Nicholas D. Wolfwood.
+- Nicholas D. Wolfwood. He's Nicholas D. Wolfwood. #Cite/TV/Trigun98 
 	- He's not a wolf, though. That would be too obvious.
 
 ## [[The Emperoress]]
 - The one actually pulling all the strings
 - The bigender/genderfluid master of CURSED AL
 	- Many believe they're two separate people
-- Possibly the same as [[The Dragon]]
+- Possibly the same as [[The Dragon]]?
 
 ## [[The Dragon]]
 - You'd think this is the true main antagonist, but she's actually [[(12) December 2020 Chat Logs#^8a0296|super chill]]
-- Tragically in love with Pauline, the horse
+- Tragically in love with Pauline, the horse #Cite/Movie/Shrek
 
 ## [[Luke's Noble Steed|Pauline]]
 - Luke's noble steed
@@ -67,6 +71,6 @@
 - He's a bear, in *both* senses of the word
 
 ## [[Steve the Royalty-Free Skeleton]]
-- just a normal skeleton. nothing to see here.
+- just a normal skeleton. nothing to see here. #Cite/Game/Undertale
 
-#general #refdoc #unanswered-questions 
+#general #refdoc #unanswered-questions

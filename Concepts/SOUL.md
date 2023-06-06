@@ -4,4 +4,6 @@ alias: SOULS
 
 A heart-shaped object that represents the very culmination of your being.
 
-#general #stub #concepts #soul 
+Sudosays:: Added tags for Works Cited
+
+#general #stub #concepts #soul #Cite/Game/Undertale 

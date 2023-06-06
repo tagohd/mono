@@ -13,12 +13,16 @@ How old are they? What do they look like? What's their personality? Why does Luk
 
 What are some things that would remind Luke of Sam? And are they directly connected to Sam (i.e. something they actually owned), or is it just like, "These are Sam's favorite flowers"? Maybe Sam is also very fond of [[CURSED AL'S CURSED ORB|chocolate oranges]]?
 
-# Appearance
+# Characterizations
 
 * They're about Luke's age, so... 16-17? (I haven't really decided how old Luke is, either.)
 * They're taller than [[Luke Campbell|Luke]]. In addition to being kind and dumb, Luke is also smol, so most people are taller than him, actually.
 * Sam is based on a red fox (*Vulpes vulpes*), to the extent that that fits in the confines of the [[(5) May 2023 Chat Logs#Furites paradox|Furites paradox]]
 * Do they *really* need saving from CURSED AL? Maybe they're more capable than Luke thinks.
 * Or maybe (dun DUN DUNNN), getting captured was their plan all along!!! (Big maybe)
+* On the cross-country team with Luke, except they actually enjoy it
+* Their lack of SOUL makes them a crucial component of CURSED AL's plan
+
+Sudosays:: Added some bits from the plot to here.
 
 #character #sam-ward #unanswered-questions 

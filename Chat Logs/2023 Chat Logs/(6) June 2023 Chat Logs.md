@@ -1,6 +1,3 @@
-%%
-Sudosays:: A brand new article! (But you've probably seen most of it already...)
-%%
 # 2023-06-03
 S:
 >![[samus aran.png]]
@@ -99,9 +96,11 @@ L:
 >yes go to sleep please
 
 \[...\]
-
+%%
+Sudosays:: Links to Mana Plane instead of Mana
+%%
 S:
->Alright, but just one more thing. For some reason I am imagining the [[Mana|mana]] plane being like this:
+>Alright, but just one more thing. For some reason I am imagining the [[Mana Plane|mana plane]] being like this:
 >![[fma truth.jpeg]]
 >Or maybe like this:
 >![[squidward.png]]

@@ -1,10 +1,15 @@
 ---
 alias: hero, protagonist, Luke
 ---
+#Cite/Movie/Star-Wars
+#Cite/Lit/Hero-With-a-Thousand-Faces (That's where his name comes) 
+
 # Luke, THE RELUCTANT HERO
 His bond with [[Sam Ward|Sam]] is so strong that it allows him to track their SOUL to [[CURSED AL]]. Luke’s SOUL is also quite powerful itself, allowing him to use [[Magic]], but it’s his bond with Sam that truly gives him strength.
 
 **Plot:** Luke awakens in his house. He is a young man of average height, perhaps somewhat on the short side, and a bit scrawny. He’s not malnourished, per se, but he isn’t exactly musclebound, either. He gets dressed, heads outside, and picks some tulips from the garden. It’s a beautiful day outside. He goes to the neighboring house, knocks on the door, and asks for Sam.
+
+Luke is 16. He runs cross-country because Sam does, and only because Sam does. He doesn't care much for sports, and he hates running. He helps [[Ma & Pa Campbell|his parents]] on the farm, but he can't wait to leave [[Genton]] where he can finally be himself. Maybe he (naively) wants to move to [[Rhapsody]]? This possibly contradicts my earlier characterization of Rhapsody, but he's also going there under different circumstances than he imagined. (Also a little bit of [Paris syndrome](https://en.wikipedia.org/wiki/Paris_syndrome).)
 
 ## Various Luke Characterizations
 Main idea: Luke was fully aware [[CURSED AL'S CURSED ORB|the Orb]] was made of chocolate and wanted to eat it from the start
@@ -38,17 +43,18 @@ Maybe he has to go into hiding and he changes his name to this at some point?
 
 # Not really THE CHOSEN ONE
 %%
-Sudosays:: I have responded
+Sudosays:: I have responded. Also, I added tags for Works Cited, and incorporated some bits from the plot.
 %%
 Adapted from [[(6) June 2023 Chat Logs#^aecda7|(6) June 2023 Chat Logs]]:
 
 What makes Luke special? Why is he THE CHOSEN ONE?
 
 He's not, actually. There is no CHOSEN ONE. [[James Redawić|James]] just says that to everyone hoping they'll help him stop CURSED AL. The only thing that makes Luke special is that he was stupid enough to actually believe James.
+#Cite/Unknown 
 
 This could also set up something of a "No, I am your father" moment when Luke first confronts AL. AL just wipes the floor with Luke (maybe it's one of those scripted battles where you're supposed to lose), and Luke says something like, "How could I have lost? I thought I was THE CHOSEN ONE." And AL's just like:
 ![[queen of england.jpeg]]
-
+#Cite/Movie/Megamind 
 And he's not even lying. Anyone can use any type of [[Magic#^03cfb6|magic]]. There is nothing special about Luke. Of course, Luke only focuses on that second part, and he completely loses his self-confidence.
 
 I'm sure this represents *some* step on the Hero's Journey, but I'm not sure which one (probably "[[2.4 Atonement with the Father]]"). I just realized the *Star Wars* comparison I referenced in the [[README]] is only about *A New Hope* and not the entire trilogy; this is obviously more like *The Empire Strikes Back*.
@@ -56,5 +62,6 @@ I'm sure this represents *some* step on the Hero's Journey, but I'm not sure whi
 [Lun]: James is kind of a bitch for this one, but I guess that be how it be sometimes
 [Sudo]: Yeah, I'm going to have to come up with some excuse for why he can't just go and do it himself. Maybe he's too busy running the museum?
 [Sudo]: Too busy to save the fucking universe? Yeah, I don't think that's gonna fly. But I should probably put this in James's note and not Luke's.
+
 
 #character #luke-campbell 

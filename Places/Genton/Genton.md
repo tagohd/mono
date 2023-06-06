@@ -2,7 +2,7 @@
 alias: Boringsville
 ---
 # About
-Genton (/‘gɪntən/ *GHIN-tən*, though more accurately transcribed as /'gɪnʔən/ *GHIN-ən*) is a small farming village where nothing much ever happens. There’s a general store, a couple restaurants, a church, and not much else. The youths, the few that there are, find life there so dull that they often refer to it pejoratively as “[[Genton#Boringsville|Boringsville]]”. But strange things have been happening lately: the animals have been attacking, people are disappearing, and all around there’s been a sinister feeling hanging in the air.
+Genton (/‘gɪntən/ *GHIN-tən*, though more accurately transcribed as /'gɪnʔən/ *GHIN-ən*) is a small farming village where nothing much ever happens. There’s a general store, a couple restaurants, a church, and not much else. The youths, the few that there are, find life there so dull that they often refer to it pejoratively as “[[Genton#Boringsville|Boringsville]]”. But strange things have been happening lately: the animals have been attacking, people are disappearing, and all around there’s been a sinister feeling hanging in the air. #Cite/Game/Earthbound
 
 # Boringsville
 ## First Version of Song
@@ -23,7 +23,7 @@ Or you could do something similar with the town's relation to the story, like ho
 ### sudoscience
 Hey, thanks! I was kinda leaning in that direction actually, with the play on words idea. Or maybe just call the song "Boringsville" or something, but it's like a quote from the protagonist, e.g. "I'm from \[Town Name Here], or as I like to call it: Boringsville." Then when they come back to the town later in the story and Bad Things have happened (again, like Tazmilly or Tatooine), there'll be a sad version of the song, and the title of _that_ song will be the real name of the town. That way, I can put off coming up with the name until later, and since I haven't written the sad version yet either, I can now procrastinate on two things at once.
 
-See Also: [[Genton]]
+#Cite/Game/Mother3 #Cite/Game/Undertale #Cite/Game/Pokémon #Cite/Movie/Star-Wars
 
 ## Boring Become Real
 ![[Boring Become Real.mp3]]

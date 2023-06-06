@@ -12,10 +12,11 @@ He's not necessarily rude, but he tends to be laconic, and he doesn't volunteer 
 
 ## The Enemy of My Enemy Is Not My Friend
 %%
-Sudosays:: I have responded
+Sudosays:: I have responded.
 %%
 
 He's manipulating Luke into defeating CURSED AL. I mean, you don't date a guy like CURSED AL if you're not at least a little evil yourself. (It wasn't an abusive relationship or anything, btw. They were just both evil.)
+#Cite/Unknown 
 
 [Lun]: Oh, that explains the "James is kind of a bitch" thing
 
@@ -25,6 +26,8 @@ Or maybe CURSED AL is manipulating James into manipulating Luke? James knows whe
 [Sudo]: This might be a case of "The author is also an idiot." Maybe the plan *was* for the artifacts to be destroyed, but James was like, "You're still a novice. You won't be able to handle the mana needed to cast Destroy Legendary Artifact, so just bring them back to me, and I'll take care of that." But then, because they're cursed artifacts, James becomes unwilling to destroy them.
 [Sudo]: "Oh, pwease don't destwoy us, Mr. Wizard! Think about all the weally cool spells you could cast with us!"
 [Sudo]: And James is like, "Hmmm, that's a good point."
+
+#Cite/Lit/LOTR (??? Imagine if The One Ring talked to its bearer like that lol.)
 
 ### Why doesn't James just get the Artifacts himself?
 ![[uhhh.jpg]]

@@ -7,7 +7,7 @@ It's kinda like The Force, except somehow way nerdier. And no midichlorians. Wai
 It exists in a separate plane to reality. [[Magic]] users pierce the veil between planes to access mana, and then focus the mana with their [[SOUL|SOULS]] in order to cast spells.
 
 %%
-Sudosays:: A brand new article!
+Sudosays:: Added tags for Works Cited
 %%
 
-#general #concepts #mana #magic #stub 
+#general #concepts #mana #magic #stub #Cite/Movie/Star-Wars 
