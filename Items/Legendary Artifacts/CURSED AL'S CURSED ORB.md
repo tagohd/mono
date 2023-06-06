@@ -17,9 +17,13 @@ Luke really is just that stupid.
 ## Or is he?
 What if he's not stupid? What if he's just colorblind? You know, because he's a dogboy.
 
-![[THE_ORB.jpg|300]] 
-~~THE ORB~~ A Chocolate Orange, as it appears normally ![[Rhapsody_slightlysmaller.png|300]]
-What might actually be THE ORB, as it appears normally
+![[THE_ORB.jpg|300]] ![[Rhapsody_slightlysmaller.png|300]]
+"THE ORB", as it appears normally
+
+![[THE ORB in LukeVISION (TM).png|300]] ![[Rhapsody in LukeVISION (TM).png|300]]
+"THE ORB", as it appears to someone with red-green colorblindness.
+
+No, wait, he's still an idiot. Just less of an idiot. Imagine if the chocolate orange was still in the box. (I am mean to this boy XD)
 
 # Theme of THE ORB?
 Anyway, here's part of a song that might play when you're in the vicinity of THE ORB:
@@ -31,7 +35,7 @@ If THE ORB is one of many (see: [[1.3 Supernatural Aid]]), what if more instrume
 ![[Power2.mp3]]
 
 %%
-Sudosays:: Had a new idea about oranges. (Is there a way to put images side-by-side?) Also added tag "contains-music" and YAML frontmatter.
+Sudosays:: Had a new idea about oranges. Also added tag "contains-music" and YAML frontmatter.
 #majorChange  #unseenByLun 
 %%
 
