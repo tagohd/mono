@@ -1,6 +1,10 @@
 ---
 alias: THE ORB, chocolate orange, chocolate oranges
+Location: Rhapsody
+Purpose: "Refracts mana or something? Idk :)"
+Description: A small, blood-red orb.
 ---
+# Luke is an idiot
 Main idea from [[(5) May 2023 Chat Logs#THE ~~CLAW~~ ORB|May 2023 chat logs]].
 Cf: [[Luke Campbell#Various Luke Characterizations|Various Luke Characterizations]], [[The Story So Far#^6a412b|The Story So Far]]
 
@@ -10,6 +14,14 @@ Building off the ideas in the [[(5) May 2023 Chat Logs#Behold, THE ORBNGE|chat l
 
 Luke really is just that stupid.
 
+## Or is he?
+What if he's not stupid? What if he's just colorblind? You know, because he's a dogboy.
+
+![[THE_ORB.jpg|300]] 
+~~THE ORB~~ A Chocolate Orange, as it appears normally ![[Rhapsody_slightlysmaller.png|300]]
+What might actually be THE ORB, as it appears normally
+
+# Theme of THE ORB?
 Anyway, here's part of a song that might play when you're in the vicinity of THE ORB:
 ![[Power.mp3]]
 It also plays when you acquire THE ORANGE. I say "part of a song" because I want to add some more stuff to it, like a violin perhaps. Maybe you only hear this part when you get THE ORANGE, and you get to hear the whole song when you acquire THE ORB. Though if this were a real game, I'd imagine most players likely wouldn't hear the whole song; it will probably end up being much longer than the scene in which it plays.
@@ -19,8 +31,8 @@ If THE ORB is one of many (see: [[1.3 Supernatural Aid]]), what if more instrume
 ![[Power2.mp3]]
 
 %%
-Sudosays:: Added tag "contains-music"
-#trivialChange 
+Sudosays:: Had a new idea about oranges. (Is there a way to put images side-by-side?) Also added tag "contains-music" and YAML frontmatter.
+#majorChange  #unseenByLun 
 %%
 
 #items #the-orb #luke-campbell #cursed-al #case-weston #unanswered-questions #legendary-artifact #contains-music 

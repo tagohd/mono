@@ -55,6 +55,8 @@ FROM #Cite/Game/Chrono-Trigger
 |---------|---------------------|
 | [[CURSED AL]] | Plot |
 
+But I should probably focus more on, idk, the actual plot? Instead of this.
+
 ## Earthbound
 ```dataview
 TABLE refType as "Type of Reference"
