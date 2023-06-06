@@ -1,5 +1,7 @@
+# The Cursed One
 ![[The Cursed One.mp3]]
-## Al, THE SOUL TAKER
+
+# Al, THE SOUL TAKER
 With enough [[SOUL|SOULS]], he will become godlike. His essence is eternal, but there has always been someone to banish him. SOULS taken by AL are gradually forgotten until they all but disappear from existence. #Cite/Game/Undertale  [refType:: Undertale/Plot]
 
 What draws people to AL? Not what makes someone willing to forfeit their SOUL, but what are the first steps? Does AL seek them out, or is he summoned?

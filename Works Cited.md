@@ -6,13 +6,36 @@ There, now you can't say it's plagiarism. (I don't think it really works that wa
 
 %%
 Sudosays:: Dataview!!! (I could use some help, though.)
+#majorChange #unseenByLun 
+%%
 
+# Notes
 I wish I could structure it in some way such that it only showed the refType for the relevant work and not just all refType fields in the note. And maybe there's some way I could make better use of nested tags? Copying and pasting the Dataview code over and over doesn't seem that efficient.
 
 Also, I don't entirely remember where I was really going with this. I mean, seeing everything I've made a reference to is neat, I guess. Maybe not that useful? I think I wanted to include information about the works themselves on this page. Like what aspects inspired me the most, and my favorite songs if applicable.
 
-#majorChange #unseenByLun 
-%%
+Object-oriented approach failed. Example:
+```
+---
+cite:
+  workName: "Undertale"
+  workType: "Game"
+  citeType: "Plot"
+cite:
+  workName: "Better Call Saul"
+  workType: "TV"
+  citeType: "Character"
+---
+```
+Query  ``TABLE cite.workName WHERE cite.workType = "Game"`` returns empty set. A separate named object for each citation would obviously be impractical. Another limitation to this approach is that objects can only be defined in the YAML frontmatter, i.e. I can't put the citations in-line.
+
+**Q:** Can we filter the "refType" field somehow, or will it always return a list?
+
+>[!info] Idea
+>Instead of "refType", use "gameRefType", "movieRefType", etc.
+>Query ``TABLE gameRefType FROM #Cite/Game``
+>>[!question]
+>>How to sort alphabetically by all Game tags
 
 # Games
 ## Chrono Trigger
