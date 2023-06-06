@@ -13,7 +13,7 @@ He's not necessarily rude, but he tends to be laconic, and he doesn't volunteer 
 ## The Enemy of My Enemy Is Not My Friend
 %%
 Sudosays:: I have responded.
-#majorChange 
+#majorChange #unseenByLun 
 %%
 
 He's manipulating Luke into defeating CURSED AL. I mean, you don't date a guy like CURSED AL if you're not at least a little evil yourself. (It wasn't an abusive relationship or anything, btw. They were just both evil.)

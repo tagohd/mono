@@ -4,7 +4,7 @@ number headings: auto, max 2
 %%
 Sudosays:: I elaborated on my responses if you haven't already read them.
 Sudosays:: Also, I installed a new plugin called "Number Headings"
-#majorChange 
+#majorChange #unseenByLun 
 %%
 
 # 1 Organization

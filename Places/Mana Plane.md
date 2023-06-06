@@ -7,7 +7,7 @@ Until directed otherwise, I am going to imagine it like an oil well. Mages, ther
 
 %%
 Sudosays:: Added pictures and tags. Added new video link.
-#majorChange 
+#minorChange #unseenByLun 
 %%
 
 # Pictures of the Mana Plane

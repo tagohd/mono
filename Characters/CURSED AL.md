@@ -81,7 +81,7 @@ Maybe the real curse was all the friends we made along the way. Wait, no, that's
 
 %%
 Sudosays:: Added tags for Works Cited. Half-assed my response to your comment.
-#minorChange 
+#minorChange #unseenByLun 
 %%
 
 #character #cursed-al #the-cursed-one #unanswered-questions #contains-music

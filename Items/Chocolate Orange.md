@@ -3,6 +3,7 @@ An ordinary chocolate orange. Tastes delicious, but contains 0% [[magic]]. (May 
 
 (I just wanted to have *something* in the "Items" folder that wasn't a [[The Legendary Artifacts|Legendary Artifact]], okay?)
 %%
-Sudosays:: A brand new article! (But this one's not that important...)
+Sudosays:: I'm pretty sure you have seen this one actually
+#minorChange #unseenByLun 
 %%
 #items #the-orange #stub 

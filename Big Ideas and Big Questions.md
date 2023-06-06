@@ -24,6 +24,7 @@ I don't know if I can answer that yet...
 
 %%
 Sudosays:: I have responded
+#minorChange #unseenByLun 
 %%
 
 #general #luke-campbell #cursed-al #unanswered-questions 

@@ -1,7 +1,6 @@
 ---
 alias: hero, protagonist, Luke
 ---
-#majorChange
 #Cite/Movie/Star-Wars
 
 # Luke, THE RELUCTANT HERO
@@ -44,6 +43,7 @@ Maybe he has to go into hiding and he changes his name to this at some point?
 # Not really THE CHOSEN ONE
 %%
 Sudosays:: I have responded. Also, I added tags for Works Cited, and incorporated some bits from the plot.
+#majorChange #unseenByLun 
 %%
 Adapted from [[(6) June 2023 Chat Logs#^aecda7|(6) June 2023 Chat Logs]]:
 

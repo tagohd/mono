@@ -21,7 +21,7 @@ And CURSED AL is after [[Sam Ward|Sam]] because they're a ginger and therefore d
 
 %%
 Sudosays:: Added tags for Works Cited. Added information from Chat Logs.
-#minorChange 
+#minorChange #unseenByLun 
 I don't think tagging the same thing multiple times will really accomplish anything, but it does make it feel more like a citation
 %%
 

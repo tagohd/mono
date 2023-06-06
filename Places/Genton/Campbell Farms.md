@@ -9,7 +9,7 @@ Maybe they're sheep herders? #Cite/Game/Mother3
 
 %%
 Sudosays:: New note!
-#minorChange 
+#minorChange #unseenByLun 
 %%
 
 #places #the-farm #unanswered-questions 
