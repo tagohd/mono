@@ -7,7 +7,7 @@ Sudosays:: Added tags for Works Cited. Added tag "contains-music".
 Imagine [[Luke Campbell|you're]] from [[Genton|a small town]], and you have to go to a big, dirty city. You don't know anybody there, all the strangers seem to hate you, and you just don't feel welcome. You didn't even want to come, but the plot required it. You seek the training of the old master who lives there, or perhaps it's the only place you can find the rare MacGuffin you need; the specifics don't matter. The point is, you're lost, you hate it here, and you're pretty sure the feeling's mutual. Oh, and it's been raining the whole time.
 
 What's the soundtrack? (Bonus points if it's from a film or video game. For context, I've been trying to write a song based on this idea for a few weeks, and I'm stuck. I could use some inspiration, but I don't even know where to look. All the video game city soundtracks I can think of are either too upbeat or not really my style.)
-#Cite/Game/Katana-Zero
+#Cite/Game/Katana-Zero [gameRefType:: Katana Zero/Music]
 
 ## A Story to Inspire Album Art
 Okay, not sure how much help this will be, and I want to note that this doesn't completely line up with my initial description of the song and also it is, like all my other Song Lore (TM), almost entirely post hoc. I did not have these ideas while writing the song but came up with them just now while listening to it. Also bear in mind that this is basically a rough draft of a rough draft of an outline. With that out of the way, let's go.

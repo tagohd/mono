@@ -8,11 +8,11 @@ Sudosays:: Added tags for Works Cited
 
 # Main
 ## [[Luke Campbell]]
-#Cite/Movie/Star-Wars (for the name)
+#Cite/Movie/Star-Wars [movieRefType:: Star Wars/Character]
 - Protagonist
 - Dogboy
 - 16-ish?
-- Imagine if Vash the Stampede were a short king. And a dogboy. #Cite/TV/Trigun98 
+- Imagine if Vash the Stampede were a short king. And a dogboy. #Cite/TV/Trigun98 [tvRefType:: Trigun/Character]
 	- Goofy blond guy that doesn't look like he could easily fuck you up, but he can. He just chooses not to.
 	- Tragic backstory?
 	- Also has a tendency to be put into Situations (TM)
@@ -21,7 +21,7 @@ Sudosays:: Added tags for Works Cited
 - Main Antagonist
 - Unspeakably old (or maybe he's James's age?)
 - Species: spoopy (a raven, maybe?)
-- Has antlers though #Cite/TV/The-Owl-House
+- Has antlers though #Cite/TV/The-Owl-House [tvRefType:: The Owl House/Character]
 
 ## [[James Redawić]]
 - Mentor to Luke
@@ -35,7 +35,7 @@ Sudosays:: Added tags for Works Cited
 	- They're already an absolute U N I T, but then you put them next to Luke, who is a smol bean, and they look even more massive
 	- Like, you look at them next to CURSED AL, and it's clear they could easily just snap him in half, but they're completely unaware of this
 		- I'm going to say that, depending on how many [[SOUL|souls]] CURSED AL currently possesses, a light breeze could knock him over
-		- #Cite/Unknown
+		- #Cite/Unknown [uRefType:: Character]
 - Luke's neighbor/best friend/love interest
 - Red fox
 - Close in age to Luke
@@ -44,7 +44,7 @@ Sudosays:: Added tags for Works Cited
 ## [[Case Weston]]
 - He shows up near the end of Act I, first as an antagonist and later as a love interest?
 	- Maybe it's one-sided. However, Luke *does* have two hands...
-- Nicholas D. Wolfwood. He's Nicholas D. Wolfwood. #Cite/TV/Trigun98 
+- Nicholas D. Wolfwood. He's Nicholas D. Wolfwood. #Cite/TV/Trigun98 [tvRefType:: Trigun/Character]
 	- He's not a wolf, though. That would be too obvious.
 
 ## [[The Emperoress]]
@@ -55,7 +55,7 @@ Sudosays:: Added tags for Works Cited
 
 ## [[The Dragon]]
 - You'd think this is the true main antagonist, but she's actually [[(12) December 2020 Chat Logs#^8a0296|super chill]]
-- Tragically in love with Pauline, the horse #Cite/Movie/Shrek
+- Tragically in love with Pauline, the horse #Cite/Movie/Shrek [movieRefType:: Shrek/Character]
 
 ## [[Luke's Noble Steed|Pauline]]
 - Luke's noble steed
@@ -74,6 +74,6 @@ Sudosays:: Added tags for Works Cited
 - He's a bear, in *both* senses of the word
 
 ## [[Steve the Royalty-Free Skeleton]]
-- just a normal skeleton. nothing to see here. #Cite/Game/Undertale
+- just a normal skeleton. nothing to see here. #Cite/Game/Undertale [gameRefType:: Undertale/Character]
 
 #general #refdoc #unanswered-questions

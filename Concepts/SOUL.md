@@ -9,4 +9,6 @@ Sudosays:: Added tags for Works Cited
 #trivialChange 
 %%
 
+gameRefType:: Undertale/General
+
 #general #stub #concepts #soul #Cite/Game/Undertale 

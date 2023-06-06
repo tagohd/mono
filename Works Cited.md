@@ -34,15 +34,27 @@ Query  ``TABLE cite.workName WHERE cite.workType = "Game"`` returns empty set. A
 >[!info] Idea
 >Instead of "refType", use "gameRefType", "movieRefType", etc.
 >Query ``TABLE gameRefType FROM #Cite/Game``
->>[!question]
->>How to sort alphabetically by all Game tags
+>>[!question] How to sort alphabetically by all Game tags, especially since many files cite to multiple games
+>>It *kinda* seems to default to that, actually?
 
 # Games
+
+```dataview
+TABLE gameRefType as "Type of Reference"
+FROM #Cite/Game 
+```
+
 ## Chrono Trigger
 ```dataview
-TABLE refType as "Type of Reference"
+TABLE gameRefType as "Type of Reference"
 FROM #Cite/Game/Chrono-Trigger 
 ```
+\^ See, this is the problem I'm talking about. I want to be able to have it just be:
+
+| File (1) | Type of Reference |
+|---------|---------------------|
+| [[CURSED AL]] | Plot |
+
 ## Earthbound
 ```dataview
 TABLE refType as "Type of Reference"
@@ -50,7 +62,7 @@ FROM #Cite/Game/Earthbound
 ```
 ## Hollow Knight
 ```dataview
-TABLE refType as "Type of Reference"
+TABLE gameRefType as "Type of Reference"
 FROM #Cite/Game/Hollow-Knight 
 ```
 

@@ -2,7 +2,7 @@
 ![[The Cursed One.mp3]]
 
 # Al, THE SOUL TAKER
-With enough [[SOUL|SOULS]], he will become godlike. His essence is eternal, but there has always been someone to banish him. SOULS taken by AL are gradually forgotten until they all but disappear from existence. #Cite/Game/Undertale  [refType:: Undertale/Plot]
+With enough [[SOUL|SOULS]], he will become godlike. His essence is eternal, but there has always been someone to banish him. SOULS taken by AL are gradually forgotten until they all but disappear from existence. #Cite/Game/Undertale  [gameRefType:: Undertale/Plot]
 
 What draws people to AL? Not what makes someone willing to forfeit their SOUL, but what are the first steps? Does AL seek them out, or is he summoned?
 
@@ -12,7 +12,7 @@ CURSED AL maybe?
 Voice: he sounds like Michael McKean as Chuck McGill.
 >I am not ~~crazy~~ cursed! I know he swapped those numbers. I knew it was 1216. One after Magna Carta. As if I could ever make such a mistake. Never. Never! I just - I just couldn't prove it. He covered his tracks, he got that idiot at the copy shop to lie for him. You think this is something? You think this is bad? This? This chicanery? He's done worse. That billboard! Are you telling me that a man just happens to fall like that? No! *He* orchestrated it! [[CURSED AL#^b26734|Jimmy]]! He *defecated* through a *sunroof*! And I saved him! And I shouldn't have. I took him into my own firm! What was I *thinking*? He'll never change. He'll *never* change! Ever since he was 9, *always* the same! Couldn't keep his hands out of the cash drawer! "But not our Jimmy! Couldn't be precious *Jimmy*!" Stealing them blind! And *HE* gets to be a ~~lawyer~~ wizard? What a sick joke! I should've stopped him when I had the chance!
 
-#Cite/TV/Better-Call-Saul [refType:: BCS/Character]
+#Cite/TV/Better-Call-Saul [tvRefType:: Better Call Saul/Character]
 
 ---
 Lun
@@ -26,6 +26,11 @@ Going off the above and the ideas in [[Magic]], [[The Legendary Artifacts]], and
 
 Oh, also, maybe he put himself into some sort of stasis dimension while he was working this out. So he just kinda disappeared for who knows how long before suddenly reemerging shortly before James was fated to die. Maybe he thought it would work like this:
 #Cite/Unknown #Cite/TV/FMAB (?) #Cite/Game/Chrono-Trigger (?)
+%%
+uRefType:: Plot
+tvRefType:: FMAB/Plot
+gameRefType:: Chrono Trigger/Plot
+%%
 ```mermaid
 flowchart TB
 	A["AL and James are together"]

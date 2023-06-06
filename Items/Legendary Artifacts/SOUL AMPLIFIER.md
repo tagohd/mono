@@ -1,12 +1,16 @@
 Gives the user's [[SOUL]] access to the \[\[BIG SHOT\]\] ability. (Not really. Probably.)
-#Cite/Game/Undertale (Okay, yes, that's Deltarune. But I don't see a need to distinguish them for this purpose.)
+#Cite/Game/Undertale (Okay, yes, that's Deltarune. But I don't see a need to distinguish them for this purpose.) %%[gameRefType:: Undertale/General]%%
 
 Okay, yeah, maybe it is some kind of cannon/ORB LAUNCHER. And also it's in space? #Cite/Game/Metroid #Cite/Unknown 
+%%
+gameRefType:: Metroid/Items
+uRefType:: Item
+%%
 
 Oh, and it needs to have a cool acronym. I'll come up with that after I've figured out more of the details
 
 # From [[(6) June 2023 Chat Logs]]
-I'll try to keep that in mind, but something about meddling with the primal forces of nature to resurrect a dead loved one is giving me some strong Fullmetal Alchemist vibes #Cite/TV/FMAB  
+I'll try to keep that in mind, but something about meddling with the primal forces of nature to resurrect a dead loved one is giving me some strong Fullmetal Alchemist vibes #Cite/TV/FMAB  [tvRefType:: FMAB/Plot]
 
 Oh, wait. There's a thought. [[James Redawić|James]] is still alive at the beginning of the story, but [[CURSED AL|AL]] is already trying to build the [[SOUL AMPLIFIER]] to resurrect him. Maybe that ties into the cyclical nature of things. And also the idea I had at the very beginning of things that James was predestined to die
 
