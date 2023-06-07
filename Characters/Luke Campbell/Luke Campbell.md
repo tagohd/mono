@@ -58,7 +58,8 @@ Maybe he has to go into hiding and he changes his name to this at some point?
 ![[The Chosen One.mp3]]
 %%
 songTitle:: The Chosen One
-songRemarks:: A WIP from \*checks notes\*
+songRemarks:: A WIP from \*checks notes\* January 2021
+%%
 [Lun]: ᕕ(⌐■_■)ᕗ ♪♬
 
 # Not really THE CHOSEN ONE

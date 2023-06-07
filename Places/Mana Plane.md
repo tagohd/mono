@@ -6,7 +6,7 @@ Until directed otherwise, I am going to imagine it like an oil well. Mages, ther
 #Cite/Movie/There-Will-Be-Blood
 
 %%
-Sudosays:: Added pictures and tags. Added new video link.
+sudoMinor:: Added pictures and tags. Added new video link.
 #minorChange #unseenByLun 
 %%
 

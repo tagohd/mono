@@ -10,7 +10,7 @@
 >Probably not, unless we really want to lean into the time-loop thing? I don't think so, though.
 
 %%
-Sudosays:: Answered some unanswered questions.
+sudoMinor:: Answered some unanswered questions.
 #minorChange #unseenByLun 
 %%
 

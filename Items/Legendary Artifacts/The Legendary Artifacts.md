@@ -2,7 +2,7 @@
 IncludeInTable: False
 ---
 %%
-Sudosays:: Maybe they're like the Infinity Stones? Also added DATAVIEW
+sudoMinor:: Maybe they're like the Infinity Stones? Also added DATAVIEW
 #minorChange #unseenByLun 
 %%
 # About

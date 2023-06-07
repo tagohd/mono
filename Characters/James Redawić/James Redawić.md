@@ -38,6 +38,12 @@ question:: [[James's Excuse|Why doesn't James just get the artifacts himself?]]
 
 # James Still Remembers You
 ![[3 - James Still Remembers You.mp3]]
+%%
+songTitle:: James Still Remembers You
+songRemarks:: Same version that's on ALP
+trivial:: Added music metadata
+#trivialChange 
+%%
 See: [[(2) February 2023 Chat Logs#The Most Important Change I've Made|The Most Important Change I've Made]]
 
 

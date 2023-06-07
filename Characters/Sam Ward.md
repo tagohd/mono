@@ -26,8 +26,9 @@ Why did CURSED AL take their SOUL? Maybe they don't actually have a SOUL, and th
 * Their lack of SOUL makes them a crucial component of CURSED AL's plan
 
 %%
-Sudosays:: Added some bits from the plot to here, but nothing really new, per se. Added some Dataview fields.
-#minorChange #unseenByLun 
+sudoMinor:: Added some bits from the plot to here, but nothing really new, per se.
+trivial:: Added some Dataview fields.
+#minorChange #unseenByLun #trivialChange 
 %%
 
 #character #sam-ward #unanswered-questions 

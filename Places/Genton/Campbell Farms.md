@@ -8,7 +8,7 @@ The farm operated by [[Ma & Pa Campbell]]. [[Luke Campbell|Luke]] helps out some
 [question:: Maybe they're sheep herders?] #Cite/Game/Mother3 [gameRefType:: Mother 3/Setting]
 
 %%
-Sudosays:: New note!
+sudoMinor:: New note! It's a stub, though.
 #minorChange #unseenByLun 
 %%
 

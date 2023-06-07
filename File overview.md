@@ -27,6 +27,7 @@ WHERE focus
 ```
 
 # 3 Changes
+You can delete these callouts after you've read them if you want.
 >[!tip]
 >Delete the tags when you've read the changes and they'll disappear from the tables. Or maybe we could have the tags #unseenBySudo and #unseenByLun, and we delete our respective tags when we've seen the changes? (I am using an "and" in the queries, so you really only have to delete the "unseen" tag.)
 
@@ -54,10 +55,13 @@ SORT Priority, file.mtime DESC
 >[!question] What's a minor change?
 >This is also subjective, but I think it does have more to do with "amount changed" than Major Changes do. Examples: Specified how old a character is, created a new (stub) note, added information to a note that was already present in another note. They're *kinda* important, but if it can be easily summarized here in the overview, it's probably a minor change.
 
+>[!tip]
+>If you feel the need to add a priority to it, it's probably a major change. But feel free to do it anyway.
+
 ```dataview
-TABLE file.mday as "Last Changed", sudoMinor as "Sudo's Changes", Sudosays, Lunsays
+TABLE file.mday as "Last Changed", sudoMinor as "Sudo's Changes", Priority, Sudosays, Lunsays
 FROM #minorChange and #unseenByLun 
-SORT file.mtime DESC
+SORT Priority, file.mtime DESC
 ```
 
 ## 3.3 Changes Sudo Should Really Look At (Major Changes)
@@ -69,7 +73,7 @@ SORT Priority, file.mtime DESC
 
 ## 3.4 Changes Sudo Should Probably Look At (Minor Changes)
 ```dataview
-TABLE file.mday as "Last Changed", lunMinor as "Lun's Changes", Lunsays, Sudosays
+TABLE file.mday as "Last Changed", lunMinor as "Lun's Changes", Priority, Lunsays, Sudosays
 FROM #minorChange and #unseenBySudo 
 SORT file.mtime DESC
 ```

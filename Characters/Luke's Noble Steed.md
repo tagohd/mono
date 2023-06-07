@@ -10,7 +10,7 @@ A bay mare named Pauline. A good, reliable horse, but just a normal horse noneth
 [[The Dragon|Edna]] is in love with her, but she can't reciprocate because she's a horse.
 
 %%
-Sudosays:: Answered an unanswered question.
+sudoMinor:: Answered an unanswered question. (Who owns Pauline?)
 #minorChange #unseenByLun 
 %%
 
