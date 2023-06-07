@@ -1,11 +1,10 @@
 ---
 number headings: auto, max 2
 ---
+
 %%
-sudoMajor:: I elaborated on my responses if you haven't already read them.
-sudoMinor:: I installed a new plugin called "Number Headings"
-Priority:: 1
-#minorChange #majorChange #unseenBySudo 
+trivial:: Marked as read
+#trivialChange 
 %%
 
 # 1 Organization

@@ -13,10 +13,15 @@ Maybe [[Luke Campbell|Luke]] fights [[CURSED AL]] for the first time and is woef
 
 [Lun]: MY LOVE INTEREST!!! At least let Luke revive him after defeating AL. Oh, or what if you get to use the [[SOUL AMPLIFIER]] after defeating AL for a purpose of the player's choice? You could revive a love interest that died, revive James, AL(??!?), or use it for something different entirely.
 
+[Sudo]: Oooh, that's a really good idea! You know, except for the part where it might destroy the universe.
+[Sudo]: Lol, multiple endings, but most of them are just "The universe was destroyed, but you get to spend eternity with $Character"
+[Sudo]: Hmmm, I had another gameplay idea earlier, but what was it?
+[Sudo]: Oh, it was: after you discover that Luke is [[LukeVISION (TM)|colorblind]], the game display changes to reflect that.
+[Sudo]: Funny coming up with these ideas when the game is not being made.
+
 %%
-sudoMinor:: Incorporated response from [[Repo organization]]. Read that instead.
-trivial:: Added tag for Works Cited.
-#minorChange #unseenBySudo  #trivialChange 
+sudoMajor:: Replied
+#majorChange #unseenByLun 
 %%
 
 

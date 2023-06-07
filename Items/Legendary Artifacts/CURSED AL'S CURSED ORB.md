@@ -30,6 +30,13 @@ No, wait, he's still an idiot. Just less of an idiot. Imagine if the chocolate o
 
 [Lun]: Yeah, I don't think color blindness is much of an excuse for mistaking a chocolate orange with a powerful cursed artifact, but it's at least _something_ you could cut Luke some slack with. Mostly just dumb though.
 
+[Sudo]: That's what I was getting at, yes.
+
+%%
+sudoMinor:: Replied
+#minorChange #unseenByLun 
+%%
+
 # Theme of THE ORB?
 Anyway, here's part of a song that might play when you're in the vicinity of THE ORB:
 ![[Power.mp3]]
@@ -45,12 +52,6 @@ If THE ORB is one of many (see: [[1.3 Supernatural Aid]]), what if more instrume
 %%
 songTitle:: Power (1)
 songRemarks:: Maybe more instruments get added as you acquire more Artifacts
-%%
-
-%%
-sudoMajor:: Had a new idea about oranges.
-trivial:: Added tag "contains-music" and YAML frontmatter. Added music metadata.
-#majorChange  #unseenBySudo 
 %%
 
 #items #the-orb #luke-campbell #cursed-al #case-weston #unanswered-questions #legendary-artifact #contains-music 

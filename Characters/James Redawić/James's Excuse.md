@@ -57,18 +57,21 @@ Priority:: 1
 
 [Lun]: Here's an addition to my "Luke misinterpreted James" thing that might work: James did not intend to gather all the artifacts at all. He just wanted Luke to bring him the one (1) from [[Rhapsody]] to check if it's still there, maybe study it (and get a little addicted to its evil power?). Then James died shortly after, and Luke was like "Guess I have to collect all the rest now to complete my quest!". And then maybe the reason James didn't want to collect that one himself is that it would have warned AL that he's on to his funny business (whereas a random dogboy taking it is just another unlucky thursday).
 
+[Sudo]: Ah, of course. The perfect solution is for James to just fucking die. What were his motivations? You'll never know. Because he's dead. 
+
 [Lun]: Also, relating what you wrote above: consider that magic might not be able to do _everything_. How I see it, [[Mana]] is really just a funky energy source which you can use to do a bunch of different things. However, most of it is pretty elementary (move stuff, ignite stuff, zap stuff, create simple stuff) whereas something like healing is very much not an elementary thing to do. That would require almost complete biological knowledge on what you want to heal + even if you know what to do, the healing itself would be extremely difficult too, like curing paralysis would probably involve stitching neurons back together.
 
+[Sudo]:  Yeah, that's a good way of looking at it too. Basically my first response: Magic doesn't work that way.
+
+%%
+sudoMinor:: Replied
+#minorChange #unseenByLun 
+%%
 
 
 
 %%
 This makes me feel like we're playing Disco Elysium or something lol. Maybe I can change the CSS to be DE colors. (That might be kinda hard to read against a black background? And also unnecessary work.)
-%%
-
-%%
-sudoMajor:: Trying to answer why James doesn't get the artifacts himself if it's so important that CURSED AL is stopped.
-#majorChange #unseenBySudo 
 %%
 
 #general #james-redawic #unanswered-questions 

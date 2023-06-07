@@ -11,12 +11,6 @@ Mysterious and reclusive. Lives in [[Plata]]. Runs a [[The Old Silver Mine|museu
 He's not necessarily rude, but he tends to be laconic, and he doesn't volunteer much information... Unless you're asking him about the mine. He seems to have a different persona he adopts when he's working at the museum. It's not just a job to him; he is, in fact, very passionate about the history of the mine.
 
 ## The Enemy of My Enemy Is Not My Friend
-%%
-sudoMajor:: Answering the question "Is James also dumb?"
-Priority:: 1
-#majorChange #unseenBySudo 
-%%
-
 He's manipulating Luke into defeating CURSED AL. I mean, you don't date a guy like CURSED AL if you're not at least a little evil yourself. (It wasn't an abusive relationship or anything, btw. They were just both evil.)
 #Cite/Unknown 
 
@@ -31,6 +25,11 @@ Or maybe CURSED AL is manipulating James into manipulating Luke? James knows whe
 
 [Lun]: I do like the idea of James being a little evil. Corrupt that old man! Also, see what I answered on [[James's Excuse]]
 
+%%
+trivial:: Marked as read
+#trivialChange 
+%%
+
 #Cite/Lit/LOTR (??? Only in the sense that the Artifacts have a corrupting influence over their possessor. Imagine if The One Ring talked to its bearer like that lol.)
 
 question:: [[James's Excuse|Why doesn't James just get the artifacts himself?]]
@@ -43,9 +42,8 @@ question:: [[James's Excuse|Why doesn't James just get the artifacts himself?]]
 %%
 songTitle:: James Still Remembers You
 songRemarks:: Same version that's on ALP
-trivial:: Added music metadata
-#trivialChange 
 %%
+
 See: [[(2) February 2023 Chat Logs#The Most Important Change I've Made|The Most Important Change I've Made]]
 
 
