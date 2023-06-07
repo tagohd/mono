@@ -43,6 +43,7 @@ This isn't to say that only certain people can cast certain spells. It's just th
 
 %%
 gameRefType:: "Undertale/General", "Hollow Knight/Items"
+question:: Fuckin magic, how does it work?
 %%
 
 #general #concepts #magic #unanswered-questions #Cite/Game/Undertale #Cite/Game/Hollow-Knight

@@ -11,6 +11,34 @@
       "ctime": 1686105268435,
       "path": "File Overview.md",
       "title": "File Overview"
+    },
+    {
+      "type": "file",
+      "ctime": 1686108373262,
+      "path": "File Overview.md",
+      "subpath": "#3.3 Changes Sudo Should Really Look At (Major Changes)",
+      "title": "Changes Sudo Should Really Look At"
+    },
+    {
+      "type": "file",
+      "ctime": 1686108414317,
+      "path": "File Overview.md",
+      "subpath": "#3.4 Changes Sudo Should Probably Look At (Minor Changes)",
+      "title": "Changes Sudo Should Probably Look At"
+    },
+    {
+      "type": "file",
+      "ctime": 1686108439545,
+      "path": "File Overview.md",
+      "subpath": "#5 Unanswered Questions",
+      "title": "List of Unanswered Questions"
+    },
+    {
+      "type": "file",
+      "ctime": 1686108458682,
+      "path": "File Overview.md",
+      "subpath": "#6 Stubs",
+      "title": "List of Stubs"
     }
   ]
 }

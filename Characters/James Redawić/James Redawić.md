@@ -1,7 +1,5 @@
 ---
 alias: James
-focus: True
-focusComment: Why does James make Luke get the Artifacts? This seems like a major plothole if not addressed.
 ---
 ![[wizard that knows fuck all.jpg]]
 # James, THE DARK MAGICIAN

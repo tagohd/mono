@@ -8,10 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#stub OR tag:#unanswered-questions",
+      "query": "tag:#unanswered-questions",
       "color": {
         "a": 1,
         "rgb": 10682368
+      }
+    },
+    {
+      "query": "tag:#stub",
+      "color": {
+        "a": 1,
+        "rgb": 16760878
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7566482500204375,
+  "scale": 0.7566482500204376,
   "close": true
 }

@@ -13,7 +13,9 @@ number headings: auto, first-level 1, max 6, contents ^toc, 1.1
 	- [[#3.4 Changes Sudo Should Probably Look At (Minor Changes)|3.4 Changes Sudo Should Probably Look At (Minor Changes)]]
 	- [[#3.5 Trivial Changes|3.5 Trivial Changes]]
 - [[#4 Files with Music|4 Files with Music]]
-- [[#5 All|5 All]]
+- [[#5 Unanswered Questions|5 Unanswered Questions]]
+- [[#6 Stubs|6 Stubs]]
+- [[#7 All|7 All]]
 
 I would like for this to not be self-referential, but whatever. (Why can't this be more like LaTeX?)
 
@@ -25,12 +27,14 @@ WHERE focus
 ```
 
 # 3 Changes
-Delete the tags when you've read the changes and they'll disappear from the tables. Or maybe we could have the tags #unseenBySudo and #unseenByLun, and we delete our respective tags when we've seen the changes?
+Delete the tags when you've read the changes and they'll disappear from the tables. Or maybe we could have the tags #unseenBySudo and #unseenByLun, and we delete our respective tags when we've seen the changes? (I am using an "and" in the queries, so you really only have to delete the "unseen" tag.)
+
+[Sudo]: I'll leave it up to you to decide what kinds of changes count as major, minor, or trivial. To me, tagging something as a major change means I really want you to look at it/you should look at it first. Minor changes: I only added a couple sentences or explicitly referenced a detail that had previously only been hinted at. Trivial changes: usually just changes to the metadata or adding a link. Something that causes the file to show that it was recently modified, but doesn't really affect anything.
 
 ## 3.1 Changes Lun Should Really Look At (Major Changes)
 ```dataview
 TABLE file.mday as "Last Changed", Sudosays as "Sudo's Changes"
-FROM #majorChange and #unseenByLun 
+FROM #majorChange and #unseenByLun
 SORT file.mtime DESC
 ```
 
@@ -66,7 +70,18 @@ SORT file.mtime DESC
 ```dataview
 LIST from #contains-music 
 ```
-# 5 All
+
+# 5 Unanswered Questions
+```dataview
+TABLE question as "Question(s)"
+FROM #unanswered-questions 
+```
+
+# 6 Stubs
+```dataview
+LIST FROM #stub 
+```
+# 7 All
 ```dataview
 TABLE file.mday AS "Last changed", Lunsays, Sudosays
 SORT file.mtime DESC
