@@ -35,6 +35,7 @@ Already mentioned that everyone is queer, but now we also have... d i s a b i l 
 
 %%
 Sudosays:: I have responded. Also, the characters have disabilities now.
+Priority:: 10
 #majorChange  #unseenByLun 
 %%
 

@@ -13,6 +13,7 @@ He's not necessarily rude, but he tends to be laconic, and he doesn't volunteer 
 ## The Enemy of My Enemy Is Not My Friend
 %%
 Sudosays:: I have responded.
+Priority:: 1
 #majorChange #unseenByLun 
 %%
 

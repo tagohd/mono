@@ -75,5 +75,6 @@ I'm sure this represents *some* step on the Hero's Journey, but I'm not sure whi
 [Sudo]: Yeah, I'm going to have to come up with some excuse for why he can't just go and do it himself. Maybe he's too busy running the museum?
 [Sudo]: Too busy to save the fucking universe? Yeah, I don't think that's gonna fly. But I should probably put this in James's note and not Luke's.
 
+Priority:: 3
 
 #character #luke-campbell #contains-music 

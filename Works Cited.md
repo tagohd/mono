@@ -6,6 +6,7 @@ There, now you can't say it's plagiarism. (I don't think it really works that wa
 
 %%
 Sudosays:: Dataview!!! (I could use some help, though.)
+Priority:: 7
 #majorChange #unseenByLun 
 %%
 

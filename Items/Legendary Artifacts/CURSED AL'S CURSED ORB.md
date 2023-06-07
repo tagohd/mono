@@ -5,6 +5,7 @@ Purpose: "Refracts mana or something? Idk :)"
 Description: A small, blood-red orb.
 OrderAcquired: 1
 IncludeInTable: True
+Priority: 3
 ---
 # Luke is an idiot
 Main idea from [[(5) May 2023 Chat Logs#THE ~~CLAW~~ ORB|May 2023 chat logs]].

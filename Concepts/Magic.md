@@ -25,6 +25,7 @@ This system has some of the following practical consequences:
 ---
 %%
 Sudosays:: I have responded. Also added tags for Works Cited.
+Priority:: 5
 #majorChange #unseenByLun 
 %%
 
