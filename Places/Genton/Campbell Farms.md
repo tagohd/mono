@@ -3,9 +3,9 @@ alias: farm
 ---
 The farm operated by [[Ma & Pa Campbell]]. [[Luke Campbell|Luke]] helps out sometimes. Usually contains at least one [[Luke's Noble Steed|horse]].
 
-What do they grow here? Moisture? #Cite/Movie/Star-Wars [movieRefType:: Star Wars/Setting]
+[question:: What do they grow here? Moisture?] #Cite/Movie/Star-Wars [movieRefType:: Star Wars/Setting]
 
-Maybe they're sheep herders? #Cite/Game/Mother3 [gameRefType:: Mother 3/Setting]
+[question:: Maybe they're sheep herders?] #Cite/Game/Mother3 [gameRefType:: Mother 3/Setting]
 
 %%
 Sudosays:: New note!

@@ -2,7 +2,7 @@ Multiple protagonists, but they're really all the same person kind of. I don't k
 
 [Lun]: I still haven't played Chrono trigger...
 
-You know, I haven't really put much thought into the story's themes. I guess I was never really planning to because it's ultimately more an avenue for my music than anything else, but I should try and figure out what the point is of the story I'm trying to tell because right now all I really have is "gay furries go brrr". And also Undertale. (Why did I say the same thing twice?) What am I trying to communicate with my story? If it was an actual game, what do I hope people would take away from it? What are the things that I hope people will write long rambling essays on Tumblr about?
+You know, I haven't really put much thought into the story's themes. I guess I was never really planning to because it's ultimately more an avenue for my music than anything else, but I should try and figure out what the point is of the story I'm trying to tell because right now all I really have is "gay furries go brrr". And also Undertale. (Why did I say the same thing twice?) [question:: What am I trying to communicate with my story? If it was an actual game, what do I hope people would take away from it? What are the things that I hope people will write long rambling essays on Tumblr about?]
 
 # What is MONO about?
 (\^ Big question. Get it?)
@@ -27,12 +27,15 @@ I don't know if I can answer that yet...
 Already mentioned that everyone is queer, but now we also have... d i s a b i l i t i e s
 
 - [[Luke Campbell|Luke]] is [[LukeVISION (TM)|colorblind]]
-	- And an idiot. Is that a disability?
+	- And an idiot. Is that a disability? [question:: Is idiot a disability?]
 - Maybe [[CURSED AL|CURSED AL's]] curse is that he has ADHD/is ADHD-coded
+- Maybe [[James Redawić|James]] is paraplegic or otherwise can't walk very far. (See: [[James's Excuse]])
+- [[Sam Ward|Sam]] has IBD (not to be confused with IED, IUD, or IBS)
+	- They also don't have a [[SOUL]] [question:: Is "not having a SOUL" a disability? In this world, it could be.]
 
 %%
-Sudosays:: I have responded
-#minorChange #unseenByLun 
+Sudosays:: I have responded. Also, the characters have disabilities now.
+#majorChange  #unseenByLun 
 %%
 
 #general #luke-campbell #cursed-al #unanswered-questions 

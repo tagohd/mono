@@ -10,7 +10,7 @@ IncludeInTable: True
 Main idea from [[(5) May 2023 Chat Logs#THE ~~CLAW~~ ORB|May 2023 chat logs]].
 Cf: [[Luke Campbell#Various Luke Characterizations|Various Luke Characterizations]], [[The Story So Far#^6a412b|The Story So Far]]
 
-What is THE ORB? Is it the secret to CURSED AL'S power? Can it restore your [[SOUL]]? Is it a [[The Dragon|dragon]] egg? Or is it really just a [[chocolate orange]]? A cursed chocolate orange, perhaps?
+question:: What is THE ORB? Is it the secret to CURSED AL'S power? Can it restore your [[SOUL]]? Is it a [[The Dragon|dragon]] egg? Or is it really just a [[chocolate orange]]? A cursed chocolate orange, perhaps?
 
 Building off the ideas in the [[(5) May 2023 Chat Logs#Behold, THE ORBNGE|chat log]], there's the real orb, and then there's the chocolate orange. Either [[Luke Campbell|Luke]] is too stupid to tell the difference, or he secretly wants both. [[Case Weston|Case]] is smart enough to know the difference, but seeing Luke grab the orange makes him question things. "Was I wrong, or is he really just that stupid?"
 
