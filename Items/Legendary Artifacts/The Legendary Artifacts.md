@@ -27,7 +27,7 @@ gameRefType:: "Mother 3/Plot", "Mother 3/Items"
 movieRefType:: MCU/Items
 %%
 
-Yeah, okay, I think I'm going with the idea that they form SOUL AMPLIFIER for now. Of course, now I need to figure out what *that* does. But CURSED AL is trying to build one for... reasons. (If CURSED AL isn't the real Big Bad, then it may be likely that his reasons are inscrutable to mere mortals. He's merely carrying out the wishes of some eldritch being, and we all know eldritch beings love acting in ways humans can't even hope to comprehend.) Whatever his reasons, it's going to be very bad if he's successful.
+Yeah, okay, I think I'm going with the idea that they form the [[SOUL AMPLIFIER]] for now. Of course, now I need to figure out what *that* does. But CURSED AL is trying to build one for... reasons. (If CURSED AL isn't the real Big Bad, then it may be likely that his reasons are inscrutable to mere mortals. He's merely carrying out the wishes of some eldritch being, and we all know eldritch beings love acting in ways humans can't even hope to comprehend.) Whatever his reasons, it's going to be very bad if he's successful.
 
 ---
 Lun

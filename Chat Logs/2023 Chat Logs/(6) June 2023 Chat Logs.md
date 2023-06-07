@@ -119,7 +119,7 @@ S:
 >
 >AL's like, "I love you so much that I would tear apart the fabric of the universe to keep you with me", but James is like, "AL, you idiot, we *live* in the universe!"
 >
->And there's another potential FMA parallel: the SOUL AMPLIFIER is kinda like the giant transmutation circle, and it's going to draw on the power of everyone's [[SOUL|SOULS]].
+>And there's another potential FMA parallel: the [[SOUL AMPLIFIER]] is kinda like the giant transmutation circle, and it's going to draw on the power of everyone's [[SOUL|SOULS]].
 >
 >And CURSED AL is after [[Sam Ward|Sam]] because they're a ginger and therefore don't have a SOUL, so he's going to, like, focus the power of everybody's SOULS onto them and use them as a vessel or something
 >Is that racist?
