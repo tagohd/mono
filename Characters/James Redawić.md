@@ -1,5 +1,7 @@
 ---
 alias: James
+focus: True
+focusComment: Why does James make Luke get the Artifacts? This seems like a major plothole if not addressed.
 ---
 ![[wizard that knows fuck all.jpg]]
 # James, THE DARK MAGICIAN
@@ -30,8 +32,7 @@ Or maybe CURSED AL is manipulating James into manipulating Luke? James knows whe
 
 #Cite/Lit/LOTR (??? Only in the sense that the Artifacts have a corrupting influence over their possessor. Imagine if The One Ring talked to its bearer like that lol.)
 
-### Why doesn't James just get the Artifacts himself?
-![[uhhh.jpg]]
+[[James's Excuse|Why doesn't James just get the artifacts himself?]]
 
 # James Still Remembers You
 ![[3 - James Still Remembers You.mp3]]

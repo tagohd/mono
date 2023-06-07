@@ -22,6 +22,14 @@ I don't know if I can answer that yet...
 
 [Lun]: Don't forget about people being idiots!
 
+# What else is important to me about MONO
+## Representation
+Already mentioned that everyone is queer, but now we also have... d i s a b i l i t i e s
+
+- [[Luke Campbell|Luke]] is [[LukeVISION (TM)|colorblind]]
+	- And an idiot. Is that a disability?
+- Maybe [[CURSED AL|CURSED AL's]] curse is that he has ADHD/is ADHD-coded
+
 %%
 Sudosays:: I have responded
 #minorChange #unseenByLun 

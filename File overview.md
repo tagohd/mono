@@ -5,7 +5,7 @@ number headings: auto, first-level 1, max 6, contents ^toc, 1.1
 # 1 Contents ^toc
 
 - [[#1 Contents ^toc|1 Contents]]
-- [[#2 All|2 All]]
+- [[#2 Focus|2 Focus]]
 - [[#3 Changes|3 Changes]]
 	- [[#3.1 Changes Lun Should Really Look At (Major Changes)|3.1 Changes Lun Should Really Look At (Major Changes)]]
 	- [[#3.2 Changes Lun Should Probably Look At (Minor Changes)|3.2 Changes Lun Should Probably Look At (Minor Changes)]]
@@ -13,14 +13,17 @@ number headings: auto, first-level 1, max 6, contents ^toc, 1.1
 	- [[#3.4 Changes Sudo Should Probably Look At (Minor Changes)|3.4 Changes Sudo Should Probably Look At (Minor Changes)]]
 	- [[#3.5 Trivial Changes|3.5 Trivial Changes]]
 - [[#4 Files with Music|4 Files with Music]]
+- [[#5 All|5 All]]
 
 I would like for this to not be self-referential, but whatever. (Why can't this be more like LaTeX?)
 
-# 2 All
+# 2 Focus
+Files that need urgent attention
 ```dataview
-TABLE file.mday AS "Last changed", Lunsays, Sudosays
-SORT file.mtime DESC
+TABLE focusComment as "What Needs Work"
+WHERE focus
 ```
+
 # 3 Changes
 Delete the tags when you've read the changes and they'll disappear from the tables. Or maybe we could have the tags #unseenBySudo and #unseenByLun, and we delete our respective tags when we've seen the changes?
 
@@ -62,4 +65,9 @@ SORT file.mtime DESC
 # 4 Files with Music
 ```dataview
 LIST from #contains-music 
+```
+# 5 All
+```dataview
+TABLE file.mday AS "Last changed", Lunsays, Sudosays
+SORT file.mtime DESC
 ```
