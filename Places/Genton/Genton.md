@@ -46,4 +46,18 @@ trivial:: Added tags for Works Cited. Added tag "contains-music". Added music me
 #trivialChange 
 %%
 
+# Boringsville at Night
+![[Boringsville at Night.mp3]]
+%%
+songTitle:: Boringsville at Night
+songRemarks:: Maybe the game has a day/night cycle and this song plays at night.
+Sudosays:: Huh, according to my computer, I actually wrote this song on your birthday. So, I guess it's either a really late or really early birthday present.
+
+sudoMajor:: New song!! (Actually wrote it around the same time I first wrote Boringsville, but it's new to you!)
+Priority:: 3
+#majorChange #unseenByLun 
+%%
+
+I like this version, but I'm not sure I'd call it "boring". Maybe Genton has a club/lounge, but Luke can't go in there because he's only 16. Maybe he sneaks in anyway, because what's the point of writing a song if it's not going in the game?
+
 #places #genton #contains-music 

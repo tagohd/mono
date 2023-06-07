@@ -43,7 +43,7 @@ You can delete these callouts after you've read them if you want.
 >To paraphrase Potter Stewart, "You'll know one when you see one."
 
 >[!tip]
->You can add a "Priority" field to specify suggested read order. Note that not assigning a priority will cause those files to sort *ahead* of ones that do have a priority. (But if one file has a priority and the others don't, I'll probably figure it out.)
+>You can add a "Priority" field to specify suggested read order. Note that not assigning a priority will cause those files to sort *ahead* of ones that do have a priority. (But if one file has a priority and the others don't, I'll probably figure out what you meant.)
 
 ```dataview
 TABLE file.mday as "Last Changed", sudoMajor as "Sudo's Changes", Priority, Sudosays, Lunsays
