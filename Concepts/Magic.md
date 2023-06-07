@@ -44,8 +44,9 @@ This isn't to say that only certain people can cast certain spells. It's just th
 [Sudo]: Oh, so we're just gonna steal from Hollow Knight instead? SOUL Vessels? (And you poke rifts between planes by attacking enemies?) But, yeah, whenever I suggest something that's just "blatant plagiarism of Undertale", I'm mostly joking. Mostly. (But really, it's more like a placeholder until I come up with something that's less "blatant plagiarism of Undertale".)
 
 %%
+#Cite/Game/Undertale #Cite/Game/Hollow-Knight 
 gameRefType:: "Undertale/General", "Hollow Knight/Items"
 question:: Fuckin magic, how does it work?
 %%
 
-#general #concepts #magic #unanswered-questions #Cite/Game/Undertale #Cite/Game/Hollow-Knight
+#general #concepts #magic #unanswered-questions 

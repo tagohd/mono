@@ -60,17 +60,21 @@ question:: Why doesn't James just get the Artifacts himself?
 
 [Lun]: Also, relating what you wrote above: consider that magic might not be able to do _everything_. How I see it, [[Mana]] is really just a funky energy source which you can use to do a bunch of different things. However, most of it is pretty elementary (move stuff, ignite stuff, zap stuff, create simple stuff) whereas something like healing is very much not an elementary thing to do. That would require almost complete biological knowledge on what you want to heal + even if you know what to do, the healing itself would be extremely difficult too, like curing paralysis would probably involve stitching neurons back together.
 
-[Sudo]:  Yeah, that's a good way of looking at it too. Basically my first response: Magic doesn't work that way.
+[Sudo]:  Yeah, that's a good way of looking at it too. Basically my first response: Magic doesn't work that way. Oh, here's a thought:
+
+>[!idea] Anyone *can* use magic, but few know it even exists
+>Maybe magic was only recently discovered, given that it exists on [[Mana Plane|a separate plane of reality]]. Or perhaps magic users try to keep its existence a secret because of how dangerous it is. You know, the whole "tearing apart the fabric of reality" thing.
+
+>[!idea] Furthermore, magic is kind of a last resort.
+>Again, because of how dangerous it can be, even the most skilled users try to limit how often they use it.
+>
+>Maybe there are some in-game consequences, too. You've played OneShot, right? Maybe if you use magic too much, it 
+
+[Sudo]: Maybe I should put this under [[Magic]] instead.
 
 %%
 sudoMinor:: Replied
 #minorChange #unseenByLun 
-%%
-
-
-
-%%
-This makes me feel like we're playing Disco Elysium or something lol. Maybe I can change the CSS to be DE colors. (That might be kinda hard to read against a black background? And also unnecessary work.)
 %%
 
 #general #james-redawic #unanswered-questions 
