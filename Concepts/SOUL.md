@@ -5,7 +5,7 @@ alias: SOULS
 A heart-shaped object that represents the very culmination of your being.
 
 %%
-Sudosays:: Added tags for Works Cited
+trivial:: Added tags for Works Cited
 #trivialChange 
 %%
 

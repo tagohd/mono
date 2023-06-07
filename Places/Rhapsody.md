@@ -1,8 +1,12 @@
 %%
-Sudosays:: Added tags for Works Cited. Added tag "contains-music".
+trivial:: Added tags for Works Cited. Added tag "contains-music" and music metadata.
 #trivialChange 
 %%
 ![[Rhapsody for a Dying City.mp3]]
+%%
+songTitle:: Rhapsody for a Dying City
+songRemarks:: Maybe I should expand on the themes. It's a cool song, but it doesn't really work for a video game soundtrack.
+%%
 ## Searching for Inspiration
 Imagine [[Luke Campbell|you're]] from [[Genton|a small town]], and you have to go to a big, dirty city. You don't know anybody there, all the strangers seem to hate you, and you just don't feel welcome. You didn't even want to come, but the plot required it. You seek the training of the old master who lives there, or perhaps it's the only place you can find the rare MacGuffin you need; the specifics don't matter. The point is, you're lost, you hate it here, and you're pretty sure the feeling's mutual. Oh, and it's been raining the whole time.
 

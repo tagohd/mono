@@ -22,7 +22,7 @@ number headings: auto, first-level 1, max 6, contents ^toc, 1.1
 # 2 Focus
 Files that need urgent attention (this is mostly just for quick access)
 ```dataview
-TABLE focusComment as "What Needs Work"
+TABLE focusComment as "What Needs Work", Sudosays, Lunsays
 WHERE focus
 ```
 
@@ -45,7 +45,7 @@ WHERE focus
 >You can add a "Priority" field to specify suggested read order. Note that not assigning a priority will cause those files to sort *ahead* of ones that do have a priority. (But if one file has a priority and the others don't, I'll probably figure it out.)
 
 ```dataview
-TABLE file.mday as "Last Changed", sudoMajor as "Sudo's Changes", Priority
+TABLE file.mday as "Last Changed", sudoMajor as "Sudo's Changes", Priority, Sudosays, Lunsays
 FROM #majorChange and #unseenByLun
 SORT Priority, file.mtime DESC
 ```
@@ -55,21 +55,21 @@ SORT Priority, file.mtime DESC
 >This is also subjective, but I think it does have more to do with "amount changed" than Major Changes do. Examples: Specified how old a character is, created a new (stub) note, added information to a note that was already present in another note. They're *kinda* important, but if it can be easily summarized here in the overview, it's probably a minor change.
 
 ```dataview
-TABLE file.mday as "Last Changed", sudoMinor as "Sudo's Changes"
+TABLE file.mday as "Last Changed", sudoMinor as "Sudo's Changes", Sudosays, Lunsays
 FROM #minorChange and #unseenByLun 
 SORT file.mtime DESC
 ```
 
 ## 3.3 Changes Sudo Should Really Look At (Major Changes)
 ```dataview
-TABLE file.mday as "Last Changed", lunMajor as "Lun's Changes", Priority
+TABLE file.mday as "Last Changed", lunMajor as "Lun's Changes", Priority, Lunsays, Sudosays
 FROM #majorChange and #unseenBySudo 
 SORT Priority, file.mtime DESC
 ```
 
 ## 3.4 Changes Sudo Should Probably Look At (Minor Changes)
 ```dataview
-TABLE file.mday as "Last Changed", lunMinor as "Lun's Changes"
+TABLE file.mday as "Last Changed", lunMinor as "Lun's Changes", Lunsays, Sudosays
 FROM #minorChange and #unseenBySudo 
 SORT file.mtime DESC
 ```
@@ -79,14 +79,15 @@ SORT file.mtime DESC
 >They're not unimportant, per se, but you don't need to open the note to see what changed. Fixing typos, changing links, adding new tags. Things of that sort.
 
 ```dataview
-TABLE file.mday as "Last Changed", trivial as "Changes Made"
+TABLE file.mday as "Last Changed", trivial as "Changes Made", Sudosays, Lunsays
 FROM #trivialChange 
 SORT file.mtime DESC
 ```
 
 # 4 Files with Music
 ```dataview
-LIST from #contains-music 
+TABLE songTitle as "Title", songRemarks as "Remarks"
+FROM #contains-music 
 ```
 
 # 5 Unanswered Questions

@@ -1,6 +1,7 @@
 %%
-Sudosays:: Added tags for Works Cited. Case is 19 now. Added fields for Dataview.
-#minorChange #unseenByLun 
+sudoMinor:: Case is 19 now.
+trivial:: Added tags for Works Cited. Added fields for Dataview.
+#minorChange #unseenByLun #trivialChange 
 %%
 
 # General Notes

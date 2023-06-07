@@ -1,5 +1,11 @@
 # The Cursed One
 ![[The Cursed One.mp3]]
+%%
+songTitle:: The Cursed One
+songRemarks:: I uploaded this to Tumblr a long time ago.
+trivial:: Added song metadata.
+#trivialChange 
+%%
 
 # Al, THE SOUL TAKER
 With enough [[SOUL|SOULS]], he will become godlike. His essence is eternal, but there has always been someone to banish him. SOULS taken by AL are gradually forgotten until they all but disappear from existence. #Cite/Game/Undertale  [gameRefType:: Undertale/Plot]
@@ -89,8 +95,9 @@ Maybe the real curse was all the friends we made along the way. Wait, no, that's
 Yeah, maybe his curse is "being ADHD-coded". And stasis is like hyperfixation.
 
 %%
-Sudosays:: Gave a brief response to your question. Added tags for Works Cited.
-#minorChange #unseenByLun 
+sudoMinor:: Gave a brief response to your question, which is also in your DMs.
+trivial:: Added tags for Works Cited.
+#minorChange #unseenByLun #trivialChange 
 %%
 
 #character #cursed-al #the-cursed-one #unanswered-questions #contains-music

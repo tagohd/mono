@@ -97,7 +97,7 @@ L:
 
 \[...\]
 %%
-Sudosays:: Links to Mana Plane instead of Mana
+trivial:: Links to Mana Plane instead of Mana
 #trivialChange 
 %%
 S:

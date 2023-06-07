@@ -5,7 +5,7 @@ tags: refdoc
 There, now you can't say it's plagiarism. (I don't think it really works that way.)
 
 %%
-Sudosays:: Dataview!!! (I could use some help, though.)
+sudoMajor:: Dataview!!! (I could use some help, though.)
 Priority:: 7
 #majorChange #unseenByLun 
 %%

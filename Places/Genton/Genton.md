@@ -7,6 +7,10 @@ Genton (/‘gɪntən/ *GHIN-tən*, though more accurately transcribed as /'gɪn�
 # Boringsville
 ## First Version of Song
 ![[PV_RI Master.mp3]]
+%%
+songTitle:: Boringsville
+songRemarks:: The version with real instruments. Plays while you're walking around Genton
+%%
 ## Name Origin
 ### sudoscience
 Imagine you're [[Luke Campbell|The Chosen One (TM)]], and you're at the very start of your hero's journey. You come from a sleepy little town where nothing ever happens, until, of course, things do happen, and you find out you're the only one who can stop it.
@@ -27,6 +31,10 @@ Hey, thanks! I was kinda leaning in that direction actually, with the play on wo
 
 ## Boring Become Real
 ![[Boring Become Real.mp3]]
+%%
+songTitle:: Boring Become Real
+songRemarks:: Starts out 8-bit, transitions into real instruments
+%%
 Couple things going on here: 1) I added a new melody, and 2) I thought it would be neat if it slowly transitioned from 8-bit to "real" instruments, so I did that. (Also, as a reminder, the original version of this song is available on Bandcamp.)
 
 So, the "lore" here is that this is the theme of the protagonist's hometown. (The protagonist's name is Luke Campbell, btw; not sure if I've mentioned that before.) This town is basically in the middle of Bumfuck, Nowhere, and there's absolutely nothing to do, hence Luke calls it "Boringsville" instead of its actual name (which I still haven't come up with). Anyway, plot happens, Luke goes on a grand adventure, yadda yadda yadda, and at some point he returns to Boringsville, but he has a new appreciation for it. Yeah, it's a sleepy little farming town, but the people make living there worthwhile (or something sappy like that).
@@ -34,7 +42,7 @@ So, the "lore" here is that this is the theme of the protagonist's hometown. (Th
 That's kinda what I was trying to represent by having the instruments change. The broader idea here is that this is the soundtrack for an imaginary video game with a vaguely defined plot, so maybe it's a dynamic soundtrack and the instruments get replaced as you forge relationships with the other residents or rebuild the town or something. I think it makes more sense as separate tracks, but I spent longer than I should have working on this, so I'm just going to post this.
 
 %%
-Sudosays:: Added tags for Works Cited. Added tag "contains-music".
+trivial:: Added tags for Works Cited. Added tag "contains-music". Added music metadata.
 #trivialChange 
 %%
 

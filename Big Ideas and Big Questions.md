@@ -34,7 +34,7 @@ Already mentioned that everyone is queer, but now we also have... d i s a b i l 
 	- They also don't have a [[SOUL]] [question:: Is "not having a SOUL" a disability? In this world, it could be.]
 
 %%
-Sudosays:: I have responded. Also, the characters have disabilities now.
+sudoMajor:: I have responded. Also, the characters have disabilities now.
 Priority:: 10
 #majorChange  #unseenByLun 
 %%

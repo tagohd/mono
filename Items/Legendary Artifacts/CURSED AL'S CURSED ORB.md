@@ -31,15 +31,23 @@ No, wait, he's still an idiot. Just less of an idiot. Imagine if the chocolate o
 # Theme of THE ORB?
 Anyway, here's part of a song that might play when you're in the vicinity of THE ORB:
 ![[Power.mp3]]
+%%
+songTitle:: Power
+songRemarks:: Only piano in this version
+%%
 It also plays when you acquire THE ORANGE. I say "part of a song" because I want to add some more stuff to it, like a violin perhaps. Maybe you only hear this part when you get THE ORANGE, and you get to hear the whole song when you acquire THE ORB. Though if this were a real game, I'd imagine most players likely wouldn't hear the whole song; it will probably end up being much longer than the scene in which it plays.
 
 If THE ORB is one of many (see: [[1.3 Supernatural Aid]]), what if more instruments get added the more artifacts you acquire?
 
 ![[Power2.mp3]]
+%%
+songTitle:: Power (1)
+songRemarks:: Maybe more instruments get added as you acquire more Artifacts
+%%
 
 %%
 sudoMajor:: Had a new idea about oranges.
-trivial:: Added tag "contains-music" and YAML frontmatter.
+trivial:: Added tag "contains-music" and YAML frontmatter. Added music metadata.
 #majorChange  #unseenByLun 
 %%
 

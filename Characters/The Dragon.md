@@ -2,7 +2,7 @@
 alias: Edna, Ednathrallor
 ---
 %%
-Sudosays:: Added tags for Works Cited
+trivial:: Added tags for Works Cited
 #trivialChange 
 %%
 # Diversity Dragon

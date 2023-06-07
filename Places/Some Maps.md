@@ -1,7 +1,7 @@
 #places #refdoc 
 
 %%
-Sudosays:: Deleted some comments
+trivial:: Deleted some comments
 #trivialChange 
 %%
 # An abandoned WIP from ~9 years ago

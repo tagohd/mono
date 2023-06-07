@@ -56,7 +56,9 @@ Maybe he has to go into hiding and he changes his name to this at some point?
 
 # Luke's Theme?
 ![[The Chosen One.mp3]]
-
+%%
+songTitle:: The Chosen One
+songRemarks:: A WIP from \*checks notes\*
 [Lun]: ᕕ(⌐■_■)ᕗ ♪♬
 
 # Not really THE CHOSEN ONE

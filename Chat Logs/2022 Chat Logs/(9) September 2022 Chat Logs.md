@@ -11,6 +11,11 @@ S:
 >Okay, added you to a Google Drive, uploaded the WIP
 >![[NES Legend of Zelda Vibes.mp3]]
 
+%%
+songTitle:: NES Legend of Zelda Vibes
+songRemarks:: I don't know when this will play.
+%%
+
 L:
 >hohoho I am part of the exclusive cool club now
 >sounds cool!
@@ -21,7 +26,7 @@ S:
 >Yeah, it was more just, "Hey, this is cool! I can't use this here, but I should definitely save it for later.^[Hey, what do you know?]"
 
 %%
-Sudosays:: Added tag "contains-music"
+trivial:: Added tag "contains-music" and music metadata
 #trivialChange 
 %%
 
