@@ -31,8 +31,10 @@ Plus you can do multi-line comments. Only problem is you can't collapse them.
 Then you can collapse the comment.
 %%
 
->[!note] Note from Sudo
+>[!idea] Idea from Sudo
 >Or maybe you could do something like this?
+>They're definitely not unobtrusive, though, so maybe that's not what you're going for.
+>Also, you'll need to enable the "Callouts.css" snippet under Settings > Appearance to see this one properly
 
 >[!tip]
 >I am so fucking mad.
