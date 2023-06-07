@@ -8,12 +8,12 @@ This isn't directly revealed to the player (unless they're also colorblind, I gu
 
 We can use [this site](https://www.color-blindness.com/coblis-color-blindness-simulator/) to simulate how Luke might see an object. (Put the pictures in the relevant article or here, not in Luke's main article.)
 
-
+[Lun]: Diversity win! The protagonist is red-green colorblind.
 
 %%
 sudoMajor:: New article. Anytime the color of an object is important, we should check how it appears to Luke.
 Priority:: 3
-#majorChange #unseenByLun 
+#majorChange #unseenBySudo 
 %%
 
 #luke-campbell 

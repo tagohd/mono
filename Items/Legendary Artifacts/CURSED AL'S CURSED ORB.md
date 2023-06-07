@@ -28,6 +28,8 @@ What if he's not stupid? What if he's just [[LukeVISION (TM)|colorblind]]? You k
 
 No, wait, he's still an idiot. Just less of an idiot. Imagine if the chocolate orange was still in the box. (I am mean to this boy XD)
 
+[Lun]: Yeah, I don't think color blindness is much of an excuse for mistaking a chocolate orange with a powerful cursed artifact, but it's at least _something_ you could cut Luke some slack with. Mostly just dumb though.
+
 # Theme of THE ORB?
 Anyway, here's part of a song that might play when you're in the vicinity of THE ORB:
 ![[Power.mp3]]
@@ -48,7 +50,7 @@ songRemarks:: Maybe more instruments get added as you acquire more Artifacts
 %%
 sudoMajor:: Had a new idea about oranges.
 trivial:: Added tag "contains-music" and YAML frontmatter. Added music metadata.
-#majorChange  #unseenByLun 
+#majorChange  #unseenBySudo 
 %%
 
 #items #the-orb #luke-campbell #cursed-al #case-weston #unanswered-questions #legendary-artifact #contains-music 

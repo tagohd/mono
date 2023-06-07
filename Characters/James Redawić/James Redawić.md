@@ -14,7 +14,7 @@ He's not necessarily rude, but he tends to be laconic, and he doesn't volunteer 
 %%
 sudoMajor:: Answering the question "Is James also dumb?"
 Priority:: 1
-#majorChange #unseenByLun 
+#majorChange #unseenBySudo 
 %%
 
 He's manipulating Luke into defeating CURSED AL. I mean, you don't date a guy like CURSED AL if you're not at least a little evil yourself. (It wasn't an abusive relationship or anything, btw. They were just both evil.)
@@ -28,6 +28,8 @@ Or maybe CURSED AL is manipulating James into manipulating Luke? James knows whe
 [Sudo]: This might be a case of "The author is also an idiot." Maybe the plan *was* for the artifacts to be destroyed, but James was like, "You're still a novice. You won't be able to handle the mana needed to cast Destroy Legendary Artifact, so just bring them back to me, and I'll take care of that." But then, because they're cursed artifacts, James becomes unwilling to destroy them.
 [Sudo]: "Oh, pwease don't destwoy us, Mr. Wizard! Think about all the weally cool spells you could cast with us!"
 [Sudo]: And James is like, "Hmmm, that's a good point."
+
+[Lun]: I do like the idea of James being a little evil. Corrupt that old man! Also, see what I answered on [[James's Excuse]]
 
 #Cite/Lit/LOTR (??? Only in the sense that the Artifacts have a corrupting influence over their possessor. Imagine if The One Ring talked to its bearer like that lol.)
 

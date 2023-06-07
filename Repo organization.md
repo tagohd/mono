@@ -5,7 +5,7 @@ number headings: auto, max 2
 sudoMajor:: I elaborated on my responses if you haven't already read them.
 sudoMinor:: I installed a new plugin called "Number Headings"
 Priority:: 1
-#minorChange #majorChange #unseenByLun 
+#minorChange #majorChange #unseenBySudo 
 %%
 
 # 1 Organization
@@ -42,8 +42,16 @@ Then you can collapse the comment.
 
 \^ These are fun!
 
+
+>[!warning]
+> I'll admit this is funny but I'm not writing a whole story like this!!!
+
+[Lun]: While _actual comments_ seem like a nice way of handling this issue, I'm claiming this way of writing comments because I think it looks cool. Also because when scrolling through a document with new additions by me you can see what I wrote, I guess. Mostly because it's cool though.
+
 # 2 Answers
 [First]: How are you making everything small? Oh, like that. Okay.
+
+[Lun]: Exactly. I discovered this by accident btw.
 
 ## 2.1 Obsidian Sync
 ### Quote
@@ -55,6 +63,7 @@ L:
 
 ### Response
 Oh?
+[Lun]: It's "answer everything in one notepad doc and then make it into a tumblr post".
 
 ### Quote
 S:
@@ -74,7 +83,11 @@ Btw, I forgot that the $8/mo is only if you pay for the whole year (i.e. it says
 #### You didn't ask, but I'm going to tell you about my hard drives
 "3.37 TB?" I pretend to hear you say. "That's weird. Why isn't it something like 3.5 TB?"
 
+[Lun]: Yes, pretend I did say that. I would say something like that, maybe. Sometime I'm sure.
+
 That's because it's actually *5* hard drives. I have a 512 GB M.2 drive that I use as my boot drive (C:), and then I have four other hard drives that I tell my computer to pretend are actually just one drive (D:).
+
+[Lun]: But why
 
 I don't even remember how I managed to set that up. I feel like I've become a lot less computer-proficient since I switched back to Windows from Ubuntu. But that's how I had it set up when I was a Linux nerd. Oh, I think it was called "logical volume management", but on Windows it's just "Storage Spaces". Anyway, my storage space consists of:
 
@@ -84,6 +97,8 @@ I don't even remember how I managed to set that up. I feel like I've become a lo
 - 500 GB SSD (I bought this one in 2019 I think? I probably paid as much for it as I did for the 60 GB one.)
 
 For a combined total of 2.86 TB, though Windows seems to think it's only 2.59 TB. I don't know where that other 280 GB went. (Oh. It's because of binary. Of course.)
+
+[Lun]: That answers that!
 
 ## 2.2 Obsidian Git
 ### Quote
@@ -124,5 +139,7 @@ Okay, so I watched [the scene](https://www.youtube.com/watch?v=t4NQsVWsf08) agai
 >My power is fading fast...
 >Your power is greater than I thought.
 >Maybe you can destroy Sigma.
+
+[Lun]: "Maybe you can destroy Sigma.". Very inspiring!
 
 Maybe I should create a new note called "[[Works Cited]]" just as a reference.
