@@ -86,8 +86,10 @@ Considering he's _preparing_ to cast a big fucko spell with this new addition (a
 ---
 Maybe the real curse was all the friends we made along the way. Wait, no, that's not right. I'll come back to you on that.
 
+Yeah, maybe his curse is "being ADHD-coded". And stasis is like hyperfixation.
+
 %%
-Sudosays:: Added tags for Works Cited. Half-assed my response to your comment.
+Sudosays:: Gave a brief response to your question. Added tags for Works Cited.
 #minorChange #unseenByLun 
 %%
 
