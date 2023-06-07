@@ -1,6 +1,6 @@
 %%
-Sudosays:: Added tags for Works Cited
-#trivialChange 
+Sudosays:: Added tags for Works Cited. Case in 19 now. Added fields for Dataview.
+#minorChange #unseenByLun 
 %%
 
 # General Notes
@@ -23,11 +23,19 @@ Sudosays:: Added tags for Works Cited
 - Species: spoopy (a raven, maybe?)
 - Has antlers though #Cite/TV/The-Owl-House [tvRefType:: The Owl House/Character]
 
+%%
+question:: CURSED AL age and species
+%%
+
 ## [[James Redawić]]
 - Mentor to Luke
 - Looks like he's in his 30s, but he's actually closer to 200 years old
 - Runs a [[The Old Silver Mine|museum]] out of the abandoned silver mine in [[Plata]]
 - Also some kind of bird-person
+
+%%
+question:: James age and species
+%%
 
 ## [[Sam Ward]]
 - "Damsel in distress", but they're not a damsel, and whether they're in distress is also debatable
@@ -46,12 +54,21 @@ Sudosays:: Added tags for Works Cited
 	- Maybe it's one-sided. However, Luke *does* have two hands...
 - Nicholas D. Wolfwood. He's Nicholas D. Wolfwood. #Cite/TV/Trigun98 [tvRefType:: Trigun/Character]
 	- He's not a wolf, though. That would be too obvious.
+- Probably just a bit older than Luke, maybe 19
+
+%%
+question:: What species is Case?
+%%
 
 ## [[The Emperoress]]
 - The one actually pulling all the strings
 - The bigender/genderfluid master of CURSED AL
 	- Many believe they're two separate people
 - Possibly the same as [[The Dragon]]?
+
+%%
+question:: Is The Emperoress secretly Edna?
+%%
 
 ## [[The Dragon]]
 - You'd think this is the true main antagonist, but she's actually [[(12) December 2020 Chat Logs#^8a0296|super chill]]

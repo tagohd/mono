@@ -4,7 +4,7 @@
 # Al, THE SOUL TAKER
 With enough [[SOUL|SOULS]], he will become godlike. His essence is eternal, but there has always been someone to banish him. SOULS taken by AL are gradually forgotten until they all but disappear from existence. #Cite/Game/Undertale  [gameRefType:: Undertale/Plot]
 
-What draws people to AL? Not what makes someone willing to forfeit their SOUL, but what are the first steps? Does AL seek them out, or is he summoned?
+[question:: What draws people to AL? Not what makes someone willing to forfeit their SOUL, but what are the first steps? Does AL seek them out, or is he summoned?]
 
 ![[weird_bird.png]]
 CURSED AL maybe?
@@ -81,7 +81,7 @@ flowchart TB
 Also, he is the only one allowed to call James "Jimmy". ^b26734
 
 ---
-Considering he's _preparing_ to cast a big fucko spell with this new addition (and has not yet cast it), what caused AL to become CURSED? His time in the stasis dimension thing? Or is he Just Like That.
+Considering he's _preparing_ to cast a big fucko spell with this new addition (and has not yet cast it), [question:: what caused AL to become CURSED? His time in the stasis dimension thing? Or is he Just Like That.]
 
 ---
 Maybe the real curse was all the friends we made along the way. Wait, no, that's not right. I'll come back to you on that.

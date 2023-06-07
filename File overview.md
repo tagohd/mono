@@ -29,7 +29,7 @@ WHERE focus
 # 3 Changes
 Delete the tags when you've read the changes and they'll disappear from the tables. Or maybe we could have the tags #unseenBySudo and #unseenByLun, and we delete our respective tags when we've seen the changes? (I am using an "and" in the queries, so you really only have to delete the "unseen" tag.)
 
-[Sudo]: I'll leave it up to you to decide what kinds of changes count as major, minor, or trivial. To me, tagging something as a major change means I really want you to look at it/you should look at it first. Minor changes: I only added a couple sentences or explicitly referenced a detail that had previously only been hinted at. Trivial changes: usually just changes to the metadata or adding a link. Something that causes the file to show that it was recently modified, but doesn't really affect anything.
+[Sudo]: I'll leave it up to you to decide what kinds of changes count as major, minor, or trivial. To me, tagging something as a major change means I really want you to look at it/you should look at it first. Minor changes: I only added a couple sentences or explicitly referenced a detail that had previously only been hinted at. Trivial changes: usually just changes to the metadata, adding a link, or placing the note into a new folder. Something that causes the file to show that it was recently modified, but doesn't really affect anything.
 
 ## 3.1 Changes Lun Should Really Look At (Major Changes)
 ```dataview

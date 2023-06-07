@@ -8,16 +8,16 @@ Sudosays:: Maybe they're like the Infinity Stones? Also added DATAVIEW
 # About
 The Legendary Artifacts are objects [[Luke Campbell|Luke]] must retrieve on his quest to defeat [[CURSED AL]].
 
-**How many are there?**
+>[!question] [question:: How many are there?]
 >7? 8? 17? I don't know yet.
 
-**What do they do, aside from function as convenient objectives?**
+>[!question] [question:: What do they do, aside from function as convenient objectives?]
 >Who knows? I sure don't. Maybe they form some sort of weapon when properly assembled. A [[SOUL AMPLIFIER]] or something?
 
-**Are they Horcruxes?**
+>[!question] Are they Horcruxes?
 >No. I think Luke needs to gather them all, not destroy them. But they do have some relations to SOULS, and it seems likely that AL can't be defeated without them. And they may hold some personal significance to AL.
 
-**Are they like the Needles in Mother 3?**
+>[!question] Are they like the Needles in Mother 3?
 >Kinda? Maybe in the sense that gathering them all (or at least a majority) lets you control something. Also in the sense that there's someone else after them. But not in the sense that they disappear when pulled (or that pulling them causes a magical enby to die). #Cite/Game/Mother3 
 >
 >Oh! Maybe they're like the Infinity Stones. #Cite/Movie/MCU 

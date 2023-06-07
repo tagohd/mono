@@ -14,4 +14,4 @@ Sudosays:: Answered an unanswered question.
 #minorChange #unseenByLun 
 %%
 
-#character #the-horse #ma-and-pa-campbell #luke-campbell #the-dragon
+#character #the-horse #ma-and-pa-campbell #luke-campbell #the-dragon #answered-questions 

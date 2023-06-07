@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 16760878
       }
+    },
+    {
+      "query": "tag:#answered-questions",
+      "color": {
+        "a": 1,
+        "rgb": 1506841
+      }
     }
   ],
   "collapse-display": true,

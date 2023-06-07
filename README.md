@@ -1,7 +1,13 @@
 ---
 alias: Outline
-tags: unanswered-questions, refdoc
+tags: refdoc
 ---
+
+%%
+Sudosays:: This was tagged "unanswered-questions", but there weren't any questions?
+#trivialChange 
+%%
+
 # About MONO
 MONO is a fictional RPG based on the Hero's Journey. The purpose of this site is to collect all the lore so that I can use it to give this fake game a real soundtrack.
 
