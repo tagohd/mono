@@ -32,6 +32,9 @@ Or maybe CURSED AL is manipulating James into manipulating Luke? James knows whe
 
 question:: [[James's Excuse|Why doesn't James just get the artifacts himself?]]
 
+>[!tldr]
+>![[wizard that knows fuck all.jpg|300]]
+
 # James Still Remembers You
 ![[3 - James Still Remembers You.mp3]]
 See: [[(2) February 2023 Chat Logs#The Most Important Change I've Made|The Most Important Change I've Made]]

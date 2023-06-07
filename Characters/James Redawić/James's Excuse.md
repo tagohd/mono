@@ -1,9 +1,10 @@
 ---
 focus: True
 focusComment: Why does James make Luke get the Artifacts? This seems like a major plothole if not addressed.
+question:: Why doesn't James just get the Artifacts himself?
 ---
 # Why doesn't James just get the Artifacts himself?
-%%question:: Why doesn't James just get the Artifacts himself?%%
+
 ![[uhhh.jpg]]
 
 >[!idea] What if he's paraplegic?
@@ -13,8 +14,7 @@ focusComment: Why does James make Luke get the Artifacts? This seems like a majo
 
 >[!question] Why not? Why is anyone disabled in a universe where magic exists?
 >Just because (almost) anyone can use magic doesn't mean everyone *should*. Magic is dangerous. You're literally tearing holes into the fabric of reality, and if you're not careful, that can have some pretty dire consequences.
-
->[!note] Maybe [[Sam Ward|Sam]] can't use magic because they don't have a [[SOUL]]
+>>[!note] Maybe [[Sam Ward|Sam]] can't use magic because they don't have a [[SOUL]]
 
 >[!question] So then, wouldn't there be a class of mages who specialize in healing magic? Like doctors?
 >Maybe they're really expensive. Like doctors. You think [[James Redawić|James]] can afford that with the money he makes from the [[The Old Silver Mine|museum]]? (Oh, sorry, maybe that doesn't make sense if you live in a civilized country.)
@@ -37,11 +37,21 @@ focusComment: Why does James make Luke get the Artifacts? This seems like a majo
 
 >[!idea] Can't we just say Luke is an idiot, so it never occurs to him to question this?
 >James really sells him on the whole CHOSEN ONE thing. "It is your destiny to do these errands for me, CHOSEN ONE."
-
->[!note] If AL sounds like Chuck McGill, James sounds like Obi-Wan Kenobi
+>>[!note] If AL sounds like Chuck McGill, James sounds like Obi-Wan Kenobi
 
 >[!question] He's going to question it eventually. Like when he finds out James has been lying to him.
 >Yeah...
+
+>[!idea] Okay, maybe it's not an illusion that James is paraplegic. He's just really, really old.
+>Like, 150+ years old. The illusion is that he looks younger. And, yeah, he's using magic to artificially extend his life, but he's still aging. He's just aging slower. (As stated above, magic can only do so much before you start running into consequences.)
+>
+>He's 150, but he has the joints of a 60-year-old. A reasonably fit 60-year-old, but still. (And he doesn't look a day over 40!) He's not exactly up for an adventure that's going to involve lots of running and climbing and stuff.
+>
+>Luke, on the other hand, is 16 and runs cross-country. (And, importantly, is easily manipulated.)
+
+>[!question] He's a wizard! Can't he just, like, fly and teleport and stuff?
+>Maybe he (ostensibly) really cares about making sure the younger generation is trained in the use of magic?
+>![[wizard that knows fuck all.jpg|300]]
 
 %%
 This makes me feel like we're playing Disco Elysium or something lol. Maybe I can change the CSS to be DE colors. (That might be kinda hard to read against a black background? And also unnecessary work.)

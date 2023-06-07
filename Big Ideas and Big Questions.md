@@ -24,7 +24,7 @@ I don't know if I can answer that yet...
 
 # What else is important to me about MONO
 ## Representation
-Already mentioned that everyone is queer, but now we also have... d i s a b i l i t i e s
+Already mentioned that everyone is queer, but now we also have... d i s a b i l i t i e s [question:: Why is anyone disabled in a universe where magic exists?]
 
 - [[Luke Campbell|Luke]] is [[LukeVISION (TM)|colorblind]]
 	- And an idiot. Is that a disability? [question:: Is idiot a disability?]
