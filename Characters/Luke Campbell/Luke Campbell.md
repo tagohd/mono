@@ -33,7 +33,14 @@ You know how you can broadly divide dog races into the group that got bred to do
 
 
 >[!idea]
->Or maybe he's just [[LukeVISION (TM)|colorblind]] and grabs the [[chocolate orange]] by mistake? But once he realizes it's not actually THE ORB, he still wants to eat it. Maybe this can be a recurring thing throughout the story, and it also ties into Luke hiding the fact that he's a dogboy. (Maybe deople (dog-people) are discriminated against for some reason?) Pretty much everyone knows that deople (dog-people) are colorblind, but not everyone knows that Luke is a dogboy. (And maybe Luke is so much of an idiot that he's not even aware he's colorblind.)
+>Or maybe he's just [[LukeVISION (TM)]] and grabs the [[chocolate orange]] by mistake? But once he realizes it's not actually THE ORB, he still wants to eat it. Maybe this can be a recurring thing throughout the story, and it also ties into Luke hiding the fact that he's a dogboy. (Maybe deople (dog-people) are discriminated against for some reason?) Pretty much everyone knows that deople (dog-people) are colorblind, but not everyone knows that Luke is a dogboy. (And maybe Luke is so much of an idiot that he's not even aware he's colorblind.)
+
+## LukeVISION (TM)
+As a dogboy, Luke suffers from protanopia, or red-green colorblindness. Among other things, this causes him to mistake [[CURSED AL'S CURSED ORB]] for an ordinary [[chocolate orange]]. I mean, it's also because he's an idiot, but being colorblind isn't doing him any favors either. (A Legendary Artifact has some distinct vibes it gives off that Luke totally failed to pick up on.)
+
+This isn't directly revealed to the player (unless they're also colorblind, I guess). Like, the game is still colored normally. They just have to figure out that Luke is colorblind when he's told to pick up a blood-red ORB and grabs something orange instead.
+
+We can use [this site](https://www.color-blindness.com/coblis-color-blindness-simulator/) to simulate how Luke might see an object. (Put the pictures in the relevant article, not this one.)
 
 ## Lucas Progresso
 

@@ -17,7 +17,7 @@ Building off the ideas in the [[(5) May 2023 Chat Logs#Behold, THE ORBNGE|chat l
 Luke really is just that stupid.
 
 ## Or is he?
-What if he's not stupid? What if he's just colorblind? You know, because he's a dogboy.
+What if he's not stupid? What if he's just [[LukeVISION (TM)|colorblind]]? You know, because he's a dogboy.
 
 ![[THE_ORB.jpg|300]] ![[Rhapsody_slightlysmaller.png|300]]
 "THE ORB", as it appears normally

@@ -28,7 +28,7 @@ Or maybe CURSED AL is manipulating James into manipulating Luke? James knows whe
 [Sudo]: "Oh, pwease don't destwoy us, Mr. Wizard! Think about all the weally cool spells you could cast with us!"
 [Sudo]: And James is like, "Hmmm, that's a good point."
 
-#Cite/Lit/LOTR (??? Imagine if The One Ring talked to its bearer like that lol.)
+#Cite/Lit/LOTR (??? Only in the sense that the Artifacts have a corrupting influence over their possessor. Imagine if The One Ring talked to its bearer like that lol.)
 
 ### Why doesn't James just get the Artifacts himself?
 ![[uhhh.jpg]]
