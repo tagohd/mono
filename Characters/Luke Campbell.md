@@ -31,6 +31,10 @@ You know how you can broadly divide dog races into the group that got bred to do
 - Regrettably for him, he gets feelings for Luke after being saved by him, therefore becoming the (main?) love interest (enemies to lovers anyone?)
 - While he was initially trying to get the orb because he was ordered to do so by [[Other Ideas from Lunathrix|the big bad]], he gradually ends up trying to take the orb from Luke to prevent him from poisoning himself, thereby fulfilling the “What’s that in your mouth? SPIT THAT OUT!” role
 
+
+>[!idea]
+>Or maybe he's just [[LukeVISION (TM)|colorblind]] and grabs the [[chocolate orange]] by mistake? But once he realizes it's not actually THE ORB, he still wants to eat it. Maybe this can be a recurring thing throughout the story, and it also ties into Luke hiding the fact that he's a dogboy. (Maybe deople (dog-people) are discriminated against for some reason?) Pretty much everyone knows that deople (dog-people) are colorblind, but not everyone knows that Luke is a dogboy. (And maybe Luke is so much of an idiot that he's not even aware he's colorblind.)
+
 ## Lucas Progresso
 
 Maybe he has to go into hiding and he changes his name to this at some point?
