@@ -2,7 +2,6 @@
 focus: True
 focusComment: Why does James make Luke get the Artifacts? This seems like a major plothole if not addressed.
 question:: Why doesn't James just get the Artifacts himself?
-Priority:: 1
 ---
 # Why doesn't James just get the Artifacts himself?
 
