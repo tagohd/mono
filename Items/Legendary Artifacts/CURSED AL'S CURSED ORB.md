@@ -38,7 +38,8 @@ If THE ORB is one of many (see: [[1.3 Supernatural Aid]]), what if more instrume
 ![[Power2.mp3]]
 
 %%
-Sudosays:: Had a new idea about oranges. Also added tag "contains-music" and YAML frontmatter.
+sudoMajor:: Had a new idea about oranges.
+trivial:: Added tag "contains-music" and YAML frontmatter.
 #majorChange  #unseenByLun 
 %%
 

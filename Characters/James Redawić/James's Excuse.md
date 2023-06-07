@@ -59,7 +59,7 @@ This makes me feel like we're playing Disco Elysium or something lol. Maybe I ca
 %%
 
 %%
-Sudosays:: Working on answering this.
+sudoMajor:: Trying to answer why James doesn't get the artifacts himself if it's so important that CURSED AL is stopped.
 #majorChange #unseenByLun 
 %%
 

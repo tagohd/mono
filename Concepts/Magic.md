@@ -24,9 +24,10 @@ This system has some of the following practical consequences:
 
 ---
 %%
-Sudosays:: I have responded. Also added tags for Works Cited.
+sudoMajor:: I have responded.
+trivial:: Added tags for Works Cited and fields for the Unanswered Questions heading on File Overview
 Priority:: 5
-#majorChange #unseenByLun 
+#majorChange #unseenByLun #trivialChange 
 %%
 
 Involves the [[SOUL]] somehow, hence the desire for the [[SOUL AMPLIFIER]]. (Since I have yet to define what the SOUL is, maybe it doesn't make sense to amplify them; I might have to change the name later.) But maybe the SOUL acts like a lightning rod for mana, or the SOUL itself is the one doing the amplification. Maybe mana comes in a variety of wavelengths and each SOUL has a specific "resonant frequency", so to speak. If you want to cast a protection spell, you channel green mana; if you want to cast Magic Missile, you channel yellow mana; etc.

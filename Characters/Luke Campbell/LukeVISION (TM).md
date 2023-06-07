@@ -11,7 +11,7 @@ We can use [this site](https://www.color-blindness.com/coblis-color-blindness-si
 
 
 %%
-Sudosays:: New article. Anytime the color of an object is important, we should check how it appears to Luke.
+sudoMajor:: New article. Anytime the color of an object is important, we should check how it appears to Luke.
 Priority:: 3
 #majorChange #unseenByLun 
 %%

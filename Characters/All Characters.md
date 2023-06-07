@@ -1,5 +1,5 @@
 %%
-Sudosays:: Added tags for Works Cited. Case in 19 now. Added fields for Dataview.
+Sudosays:: Added tags for Works Cited. Case is 19 now. Added fields for Dataview.
 #minorChange #unseenByLun 
 %%
 

@@ -30,49 +30,56 @@ WHERE focus
 >[!tip]
 >Delete the tags when you've read the changes and they'll disappear from the tables. Or maybe we could have the tags #unseenBySudo and #unseenByLun, and we delete our respective tags when we've seen the changes? (I am using an "and" in the queries, so you really only have to delete the "unseen" tag.)
 
-[Sudo]: I'll leave it up to you to decide what kinds of changes count as major, minor, or trivial. To me, tagging something as a major change means I really want you to look at it/you should look at it first. Minor changes: I only added a couple sentences or explicitly referenced a detail that had previously only been hinted at. Trivial changes: usually just changes to the metadata, adding a link, or placing the note into a new folder. Something that causes the file to show that it was recently modified, but doesn't really affect anything.
-
-[Sudo]: You can also add a priority field if you want. You could use this to actually assign priorities, or just to specify read order.
+>[!tip]
+>Nothing saying you can't have multiple instances of the same tag in the same document. Maybe you made both major and minor changes to the same note?
+>>[!note] We'd need new Dataview fields, though, or it will show all your comments in both tables.
+>>How about sudoMajor, sudoMinor, lunMajor,  lunMinor, and trivial?
 
 ## 3.1 Changes Lun Should Really Look At (Major Changes)
 >[!question] What's a major change?
->To me, it's more to do with how much I think you need to see it than how much actually changed. You can use your own judgment. Or, to paraphrase Potter Stewart, "You'll know one when you see one."
+>To me, it's more to do with how much I think you need to see it than how much actually changed. They're frequently *big* changes, or they involve questions I'd like you to answer. Or maybe there's just a new song :)
+>
+>To paraphrase Potter Stewart, "You'll know one when you see one."
 
 >[!tip]
 >You can add a "Priority" field to specify suggested read order. Note that not assigning a priority will cause those files to sort *ahead* of ones that do have a priority. (But if one file has a priority and the others don't, I'll probably figure it out.)
 
 ```dataview
-TABLE file.mday as "Last Changed", Sudosays as "Sudo's Changes", Priority
+TABLE file.mday as "Last Changed", sudoMajor as "Sudo's Changes", Priority
 FROM #majorChange and #unseenByLun
 SORT Priority, file.mtime DESC
 ```
 
 ## 3.2 Changes Lun Should Probably Look At (Minor Changes)
 >[!question] What's a minor change?
->
+>This is also subjective, but I think it does have more to do with "amount changed" than Major Changes do. Examples: Specified how old a character is, created a new (stub) note, added information to a note that was already present in another note. They're *kinda* important, but if it can be easily summarized here in the overview, it's probably a minor change.
+
 ```dataview
-TABLE file.mday as "Last Changed", Sudosays as "Sudo's Changes"
+TABLE file.mday as "Last Changed", sudoMinor as "Sudo's Changes"
 FROM #minorChange and #unseenByLun 
 SORT file.mtime DESC
 ```
 
 ## 3.3 Changes Sudo Should Really Look At (Major Changes)
 ```dataview
-TABLE file.mday as "Last Changed", Lunsays as "Lun's Changes", Priority
+TABLE file.mday as "Last Changed", lunMajor as "Lun's Changes", Priority
 FROM #majorChange and #unseenBySudo 
 SORT Priority, file.mtime DESC
 ```
 
 ## 3.4 Changes Sudo Should Probably Look At (Minor Changes)
 ```dataview
-TABLE file.mday as "Last Changed", Lunsays as "Lun's Changes"
+TABLE file.mday as "Last Changed", lunMinor as "Lun's Changes"
 FROM #minorChange and #unseenBySudo 
 SORT file.mtime DESC
 ```
 
 ## 3.5 Trivial Changes
+>[!question] What's a trivial change?
+>They're not unimportant, per se, but you don't need to open the note to see what changed. Fixing typos, changing links, adding new tags. Things of that sort.
+
 ```dataview
-TABLE file.mday as "Last Changed", Sudosays as "Changes Made"
+TABLE file.mday as "Last Changed", trivial as "Changes Made"
 FROM #trivialChange 
 SORT file.mtime DESC
 ```
