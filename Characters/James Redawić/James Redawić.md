@@ -16,7 +16,7 @@ He's manipulating Luke into defeating CURSED AL. I mean, you don't date a guy li
 
 [Lun]: Oh, that explains the "James is kind of a bitch" thing
 
-Or maybe CURSED AL is manipulating James into manipulating Luke? James knows where [[The Legendary Artifacts]] are because AL told him. James gives this information to Luke so that he can stop AL from making the [[SOUL AMPLIFIER]] (James does not want to live forever, especially if it means the destruction of the universe), but this does mean that Luke ends up making AL's job easier.
+Or maybe CURSED AL is manipulating James into manipulating Luke? James knows where [[Legendary Artifacts]] are because AL told him. James gives this information to Luke so that he can stop AL from making the [[SOUL AMPLIFIER]] (James does not want to live forever, especially if it means the destruction of the universe), but this does mean that Luke ends up making AL's job easier.
 
 [Lun]: Having someone collect all parts of some cursed machine to stop someone else from collecting them seems to indeed be quite the idiot move. [question:: Is James also dumb?  Or did Luke just misinterpret whatever James said and was then unable to get corrected after James fucking Died™]
 [Sudo]: This might be a case of "The author is also an idiot." Maybe the plan *was* for the artifacts to be destroyed, but James was like, "You're still a novice. You won't be able to handle the mana needed to cast [[Destroy Legendary Artifact]], so just bring them back to me, and I'll take care of that." But then, because they're cursed artifacts, James becomes unwilling to destroy them.
@@ -35,7 +35,12 @@ trivial:: Marked as read
 question:: [[James's Excuse|Why doesn't James just get the artifacts himself?]]
 
 >[!tldr]
+>Still this:
 >![[wizard that knows fuck all.jpg|300]]
+>But possible solutions:
+> - He's in a wheelchair, and magic can't/shouldn't be used to heal him
+> - He knows he's going to die, so he has to get Luke (or someone, but Luke is convenient) to do it for him
+> - He tells Luke that collecting the artifacts is a hazing ritual for new members of [[Institute for the Magical Arts & Sciences|The Wizard Club (TM)]] (See: [[Destroy Legendary Artifact]]) (that's not really a motivation, though)
 
 # James Still Remembers You
 ![[3 - James Still Remembers You.mp3]]

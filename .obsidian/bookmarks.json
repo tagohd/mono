@@ -12,9 +12,9 @@
         },
         {
           "type": "file",
-          "ctime": 1686120406037,
+          "ctime": 1686216339328,
           "path": "File Overview.md",
-          "subpath": "#3.1 Changes Lun Should Really Look At (Major Changes)",
+          "subpath": "#3.1.2 Table",
           "title": "Changes Lun Should Really Look At"
         },
         {
@@ -26,17 +26,17 @@
         },
         {
           "type": "file",
-          "ctime": 1686108373262,
-          "path": "File Overview.md",
-          "subpath": "#3.3 Changes Sudo Should Really Look At (Major Changes)",
-          "title": "Changes Sudo Should Really Look At"
-        },
-        {
-          "type": "file",
           "ctime": 1686108414317,
           "path": "File Overview.md",
           "subpath": "#3.4 Changes Sudo Should Probably Look At (Minor Changes)",
           "title": "Changes Sudo Should Probably Look At"
+        },
+        {
+          "type": "file",
+          "ctime": 1686108373262,
+          "path": "File Overview.md",
+          "subpath": "#3.3 Changes Sudo Should Really Look At (Major Changes)",
+          "title": "Changes Sudo Should Really Look At"
         },
         {
           "type": "file",

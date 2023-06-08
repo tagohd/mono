@@ -26,7 +26,7 @@ question:: Why doesn't James just get the Artifacts himself?
 >And [[Luke Campbell|Luke]] naively falls for it
 
 >[!idea] And maybe James is actually working in cahoots with [[CURSED AL]]
->Or he wants to make it seem that way (to AL, not to Luke), and he'll use [[The Legendary Artifacts]] himself and betray AL
+>Or he wants to make it seem that way (to AL, not to Luke), and he'll use [[Legendary Artifacts]] himself and betray AL
 
 >[!question] Okay, so then why can't AL get the artifacts himself?
 >Who said he can't? Maybe it *is* like Mother 3, and sometimes AL (or one of his underlings) gets to the artifact first. But, unlike Mother 3, you can't build the [[SOUL AMPLIFIER]] with just a simple majority of the artifacts. You need all of them.
@@ -65,7 +65,7 @@ movieRefType:: Star Wars/Character
 
 [Lun]: Here's an addition to my "Luke misinterpreted James" thing that might work: James did not intend to gather all the artifacts at all. He just wanted Luke to bring him the one (1) from [[Rhapsody]] to check if it's still there, maybe study it (and get a little addicted to its evil power?). Then James died shortly after, and Luke was like "Guess I have to collect all the rest now to complete my quest!". And then maybe the reason James didn't want to collect that one himself is that it would have warned AL that he's on to his funny business (whereas a random dogboy taking it is just another unlucky thursday).
 
-[Sudo]: Ah, of course. The perfect solution is for James to just fucking die. What were his motivations? You'll never know. Because he's dead. 
+[Sudo]: Ah, of course. The perfect solution is for James to just fucking die. What were his motivations? You'll never know. Because he's dead. Or maybe that IS his motivation. He knows he's going to die, so he gets Luke to do it.
 
 [Lun]: Also, relating what you wrote above: consider that magic might not be able to do _everything_. How I see it, [[Mana]] is really just a funky energy source which you can use to do a bunch of different things. However, most of it is pretty elementary (move stuff, ignite stuff, zap stuff, create simple stuff) whereas something like healing is very much not an elementary thing to do. That would require almost complete biological knowledge on what you want to heal + even if you know what to do, the healing itself would be extremely difficult too, like curing paralysis would probably involve stitching neurons back together.
 
@@ -94,7 +94,7 @@ movieRefType:: Star Wars/Character
 And of course, HP is just an abstraction of your ability to keep going in a fight. What it's actually analogous to might not really matter.
 
 %%
-sudoMajor:: Some new ideas about magic
+sudoMajor:: Some new ideas about magic. Read this first.
 Priority:: 1
 #majorChange #unseenByLun 
 %%

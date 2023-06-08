@@ -1,5 +1,5 @@
 ---
-alias: IMAS
+alias: IMAS, The Wizard Club (TM)
 ---
 
 IMAS for short. (Thought about calling it "Arcane Institute for Magical Sciences" so it would abbreviate to AIMS, but that sounded too made-up. How about "International Council of Bards and Magicians", or ICBM?)
@@ -13,8 +13,8 @@ question:: What is James's and/or CURSED AL's backstory with IMAS? Were they exp
 %%
 
 %%
-sudoMajor:: New article
-Priority:: 2
+sudoMajor:: New article. Read this third.
+Priority:: 3
 #majorChange #unseenByLun 
 %%
 

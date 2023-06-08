@@ -52,8 +52,8 @@ question:: Fuckin' magic, how does it work?
 
 # Can vs. Should
 %%
-sudoMajor:: Expanded on new magic idea mentioned in [[James's Excuse]]
-Priority:: 3
+sudoMajor:: Expanded on new magic idea mentioned in [[James's Excuse]]. Read this second.
+Priority:: 2
 #majorChange #unseenByLun 
 %%
 

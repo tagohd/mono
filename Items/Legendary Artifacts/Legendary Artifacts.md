@@ -2,14 +2,17 @@
 IncludeInTable: False
 ---
 %%
-sudoMinor:: Maybe they're like the Infinity Stones? Also added DATAVIEW
+sudoMinor:: Maybe they're like the Infinity Stones? Also added DATAVIEW.
+sudoMinor:: Decided there should be 7 Artifacts.
 #minorChange #unseenByLun 
+trivial:: Dropped the "The" from the title.
+#trivialChange 
 %%
 # About
 The Legendary Artifacts are objects [[Luke Campbell|Luke]] must retrieve on his quest to defeat [[CURSED AL]].
 
->[!question] [question:: How many are there?]
->7? 8? 17? I don't know yet.
+>[!question] How many are there?
+>Let's go with 7.
 
 >[!question] [question:: What do they do, aside from function as convenient objectives?]
 >Who knows? I sure don't. Maybe they form some sort of weapon when properly assembled. A [[SOUL AMPLIFIER]] or something?

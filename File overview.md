@@ -8,6 +8,8 @@ number headings: auto, first-level 1, max 6, contents ^toc, 1.1
 - [[#2 Focus|2 Focus]]
 - [[#3 Changes|3 Changes]]
 	- [[#3.1 Changes Lun Should Really Look At (Major Changes)|3.1 Changes Lun Should Really Look At (Major Changes)]]
+		- [[#3.1.1 Get these things out of my way|3.1.1 Get these things out of my way]]
+		- [[#3.1.2 Table|3.1.2 Table]]
 	- [[#3.2 Changes Lun Should Probably Look At (Minor Changes)|3.2 Changes Lun Should Probably Look At (Minor Changes)]]
 	- [[#3.3 Changes Sudo Should Really Look At (Major Changes)|3.3 Changes Sudo Should Really Look At (Major Changes)]]
 	- [[#3.4 Changes Sudo Should Probably Look At (Minor Changes)|3.4 Changes Sudo Should Probably Look At (Minor Changes)]]
@@ -37,6 +39,7 @@ You can delete these callouts after you've read them if you want.
 >>How about sudoMajor, sudoMinor, lunMajor,  lunMinor, and trivial?
 
 ## 3.1 Changes Lun Should Really Look At (Major Changes)
+### 3.1.1 Get these things out of my way
 >[!question] What's a major change?
 >To me, it's more to do with how much I think you need to see it than how much actually changed. They're frequently *big* changes, or they involve questions I'd like you to answer. Or maybe there's just a new song :)
 >
@@ -48,6 +51,7 @@ You can delete these callouts after you've read them if you want.
 >[!info]
 >"Files Potentially Affected" is simply the number of all links to or from a file, and doesn't necessarily depend on the extent of the changes made. I'm not sure how useful this information is, actually. Maybe it would be better to specify the actual dependencies affected by a change? (This is faster, though.)
 
+### 3.1.2 Table
 ```dataview
 TABLE file.mday as "Last Changed", sudoMajor as "Sudo's Changes", Priority, sum([length(file.inlinks), length(file.outlinks)]) AS "Files Potentially Affected", Sudosays, Lunsays
 FROM #majorChange and #unseenByLun
@@ -100,7 +104,8 @@ FROM #contains-music
 # 5 Unanswered Questions
 ```dataview
 TABLE question as "Question(s)"
-FROM #unanswered-questions 
+FROM #unanswered-questions
+SORT file.name
 ```
 
 # 6 Stubs

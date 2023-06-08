@@ -13,7 +13,7 @@ spellComponents: VSM
 
 - Casting Time: 1 hour
 - Range: Touch
-- Materials: A [[The Legendary Artifacts|Legendary Artifact]], aluminum powder, iron(III) oxide, magnesium (for ease of ignition). All are consumed by the spell.
+- Materials: A [[Legendary Artifacts|Legendary Artifact]], aluminum powder, iron(III) oxide, magnesium (for ease of ignition). All are consumed by the spell.
 - Duration: Instantaneous.
 
 >[!note]
@@ -73,3 +73,11 @@ The two boys begin to tussle. Luke offers Case half of the orange; Case is convi
 >Recover and eat the chocolate orange
 
 I don't know if this game's UI is going to have a way of distinguishing main and side quests, but if it does, it's important that these both appear as main quests. They are of equal importance to Luke.
+
+%%
+sudoMajor:: Somehow, I ended up writing a scene between Luke and Case here. It probably belongs in [[1.4 The Crossing of the First Threshold]] instead? Read this fourth.
+Priority:: 4
+#majorChange #unseenByLun 
+%%
+
+#Spells/Major 

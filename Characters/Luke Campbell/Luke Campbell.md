@@ -37,7 +37,7 @@ You know how you can broadly divide dog races into the group that got bred to do
 
 %%
 sudoMajor:: Luke is colorblind because he's a dogboy. But people don't realize he's colorblind b/c he hides the fact the he's a dogboy.
-Priority:: 3
+Priority:: 5
 #majorChange #unseenByLun 
 %%
 >[!idea]
