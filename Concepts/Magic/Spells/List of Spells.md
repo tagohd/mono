@@ -73,8 +73,8 @@ SORT spellName
 # All Spells
 
 ```dataview
-TABLE WITHOUT ID link(file.link,spellName) AS "Name", spellLevel AS "Level", spellSchool as "Category", spellDescription AS "Description", spellComponents AS "Components", isForbidden AS "Forbidden?", isTheoretical as "Theoretical?"
-FROM #Spells AND -#refdoc 
+TABLE WITHOUT ID link(file.link,spellName) AS "Name", spellClass as "Class", spellLevel AS "Level", spellSchool as "Category", spellDescription AS "Description", spellComponents AS "Components", isForbidden AS "Forbidden?", isTheoretical as "Theoretical?"
+FROM #Spells AND -#refdoc
 ```
 
 #refdoc #concepts #magic #Spells 

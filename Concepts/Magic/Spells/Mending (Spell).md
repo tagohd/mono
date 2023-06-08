@@ -1,7 +1,8 @@
 ---
 spellName: Mending
 spellSchool: Transmutation
-spellLevel: Cantrip
+spellClass: Cantrip
+spellLevel: 0
 spellDescription: Makes minor repairs to an object.
 isForbidden: False
 isTheoretical: False

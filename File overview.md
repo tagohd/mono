@@ -19,11 +19,6 @@ number headings: auto, first-level 1, max 6, contents ^toc, 1.1
 
 %%I would like for this to not be self-referential, but whatever. (Why can't this be more like LaTeX?)%%
 
-```dataview
-TABLE list(outgoing([[file]]))
-FROM #majorChange 
-```
-
 # 2 Focus
 Files that need urgent attention (this is mostly just for quick access)
 ```dataview
@@ -51,9 +46,9 @@ You can delete these callouts after you've read them if you want.
 >You can add a "Priority" field to specify suggested read order. Note that not assigning a priority will cause those files to sort *ahead* of ones that do have a priority. (But if one file has a priority and the others don't, I'll probably figure out what you meant.)
 
 ```dataview
-TABLE file.mday as "Last Changed", sudoMajor as "Sudo's Changes", Priority, Sudosays, Lunsays
+TABLE file.mday as "Last Changed", sudoMajor as "Sudo's Changes", Priority, sum([length(file.inlinks), length(file.outlinks)]) AS "Files Potentially Affected", Sudosays, Lunsays
 FROM #majorChange and #unseenByLun
-SORT Priority, file.mtime DESC
+SORT Priority, sum([length(file.inlinks), length(file.outlinks)]) DESC, file.mtime DESC
 ```
 
 ## 3.2 Changes Lun Should Probably Look At (Minor Changes)
@@ -64,23 +59,23 @@ SORT Priority, file.mtime DESC
 >If you feel the need to add a priority to it, it's probably a major change. But feel free to do it anyway.
 
 ```dataview
-TABLE file.mday as "Last Changed", sudoMinor as "Sudo's Changes", Priority, Sudosays, Lunsays
+TABLE file.mday as "Last Changed", sudoMinor as "Sudo's Changes", Priority, sum([length(file.inlinks), length(file.outlinks)]) AS "Files Potentially Affected", Sudosays, Lunsays
 FROM #minorChange and #unseenByLun 
-SORT Priority, file.mtime DESC
+SORT Priority, sum([length(file.inlinks), length(file.outlinks)]) DESC, file.mtime DESC
 ```
 
 ## 3.3 Changes Sudo Should Really Look At (Major Changes)
 ```dataview
-TABLE file.mday as "Last Changed", lunMajor as "Lun's Changes", Priority, Lunsays, Sudosays
+TABLE file.mday as "Last Changed", lunMajor as "Lun's Changes", Priority, sum([length(file.inlinks), length(file.outlinks)]) AS "Files Potentially Affected", Lunsays, Sudosays
 FROM #majorChange and #unseenBySudo 
-SORT Priority, file.mtime DESC
+SORT Priority, sum([length(file.inlinks), length(file.outlinks)]) DESC, file.mtime DESC
 ```
 
 ## 3.4 Changes Sudo Should Probably Look At (Minor Changes)
 ```dataview
-TABLE file.mday as "Last Changed", lunMinor as "Lun's Changes", Priority, Lunsays, Sudosays
+TABLE file.mday as "Last Changed", lunMinor as "Lun's Changes", Priority, sum([length(file.inlinks), length(file.outlinks)]) AS "Files Potentially Affected", Lunsays, Sudosays
 FROM #minorChange and #unseenBySudo 
-SORT file.mtime DESC
+SORT Priority, sum([length(file.inlinks), length(file.outlinks)]) DESC, file.mtime DESC
 ```
 
 ## 3.5 Trivial Changes
