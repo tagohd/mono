@@ -18,10 +18,14 @@ Why did CURSED AL take their SOUL? Maybe they don't actually have a SOUL, and th
 # Characterizations
 
 * They're about Luke's age, so... 16-17? (I haven't really decided how old Luke is, either.)
+	[Lun]: Considering the significant amount of Luke-centered romance in this story, how about him being an adult? Like 20 or so?
 * They're taller than [[Luke Campbell|Luke]]. In addition to being kind and dumb, Luke is also smol, so most people are taller than him, actually.
+	[Lun]: We support short kings here
 * Sam is based on a red fox (*Vulpes vulpes*), to the extent that that fits in the confines of the [[(5) May 2023 Chat Logs#Furites paradox|Furites paradox]]
 * Do they *really* need saving from CURSED AL? Maybe they're more capable than Luke thinks.
+	[Lun]: I feel like you would need to be VERY capable to escape from AL though, at least from how you've described him so far. Doesn't seem like a nice guy.
 * Or maybe (dun DUN DUNNN), getting captured was their plan all along!!! (Big maybe)
+	[Lun]: I guess if you don't have a soul and some guy's plan is to load you with souls you could go along with it??
 * On the cross-country team with Luke, except they actually enjoy it
 * Their lack of SOUL makes them a crucial component of CURSED AL's plan
 
@@ -32,10 +36,11 @@ Why did CURSED AL take their SOUL? Maybe they don't actually have a SOUL, and th
 
 %%
 sudoMajor:: Sam's name is short for Sammich. This is really more of a minor change, but it's important to ME, dammit!
+Lunsays:: No, no, you're right, this _is_ important
 Priority:: 1
 sudoMinor:: Added some bits from the plot to here, but nothing really new, per se.
 trivial:: Added some Dataview fields.
-#majorChange #minorChange #unseenByLun #trivialChange 
+#majorChange #minorChange #unseenBySudo #trivialChange 
 %%
 
 #character #sam-ward #unanswered-questions 

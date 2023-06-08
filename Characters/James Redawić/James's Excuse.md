@@ -74,11 +74,16 @@ movieRefType:: Star Wars/Character
 >[!idea] Anyone *can* use magic, but few know it even exists
 >Maybe magic was only recently discovered, given that it exists on [[Mana Plane|a separate plane of reality]]. Or perhaps magic users try to keep its existence a secret because of how dangerous it is. You know, the whole "tearing apart the fabric of reality" thing. And it's kind of a last resort because of how dangerous it is. I'll expand on this more under [[Magic#Can vs. Should|Magic]].
 
+	[Lun]: Doesn't "magic was only recently discovered" kind of clash with the idea of AL being an ancient magician? It also limits how many enemies/bosses can logically have cool magic attacks.
+	Magic being kept a secret also sounds pretty disruptive to the story, every time someone new saw Luke casting magic you'd need to have a whole "what the FUCK did you just do" dialogue.
+	I'm more a fan of the whole "it's not commonly taught to everyone because you can accidentally nuke your current location"-idea. 
 
 >[!idea] Furthermore, magic is kind of a last resort.
 >Again, because of how dangerous it can be, even the most skilled users try to limit how often they use it.
 >
 >Maybe there are some in-game consequences, too. You've played OneShot, right? Maybe if you use magic too much, you can see it start to corrupt reality; weird glitchy things start showing up, and maybe certain areas become inaccessible. (Probably nothing that would soft-lock you unless you're *really* overusing it.) But it starts out subtle—most players might not even notice it—then ramps up the more you use it.
+
+	Lun: Hmmm, the way I thought of it magic is pretty much completely safe to use if you know what you're doing (and don't intentionally go horse crazy with it). I do like the idea of the world getting corrupted though, OneShot good game. Maybe that could be an effect of free Mana instead (in addition to the immediate random effects it has)?
 
 [Sudo]: I was thinking, "Okay, maybe we go with the first idea. James can't do it because he's in a wheelchair." And then I had the image of him, like, getting into a wheelchair van, but I thought, "Wouldn't there be a better, more magical solution?" But maybe the answer is, "No, magic doesn't actually affect the world that much if most people don't know about it."
 
@@ -93,10 +98,12 @@ movieRefType:: Star Wars/Character
 
 And of course, HP is just an abstraction of your ability to keep going in a fight. What it's actually analogous to might not really matter.
 
+[Lun]: Alright, add "Conjure band-aid" to the spell list. Also maybe you can speed up time to accelerate natural healing (which would not work for curing paralysis or let's say losing a limb)? I guess in this game you just have to go visit an actual-to god doctor when you take too much damage. Kind of like the Pokecenters in pokemon, except that its a peoplecenter and you are the people.
+
 %%
 sudoMajor:: Some new ideas about magic. Read this first.
 Priority:: 1
-#majorChange #unseenByLun 
+#majorChange #unseenBySudo 
 %%
 
 #general #james-redawic #unanswered-questions 
