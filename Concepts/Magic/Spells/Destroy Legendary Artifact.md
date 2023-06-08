@@ -51,3 +51,25 @@ They grab THE ORB, and Luke looks at the chocolate orange that he's still carryi
 "Hey, you need to pay for that!" Case admonishes.
 
 "Pay who? It's been sitting in this warehouse God knows how long. They're not going to miss it! I don't think this store is even in business anymore."
+
+"But you can't eat that anyway! You're a dogboy!"
+
+"Who told you I was a dogboy?!"
+
+"You did, dumbass." He points to Luke's ears. "Your ears?"
+
+"Aw, man... I hate when they do that."
+
+"Anyway, give me that! You can't have it!"
+
+"No!" (Didn't anyone ever tell Case not to try and take food from a dogboy?) Luke growls and bares his teeth.
+
+The two boys begin to tussle. Luke offers Case half of the orange; Case is convinced Luke shouldn't have any of it. Luke has a hard time accepting that Case is only looking out for his health. In all the commotion, they don't realize they have accidentally triggered a long dormant security system. Luke drops the chocolate orange (now out of its box), and it rolls away.
+
+>[!objective] 
+>Escape the warehouse
+
+>[!objective]
+>Recover and eat the chocolate orange
+
+I don't know if this game's UI is going to have a way of distinguishing main and side quests, but if it does, it's important that these both appear as main quests. They are of equal importance to Luke.
