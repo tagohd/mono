@@ -21,7 +21,6 @@ Maybe [[Luke Campbell|Luke]] fights [[CURSED AL]] for the first time and is woef
 
 %%
 sudoMajor:: Replied
-Priority:: 10
 #majorChange #unseenByLun 
 %%
 

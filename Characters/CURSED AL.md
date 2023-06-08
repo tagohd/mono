@@ -28,15 +28,18 @@ Going with my semi-convoluted [[Magic]] system, he might have become CURSED by t
 ---
 
 # Backstory with [[James Redawić|James]]?
-Going off the above and the ideas in [[Magic]], [[The Legendary Artifacts]], and [[(6) June 2023 Chat Logs]], maybe AL knew James was fated to die. He devoted himself to preventing this. Keeping James alive became his singular obsession. Eventually, he realized he couldn't prevent James's death, but perhaps he could undo it? Such a powerful spell would require (and I do believe this is the technical term) an absolute shitload of mana, more than any one SOUL could possibly handle. But if he had [[SOUL AMPLIFIER|a way to use multiple SOULS simultaneously]]...
-
-Oh, also, maybe he put himself into some sort of [[Plane Shift|stasis dimension]] while he was working this out. So he just kinda disappeared for who knows how long before suddenly reemerging shortly before James was fated to die. Maybe he thought it would work like this:
 #Cite/Unknown #Cite/TV/FMAB (?) #Cite/Game/Chrono-Trigger (?)
 %%
 uRefType:: Plot
 tvRefType:: FMAB/Plot
 gameRefType:: Chrono Trigger/Plot
 %%
+Going off the above and the ideas in [[Magic]], [[The Legendary Artifacts]], and [[(6) June 2023 Chat Logs]], maybe AL knew James was fated to die. He devoted himself to preventing this. Keeping James alive became his singular obsession. Eventually, he realized he couldn't prevent James's death, but perhaps he could undo it? Such a powerful spell would require (and I do believe this is the technical term) an absolute shitload of mana, more than any one SOUL could possibly handle. But if he had [[SOUL AMPLIFIER|a way to use multiple SOULS simultaneously]]...
+
+Oh, also, maybe he put himself into some sort of stasis dimension (possibly via [[Plane Shift]] or [[Astral Projection]]) while he was working this out. So he just kinda disappeared for who knows how long before suddenly reemerging shortly before James was fated to die. Maybe he thought it would work like this:
+%%
+sudoMin
+
 ```mermaid
 flowchart TB
 	A["AL and James are together"]

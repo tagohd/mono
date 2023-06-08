@@ -43,7 +43,7 @@ You can delete these callouts after you've read them if you want.
 >To paraphrase Potter Stewart, "You'll know one when you see one."
 
 >[!tip]
->You can add a "Priority" field to specify suggested read order. Note that not assigning a priority will cause those files to sort *ahead* of ones that do have a priority. (But if one file has a priority and the others don't, I'll probably figure out what you meant.)
+>You can add a "Priority" field to specify suggested read order. ~~Note that not assigning a priority will cause those files to sort *ahead* of ones that do have a priority. (But if one file has a priority and the others don't, I'll probably figure out what you meant.)~~ I fixed this.
 
 >[!info]
 >"Files Potentially Affected" is simply the number of all links to or from a file, and doesn't necessarily depend on the extent of the changes made. I'm not sure how useful this information is, actually.
@@ -51,7 +51,7 @@ You can delete these callouts after you've read them if you want.
 ```dataview
 TABLE file.mday as "Last Changed", sudoMajor as "Sudo's Changes", Priority, sum([length(file.inlinks), length(file.outlinks)]) AS "Files Potentially Affected", Sudosays, Lunsays
 FROM #majorChange and #unseenByLun
-SORT Priority, sum([length(file.inlinks), length(file.outlinks)]) DESC, file.mtime DESC
+SORT !(Priority), Priority, sum([length(file.inlinks), length(file.outlinks)]) DESC, file.mtime DESC
 ```
 
 ## 3.2 Changes Lun Should Probably Look At (Minor Changes)
@@ -59,26 +59,26 @@ SORT Priority, sum([length(file.inlinks), length(file.outlinks)]) DESC, file.mti
 >This is also subjective, but I think it does have more to do with "amount changed" than Major Changes do. Examples: Specified how old a character is, created a new (stub) note, added information to a note that was already present in another note. They're *kinda* important, but if it can be easily summarized here in the overview, it's probably a minor change. Also how big of an impact it has on other notes.
 
 >[!tip]
->If you feel the need to add a priority to it, it's probably a major change. But feel free to do it anyway.
+>If you feel the need to add a priority to it, it's probably a major change. But feel free to do it anyway. Note that you can only assign one priority per note.
 
 ```dataview
 TABLE file.mday as "Last Changed", sudoMinor as "Sudo's Changes", Priority, Sudosays, Lunsays
 FROM #minorChange and #unseenByLun 
-SORT Priority, file.mtime DESC
+SORT !Priority, Priority, file.mtime DESC
 ```
 
 ## 3.3 Changes Sudo Should Really Look At (Major Changes)
 ```dataview
 TABLE file.mday as "Last Changed", lunMajor as "Lun's Changes", Priority, sum([length(file.inlinks), length(file.outlinks)]) AS "Files Potentially Affected", Lunsays, Sudosays
 FROM #majorChange and #unseenBySudo 
-SORT Priority, sum([length(file.inlinks), length(file.outlinks)]) DESC, file.mtime DESC
+SORT !Priority, Priority, sum([length(file.inlinks), length(file.outlinks)]) DESC, file.mtime DESC
 ```
 
 ## 3.4 Changes Sudo Should Probably Look At (Minor Changes)
 ```dataview
 TABLE file.mday as "Last Changed", lunMinor as "Lun's Changes", Priority, Lunsays, Sudosays
 FROM #minorChange and #unseenBySudo 
-SORT Priority, file.mtime DESC
+SORT !Priority, Priority, file.mtime DESC
 ```
 
 ## 3.5 Trivial Changes
