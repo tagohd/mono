@@ -29,8 +29,12 @@ question:: Why doesn't James just get the Artifacts himself?
 >Or he wants to make it seem that way (to AL, not to Luke), and he'll use [[The Legendary Artifacts]] himself and betray AL
 
 >[!question] Okay, so then why can't AL get the artifacts himself?
->Who said he can't? Maybe it *is* like Mother 3, and sometimes AL (or one of his underlings) gets to the artifact first. But, unlike Mother 3, you can't build the [[SOUL AMPLIFIER]] with just a simple majority of the artifacts. You need all of them. %%#Cite/Game/Mother3 gameRefType:: Mother3/Plot%%
+>Who said he can't? Maybe it *is* like Mother 3, and sometimes AL (or one of his underlings) gets to the artifact first. But, unlike Mother 3, you can't build the [[SOUL AMPLIFIER]] with just a simple majority of the artifacts. You need all of them.
 
+%%
+#Cite/Game/Mother3 
+gameRefType:: Mother3/Plot
+%%
 
 >[!question] Also, why would James want to use the Artifacts himself? I thought he *didn't* want to destroy the universe.
 >Okay, maybe this was a bad idea. Or maybe he doesn't want to build the [[SOUL AMPLIFIER]]; he wants to do something else with the Artifacts.
@@ -38,6 +42,11 @@ question:: Why doesn't James just get the Artifacts himself?
 >[!idea] Can't we just say Luke is an idiot, so it never occurs to him to question this?
 >James really sells him on the whole CHOSEN ONE thing. "It is your destiny to do these errands for me, CHOSEN ONE."
 >>[!note] If AL sounds like Chuck McGill, James sounds like Obi-Wan Kenobi
+
+%%
+#Cite/Movie/Star-Wars 
+movieRefType:: Star Wars/Character
+%%
 
 >[!question] He's going to question it eventually. Like when he finds out James has been lying to him.
 >Yeah...
@@ -71,7 +80,7 @@ question:: Why doesn't James just get the Artifacts himself?
 >
 >Maybe there are some in-game consequences, too. You've played OneShot, right? Maybe if you use magic too much, you can see it start to corrupt reality; weird glitchy things start showing up, and maybe certain areas become inaccessible. (Probably nothing that would soft-lock you unless you're *really* overusing it.) But it starts out subtle—most players might not even notice it—then ramps up the more you use it.
 
-[Sudo]: I was thinking, "Okay, maybe we go with the first idea. James can't do it because he's in a wheelchair." And then I had the image of him, like, getting into a wheelchair van, but I thought, "Wouldn't there be a better, more magical solution?"
+[Sudo]: I was thinking, "Okay, maybe we go with the first idea. James can't do it because he's in a wheelchair." And then I had the image of him, like, getting into a wheelchair van, but I thought, "Wouldn't there be a better, more magical solution?" But maybe the answer is, "No, magic doesn't actually affect the world that much if most people don't know about it."
 
 %%
 sudoMajor:: Some new ideas about magic

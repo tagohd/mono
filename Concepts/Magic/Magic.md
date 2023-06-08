@@ -41,7 +41,8 @@ This isn't to say that only certain people can cast certain spells. It's just th
 sudoMajor:: Responded to your comments.
 #majorChange #unseenByLun 
 #Cite/Game/Undertale #Cite/Game/Hollow-Knight 
-gameRefType:: "Undertale/General", "Hollow Knight/Items"
+gameRefType:: Undertale/General
+gameRefType:: Hollow Knight/Items
 question:: Fuckin magic, how does it work?
 %%
 
@@ -72,6 +73,12 @@ gameRefType:: OneShot/General
 
 Wouldn't that be something? A game that punishes you for using its magic system... Maybe it only does this if you forget to close the rift or something. But maybe the game doesn't actively remind you to close the rifts; you have to keep on top of that yourself. And, of course, maybe there are occasionally incentives to **_not_** close the rifts.
 
+Also, something something Law of Equivalent Exchange.
+%%
+#Cite/TV/FMAB 
+tvRefType:: FMAB/General
+%%
+
 ## Questions
 >[!question] Collective term for magic users? Magic users? Magicians? Wizards? Sorcerers? Mages? Warlocks? Witches?
 >Any. They're interchangeable. Some people may prefer one to the others, though.
@@ -92,8 +99,6 @@ Wouldn't that be something? A game that punishes you for using its magic system.
 >Governments don't want to officially acknowledge the existence of magic, so they leave that up to IMAS. Any crime committed via magical means is prosecuted normally.
 >
 >Governments are aware of magic, of course. It's just classified. (This of course leads to quite a few conspiracy theories.)
-
-[question:: Are there official laws/regulations concerning magic?]
 
 %%
 trivial:: Added tags for Works Cited and fields for the Unanswered Questions heading on [[File Overview]]

@@ -2,8 +2,8 @@ The elemental plane from which [[Mana]] originates. Spellcasters pierce the veil
 
 Until directed otherwise, I am going to imagine it like an oil well. Mages, therefore, are like the U.S. See also: https://www.youtube.com/watch?v=s_hFTR6qyEo
 	[Lun]: Video unavailable...
-	[Sudo]: Try this one: https://www.youtube.com/watch?v=GX-9wXFQRgA. Or just search "there will be blood milkshake", if you haven't seen *There Will Be Blood*.
-#Cite/Movie/There-Will-Be-Blood
+	[Sudo]: Try this one: https://www.youtube.com/watch?v=GX-9wXFQRgA. Or just search "there will be blood milkshake", if you haven't seen *There Will Be Blood*. (Ew. Blood milkshake.)
+#Cite/Movie/There-Will-Be-Blood [movieRefType:: There Will Be Blood/General]
 
 %%
 sudoMinor:: Added pictures and tags. Added new video link.
@@ -12,9 +12,9 @@ sudoMinor:: Added pictures and tags. Added new video link.
 
 # Pictures of the Mana Plane
 ![[fma truth.jpeg]]
-#Cite/TV/FMAB 
+#Cite/TV/FMAB [tvRefType:: FMAB/Places]
 
 ![[squidward.png]]
-#Cite/TV/SpongeBob
+#Cite/TV/SpongeBob [tvRefType:: SpongeBob/Places]
 
 #places #mana-plane #mana #stub 

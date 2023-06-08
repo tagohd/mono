@@ -12,7 +12,7 @@ He's not necessarily rude, but he tends to be laconic, and he doesn't volunteer 
 
 ## The Enemy of My Enemy Is Not My Friend
 He's manipulating Luke into defeating CURSED AL. I mean, you don't date a guy like CURSED AL if you're not at least a little evil yourself. (It wasn't an abusive relationship or anything, btw. They were just both evil.)
-#Cite/Unknown 
+#Cite/Unknown [uRefType:: Character]
 
 [Lun]: Oh, that explains the "James is kind of a bitch" thing
 
@@ -30,7 +30,7 @@ trivial:: Marked as read
 #trivialChange 
 %%
 
-#Cite/Lit/LOTR (??? Only in the sense that the Artifacts have a corrupting influence over their possessor. Imagine if The One Ring talked to its bearer like that lol.)
+#Cite/Lit/LOTR [litRefType:: LOTR/Items] (??? Only in the sense that the Artifacts have a corrupting influence over their possessor. Imagine if The One Ring talked to its bearer like that lol.)
 
 question:: [[James's Excuse|Why doesn't James just get the artifacts himself?]]
 

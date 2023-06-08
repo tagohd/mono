@@ -15,7 +15,7 @@ Right now (25 May 2023), we have:
 
 We need more women. How are we going to have a yuri moment without women?
 
-Wait, I've got it. The Dragon is a lesbian. And in love with the horse. It's like Shrek, except the horse is a horse, of course (of course), and also female. #Cite/Movie/Shrek 
+Wait, I've got it. The Dragon is a lesbian. And in love with the horse. It's like Shrek, except the horse is a horse, of course (of course), and also female. #Cite/Movie/Shrek [movieRefType:: Shrek/Character]
 
 What if it's still just a normal horse, though? The Dragon (whose name is Edna, but that's short for something more suitably draconic) is still in love with it, but the horse cannot love her back because it is a regular horse and not a horse-person. If anything, it's absolutely terrified of Edna, again, because it's a horse.
 

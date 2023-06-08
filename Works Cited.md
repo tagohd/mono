@@ -60,7 +60,7 @@ But I should probably focus more on, idk, the actual plot? Instead of this.
 
 ## Earthbound
 ```dataview
-TABLE refType as "Type of Reference"
+TABLE gameRefType as "Type of Reference"
 FROM #Cite/Game/Earthbound 
 ```
 ## Hollow Knight
@@ -71,82 +71,106 @@ FROM #Cite/Game/Hollow-Knight
 
 ## Katana Zero
 ```dataview
-TABLE refType as "Type of Reference"
+TABLE gameRefType as "Type of Reference"
 FROM #Cite/Game/Katana-Zero 
 ```
 
 ## Mega Man X
 ```dataview
-TABLE refType as "Type of Reference"
+TABLE gameRefType as "Type of Reference"
 FROM #Cite/Game/Mega-Man-X 
 ```
 ## Mother 3
 ```dataview
-TABLE refType as "Type of Reference"
+TABLE gameRefType as "Type of Reference"
 FROM #Cite/Game/Mother3 
 ```
 
 ## Pokémon
 ```dataview
-TABLE refType as "Type of Reference"
+TABLE gameRefType as "Type of Reference"
 FROM #Cite/Game/Pokémon 
 ```
 
 ## Undertale
 ```dataview
-TABLE refType as "Type of Reference"
+TABLE gameRefType as "Type of Reference"
 FROM #Cite/Game/Undertale 
 ```
 
 ## West of Loathing
 ```dataview
-TABLE refType as "Type of Reference"
+TABLE gameRefType as "Type of Reference"
 FROM #Cite/Game/West-of-Loathing 
 ```
 
 # Literature
 
+```dataview
+TABLE litRefType as "Type of Reference"
+FROM #Cite/Lit 
+```
+
 ## The Lord of the Rings
 
 ```dataview
-TABLE refType as "Type of Reference"
+TABLE litRefType as "Type of Reference"
 FROM #Cite/Lit/LOTR 
 ```
 # Movies
 
+```dataview
+TABLE movieRefType as "Type of Reference"
+FROM #Cite/Movie 
+```
+
 ## Marvel Cinematic Universe
 ```dataview
-TABLE refType as "Type of Reference"
+TABLE movieRefType as "Type of Reference"
 FROM #Cite/Movie/MCU 
 ```
 
 ## Megamind
 ```dataview
-TABLE refType as "Type of Reference"
+TABLE movieRefType as "Type of Reference"
 FROM #Cite/Movie/Megamind 
 ```
 
 ## Shrek
 ```dataview
-TABLE refType as "Type of Reference"
+TABLE movieRefType as "Type of Reference"
 FROM #Cite/Movie/Shrek  
 ```
 
 ## Star Wars
 ```dataview
-TABLE refType as "Type of Reference"
+TABLE movieRefType as "Type of Reference"
 FROM #Cite/Movie/Star-Wars  
 ```
 
 ## There Will Be Blood
 ```dataview
-TABLE refType as "Type of Reference"
+TABLE movieRefType as "Type of Reference"
 FROM #Cite/Movie/There-Will-Be-Blood  
 ```
 
 # TV
-## Better Call Saul
 ```dataview
-TABLE refType as "Type of Reference"
-FROM #Cite/TV/Better-Call-Saul 
+TABLE tvRefType as "Type of Reference"
+FROM #Cite/TV 
+```
+
+# Memes
+
+```dataview
+TABLE memeRefType as "Type of Reference"
+FROM #Cite/Meme 
+```
+
+# Unknown
+Feels like I'm referencing something, but idk what
+
+```dataview
+TABLE uRefType as "Type of Reference"
+FROM #Cite/Unknown 
 ```

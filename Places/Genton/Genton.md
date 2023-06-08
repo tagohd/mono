@@ -28,6 +28,8 @@ Or you could do something similar with the town's relation to the story, like ho
 Hey, thanks! I was kinda leaning in that direction actually, with the play on words idea. Or maybe just call the song "Boringsville" or something, but it's like a quote from the protagonist, e.g. "I'm from \[Town Name Here], or as I like to call it: Boringsville." Then when they come back to the town later in the story and Bad Things have happened (again, like Tazmilly or Tatooine), there'll be a sad version of the song, and the title of _that_ song will be the real name of the town. That way, I can put off coming up with the name until later, and since I haven't written the sad version yet either, I can now procrastinate on two things at once.
 
 #Cite/Game/Mother3 #Cite/Game/Undertale #Cite/Game/Pokémon #Cite/Movie/Star-Wars
+gameRefType:: "Mother3/Setting", "Undertale/Setting", "Pokémon/Setting"
+movieRefType:: Star Wars/Setting
 
 ## Boring Become Real
 ![[Boring Become Real.mp3]]

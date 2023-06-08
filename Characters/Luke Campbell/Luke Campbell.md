@@ -71,11 +71,11 @@ Adapted from [[(6) June 2023 Chat Logs#^aecda7|(6) June 2023 Chat Logs]]:
 What makes Luke special? Why is he THE CHOSEN ONE?
 
 He's not, actually. There is no CHOSEN ONE. [[James Redawić|James]] just says that to everyone hoping they'll help him stop CURSED AL. The only thing that makes Luke special is that he was stupid enough to actually believe James.
-#Cite/Unknown 
+#Cite/Unknown [uRefType:: Plot]
 
 This could also set up something of a "No, I am your father" moment when Luke first confronts AL. AL just wipes the floor with Luke (maybe it's one of those scripted battles where you're supposed to lose), and Luke says something like, "How could I have lost? I thought I was THE CHOSEN ONE." And AL's just like:
 ![[queen of england.jpeg]]
-#Cite/Movie/Megamind 
+#Cite/Movie/Megamind [movieRefType:: Megamind/Plot]
 And he's not even lying. Anyone can use any type of [[Magic#^03cfb6|magic]]. There is nothing special about Luke. Of course, Luke only focuses on that second part, and he completely loses his self-confidence.
 
 I'm sure this represents *some* step on the Hero's Journey, but I'm not sure which one (probably "[[2.4 Atonement with the Father]]"). I just realized the *Star Wars* comparison I referenced in the [[README]] is only about *A New Hope* and not the entire trilogy; this is obviously more like *The Empire Strikes Back*.
