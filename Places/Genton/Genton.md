@@ -57,10 +57,11 @@ Sudosays:: Huh, according to my computer, I actually wrote this song on your bir
 I like this version, but I'm not sure I'd call it "boring". Maybe Genton has a club/lounge, but Luke can't go in there because he's only 16. Maybe he sneaks in anyway, because what's the point of writing a song if it's not going in the game?
 
 [Lun]: The song won't play further than 0:02 for me!!! Let me hear it!!!!!
+[Sudo]: Here's a [SoundCloud](https://soundcloud.com/tagohd/boringsville-at-night/s-LbVe8duHr3Y?si=f4442dc81e304133a104ef06eaea22bd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) link. Maybe you should download the file again? It plays fine for me.
 
 %%
-sudoMajor:: I'll send you a [SoundCloud](https://soundcloud.com/tagohd/boringsville-at-night/s-LbVe8duHr3Y?si=f4442dc81e304133a104ef06eaea22bd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) link and also include it here.
-#majorChange #unseenByLun 
+sudoMinor:: Included a SoundCloud link, but I also already DMed it to you. Maybe try downloading the song again?
+#minorChange #unseenByLun 
 %%
 
 #places #genton #contains-music 

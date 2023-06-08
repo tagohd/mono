@@ -23,12 +23,6 @@ This system has some of the following practical consequences:
 
 
 ---
-%%
-sudoMajor:: I have responded.
-trivial:: Added tags for Works Cited and fields for the Unanswered Questions heading on File Overview
-Priority:: 5
-#majorChange #unseenByLun #trivialChange 
-%%
 
 Involves the [[SOUL]] somehow, hence the desire for the [[SOUL AMPLIFIER]]. (Since I have yet to define what the SOUL is, maybe it doesn't make sense to amplify them; I might have to change the name later.) But maybe the SOUL acts like a lightning rod for mana, or the SOUL itself is the one doing the amplification. Maybe mana comes in a variety of wavelengths and each SOUL has a specific "resonant frequency", so to speak. If you want to cast a protection spell, you channel green mana; if you want to cast Magic Missile, you channel yellow mana; etc.
 
@@ -44,9 +38,32 @@ This isn't to say that only certain people can cast certain spells. It's just th
 [Sudo]: Oh, so we're just gonna steal from Hollow Knight instead? SOUL Vessels? (And you poke rifts between planes by attacking enemies?) But, yeah, whenever I suggest something that's just "blatant plagiarism of Undertale", I'm mostly joking. Mostly. (But really, it's more like a placeholder until I come up with something that's less "blatant plagiarism of Undertale".)
 
 %%
+sudoMajor:: Responded to your comments.
+#majorChange #unseenByLun 
 #Cite/Game/Undertale #Cite/Game/Hollow-Knight 
 gameRefType:: "Undertale/General", "Hollow Knight/Items"
 question:: Fuckin magic, how does it work?
+%%
+
+# Can vs. Should
+
+>[!idea] Anyone *can* use magic, but few know it even exists
+>Maybe magic was only recently discovered, given that it exists on [[Mana Plane|a separate plane of reality]]. Or perhaps magic users try to keep its existence a secret because of how dangerous it is. You know, the whole "tearing apart the fabric of reality" thing.
+>[!question] Is there some kind of governing body overseeing the use of magic?
+>A council of wizards or something?
+
+Furthermore, magic is kind of a last resort. Again, because of how dangerous it can be, even the most skilled users try to limit how often they use it.
+
+Maybe there are some in-game consequences, too. You've played OneShot, right? Maybe if you use magic too much, you can see it start to corrupt reality; weird glitchy things start showing up, and maybe certain areas become inaccessible. (Probably nothing that would soft-lock you unless you're *really* overusing it.) But it starts out subtle—most players might not even notice it—then ramps up the more you use it.
+
+Wouldn't that be something? A game that punishes you for using its magic system... (Maybe it only does this if you forget to close the rift or something.)
+
+%%
+sudoMajor:: Expanded on new magic idea mentioned in [[James's Excuse]]
+Priority:: 3
+#majorChange #unseenByLun
+trivial:: Added tags for Works Cited and fields for the Unanswered Questions heading on File Overview
+#trivialChange 
 %%
 
 #general #concepts #magic #unanswered-questions 

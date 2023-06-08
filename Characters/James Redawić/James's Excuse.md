@@ -63,18 +63,20 @@ question:: Why doesn't James just get the Artifacts himself?
 [Sudo]:  Yeah, that's a good way of looking at it too. Basically my first response: Magic doesn't work that way. Oh, here's a thought:
 
 >[!idea] Anyone *can* use magic, but few know it even exists
->Maybe magic was only recently discovered, given that it exists on [[Mana Plane|a separate plane of reality]]. Or perhaps magic users try to keep its existence a secret because of how dangerous it is. You know, the whole "tearing apart the fabric of reality" thing.
+>Maybe magic was only recently discovered, given that it exists on [[Mana Plane|a separate plane of reality]]. Or perhaps magic users try to keep its existence a secret because of how dangerous it is. You know, the whole "tearing apart the fabric of reality" thing. And it's kind of a last resort because of how dangerous it is. I'll expand on this more under [[Magic]].
+
 
 >[!idea] Furthermore, magic is kind of a last resort.
 >Again, because of how dangerous it can be, even the most skilled users try to limit how often they use it.
 >
->Maybe there are some in-game consequences, too. You've played OneShot, right? Maybe if you use magic too much, it 
+>Maybe there are some in-game consequences, too. You've played OneShot, right? Maybe if you use magic too much, you can see it start to corrupt reality; weird glitchy things start showing up, and maybe certain areas become inaccessible. (Probably nothing that would soft-lock you unless you're *really* overusing it.) But it starts out subtle—most players might not even notice it—then ramps up the more you use it.
 
-[Sudo]: Maybe I should put this under [[Magic]] instead.
+[Sudo]: I was thinking, "Okay, maybe we go with the first idea. James can't do it because he's in a wheelchair." And then I had the image of him, like, getting into a wheelchair van, but I thought, "Wouldn't there be a better, more magical solution?"
 
 %%
-sudoMinor:: Replied
-#minorChange #unseenByLun 
+sudoMajor:: Some new ideas about magic
+Priority:: 1
+#majorChange #unseenByLun 
 %%
 
 #general #james-redawic #unanswered-questions 
