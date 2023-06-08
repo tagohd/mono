@@ -46,7 +46,7 @@ You can delete these callouts after you've read them if you want.
 >You can add a "Priority" field to specify suggested read order. ~~Note that not assigning a priority will cause those files to sort *ahead* of ones that do have a priority. (But if one file has a priority and the others don't, I'll probably figure out what you meant.)~~ I fixed this.
 
 >[!info]
->"Files Potentially Affected" is simply the number of all links to or from a file, and doesn't necessarily depend on the extent of the changes made. I'm not sure how useful this information is, actually.
+>"Files Potentially Affected" is simply the number of all links to or from a file, and doesn't necessarily depend on the extent of the changes made. I'm not sure how useful this information is, actually. Maybe it would be better to specify the actual dependencies affected by a change? (This is faster, though.)
 
 ```dataview
 TABLE file.mday as "Last Changed", sudoMajor as "Sudo's Changes", Priority, sum([length(file.inlinks), length(file.outlinks)]) AS "Files Potentially Affected", Sudosays, Lunsays

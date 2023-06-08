@@ -82,6 +82,17 @@ movieRefType:: Star Wars/Character
 
 [Sudo]: I was thinking, "Okay, maybe we go with the first idea. James can't do it because he's in a wheelchair." And then I had the image of him, like, getting into a wheelchair van, but I thought, "Wouldn't there be a better, more magical solution?" But maybe the answer is, "No, magic doesn't actually affect the world that much if most people don't know about it."
 
+[Sudo]: Oh, wait, I realized another problem.
+
+>[!question] Don't most games have healing spells? Or at least some way to restore HP (whatever that is)?
+>Maybe MONO is a rouge-like? Perhaps you slowly heal over time (but if you take enough damage, maybe you never really heal fully, just like real life), and if you die, you're perma-dead (also just like real life).
+>
+>>[!note] Of course, the main thing with video games is that very often fun trumps realism. Verisimilitude doesn't matter if the game isn't fun.
+>
+>Or maybe healing spells don't really "heal" you. They're more like first aid. They might stop bleeding and let you ignore the pain, but you're still technically injured.
+
+And of course, HP is just an abstraction of your ability to keep going in a fight. What it's actually analogous to might not really matter.
+
 %%
 sudoMajor:: Some new ideas about magic
 Priority:: 1

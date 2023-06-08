@@ -2,7 +2,7 @@
 alias: IMAS
 ---
 
-IMAS for short. (Thought about calling it "Arcane Institute for Magical Sciences" so it would abbreviate to AIMS, but that sounded too made-up.)
+IMAS for short. (Thought about calling it "Arcane Institute for Magical Sciences" so it would abbreviate to AIMS, but that sounded too made-up. How about "International Council of Bards and Magicians", or ICBM?)
 
 A professional association for scholars of the arcane. Like a cross between IEEE, the Catholic church, and the College of Winterhold. Publishes standards and best practices for the use of magic. Funds research into the study of magic, including the creation of new [[List of Spells|spells]].
 
