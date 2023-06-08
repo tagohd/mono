@@ -25,10 +25,16 @@ Why did CURSED AL take their SOUL? Maybe they don't actually have a SOUL, and th
 * On the cross-country team with Luke, except they actually enjoy it
 * Their lack of SOUL makes them a crucial component of CURSED AL's plan
 
+>[!question] Is Sam short for "Samuel" or "Samantha"?
+>Neither. It's short for "Sammich". (You'll never find out their AGAB or their deadname.)
+>
+>Actually, maybe they don't even have a deadname. Sammich is their actual birth name.
+
 %%
+sudoMajor:: Sam's name is short for Sammich.
 sudoMinor:: Added some bits from the plot to here, but nothing really new, per se.
 trivial:: Added some Dataview fields.
-#minorChange #unseenByLun #trivialChange 
+#majorChange #minorChange #unseenByLun #trivialChange 
 %%
 
 #character #sam-ward #unanswered-questions 
