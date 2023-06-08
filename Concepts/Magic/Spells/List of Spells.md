@@ -16,7 +16,7 @@ These are spells that anyone can cast as they deal minimal damage to the veil be
 ```dataview
 TABLE WITHOUT ID link(file.link,spellName) AS "Name", spellSchool AS "Category", spellDescription AS "Description", spellComponents AS "Components"
 FROM #Spells/Cantrips 
-WHERE !(isForbidden OR isTheoretical)
+WHERE !isTheoretical
 SORT spellName
 ```
 
@@ -26,7 +26,7 @@ Commonly taught to beginner mages, but slightly more powerful than cantrips.
 ```dataview
 TABLE WITHOUT ID link(file.link,spellName) AS "Name", spellSchool AS "Category", spellDescription AS "Description", spellComponents AS "Components"
 FROM #Spells/Minor
-WHERE !(isForbidden OR isTheoretical)
+WHERE !isTheoretical
 SORT spellName
 ```
 
@@ -36,7 +36,7 @@ Difficult to handle, but more powerful.
 ```dataview
 TABLE WITHOUT ID link(file.link,spellName) AS "Name", spellSchool AS "Category", spellDescription AS "Description", spellComponents AS "Components"
 FROM #Spells/Intermediate
-WHERE !(isForbidden OR isTheoretical)
+WHERE !isTheoretical
 SORT spellName
 ```
 
@@ -46,12 +46,12 @@ Extremely dangerous. Only skilled mages should attempt to cast these spells.
 ```dataview
 TABLE WITHOUT ID link(file.link,spellName) AS "Name", spellSchool AS "Category", spellDescription AS "Description", spellComponents AS "Components"
 FROM #Spells/Major 
-WHERE !(isForbidden OR isTheoretical)
+WHERE !isTheoretical
 SORT spellName
 ```
 
 # Forbidden Spells
-Spells [[Institute for the Magical Arts & Sciences|IMAS]] has forbidden for any number of reasons. May include spells of any level.
+Spells [[Institute for the Magical Arts & Sciences|IMAS]] has forbidden for any number of reasons (usually obvious). May include spells of any level.
 
 ```dataview
 TABLE WITHOUT ID link(file.link,spellName) AS "Name", spellLevel AS "Level", spellSchool AS "Category", spellDescription AS "Description", isTheoretical AS "Theoretical?"
@@ -66,7 +66,7 @@ No one has ever attempted to cast these, but they may be possible under the righ
 ```dataview
 TABLE WITHOUT ID link(file.link,spellName) AS "Name", spellLevel AS "Level", spellSchool AS "Category", spellDescription AS "Description"
 FROM #Spells 
-WHERE isForbidden
+WHERE isTheoretical
 SORT spellName
 ```
 

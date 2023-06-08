@@ -9,7 +9,7 @@ isTheoretical: False
 spellComponents: VSM
 ---
 
-Transmutation cantrip
+*Transmutation cantrip*
 
 - Casting Time: 1 minute
 - Range: Touch

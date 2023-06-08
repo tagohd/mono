@@ -4,12 +4,12 @@ spellSchool: Evocation
 spellClass: Major
 spellLevel: 9
 spellDescription: Summons *four* big massive fuck-you meteors.
-isForbidden: False
+isForbidden: True
 isTheoretical: False
 spellComponents: VS
 ---
 
-9th-level evocation
+*9th-level evocation*
 
 - Casting Time: 1 action
 - Range: 1 mile
