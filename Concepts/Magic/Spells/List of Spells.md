@@ -2,15 +2,21 @@
 alias: spells
 ---
 
+%%
+sudoMajor:: New document feat. lots of Dataview and some new spells (mostly stolen from D&D)
+Priority:: 5
+#majorChange #unseenByLun 
+%%
+
 The stronger the spell, the more [[Mana]] required, and thus larger tears in the veil separating reality from the [[Mana Plane]].
 
 # Cantrips
 These are spells that anyone can cast as they deal minimal damage to the veil between planes. Most people aren't even aware that they're magic.
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Name", spellDescription AS "Description", spellComponents AS "Components"
-FROM "Concepts/Magic/Spells"
-WHERE spellCategory = "Cantrip" AND !(isForbidden OR isTheoretical)
+TABLE WITHOUT ID link(file.link,spellName) AS "Name", spellSchool AS "Category", spellDescription AS "Description", spellComponents AS "Components"
+FROM #Spells/Cantrips 
+WHERE !(isForbidden OR isTheoretical)
 SORT spellName
 ```
 
@@ -18,9 +24,9 @@ SORT spellName
 Commonly taught to beginner mages, but slightly more powerful than cantrips.
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Name", spellDescription AS "Description", spellComponents AS "Components"
-FROM "Concepts/Magic/Spells"
-WHERE spellCategory = "Minor" AND !(isForbidden OR isTheoretical)
+TABLE WITHOUT ID link(file.link,spellName) AS "Name", spellSchool AS "Category", spellDescription AS "Description", spellComponents AS "Components"
+FROM #Spells/Minor
+WHERE !(isForbidden OR isTheoretical)
 SORT spellName
 ```
 
@@ -28,9 +34,9 @@ SORT spellName
 Difficult to handle, but more powerful.
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Name", spellDescription AS "Description", spellComponents AS "Components"
-FROM "Concepts/Magic/Spells"
-WHERE spellCategory = "Intermediate" AND !(isForbidden OR isTheoretical)
+TABLE WITHOUT ID link(file.link,spellName) AS "Name", spellSchool AS "Category", spellDescription AS "Description", spellComponents AS "Components"
+FROM #Spells/Intermediate
+WHERE !(isForbidden OR isTheoretical)
 SORT spellName
 ```
 
@@ -38,9 +44,9 @@ SORT spellName
 Extremely dangerous. Only skilled mages should attempt to cast these spells.
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Name", spellDescription AS "Description", spellComponents AS "Components"
-FROM "Concepts/Magic/Spells"
-WHERE spellCategory = "Major" AND !(isForbidden OR isTheoretical)
+TABLE WITHOUT ID link(file.link,spellName) AS "Name", spellSchool AS "Category", spellDescription AS "Description", spellComponents AS "Components"
+FROM #Spells/Major 
+WHERE !(isForbidden OR isTheoretical)
 SORT spellName
 ```
 
@@ -48,8 +54,8 @@ SORT spellName
 Spells [[Institute for the Magical Arts & Sciences|IMAS]] has forbidden for any number of reasons. May include spells of any level.
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Name", spellDescription AS "Description", spellCategory AS "Level"
-FROM "Concepts/Magic/Spells"
+TABLE WITHOUT ID link(file.link,spellName) AS "Name", spellLevel AS "Level", spellSchool AS "Category", spellDescription AS "Description", isTheoretical AS "Theoretical?"
+FROM #Spells 
 WHERE isForbidden
 SORT spellName
 ```
@@ -58,8 +64,8 @@ SORT spellName
 No one has ever attempted to cast these, but they may be possible under the right circumstances. Even so, IMAS may forbid its members from researching these spells.
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Name", spellDescription AS "Description", spellCategory AS "Level"
-FROM "Concepts/Magic/Spells"
+TABLE WITHOUT ID link(file.link,spellName) AS "Name", spellLevel AS "Level", spellSchool AS "Category", spellDescription AS "Description"
+FROM #Spells 
 WHERE isForbidden
 SORT spellName
 ```
@@ -67,6 +73,8 @@ SORT spellName
 # All Spells
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Name", spellCategory AS "LEVEL", spellDescription AS "Description", spellComponents AS "Components"
-FROM "/Concepts/Magic/Spells"
+TABLE WITHOUT ID link(file.link,spellName) AS "Name", spellLevel AS "Level", spellSchool as "Category", spellDescription AS "Description", spellComponents AS "Components", isForbidden AS "Forbidden?", isTheoretical as "Theoretical?"
+FROM #Spells AND -#refdoc 
 ```
+
+#refdoc #concepts #magic #Spells 

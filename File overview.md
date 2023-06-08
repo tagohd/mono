@@ -19,6 +19,11 @@ number headings: auto, first-level 1, max 6, contents ^toc, 1.1
 
 %%I would like for this to not be self-referential, but whatever. (Why can't this be more like LaTeX?)%%
 
+```dataview
+TABLE list(outgoing([[file]]))
+FROM #majorChange 
+```
+
 # 2 Focus
 Files that need urgent attention (this is mostly just for quick access)
 ```dataview
