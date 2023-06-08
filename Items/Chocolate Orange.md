@@ -1,5 +1,5 @@
 ![[THE_ORB.jpg|600]]
-An ordinary chocolate orange. Tastes delicious, but contains 0% [[magic]]. (May contain nuts, though.)
+An ordinary chocolate orange. Tastes delicious, but contains 0% [[Magic]]. (May contain nuts, though.)
 
 And here's a picture of how it looks to someone with [[LukeVISION (TM)|protanopia]], like Luke:
 ![[THE ORB in LukeVISION (TM).png]]

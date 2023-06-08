@@ -53,7 +53,7 @@ SORT Priority, file.mtime DESC
 
 ## 3.2 Changes Lun Should Probably Look At (Minor Changes)
 >[!question] What's a minor change?
->This is also subjective, but I think it does have more to do with "amount changed" than Major Changes do. Examples: Specified how old a character is, created a new (stub) note, added information to a note that was already present in another note. They're *kinda* important, but if it can be easily summarized here in the overview, it's probably a minor change.
+>This is also subjective, but I think it does have more to do with "amount changed" than Major Changes do. Examples: Specified how old a character is, created a new (stub) note, added information to a note that was already present in another note. They're *kinda* important, but if it can be easily summarized here in the overview, it's probably a minor change. Also how big of an impact it has on other notes.
 
 >[!tip]
 >If you feel the need to add a priority to it, it's probably a major change. But feel free to do it anyway.

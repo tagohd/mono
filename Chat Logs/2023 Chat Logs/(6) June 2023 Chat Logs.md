@@ -35,7 +35,7 @@ L:
 
 L:
 >oh btw
->im currently writing about a [[magic]] system i thought off
+>im currently writing about a [[Magic]] system i thought off
 >maybe it'll fit in mono
 
 S:

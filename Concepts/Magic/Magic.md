@@ -46,6 +46,11 @@ question:: Fuckin magic, how does it work?
 %%
 
 # Can vs. Should
+%%
+sudoMajor:: Expanded on new magic idea mentioned in [[James's Excuse]]
+Priority:: 3
+#majorChange #unseenByLun 
+%%
 
 >[!idea] Anyone *can* use magic, but few know it even exists
 >Maybe magic was only recently discovered, given that it exists on [[Mana Plane|a separate plane of reality]]. Or perhaps magic users try to keep its existence a secret because of how dangerous it is. You know, the whole "tearing apart the fabric of reality" thing.
@@ -68,33 +73,24 @@ gameRefType:: OneShot/General
 Wouldn't that be something? A game that punishes you for using its magic system... Maybe it only does this if you forget to close the rift or something. But maybe the game doesn't actively remind you to close the rifts; you have to keep on top of that yourself. And, of course, maybe there are occasionally incentives to **_not_** close the rifts.
 
 ## Questions
-### Collective term for magic users?
-Magic users? Magicians? Wizards? Sorcerers? Mages? Warlocks? Witches?
->[!info] Any. They're interchangeable. Some people may prefer one to the others, though.
+>[!question] Collective term for magic users? Magic users? Magicians? Wizards? Sorcerers? Mages? Warlocks? Witches?
+>Any. They're interchangeable. Some people may prefer one to the others, though.
 
->Do they use names based on the kind of magic they specialize in, e.g. Illusionists, Artificers, Necromancers, etc.?
->>[!info] They can. Again, it mostly comes down to personal preference.
+>[!question] Do they use names based on the kind of magic they specialize in, e.g. Illusionists, Artificers, Necromancers, etc.?
+>They can. Again, it mostly comes down to personal preference.
 
+>[!question] Are there distinctions between magic users? Is a wizard different from a sorcerer different from a warlock? (Like D&D)
+>Maybe in the sense of how they approach magic/level of formal training? But, on a fundamental level, everyone uses magic the same way.
 
->[!question] Are there distinctions between magic users?
->Is a wizard different from a sorcerer different from a warlock? (Like D&D)
->>[!info] Maybe in the sense of how they approach magic/level of formal training?
->>But, on a fundamental level, everyone uses magic the same way.
+>[!question] Are there clerics and/or paladins? Are there gods at all?
+>No. Or, at least, they're not relevant to the practice of magic.
 
->[!question] Are there clerics and/or paladins?
->Are there gods at all?
->>[!info] No. Or, at least, they're not relevant to the practice of magic.
-
->[!question] Is there some kind of governing body overseeing the use of magic?
->A council of wizards or something?
->>[!info] It's more like a professional association, like IEEE.
->>They issue best practices and fund research into new spells and whatnot, but they can't, like, prevent anyone from using magic. They do have some de facto
-
+>[!question] Is there some kind of governing body overseeing the use of magic? A council of wizards or something?
+>It's more like [[Arcane Institute for Magical Sciences|a professional association]], like IEEE.
+>
+>They issue best practices and fund research into new [[List of Spells|spells]] and whatnot, but they can't, like, prevent anyone from using magic. They are fairly influential in the world of magic, though.
 
 %%
-sudoMajor:: Expanded on new magic idea mentioned in [[James's Excuse]]
-Priority:: 3
-#majorChange #unseenByLun
 trivial:: Added tags for Works Cited and fields for the Unanswered Questions heading on [[File Overview]]
 #trivialChange 
 %%

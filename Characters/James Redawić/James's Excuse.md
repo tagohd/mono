@@ -63,7 +63,7 @@ question:: Why doesn't James just get the Artifacts himself?
 [Sudo]:  Yeah, that's a good way of looking at it too. Basically my first response: Magic doesn't work that way. Oh, here's a thought:
 
 >[!idea] Anyone *can* use magic, but few know it even exists
->Maybe magic was only recently discovered, given that it exists on [[Mana Plane|a separate plane of reality]]. Or perhaps magic users try to keep its existence a secret because of how dangerous it is. You know, the whole "tearing apart the fabric of reality" thing. And it's kind of a last resort because of how dangerous it is. I'll expand on this more under [[Magic]].
+>Maybe magic was only recently discovered, given that it exists on [[Mana Plane|a separate plane of reality]]. Or perhaps magic users try to keep its existence a secret because of how dangerous it is. You know, the whole "tearing apart the fabric of reality" thing. And it's kind of a last resort because of how dangerous it is. I'll expand on this more under [[Magic#Can vs. Should|Magic]].
 
 
 >[!idea] Furthermore, magic is kind of a last resort.

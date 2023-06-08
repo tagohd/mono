@@ -6,7 +6,7 @@ Al promises eternal life, but it’s really eternal damnation. He will steal you
 >People have been going missing. [[Sam Ward|Someone close to Luke]] disappears. Luke searches for them and learns of Cursed Al. Also, [[James Redawić|James]] tells him he is THE CHOSEN ONE.
 
 >[!question] What is CURSED AL's goal, and why must he be stopped?
->CURSED AL wants to build a [[SOUL AMPLIFIER]] which will grant him access to huge amounts of [[mana]], more than any one person would normally be able to wield. His goal may ultimately be to use this power to resurrect James, although James hasn't actually died yet.
+>CURSED AL wants to build a [[SOUL AMPLIFIER]] which will grant him access to huge amounts of [[Mana]], more than any one person would normally be able to wield. His goal may ultimately be to use this power to resurrect James, although James hasn't actually died yet.
 >
 >He needs to be stopped because this plan has a very high chance of destroying the entire universe.
 
