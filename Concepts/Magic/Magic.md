@@ -86,9 +86,14 @@ Wouldn't that be something? A game that punishes you for using its magic system.
 >No. Or, at least, they're not relevant to the practice of magic.
 
 >[!question] Is there some kind of governing body overseeing the use of magic? A council of wizards or something?
->It's more like [[Arcane Institute for Magical Sciences|a professional association]], like IEEE.
+>It's more like [[Institute for the Magical Arts & Sciences|a professional association]], like IEEE. They issue best practices and fund research into new [[List of Spells|spells]] and whatnot, but they can't, like, prevent anyone from using magic. They are fairly influential in the world of magic, though (and relatively unheard of outside of it.)
+
+>[!question] But magic is dangerous. Surely there most be some official regulations or something.
+>Governments don't want to officially acknowledge the existence of magic, so they leave that up to IMAS. Any crime committed via magical means is prosecuted normally.
 >
->They issue best practices and fund research into new [[List of Spells|spells]] and whatnot, but they can't, like, prevent anyone from using magic. They are fairly influential in the world of magic, though.
+>Governments are aware of magic, of course. It's just classified. (This of course leads to quite a few conspiracy theories.)
+
+[question:: Are there official laws/regulations concerning magic?]
 
 %%
 trivial:: Added tags for Works Cited and fields for the Unanswered Questions heading on [[File Overview]]
