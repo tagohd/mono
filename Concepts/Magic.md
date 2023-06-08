@@ -54,28 +54,6 @@ question:: Fuckin magic, how does it work?
 
 Maybe people aren't even aware that this is magic. It's just... a thing that you can do.
 
->[!question] Collective term for magic users?
->Magic users? Magicians? Wizards? Sorcerers? Mages? Warlocks? Witches?
->Any. They're interchangeable. Some people may prefer one to the others, though.
-
->[!question] Are there distinctions between magic users?
->Is a wizard different from a sorcerer different from a warlock? (Like D&D)
->
->Do they use names based on the kind of magic they specialize in, e.g. Illusionists, Artificers, Necromancers, etc.?
-
->[!question] Are there clerics and/or paladins?
->Are there gods at all?
-
->[!question] Is there some kind of governing body overseeing the use of magic?
->A council of wizards or something?
-
-%%
-question:: Collective term for magic users?
-question:: Are there distinctions between magic users, i.e. different names depending on how they use magic, type of magic used, etc.?
-question:: Are there clerics and/or paladins? Are there gods at all?
-question:: Is there some kind of governing body overseeing the use of magic?
-%%
-
 Furthermore, magic is kind of a last resort. Again, because of how dangerous it can be, even the most skilled users try to limit how often they use it.
 
 Maybe there are some in-game consequences, too. You've played OneShot, right? Maybe if you use magic too much, you can see it start to corrupt reality; weird glitchy things start showing up, and maybe certain areas become inaccessible. (Probably nothing that would soft-lock you unless you're *really* overusing it.) But it starts out subtle—most players might not even notice it—then ramps up the more you use it.
@@ -88,6 +66,30 @@ gameRefType:: OneShot/General
 %%
 
 Wouldn't that be something? A game that punishes you for using its magic system... Maybe it only does this if you forget to close the rift or something. But maybe the game doesn't actively remind you to close the rifts; you have to keep on top of that yourself. And, of course, maybe there are occasionally incentives to **_not_** close the rifts.
+
+## Questions
+### Collective term for magic users?
+Magic users? Magicians? Wizards? Sorcerers? Mages? Warlocks? Witches?
+>[!info] Any. They're interchangeable. Some people may prefer one to the others, though.
+
+>Do they use names based on the kind of magic they specialize in, e.g. Illusionists, Artificers, Necromancers, etc.?
+>>[!info] They can. Again, it mostly comes down to personal preference.
+
+
+>[!question] Are there distinctions between magic users?
+>Is a wizard different from a sorcerer different from a warlock? (Like D&D)
+>>[!info] Maybe in the sense of how they approach magic/level of formal training?
+>>But, on a fundamental level, everyone uses magic the same way.
+
+>[!question] Are there clerics and/or paladins?
+>Are there gods at all?
+>>[!info] No. Or, at least, they're not relevant to the practice of magic.
+
+>[!question] Is there some kind of governing body overseeing the use of magic?
+>A council of wizards or something?
+>>[!info] It's more like a professional association, like IEEE.
+>>They issue best practices and fund research into new spells and whatnot, but they can't, like, prevent anyone from using magic. They do have some de facto
+
 
 %%
 sudoMajor:: Expanded on new magic idea mentioned in [[James's Excuse]]
