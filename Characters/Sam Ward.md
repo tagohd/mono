@@ -34,13 +34,4 @@ Why did CURSED AL take their SOUL? Maybe they don't actually have a SOUL, and th
 >
 >Actually, maybe they don't even have a deadname. Sammich is their actual birth name.
 
-%%
-sudoMajor:: Sam's name is short for Sammich. This is really more of a minor change, but it's important to ME, dammit!
-Lunsays:: No, no, you're right, this _is_ important
-Priority:: 1
-sudoMinor:: Added some bits from the plot to here, but nothing really new, per se.
-trivial:: Added some Dataview fields.
-#majorChange #minorChange #unseenBySudo #trivialChange 
-%%
-
 #character #sam-ward #unanswered-questions 
