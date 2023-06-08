@@ -30,12 +30,16 @@ Involves the [[SOUL]] somehow, hence the desire for the [[SOUL AMPLIFIER]]. (Sin
 (Did you know imgflip lets you upload your own fonts?)
 
 [Lun]: I didn't! Very cool!
+[Sudo]: I don't know if you caught this, but the other joke is that "MONO" is written in the Omori font. Surprisingly, I haven't plagiarized much from Omori yet.
+
 
 This isn't to say that only certain people can cast certain spells. It's just that certain spells come easier to you if your SOUL is the right "color". ^03cfb6
 
 [Lun]: I like the Mana-SOUL connection, but maybe this is just a bit too much uhhh "borrowing" from undertale? Maybe people can train their SOUL to better resonate with certain mana (which would translate to like leveling a skill tree in game) rather than it being a born trait? Or maybe it doesn't work like an amplifier at all, but instead works like kind of a Mana-container you can fill by poking rifts between the realms and thereafter use it to cast a spell? In which case it functions like kind of a classic Mana-bar, except that you charge it by poking holes in the veil between dimensions and that you have to immediately use all of the Mana you stored to cast a spell because storing pure, highly unstable energy in your body for a maintained duration is not the safest thing to do. So in essence it functions like a sort of Mana-stabilizer and converter.
 
 [Sudo]: Oh, so we're just gonna steal from Hollow Knight instead? SOUL Vessels? (And you poke rifts between planes by attacking enemies?) But, yeah, whenever I suggest something that's just "blatant plagiarism of Undertale", I'm mostly joking. Mostly. (But really, it's more like a placeholder until I come up with something that's less "blatant plagiarism of Undertale".)
+
+[Sudo]: Oh! Maybe the "color" of your SOUL determines your spellcasting ability? Even though everyone is casting magic in the same fundamental way (channeling Mana from the Mana Plane, as opposed to, e.g., calling on the power of a god), maybe they manipulate the Mana in different ways depending on their spellcasting ability.
 
 %%
 sudoMajor:: Responded to your comments.
@@ -98,7 +102,7 @@ tvRefType:: FMAB/General
 >[!question] But magic is dangerous. Surely there most be some official regulations or something.
 >Governments don't want to officially acknowledge the existence of magic, so they leave that up to IMAS. Any crime committed via magical means is prosecuted normally.
 >
->Governments are aware of magic, of course. It's just classified. (This of course leads to quite a few conspiracy theories.)
+>Governments are aware of magic, of course. It's just classified. (This undoubtedly leads to quite a few conspiracy theories.)
 
 %%
 trivial:: Added tags for Works Cited and fields for the Unanswered Questions heading on [[File Overview]]

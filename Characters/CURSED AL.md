@@ -38,7 +38,9 @@ Going off the above and the ideas in [[Magic]], [[The Legendary Artifacts]], and
 
 Oh, also, maybe he put himself into some sort of stasis dimension (possibly via [[Plane Shift]] or [[Astral Projection]]) while he was working this out. So he just kinda disappeared for who knows how long before suddenly reemerging shortly before James was fated to die. Maybe he thought it would work like this:
 %%
-sudoMin
+sudoMinor:: Potentially explaining how AL went into stasis via spells.
+#minorChange #unseenByLun 
+%%
 
 ```mermaid
 flowchart TB

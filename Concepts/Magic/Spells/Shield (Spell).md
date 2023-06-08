@@ -11,7 +11,7 @@ spellComponents: VS
 
 *1st-level abjuration*
 
-- Casting Time: 1 reaction, which you take when you are hit by an attack or targeted by the [[Magic Missile]] spell
+- Casting Time: 1 reaction, which you take when you are hit by an attack or targeted by the *[[Magic Missile|magic missile]]* spell
 - Range: Self
 - Materials: N/A
 - Duration: 1 round
