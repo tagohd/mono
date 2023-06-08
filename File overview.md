@@ -45,6 +45,9 @@ You can delete these callouts after you've read them if you want.
 >[!tip]
 >You can add a "Priority" field to specify suggested read order. Note that not assigning a priority will cause those files to sort *ahead* of ones that do have a priority. (But if one file has a priority and the others don't, I'll probably figure out what you meant.)
 
+>[!info]
+>"Files Potentially Affected" is simply the number of all links to or from a file, and doesn't necessarily depend on the extent of the changes made. I'm not sure how useful this information is, actually.
+
 ```dataview
 TABLE file.mday as "Last Changed", sudoMajor as "Sudo's Changes", Priority, sum([length(file.inlinks), length(file.outlinks)]) AS "Files Potentially Affected", Sudosays, Lunsays
 FROM #majorChange and #unseenByLun
@@ -59,9 +62,9 @@ SORT Priority, sum([length(file.inlinks), length(file.outlinks)]) DESC, file.mti
 >If you feel the need to add a priority to it, it's probably a major change. But feel free to do it anyway.
 
 ```dataview
-TABLE file.mday as "Last Changed", sudoMinor as "Sudo's Changes", Priority, sum([length(file.inlinks), length(file.outlinks)]) AS "Files Potentially Affected", Sudosays, Lunsays
+TABLE file.mday as "Last Changed", sudoMinor as "Sudo's Changes", Priority, Sudosays, Lunsays
 FROM #minorChange and #unseenByLun 
-SORT Priority, sum([length(file.inlinks), length(file.outlinks)]) DESC, file.mtime DESC
+SORT Priority, file.mtime DESC
 ```
 
 ## 3.3 Changes Sudo Should Really Look At (Major Changes)
@@ -73,9 +76,9 @@ SORT Priority, sum([length(file.inlinks), length(file.outlinks)]) DESC, file.mti
 
 ## 3.4 Changes Sudo Should Probably Look At (Minor Changes)
 ```dataview
-TABLE file.mday as "Last Changed", lunMinor as "Lun's Changes", Priority, sum([length(file.inlinks), length(file.outlinks)]) AS "Files Potentially Affected", Lunsays, Sudosays
+TABLE file.mday as "Last Changed", lunMinor as "Lun's Changes", Priority, Lunsays, Sudosays
 FROM #minorChange and #unseenBySudo 
-SORT Priority, sum([length(file.inlinks), length(file.outlinks)]) DESC, file.mtime DESC
+SORT Priority, file.mtime DESC
 ```
 
 ## 3.5 Trivial Changes
