@@ -1,15 +1,17 @@
 ---
-Name: CURSED AL
+Name: Alain 'CURSED AL' Bonhomme
 Category: Main
 Role: Main antagonist
 Age:
 Species: Fucked-up deer?
 Gender: Male (he/they/it)
 Orientation: Gay
-Personality: "Extremely devoted to James, but not the best at showing it"
-MainGoal: Save James
+Personality: "Extremely devoted to [[James Redawić|James]], but not the best at showing it"
+MainGoal: Save [[James Redawić|James]]
 References: ["Belos (The Owl House)", "Flowey (Undertale)", "The Radiance (Hollow Knight)", "Chuck McGill (Better Call Saul)"]
-Notes:
+AppearanceNotes:
+OtherNotes: His curse is that he's French.
+SortOrder: 2
 ---
 # The Cursed One
 ![[The Cursed One.mp3]]
@@ -39,6 +41,16 @@ Lun
 Going with my semi-convoluted [[Magic]] system, he might have become CURSED by the terrible after-effects of casting an incredibly powerful spell a very long time ago. Whatever could have prompted him to cast such a powerful spell knowing the dangers of free [[Mana]]? Perhaps it was for a greater good? After all, it was the last spell he cast before becoming CURSED...
 
 ---
+
+## Other Notes
+- Main Antagonist
+- Unspeakably old (or maybe he's James's age?)
+- Species: spoopy (a raven, maybe?)
+- Has antlers though #Cite/TV/The-Owl-House [tvRefType:: The Owl House/Character]
+
+%%
+question:: CURSED AL age and species
+%%
 
 # Backstory with [[James Redawić|James]]?
 #Cite/Unknown #Cite/TV/FMAB (?) #Cite/Game/Chrono-Trigger (?)
@@ -112,10 +124,11 @@ Maybe the real curse was all the friends we made along the way. Wait, no, that's
 
 Yeah, maybe his curse is "being ADHD-coded". And stasis is like hyperfixation.
 
+Actually, his curse is that he's French. And that he's stuck in the Astral Plane for some reason. But mostly that's he French.
+
 %%
 sudoMinor:: Gave a brief response to your question, which is also in your DMs.
-trivial:: Added tags for Works Cited.
-#minorChange #unseenByLun #trivialChange 
+#minorChange #unseenByLun 
 %%
 
 #character #cursed-al #the-cursed-one #unanswered-questions #contains-music

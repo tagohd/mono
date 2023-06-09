@@ -1,18 +1,20 @@
 ---
 alias: hero, protagonist, Luke
-Name: Luke Campbell
+Name: Lucas 'Luke' Campbell
 Category: Main
 Role: Protagonist
 Age: 16
 Species: Dogboy (Retriever?)
 Gender: Male (he/him)
 Orientation: Asexual/Panromantic (Poly?)
-Personality: "Friendly, but stupid. Very in love with Sam."
-MainGoal: Find Sam
+Personality: "Friendly, but stupid. Very in love with [[Sam Ward|Sam]]."
+MainGoal: Find [[Sam Ward|Sam]]
 References: ["Vash the Stampede (Trigun (1998))", "Link (The Legend of Zelda)", "Luke Skywalker (Star Wars)"]
-Notes:
+AppearanceNotes:
+OtherNotes:
+SortOrder: 1
 ---
-#Cite/Movie/Star-Wars
+#Cite/Movie/Star-Wars [movieRefType:: Star Wars/Character Name]
 
 # Luke, THE RELUCTANT HERO
 His bond with [[Sam Ward|Sam]] is so strong that it allows him to track their SOUL to [[CURSED AL]]. Luke’s SOUL is also quite powerful itself, allowing him to use [[Magic]], but it’s his bond with Sam that truly gives him strength.
@@ -52,7 +54,13 @@ Priority:: 5
 #majorChange #unseenByLun 
 %%
 >[!idea]
->Or maybe he's just [[LukeVISION (TM)]] and grabs the [[chocolate orange]] by mistake? But once he realizes it's not actually THE ORB, he still wants to eat it. Maybe this can be a recurring thing throughout the story, and it also ties into Luke hiding the fact that he's a dogboy. (Maybe deople (dog-people) are discriminated against for some reason?) Pretty much everyone knows that deople (dog-people) are colorblind, but not everyone knows that Luke is a dogboy. (And maybe Luke is so much of an idiot that he's not even aware he's colorblind.)
+>Or maybe he just has [[LukeVISION (TM)]] and grabs the [[chocolate orange]] by mistake? But once he realizes it's not actually THE ORB, he still wants to eat it. Maybe this can be a recurring thing throughout the story, and it also ties into Luke hiding the fact that he's a dogboy. (Maybe deople (dog-people) are discriminated against for some reason?) Pretty much everyone knows that deople (dog-people) are colorblind, but not everyone knows that Luke is a dogboy. (And maybe Luke is so much of an idiot that he's not even aware he's colorblind.)
+
+## Other Notes
+- Imagine if Vash the Stampede were a short king. And a dogboy. #Cite/TV/Trigun98 [tvRefType:: Trigun/Character]
+	- Goofy blond guy that doesn't look like he could easily fuck you up, but he can. He just chooses not to.
+	- Tragic backstory?
+	- Also has a tendency to be put into Situations (TM)
 
 ## LukeVISION (TM)
 As a dogboy, Luke suffers from protanopia, or red-green colorblindness. Among other things, this causes him to mistake [[CURSED AL'S CURSED ORB]] for an ordinary [[chocolate orange]]. I mean, it's also because he's an idiot, but being colorblind isn't doing him any favors either. (A Legendary Artifact has some distinct vibes it gives off that Luke totally failed to pick up on.)

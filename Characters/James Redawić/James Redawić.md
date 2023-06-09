@@ -2,16 +2,22 @@
 alias: James
 Name: James Redawić
 Category: Main
-Role: Mentor to Luke
-Age: 150?
+Role: Mentor to [[Luke Campbell|Luke]]
+Age: 250? (But he doesn't look a day over 125!)
 Species: Tortoise?
 Gender: Male (he/him)
 Orientation: Bisexual
 Personality: Laconic (unless you ask him about silver mines)
-MainGoal: Revenge on AL for abandoning him
+MainGoal: Revenge on [[CURSED AL|AL]] for abandoning him
 References: ["Obi-Wan Kenobi (Star Wars)"]
-Notes:
+AppearanceNotes:
+OtherNotes: Runs a museum out of an [[The Old Silver Mine|old silver mine]] in [[Plata]]
+SortOrder: 3
 ---
+%%
+question:: James age and species
+%%
+
 ![[wizard that knows fuck all.jpg]]
 # James, THE DARK MAGICIAN
 Perhaps he meddled with something he shouldn’t have and released [[CURSED AL]] from his prison. Former lover of Al?

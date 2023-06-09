@@ -1,7 +1,6 @@
 %%
-sudoMinor:: Case is 19 now.
-trivial:: Added tags for Works Cited. Added fields for Dataview.
-#minorChange #unseenByLun #trivialChange 
+sudoMajor:: Added new information to most characters. Added Dataview.
+#majorChange #unseenByLun 
 %%
 
 # General Notes
@@ -20,57 +19,29 @@ Orientation:
 Personality:
 MainGoal:
 References:
-Notes:
+AppearanceNotes:
+OtherNotes:
+SortOrder:
 ```
 
 # Main
-
+## Appearance
 ```dataview
-TABLE WITHOUT ID link(file.link,Name) AS "Name", Role, Age, Species, Gender, Personality, MainGoal AS "Goal", References
+TABLE WITHOUT ID link(file.link,Name) AS "Name", Age, Species, Gender, AppearanceNotes AS "Notes", References
 FROM #character WHERE Category = "Main"
+SORT SortOrder
+```
+
+## Personality
+```dataview
+TABLE WITHOUT ID link(file.link,Name) AS "Name", Role, Orientation, Personality, MainGoal AS "Goal", OtherNotes AS "Notes"
+FROM #character WHERE Category = "Main"
+SORT SortOrder
 ```
 
 ## Details
-### [[Luke Campbell]]
-#Cite/Movie/Star-Wars [movieRefType:: Star Wars/Character]
-- Protagonist
-- Dogboy
-- 16-ish?
-- Imagine if Vash the Stampede were a short king. And a dogboy. #Cite/TV/Trigun98 [tvRefType:: Trigun/Character]
-	- Goofy blond guy that doesn't look like he could easily fuck you up, but he can. He just chooses not to.
-	- Tragic backstory?
-	- Also has a tendency to be put into Situations (TM)
-
-### [[CURSED AL]]
-- Main Antagonist
-- Unspeakably old (or maybe he's James's age?)
-- Species: spoopy (a raven, maybe?)
-- Has antlers though #Cite/TV/The-Owl-House [tvRefType:: The Owl House/Character]
-
-%%
-question:: CURSED AL age and species
-%%
-
-### [[James Redawić]]
-- Mentor to Luke
-- Looks like he's in his 30s, but he's actually closer to 200 years old
-- Runs a [[The Old Silver Mine|museum]] out of the abandoned silver mine in [[Plata]]
-- Also some kind of bird-person
-
-%%
-question:: James age and species
-%%
-
 ### [[Sam Ward]]
-- "Damsel in distress", but they're not a damsel, and whether they're in distress is also debatable
-	- It'd be funny if they actually were in distress, but they're like, absolutely shredded.
-	- They're already an absolute U N I T, but then you put them next to Luke, who is a smol bean, and they look even more massive
-	- Like, you look at them next to CURSED AL, and it's clear they could easily just snap him in half, but they're completely unaware of this
-		- I'm going to say that, depending on how many [[SOUL|souls]] CURSED AL currently possesses, a light breeze could knock him over
-		- #Cite/Unknown [uRefType:: Character]
-- Luke's neighbor/best friend/love interest
-- Red fox
-- Close in age to Luke
+
 
 ### [[Case Weston]]
 - He shows up near the end of Act I, first as an antagonist and later as a love interest?

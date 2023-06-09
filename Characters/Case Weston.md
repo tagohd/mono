@@ -7,10 +7,12 @@ Age: 19
 Species:
 Gender: Male (he/him) (Trans?)
 Orientation: Gay
-Personality:
-MainGoal:
-References:
-Notes:
+Personality: Tsundere
+MainGoal: ["Investigate [[James Redawić|James]]", "Keep [[Luke Campbell|Luke]] safe"]
+References: ["Nicholas D. Wolfwood (Trigun (1998))"]
+AppearanceNotes:
+OtherNotes:
+SortOrder: 5
 ---
 %%
 Sudosays:: Huh. The main character's name is Luke. And the secondary protagonist(?) is named Case? Luke and Case. Wonder where I came up with that. Luke and Case. Lucas. And ~~Clase~~ Claus?
@@ -34,7 +36,7 @@ OOOH! Maybe he's an [[Institute for the Magical Arts & Sciences|IMAS]] auditor s
 >Maybe he works at the museum after all. He hasn't been able to find out much about James's plan, but he has learned a lot about turn-of-the-century mining techniques. (See: [[James Redawić#James, THE MUSEUM OWNER?]])
 
 %%
-sudoMajor:: New Case backstory?!
+sudoMajor:: New Case backstory?! Also promoted Case to Main Character.
 Priority:: 5
 #majorChange #unseenByLun 
 %%

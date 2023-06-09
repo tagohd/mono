@@ -8,9 +8,10 @@ Species: Red fox (*Vulpes vulpes*)
 Gender: "No, thanks! (they/them)"
 Orientation: Queer (let's just leave it at that)
 Personality: Athletic and outgoing.
-MainGoal: "Not be captured by CURSED AL, I guess?"
+MainGoal: "Not be captured by [[CURSED AL]], I guess?"
 References: ["Cloth (Hollow Knight)???", "Noelle Holiday (Deltarune)", "Kronk (The Emperor's New Groove)"]
 Notes:
+SortOrder: 4
 ---
 # Sam, THE INNOCENT ONE
 Love interest for [Luke](Luke%20Campbell.md).
@@ -39,6 +40,17 @@ Why did CURSED AL take their SOUL? Maybe they don't actually have a SOUL, and th
 	[Lun]: I guess if you don't have a soul and some guy's plan is to load you with souls you could go along with it??
 * On the cross-country team with Luke, except they actually enjoy it
 * Their lack of SOUL makes them a crucial component of CURSED AL's plan
+
+## Old Notes
+- "Damsel in distress", but they're not a damsel, and whether they're in distress is also debatable
+	- It'd be funny if they actually were in distress, but they're like, absolutely shredded.
+	- They're already an absolute U N I T, but then you put them next to Luke, who is a smol bean, and they look even more massive
+	- Like, you look at them next to CURSED AL, and it's clear they could easily just snap him in half, but they're completely unaware of this
+		- I'm going to say that, depending on how many [[SOUL|souls]] CURSED AL currently possesses, a light breeze could knock him over
+		- #Cite/Unknown [uRefType:: Character]
+- Luke's neighbor/best friend/love interest
+- Red fox
+- Close in age to Luke
 
 >[!question] Is Sam short for "Samuel" or "Samantha"?
 >Neither. It's short for "Sammich". (You'll never find out their AGAB or their deadname.)
