@@ -11,7 +11,7 @@ Orientation: Bisexual
 Personality: Laconic (unless you ask him about silver mines)
 MainGoal: Revenge on [[CURSED AL|AL]] for abandoning him
 References: ["Obi-Wan Kenobi (Star Wars)"]
-AppearanceNotes:
+AppearanceNotes: Uses a wheelchair
 OtherNotes: Runs a museum out of an [[The Old Silver Mine|old silver mine]] in [[Plata]]
 SortOrder: 3
 ---

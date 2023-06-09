@@ -1,6 +1,22 @@
+---
+Name: "Ma & Pa Campbell"
+Category: Supporting
+Role: Luke's parents.
+DOB:
+Species: "Dog, presumably"
+Gender: "Idk, I'm tired. One's female and one's male. It's not who you'd expect."
+Orientation: "They're both bi, I guess. They're T4T, actually."
+Personality: "Loving, but a bit simpleminded"
+MainGoal: Take care of their farm and their son
+References: ["American Gothic (Grant Wood painting)"]
+AppearanceNotes: "One would assume they look similar to Luke"
+OtherNotes: I guess I should make separate articles for them.
+SortOrder: 9
+---
+
 %%
-trivial:: Added tags for Works Cited. Added link to Campbell Farm
-#trivialChange 
+sudoMinor:: Added some character information. Implying separate articles for [[Ma Campbell]] and [[Pa Campbell]].
+#minorChange #unseenByLun 
 %%
 
 [[Luke Campbell|Luke's]] parents. Not especially bright. Own a [[Campbell Farms|farm]] in [[Genton]].

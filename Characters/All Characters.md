@@ -54,19 +54,10 @@ FROM #character WHERE Category = "Supporting"
 SORT SortOrder
 ```
 
-## Details
-### [[Luke's Noble Steed|Pauline]]
-- Luke's noble steed
-- A bay mare
-- Just an ordinary horse
-
-### [[Ma & Pa Campbell]]
-- Luke's loving parents
-
 # Other?
 ```dataview
 TABLE WITHOUT ID link(file.link,Name) AS "Name", DOB, round((date(today) - DOB).years, 1) AS "Age", Species, Gender, AppearanceNotes AS "Notes", References
-FROM #character WHERE Category = "Supporting"
+FROM #character WHERE Category = "Side"
 SORT SortOrder
 ```
 

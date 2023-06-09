@@ -5,14 +5,14 @@ Category: Supporting
 Role: Luke's noble steed
 DOB: 2012-01-13
 Species: American Quarter Horse (*Equus ferus caballus*)
-Gender: Mare
-Orientation:
-Personality:
-MainGoal:
-References:
-AppearanceNotes:
-OtherNotes:
-SortOrder:
+Gender: Female
+Orientation: N/A
+Personality: Gentle and reliable. All around a good horse.
+MainGoal: "Whatever most horses' goals are, I guess. Not be eaten by dragons?"
+References: ["Horses (Real Life)", "Epona (The Legend of Zelda)"]
+AppearanceNotes: Bay
+OtherNotes: "Extremely terrified of dragons. How prejudiced."
+SortOrder: 8
 ---
 
 A bay mare named Pauline. A good, reliable horse, but just a normal horse nonetheless.

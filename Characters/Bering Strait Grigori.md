@@ -1,5 +1,18 @@
 ---
 alias: Grigori
+Name: Grigori Mikhailovich Karstov
+Category: Side
+Role: Helps [[James Redawić|James]] run the [[The Old Silver Mine|museum]]
+DOB: 1973-03-05
+Species: Kodiak bear (*Ursus arctos middendorffi*)
+Gender: Male (he/him)
+Orientation: Homosexual aromantic
+Personality:
+MainGoal:
+References:
+AppearanceNotes:
+OtherNotes:
+SortOrder: 11
 ---
 
 # About
