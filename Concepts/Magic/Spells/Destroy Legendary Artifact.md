@@ -16,12 +16,15 @@ spellComponents: VSM
 - Materials: A [[Legendary Artifacts|Legendary Artifact]], aluminum powder, iron(III) oxide, magnesium (for ease of ignition). All are consumed by the spell.
 - Duration: Instantaneous.
 
->[!note]
->"Realistically", this would probably more like a combination of several spells than one single spell. But I don't want to figure out which ones right now, so the actual spell is just "Legendary Artifact + Thermite" for now. (You can try this spell at home with your own Legendary Artifacts!)
-
 Allows the user to permanently destroy any Legendary Artifact.
 
-**WARNING:** [[Institute for the Magical Arts & Sciences|IMAS]] strongly encourages its members to refrain from destroying any Legendary Artifacts. Instead, please between them to your local IMAS hall so they can be studied.
+>[!warning]
+>[[Institute for the Magical Arts & Sciences|IMAS]] strongly encourages its members to refrain from destroying any Legendary Artifacts. Instead, please between them to your local IMAS hall so they can be studied.
+
+# Meta
+
+>[!note]
+>"Realistically", this would probably more like a combination of several spells than one single spell. But I don't want to figure out which ones right now, so the actual spell is just "Legendary Artifact + Thermite" for now. (You can try this spell at home with your own Legendary Artifacts!)
 
 >[!idea]
 >Maybe [[CURSED AL]] is using IMAS to collect the Artifacts for him.

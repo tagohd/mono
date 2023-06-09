@@ -18,7 +18,8 @@ spellComponents: Unknown
 Grants the user complete control over the timeline, allowing them to reverse, erase, or rewrite fate as they see fit.
 #Cite/Game/Undertale [gameRefType:: Undertale/Plot]
 
-**WARNING:** This spell would require extreme amounts of [[Mana]] to cast, and could potentially destroy our entire plane of reality. [[Institute for the Magical Arts & Sciences|IMAS]] members are entirely forbidden from researching this spell; non-members are strongly encouraged not to research it as well.
+>[!warning]
+>This spell would require extreme amounts of [[Mana]] to cast, and could potentially destroy our entire plane of reality. [[Institute for the Magical Arts & Sciences|IMAS]] members are entirely forbidden from researching this spell; non-members are strongly encouraged not to research it as well.
 
 %%
 sudoMajor:: Help, I can't stop plagiarizing Undertale. (jk but not really)

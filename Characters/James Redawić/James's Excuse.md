@@ -78,6 +78,9 @@ movieRefType:: Star Wars/Character
 	Magic being kept a secret also sounds pretty disruptive to the story, every time someone new saw Luke casting magic you'd need to have a whole "what the FUCK did you just do" dialogue.
 	I'm more a fan of the whole "it's not commonly taught to everyone because you can accidentally nuke your current location"-idea. 
 
+%% NEW %%
+[Sudo]: Maybe it's recent in the sense that oil is recent. It's always been around, and there have been limited uses for it (e.g. pitch), but
+
 >[!idea] Furthermore, magic is kind of a last resort.
 >Again, because of how dangerous it can be, even the most skilled users try to limit how often they use it.
 >
