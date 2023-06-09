@@ -62,6 +62,8 @@ movieRefType:: Star Wars/Character
 >[!question] He's a wizard! Can't he just, like, fly and teleport and stuff?
 >Maybe he (ostensibly) really cares about making sure the younger generation is trained in the use of magic?
 >![[wizard that knows fuck all.jpg|300]]
+>sudoMinor:: Or we can just stick with "Magic doesn't work that way." Teleportation just isn't a spell that exists. The best you can do is teleport short distances, kinda like a dash ability. [[Plane Shift]] and [[Astral Projection]] are different.
+#minorChange #unseenByLun 
 
 
 [Lun]: Here's an addition to my "Luke misinterpreted James" thing that might work: James did not intend to gather all the artifacts at all. He just wanted Luke to bring him the one (1) from [[Rhapsody]] to check if it's still there, maybe study it (and get a little addicted to its evil power?). Then James died shortly after, and Luke was like "Guess I have to collect all the rest now to complete my quest!". And then maybe the reason James didn't want to collect that one himself is that it would have warned AL that he's on to his funny business (whereas a random dogboy taking it is just another unlucky thursday).
