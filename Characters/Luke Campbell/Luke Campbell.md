@@ -4,6 +4,7 @@ Name: Lucas 'Luke' Campbell
 Category: Main
 Role: Protagonist
 Age: 19
+DOB: 2004-05-26
 Species: Dogboy (Retriever?)
 Gender: Male (he/him)
 Orientation: Asexual/Panromantic (Poly?)

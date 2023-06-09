@@ -1,5 +1,18 @@
 ---
 alias: horse, Pauline
+Name: Pauline
+Category: Supporting
+Role: Luke's noble steed
+DOB: 2012-01-13
+Species: American Quarter Horse (*Equus ferus caballus*)
+Gender: Mare
+Orientation:
+Personality:
+MainGoal:
+References:
+AppearanceNotes:
+OtherNotes:
+SortOrder:
 ---
 
 A bay mare named Pauline. A good, reliable horse, but just a normal horse nonetheless.

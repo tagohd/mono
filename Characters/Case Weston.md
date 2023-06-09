@@ -4,6 +4,7 @@ Name: Case Weston
 Category: Main
 Role: Deuteragonist?
 Age: 22
+DOB: 2001-11-15
 Species:
 Gender: Male (he/him) (Trans?)
 Orientation: Gay
@@ -57,5 +58,16 @@ sudoMajor:: Replied
 #majorChange #unseenByLun 
 %%
 
+# Old Notes
+- He shows up near the end of Act I, first as an antagonist and later as a love interest?
+	- Maybe it's one-sided. However, Luke *does* have two hands...
+- Nicholas D. Wolfwood. He's Nicholas D. Wolfwood. #Cite/TV/Trigun98 [tvRefType:: Trigun/Character]
+	- He's not a wolf, though. That would be too obvious.
+- Probably just a bit older than Luke, maybe 19
 
-#character #case-weston 
+%%
+question:: What species is Case?
+%%
+
+
+#character #case-weston #unanswered-questions 

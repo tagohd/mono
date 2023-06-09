@@ -3,7 +3,8 @@ alias: Sam, Sammich
 Name: Sammich 'Sam' Ward
 Category: Main
 Role: Damsel-in-distress (not a damsel and maybe not in distress)
-Age: 19
+Age: 20
+DOB: 2003-12-05
 Species: Red fox (*Vulpes vulpes*)
 Gender: "No, thanks! (they/them)"
 Orientation: Queer (let's just leave it at that)

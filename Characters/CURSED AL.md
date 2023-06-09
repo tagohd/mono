@@ -3,6 +3,7 @@ Name: Alain 'CURSED AL' Bonhomme
 Category: Main
 Role: Main antagonist
 Age:
+DOB: 1760-01-07
 Species: Fucked-up deer?
 Gender: Male (he/they/it)
 Orientation: Gay
