@@ -94,11 +94,12 @@ sudoMajor:: Okay, maybe magic is "recent" in the sense that electricity is recen
 
 	Lun: Hmmm, the way I thought of it magic is pretty much completely safe to use if you know what you're doing (and don't intentionally go horse crazy with it). I do like the idea of the world getting corrupted though, OneShot good game. Maybe that could be an effect of free Mana instead (in addition to the immediate random effects it has)?
 
-[Sudo]: Okay, maybe it's not a "last resort" then. But maybe it's more like Warp in Star Trek. They could all be going Warp 9 if they wanted to (and if their warp engines were capable of it), but they collectively agreed to not go over Warp 5(?) because it turned out it was literally tearing apart the universe or something like that. (It's TNG S7E9, if you're interested. And then they kinda just forgot about it in later episodes lol.)
-[Sudo]: On second thought, I'm not sure how good of a comparison that is. I guess it still works since they do continue to use Warp, and, as mentioned, they routinely break the 
+[Sudo]: Okay, maybe it's not a "last resort" then. But maybe it's more like Warp in Star Trek. They could all be going Warp 9 if they wanted to (and if their warp engines were capable of it), but they collectively agreed to not go over Warp 5(?) because it turned out it was literally tearing apart the universe or something like that. (It's TNG S7E9, if you're interested. And then they kinda just forgot about it in later episodes lol.) #Cite/TV/Star-Trek-TNG [tvRefType: Star Trek TNG/General]
+[Sudo]: On second thought, maybe not. But even if it's not a last resort, it might not be a first resort either. Perhaps there just aren't that many practical spells. Or using magic is kind of a pain in the ass. Or a pain in the SOUL? (Haha, there's an idea: maybe some people don't like magic because they think it's like the SOUL-equivalent of smoking cigarettes. It's not actually, but that doesn't stop people from believing it.)
+
 %%
-#Cite/TV/StarTrekTNG 
-tvRefType:: Star Trek: TNG/General
+sudoMajor:: Perhaps there's some sort of in-universe disincentive to using magic? Beyond the risk of universal destruction, that is. Like, it's kinda hard or it's not that useful most of the time?
+#majorChange #unseenByLun 
 %%
 
 [Sudo]: I was thinking, "Okay, maybe we go with the first idea. James can't do it because he's in a wheelchair." And then I had the image of him, like, getting into a wheelchair van, but I thought, "Wouldn't there be a better, more magical solution?" But maybe the answer is, "No, magic doesn't actually affect the world that much if most people don't know about it."
@@ -114,5 +115,8 @@ tvRefType:: Star Trek: TNG/General
 And of course, HP is just an abstraction of your ability to keep going in a fight. What it's actually analogous to might not really matter.
 
 [Lun]: Alright, add "Conjure band-aid" to the spell list. Also maybe you can speed up time to accelerate natural healing (which would not work for curing paralysis or let's say losing a limb)? I guess in this game you just have to go visit an actual-to god doctor when you take too much damage. Kind of like the Pokecenters in pokemon, except that its a peoplecenter and you are the people.
+
+sudoMajor:: See: [[Cure Wounds]] and [[Regenerate]]
+#majorChange #unseenByLun 
 
 #general #james-redawic #unanswered-questions 
