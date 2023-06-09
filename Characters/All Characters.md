@@ -13,6 +13,7 @@ Name:
 Category: Main | Supporting | Side
 Role:
 Age:
+DOB:
 Species:
 Gender:
 Orientation:

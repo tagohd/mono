@@ -3,7 +3,7 @@ alias: Sam, Sammich
 Name: Sammich 'Sam' Ward
 Category: Main
 Role: Damsel-in-distress (not a damsel and maybe not in distress)
-Age: 17
+Age: 19
 Species: Red fox (*Vulpes vulpes*)
 Gender: "No, thanks! (they/them)"
 Orientation: Queer (let's just leave it at that)
@@ -33,8 +33,7 @@ Love interest for [Luke](Luke%20Campbell.md).
 * They're about Luke's age, so... 16-17? (I haven't really decided how old Luke is, either.)
 	[Lun]: Considering the significant amount of Luke-centered romance in this story, how about him being an adult? Like 20 or so?
 	[Sudo]: Yeah, that can work. I went with Luke being 16 based off the scrapped idea that he turns into a dogboy instead of always being one, and he's such an idiot that he thinks it's Puberty 2: Electric Boogaloo. (Although, the older he is, the funnier that would be.)
-	[Sudo]: Wait, actually I'm not sure if that can work. That breaks a lot of dependencies, so to speak. Luke and Sam being on the cross-country team doesn't really make sense, for one. Sure, they could be on the college team, but [[Genton]] doesn't have a college. I guess they just run for fun? (Well, Sam does, anyway.)
-	[Sudo]: And why do they both still live with their parents?
+	[Sudo]: Actually, I'm not sure if that can work, but I think I'll address that in [[Luke Campbell#Age|Luke's]] article instead.
 * They're taller than [[Luke Campbell|Luke]]. In addition to being kind and dumb, Luke is also smol, so most people are taller than him, actually.
 	[Lun]: We support short kings here
 * Sam is based on a red fox (*Vulpes vulpes*), to the extent that that fits in the confines of the [[(5) May 2023 Chat Logs#Furites paradox|Furites paradox]]

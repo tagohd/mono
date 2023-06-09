@@ -3,7 +3,7 @@ alias: Case
 Name: Case Weston
 Category: Main
 Role: Deuteragonist?
-Age: 19
+Age: 22
 Species:
 Gender: Male (he/him) (Trans?)
 Orientation: Gay
