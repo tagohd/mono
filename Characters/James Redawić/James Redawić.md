@@ -1,5 +1,16 @@
 ---
 alias: James
+Name: James Redawić
+Category: Main
+Role: Mentor to Luke
+Age: 150?
+Species: Tortoise?
+Gender: Male (he/him)
+Orientation: Bisexual
+Personality: Laconic (unless you ask him about silver mines)
+MainGoal: Revenge on AL for abandoning him
+References: ["Obi-Wan Kenobi (Star Wars)"]
+Notes:
 ---
 ![[wizard that knows fuck all.jpg]]
 # James, THE DARK MAGICIAN

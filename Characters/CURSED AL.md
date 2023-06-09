@@ -1,3 +1,16 @@
+---
+Name: CURSED AL
+Category: Main
+Role: Main antagonist
+Age:
+Species: Fucked-up deer?
+Gender: Male (he/they/it)
+Orientation: Gay
+Personality: "Extremely devoted to James, but not the best at showing it"
+MainGoal: Save James
+References: ["Belos (The Owl House)", "Flowey (Undertale)", "The Radiance (Hollow Knight)", "Chuck McGill (Better Call Saul)"]
+Notes:
+---
 # The Cursed One
 ![[The Cursed One.mp3]]
 %%

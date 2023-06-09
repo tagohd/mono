@@ -7,8 +7,31 @@ trivial:: Added tags for Works Cited. Added fields for Dataview.
 # General Notes
 - Every character is queer (except for [[All Characters#Boring Straight Greg|Boring Straight Greg]]) and some sort of furry
 
+Hey, maybe I could use Dataview here, too. Use this metadata:
+
+```
+Name:
+Category: Main | Supporting | Side
+Role:
+Age:
+Species:
+Gender:
+Orientation:
+Personality:
+MainGoal:
+References:
+Notes:
+```
+
 # Main
-## [[Luke Campbell]]
+
+```dataview
+TABLE WITHOUT ID link(file.link,Name) AS "Name", Role, Age, Species, Gender, Personality, MainGoal AS "Goal", References
+FROM #character WHERE Category = "Main"
+```
+
+## Details
+### [[Luke Campbell]]
 #Cite/Movie/Star-Wars [movieRefType:: Star Wars/Character]
 - Protagonist
 - Dogboy
@@ -18,7 +41,7 @@ trivial:: Added tags for Works Cited. Added fields for Dataview.
 	- Tragic backstory?
 	- Also has a tendency to be put into Situations (TM)
 
-## [[CURSED AL]]
+### [[CURSED AL]]
 - Main Antagonist
 - Unspeakably old (or maybe he's James's age?)
 - Species: spoopy (a raven, maybe?)
@@ -28,7 +51,7 @@ trivial:: Added tags for Works Cited. Added fields for Dataview.
 question:: CURSED AL age and species
 %%
 
-## [[James Redawić]]
+### [[James Redawić]]
 - Mentor to Luke
 - Looks like he's in his 30s, but he's actually closer to 200 years old
 - Runs a [[The Old Silver Mine|museum]] out of the abandoned silver mine in [[Plata]]
@@ -38,7 +61,7 @@ question:: CURSED AL age and species
 question:: James age and species
 %%
 
-## [[Sam Ward]]
+### [[Sam Ward]]
 - "Damsel in distress", but they're not a damsel, and whether they're in distress is also debatable
 	- It'd be funny if they actually were in distress, but they're like, absolutely shredded.
 	- They're already an absolute U N I T, but then you put them next to Luke, who is a smol bean, and they look even more massive
@@ -49,8 +72,7 @@ question:: James age and species
 - Red fox
 - Close in age to Luke
 
-# Supporting
-## [[Case Weston]]
+### [[Case Weston]]
 - He shows up near the end of Act I, first as an antagonist and later as a love interest?
 	- Maybe it's one-sided. However, Luke *does* have two hands...
 - Nicholas D. Wolfwood. He's Nicholas D. Wolfwood. #Cite/TV/Trigun98 [tvRefType:: Trigun/Character]
@@ -61,7 +83,14 @@ question:: James age and species
 question:: What species is Case?
 %%
 
-## [[The Emperoress]]
+# Supporting
+```dataview
+TABLE WITHOUT ID link(file.link,Name) AS "Name", Role, Age, Species, Gender, Personality, MainGoal AS "Goal", References
+FROM #character WHERE Category = "Supporting"
+```
+
+## Details
+### [[The Emperoress]]
 - The one actually pulling all the strings
 - The bigender/genderfluid master of CURSED AL
 	- Many believe they're two separate people
@@ -71,27 +100,32 @@ question:: What species is Case?
 question:: Is The Emperoress secretly Edna?
 %%
 
-## [[The Dragon]]
+### [[The Dragon]]
 - You'd think this is the true main antagonist, but she's actually [[(12) December 2020 Chat Logs#^8a0296|super chill]]
 - Tragically in love with Pauline, the horse #Cite/Movie/Shrek [movieRefType:: Shrek/Character]
 
-## [[Luke's Noble Steed|Pauline]]
+### [[Luke's Noble Steed|Pauline]]
 - Luke's noble steed
 - A bay mare
 - Just an ordinary horse
 
-## [[Ma & Pa Campbell]]
+### [[Ma & Pa Campbell]]
 - Luke's loving parents
 
 # Other?
-## [[Boring Straight Greg]]
+```dataview
+TABLE WITHOUT ID link(file.link,Name) AS "Name", Role, Age, Species, Gender, Personality, MainGoal AS "Goal", References
+FROM #character WHERE Category = "Side"
+```
+## Details
+### [[Boring Straight Greg]]
 - Diversity hire, not to be confused with the significantly cooler [[Bering Strait Grigori]]
 
-## [[Bering Strait Grigori]]
+### [[Bering Strait Grigori]]
 - Helps James run the [[Plata]] Mine Museum
 - He's a bear, in *both* senses of the word
 
-## [[Steve the Royalty-Free Skeleton]]
+### [[Steve the Royalty-Free Skeleton]]
 - just a normal skeleton. nothing to see here. #Cite/Game/Undertale [gameRefType:: Undertale/Character]
 
 #general #refdoc #unanswered-questions

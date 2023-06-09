@@ -1,5 +1,16 @@
 ---
 alias: Sam, Sammich
+Name: Sammich 'Sam' Ward
+Category: Main
+Role: Damsel-in-distress (not a damsel and maybe not in distress)
+Age: 17
+Species: Red fox (*Vulpes vulpes*)
+Gender: "No, thanks! (they/them)"
+Orientation: Queer (let's just leave it at that)
+Personality: Athletic and outgoing.
+MainGoal: "Not be captured by CURSED AL, I guess?"
+References: ["Cloth (Hollow Knight)???", "Noelle Holiday (Deltarune)", "Kronk (The Emperor's New Groove)"]
+Notes:
 ---
 # Sam, THE INNOCENT ONE
 Love interest for [Luke](Luke%20Campbell.md).

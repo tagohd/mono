@@ -11,6 +11,8 @@ Priority:: 5
 
 The stronger the spell, the more [[Mana]] required, and thus larger tears in the veil separating reality from the [[Mana Plane]].
 
+Except for [[Destroy Legendary Artifact]] and [[Reverse Fate]], all of these were copied directly from the Dungeons & Dragons Player's Handbook, 5th Edition. So, references to dice rolls, saving throws, etc. might not necessarily translate into MONO.
+
 # Cantrips
 These are spells that anyone can cast as they deal minimal damage to the veil between planes. Most people aren't even aware that they're magic.
 

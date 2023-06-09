@@ -1,5 +1,16 @@
 ---
 alias: hero, protagonist, Luke
+Name: Luke Campbell
+Category: Main
+Role: Protagonist
+Age: 16
+Species: Dogboy (Retriever?)
+Gender: Male (he/him)
+Orientation: Asexual/Panromantic (Poly?)
+Personality: "Friendly, but stupid. Very in love with Sam."
+MainGoal: Find Sam
+References: ["Vash the Stampede (Trigun (1998))", "Link (The Legend of Zelda)", "Luke Skywalker (Star Wars)"]
+Notes:
 ---
 #Cite/Movie/Star-Wars
 

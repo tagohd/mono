@@ -1,5 +1,16 @@
 ---
 alias: Case
+Name: Case Weston
+Category: Main
+Role: Deuteragonist?
+Age: 19
+Species:
+Gender: Male (he/him) (Trans?)
+Orientation: Gay
+Personality:
+MainGoal:
+References:
+Notes:
 ---
 %%
 Sudosays:: Huh. The main character's name is Luke. And the secondary protagonist(?) is named Case? Luke and Case. Wonder where I came up with that. Luke and Case. Lucas. And ~~Clase~~ Claus?
