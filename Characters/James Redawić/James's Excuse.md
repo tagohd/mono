@@ -94,7 +94,12 @@ sudoMajor:: Okay, maybe magic is "recent" in the sense that electricity is recen
 
 	Lun: Hmmm, the way I thought of it magic is pretty much completely safe to use if you know what you're doing (and don't intentionally go horse crazy with it). I do like the idea of the world getting corrupted though, OneShot good game. Maybe that could be an effect of free Mana instead (in addition to the immediate random effects it has)?
 
-[Sudo]: Okay, maybe it's not a "last resort" then. But maybe it's more like the Warp 
+[Sudo]: Okay, maybe it's not a "last resort" then. But maybe it's more like Warp in Star Trek. They could all be going Warp 9 if they wanted to (and if their warp engines were capable of it), but they collectively agreed to not go over Warp 5(?) because it turned out it was literally tearing apart the universe or something like that. (It's TNG S7E9, if you're interested. And then they kinda just forgot about it in later episodes lol.)
+[Sudo]: On second thought, I'm not sure how good of a comparison that is. I guess it still works since they do continue to use Warp, and, as mentioned, they routinely break the 
+%%
+#Cite/TV/StarTrekTNG 
+tvRefType:: Star Trek: TNG/General
+%%
 
 [Sudo]: I was thinking, "Okay, maybe we go with the first idea. James can't do it because he's in a wheelchair." And then I had the image of him, like, getting into a wheelchair van, but I thought, "Wouldn't there be a better, more magical solution?" But maybe the answer is, "No, magic doesn't actually affect the world that much if most people don't know about it."
 [Sudo]: Oh, wait, I realized another problem.
