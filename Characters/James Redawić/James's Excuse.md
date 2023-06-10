@@ -62,7 +62,7 @@ movieRefType:: Star Wars/Character
 >[!question] He's a wizard! Can't he just, like, fly and teleport and stuff?
 >Maybe he (ostensibly) really cares about making sure the younger generation is trained in the use of magic?
 >![[wizard that knows fuck all.jpg|300]]
->sudoMinor:: Or we can just stick with "Magic doesn't work that way." [[True Teleport|Teleportation]] just isn't a spell that exists. The best you can do is [[Minor Evasion|teleport short distances]], kinda like a dash ability. [[Plane Shift]] and [[Astral Projection]] are different.
+>sudoMinor:: Or we can just stick with "Magic doesn't work that way." [[Teleport|Teleportation]] just isn't a spell that exists. The best you can do is [[Evasion|teleport short distances]], kinda like a dash ability. [[Plane Shift]] and [[Astral Projection]] are different.
 #minorChange #unseenByLun 
 
 

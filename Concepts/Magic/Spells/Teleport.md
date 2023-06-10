@@ -6,7 +6,7 @@ spellLevel:
 spellDescription: Teleports the user and up to 8 others to any destination on the same plane of existence.
 isForbidden: False
 isTheoretical: True
-spellComponents: V
+spellComponents: Unknown
 ---
 
 >[!warning]

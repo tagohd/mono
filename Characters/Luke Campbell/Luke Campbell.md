@@ -50,7 +50,7 @@ You know how you can broadly divide dog races into the group that got bred to do
 - While he was initially trying to get the orb because he was ordered to do so by [[Other Ideas from Lunathrix|the big bad]], he gradually ends up trying to take the orb from Luke to prevent him from poisoning himself, thereby fulfilling the “What’s that in your mouth? SPIT THAT OUT!” role
 
 %%
-sudoMajor:: Luke is colorblind because he's a dogboy. But people don't realize he's colorblind b/c he hides the fact the he's a dogboy.
+sudoMajor:: Luke is colorblind because he's a dogboy. But people don't realize he's colorblind b/c he hides this fact.
 #majorChange #unseenByLun 
 %%
 >[!idea]
