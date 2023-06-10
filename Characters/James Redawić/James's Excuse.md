@@ -5,6 +5,7 @@ question:: Why doesn't James just get the Artifacts himself?
 Priority:: 1
 ---
 # Why doesn't James just get the Artifacts himself?
+Sudosays:: This has kind of devolved more into a discussion about magic than about the original question. So, are we going with that he's a paraplegic or what?
 
 ![[uhhh.jpg]]
 
@@ -119,7 +120,7 @@ And of course, HP is just an abstraction of your ability to keep going in a figh
 
 [Lun]: Alright, add "Conjure band-aid" to the spell list. Also maybe you can speed up time to accelerate natural healing (which would not work for curing paralysis or let's say losing a limb)? I guess in this game you just have to go visit an actual-to god doctor when you take too much damage. Kind of like the Pokecenters in pokemon, except that its a peoplecenter and you are the people.
 
-sudoMajor:: See: [[Cure Wounds]] and [[Regenerate]]
+sudoMajor:: Done. See: [[Cure Wounds]] and [[Regenerate]]
 #majorChange #unseenByLun 
 
 #general #james-redawic #unanswered-questions 
