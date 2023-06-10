@@ -1,5 +1,5 @@
 ---
-Name: Loretta Campbell
+Name: Elizabeth Campbell
 Category: Supporting
 Role:
 DOB:
@@ -10,8 +10,8 @@ Personality:
 MainGoal:
 References:
 AppearanceNotes:
-OtherNotes:
-SortOrder: 10
+OtherNotes: Does *not* want to be called Liz.
+SortOrder: 11
 ---
 
 #character 

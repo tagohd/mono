@@ -1,27 +1,13 @@
----
-Name: "Ma & Mommy Campbell"
-Category: NULL
-Role: Luke's parents.
-DOB:
-Species: "Dog, presumably"
-Gender: "~~Idk, I'm tired. One's female and one's male. It's not who you'd expect.~~ Nvm, Luke has two moms now."
-Orientation: "They're both bi, I guess. They're T4T, actually."
-Personality: "Loving, but a bit simpleminded"
-MainGoal: Take care of their farm and their son
-References: ["American Gothic (Grant Wood painting)"]
-AppearanceNotes: "One would assume they look similar to Luke"
-OtherNotes: I guess I should make separate articles for them.
-SortOrder: 9
----
-
 %%
-sudoMinor:: Added some character information. Implying separate articles for [[Ma Campbell]] and [[Pa Campbell]].
-#minorChange #unseenByLun 
+sudoMajor:: Luke has three moms now. And yes, they all smoke weed.
+#majorChange #unseenByLun 
 %%
 
-[[Luke Campbell|Luke's]] parents. Not especially bright. Own a [[Campbell Farms|farm]] in [[Genton]].
+[[Luke Campbell|Luke's]] parents. Own a [[Campbell Farms|farm]] in [[Genton]].
 
-#character #ma-and-pa-campbell #stub #Cite/Movie/Star-Wars #Cite/Game/Mother3 
+See: [[Louise Campbell]], [[Loretta Campbell]], and [[Elizabeth Campbell]]
+
+#character #the-mothers-campbell #stub #Cite/Movie/Star-Wars #Cite/Game/Mother3 
 
 %%
 movieRefType:: "Star Wars/Character", "Star Wars/Setting"
