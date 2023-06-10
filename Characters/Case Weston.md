@@ -31,6 +31,8 @@ Maybe instead of meeting Luke in Rhapsody, he works at [[The Old Silver Mine]] f
 
 OOOH! Maybe he's an [[Institute for the Magical Arts & Sciences|IMAS]] auditor sent to investigate James (so, he's not just Wolfwood; he's also Milly[^1]). IMAS caught wind that James is researching the spell [[Destroy Legendary Artifact]], and being a group of huge nerds, they aren't too happy about the possibility of priceless [[Legendary Artifacts]] being destroyed. Unlike Meryl and Milly, he's undercover.
 
+[Lun]: Oh, this doesn't work anymore with my whole idea for [[James's Excuse]], but that hasn't been agreed upon anyway. Also, he might be investigating James for the IMAS for other reasons if we go that route (he's a powerful evil wizard man who seems to be getting increasingly unstable or something).
+
 [^1]: Personality-wise, he's probably more similar to Meryl, but Milly also has a big fuck-off gun, and that's an important part of Case's character.
 
 >[!question] Undercover as what?
@@ -39,7 +41,7 @@ OOOH! Maybe he's an [[Institute for the Magical Arts & Sciences|IMAS]] auditor s
 %%
 sudoMajor:: New Case backstory?! Also promoted Case to Main Character.
 Priority:: 5
-#majorChange #unseenByLun 
+#majorChange #unseenBySudo 
 %%
 
 # The Things He Does For Love

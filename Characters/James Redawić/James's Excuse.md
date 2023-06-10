@@ -6,6 +6,7 @@ Priority:: 1
 ---
 # Why doesn't James just get the Artifacts himself?
 Sudosays:: This has kind of devolved more into a discussion about magic than about the original question. So, are we going with that he's a paraplegic or what?
+Lunsays:: Agreed, I think we can move some of this to the Magic page. Also, I wrote a part that's _actually a possible answer to the original question_! See below for more!!
 
 ![[uhhh.jpg]]
 
@@ -121,6 +122,32 @@ And of course, HP is just an abstraction of your ability to keep going in a figh
 [Lun]: Alright, add "Conjure band-aid" to the spell list. Also maybe you can speed up time to accelerate natural healing (which would not work for curing paralysis or let's say losing a limb)? I guess in this game you just have to go visit an actual-to god doctor when you take too much damage. Kind of like the Pokecenters in pokemon, except that its a peoplecenter and you are the people.
 
 sudoMajor:: Done. See: [[Cure Wounds]] and [[Regenerate]]
-#majorChange #unseenByLun 
+
+[Lun]: Oh, you're ACTUALLY putting in DnD spells huh
+
+## An answer trying to tie everything above together: James is the evil one
+
+So here's the main idea: [[James Redawić|James]] actually wants [[CURSED AL]] to collect all of the [[Legendary Artifacts]] and assemble the [[SOUL AMPLIFIER]]. He is sending [[Luke Campbell|Luke]] on a quest to collect all of them under the pretence that he's trying to stop AL, but actually wants to use it for himself to both save his own life and kill AL. And then maybe do some other messed up shit, because oh no: turns out he's actually even more fucked up than AL.
+
+This of course raises some questions:
+- Why does James want to kill AL??? I thought they were former lovers?
+	- Ohoho they sure were. This goes further on the idea that AL placed himself into a stasis while trying to figure out a way to save James' life, but accidentally just went into a separate plane without actually altering the passage of time.
+	  From James perspective, he just had a heated discussion with AL where he tried to convince AL to stop messing with dangerously powerful magic that probably wouldn't work anyway and just live the rest of their lives together in peace and then AL just fucking. dipped. _forever_. He just goes "I'll show you I can save you!" and disappears without a trace. James first thinks he just needed a break from their discussion and waits it out. But then he doesn't come back by nightfall. He gets a bit nervous but he keeps waiting. And eventually he starts to search for AL, he gets really fucking panicked and does everything he can to find him but he just can't find a trace of him. So he breaks down and is just unbearably sad. But then years take that sorrow and turn it into rage. And then that rage turns into hatred. _AL left him when he needed him most. And for what?_ For years he wastes away in loneliness, thinking about how he could have been enjoying life together with AL instead of having to endure this suffering.
+	  Until he finds out about AL actually having found a way to amplify the power of magic to a ludicrous degree. Maybe it's when AL finally gets out of his stasis and excitedly goes to James to tell him about it (who he then finds to, uh-oh, actually have aged for all the decades he's been researching and completely blows up on AL), or he learns about it some other way. In any case, James starts to plan to use its power to kill AL and finally get his revenge.
+  - Alright, so he wants the legendary artefacts to be assembled. Still doesn't explain why he's not doing it himself?
+	  - Ah, there's where the hate comes in. He _could_ collect them all himself and give them to AL, but then he would essentially be working together with AL and make use of his help. Even as part of some devious plan, he can't stand the thought of having to be friendly towards AL (or pretend to be) at this point. He fucking _hates_ the guy. So he gets someone else to do it for him and makes it look like it's some hero on a quest to defeat AL. Essentially all to not make it feel like he's either helping AL or depending on him.
+	    When Luke asks this question, he probably gives some response like "uh I'm too old" or "I'm crippled" which he does try to make out to be the actual reason, but attentive players can notice that his explanation doesn't entirely make sense (foreshadowing, baby!). Luke of course buys it without a second thought.
+  - On the same line, why doesn't AL assemble the artefacts himself? Can't he just spam teleport and get them all instantly?
+	  - Not part of the original question, but I figured doing his stasis shenanigans actually backfired really hard on him (as doing overly powerful magic does) and CURSED him, which entails that he lost a lot of power and now looks all spooky. Maybe it also crippled his physical capabilities?
+  - What about the "James still remembers you" thing?
+	  - That can still be preserved in this approach! However, James now means it as a _threat_ (which Luke / the player does not know, but AL definitely does).
+  - What does this mean for the rest of the story?
+	  - Luke killing James definitely wasn't part of James' plans. However, Luke is now on his quest to obtain all the artefacts and helps out AL all the same. AL finds out James got killed, but continues to assemble the [[SOUL AMPLIFIER]] anyways since he can just use it to resurrect James now. If the player has a choice in what to do with the SOUL AMPLIFIER after defeating AL, the true ending entails using it to resurrect James. Who then snatches it and becomes the new big bad.
+	  - AL is actually not that evil. To save James he's definitely done some messed up stuff (like abducting [[Sam Ward|Sam]]) but does it out of love for his husbando. And yes, he was definitely morally grey to start out with, but he's like, a respectable type of evil. This may also explain why he spares Luke in their first encounter with [[Case Weston|Case]].
+	    James, on the contrary, is now acting purely out of hatred and is just an all-around evil guy. 
+
+
+
+#majorChange #unseenBySudo
 
 #general #james-redawic #unanswered-questions 
