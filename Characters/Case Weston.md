@@ -33,16 +33,13 @@ OOOH! Maybe he's an [[Institute for the Magical Arts & Sciences|IMAS]] auditor s
 
 [Lun]: Oh, this doesn't work anymore with my whole idea for [[James's Excuse]], but that hasn't been agreed upon anyway. Also, he might be investigating James for the IMAS for other reasons if we go that route (he's a powerful evil wizard man who seems to be getting increasingly unstable or something).
 
+sudoMinor:: Yeah, that could work.
+#minorChange #unseenByLun 
+
 [^1]: Personality-wise, he's probably more similar to Meryl, but Milly also has a big fuck-off gun, and that's an important part of Case's character.
 
 >[!question] Undercover as what?
 >Maybe he works at the museum after all. He hasn't been able to find out much about James's plan, but he has learned a lot about turn-of-the-century mining techniques. (See: [[James Redawić#James, THE MUSEUM OWNER?]])
-
-%%
-sudoMajor:: New Case backstory?! Also promoted Case to Main Character.
-Priority:: 5
-#majorChange #unseenBySudo 
-%%
 
 # The Things He Does For Love
 Maybe [[Luke Campbell|Luke]] fights [[CURSED AL]] for the first time and is woefully unprepared, and Case steps in to help Luke out. Then when Luke fights AL for the last time, Case ends up sacrificing himself. (Cf: [[(6) June 2023 Chat Logs]] and [[Repo organization]]) #Cite/Game/Mega-Man-X [gameRefType:: MMX/Plot]
@@ -54,11 +51,6 @@ Maybe [[Luke Campbell|Luke]] fights [[CURSED AL]] for the first time and is woef
 [Sudo]: Hmmm, I had another gameplay idea earlier, but what was it?
 [Sudo]: Oh, it was: after you discover that Luke is [[LukeVISION (TM)|colorblind]], the game display changes to reflect that.
 [Sudo]: Funny coming up with these ideas when the game is not being made.
-
-%%
-sudoMajor:: Replied
-#majorChange #unseenByLun 
-%%
 
 # Old Notes
 - He shows up near the end of Act I, first as an antagonist and later as a love interest?

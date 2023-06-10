@@ -11,7 +11,7 @@ MainGoal: Buy a house with his wife and two kids and fill it with tacky décor f
 References: ["Larry (Pokémon Scarlet and Violet)", "Stanley/Employee \#427 (The Stanley Parable)"]
 AppearanceNotes: Works a white collar office job.
 OtherNotes: Forgettable.
-SortOrder: 12
+SortOrder: 13
 ---
 
 The token cishet. Gets his skeleton exploded off-screen.

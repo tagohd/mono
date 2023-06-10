@@ -148,6 +148,6 @@ This of course raises some questions:
 
 
 
-#majorChange #unseenBySudo
+#majorChange 
 
 #general #james-redawic #unanswered-questions 

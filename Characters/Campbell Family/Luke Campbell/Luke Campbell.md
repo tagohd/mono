@@ -22,10 +22,6 @@ His bond with [[Sam Ward|Sam]] is so strong that it allows him to track their SO
 
 **Plot:** Luke awakens in his house. He is a young man of average height, perhaps somewhat on the short side, and a bit scrawny. He’s not malnourished, per se, but he isn’t exactly musclebound, either. He gets dressed, heads outside, and picks some tulips from the garden. It’s a beautiful day outside. He goes to the neighboring house, knocks on the door, and asks for Sam.
 
-%%
-sudoMinor:: Added some bits from the plot
-#minorChange #unseenByLun 
-%%
 Luke is 16. He runs cross-country because Sam does, and only because Sam does. He doesn't care much for sports, and he hates running. He helps [[The Mothers Campbell|his parents]] on the farm, but he can't wait to leave [[Genton]] where he can finally be himself. Maybe he (naively) wants to move to [[Rhapsody]]? This possibly contradicts my earlier characterization of Rhapsody, but he's also going there under different circumstances than he imagined. (Also a little bit of [Paris syndrome](https://en.wikipedia.org/wiki/Paris_syndrome).)
 
 ## Various Luke Characterizations
@@ -49,10 +45,6 @@ You know how you can broadly divide dog races into the group that got bred to do
 - Regrettably for him, he gets feelings for Luke after being saved by him, therefore becoming the (main?) love interest (enemies to lovers anyone?)
 - While he was initially trying to get the orb because he was ordered to do so by [[Other Ideas from Lunathrix|the big bad]], he gradually ends up trying to take the orb from Luke to prevent him from poisoning himself, thereby fulfilling the “What’s that in your mouth? SPIT THAT OUT!” role
 
-%%
-sudoMajor:: Luke is colorblind because he's a dogboy. But people don't realize he's colorblind b/c he hides this fact.
-#majorChange #unseenByLun 
-%%
 >[!idea]
 >Or maybe he just has [[LukeVISION (TM)]] and grabs the [[chocolate orange]] by mistake? But once he realizes it's not actually THE ORB, he still wants to eat it. Maybe this can be a recurring thing throughout the story, and it also ties into Luke hiding the fact that he's a dogboy. (Maybe deople (dog-people) are discriminated against for some reason?) Pretty much everyone knows that deople (dog-people) are colorblind, but not everyone knows that Luke is a dogboy. (And maybe Luke is so much of an idiot that he's not even aware he's colorblind.)
 
@@ -82,9 +74,6 @@ songRemarks:: A WIP from \*checks notes\* January 2021
 [Lun]: ᕕ(⌐■_■)ᕗ ♪♬
 
 # Not really THE CHOSEN ONE
-%%
-trivial:: Added tags for Works Cited.
-%%
 Adapted from [[(6) June 2023 Chat Logs#^aecda7|(6) June 2023 Chat Logs]]:
 
 What makes Luke special? Why is he THE CHOSEN ONE?
@@ -103,11 +92,6 @@ I'm sure this represents *some* step on the Hero's Journey, but I'm not sure whi
 [Lun]: James is kind of a bitch for this one, but I guess that be how it be sometimes
 [Sudo]: Yeah, I'm going to have to come up with some excuse for why he can't just go and do it himself. Maybe he's too busy running the museum?
 [Sudo]: Too busy to save the fucking universe? Yeah, I don't think that's gonna fly. But I should probably put this in James's note and not Luke's.
-
-%%
-sudoMinor:: Yeah, why does James bother manipulating Luke? Why doesn't he just get the Artifacts himself? (This is more relevant to James's article.)
-#minorChange #unseenByLun 
-%%
 
 # Age
 (Carried over from [[Sam Ward#Characterizations]])
@@ -153,9 +137,10 @@ Okay, let's look at it this way: Luke's out of high school. What does that affec
 >- Just really likes riding his horse (and [[Plata]] isn't actually that far away; definitely too far to walk, though)
 >	- Environmentally friendly!
 
-sudoMajor:: Yeah, okay, let's say he's 19 and he's back home after his first year in college. (Or maybe it's winter break.) And I'll age everyone else (i.e. Sam and Case) up accordingly.
+sudoMajor: Yeah, okay, let's say he's 19 and he's back home after his first year in college. (Or maybe it's winter break.) And I'll age everyone else (i.e. Sam and Case) up accordingly.
 Lunsays:: Actually, I don't mind him being younger that much on second thought. It's not like we were going to put explicit scenes in this story. Right?!
-Priority:: 1
-#majorChange #unseenBySudo 
+sudoMinor:: Correct. I guess I'll change everyone's ages again?
+#minorChange #unseenByLun 
+
 
 #character #luke-campbell #contains-music 

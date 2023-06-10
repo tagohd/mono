@@ -42,8 +42,6 @@ This isn't to say that only certain people can cast certain spells. It's just th
 [Sudo]: Oh! Maybe the "color" of your SOUL determines your spellcasting ability? Even though everyone is casting magic in the same fundamental way (channeling Mana from the Mana Plane, as opposed to, e.g., calling on the power of a god), maybe they manipulate the Mana in different ways depending on their spellcasting ability.
 
 %%
-sudoMajor:: Responded to your comments.
-#majorChange #unseenBySudo 
 #Cite/Game/Undertale #Cite/Game/Hollow-Knight 
 gameRefType:: Undertale/General
 gameRefType:: Hollow Knight/Items
@@ -51,11 +49,6 @@ question:: Fuckin' magic, how does it work?
 %%
 
 # Can vs. Should
-%%
-sudoMajor:: Expanded on new magic idea mentioned in [[James's Excuse]]. Read this second.
-Priority:: 2
-#majorChange #unseenByLun 
-%%
 
 >[!idea] Anyone *can* use magic, but few know it even exists
 >Maybe magic was only recently discovered, given that it exists on [[Mana Plane|a separate plane of reality]]. Or perhaps magic users try to keep its existence a secret because of how dangerous it is. You know, the whole "tearing apart the fabric of reality" thing.
@@ -106,9 +99,7 @@ tvRefType:: FMAB/General
 
 [Lun]: You really want magic to be classified huh. Fine, fine! Baka...
 
-%%
-trivial:: Added tags for Works Cited and fields for the Unanswered Questions heading on [[File Overview]]
-#trivialChange 
-%%
+sudoMajor:: Oh, that's old, actually. I just haven't updated it with the newer ideas in [[James's Excuse]], i.e. magic not being a secret and being more like electricity.
+#majorChange #unseenByLun 
 
 #general #concepts #magic #unanswered-questions 
