@@ -1,7 +1,7 @@
 ---
 alias: farm
 ---
-The farm operated by [[Ma & Mommy Campbell]]. [[Luke Campbell|Luke]] helps out sometimes. Usually contains at least one [[Luke's Noble Steed|horse]].
+The farm operated by [[The Mothers Campbell]]. [[Luke Campbell|Luke]] helps out sometimes. Usually contains at least one [[Luke's Noble Steed|horse]].
 
 [question:: What do they grow here? Moisture?] #Cite/Movie/Star-Wars [movieRefType:: Star Wars/Setting]
 

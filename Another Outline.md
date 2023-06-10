@@ -14,7 +14,7 @@ trivial:: Nothing changed here. I just accidentally moved it. I think something 
 
 **LUKE:** Got it, thanks!
 
-**LUKE:** I don't have a car... Guess I'll just borrow [[Luke's Noble Steed|Pauline]]. Hope [[Ma & Mommy Campbell|my parents]] don't mind...
+**LUKE:** I don't have a car... Guess I'll just borrow [[Luke's Noble Steed|Pauline]]. Hope [[The Mothers Campbell|my parents]] don't mind...
 
 \[...\]
 
