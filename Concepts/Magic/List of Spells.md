@@ -13,8 +13,10 @@ The stronger the spell, the more [[Mana]] required, and thus larger tears in the
 
 Except for [[Destroy Legendary Artifact]] and [[Reverse Fate]], all of these were copied directly from the Dungeons & Dragons Player's Handbook, 5th Edition. So, references to dice rolls, saving throws, etc. might not necessarily translate into MONO.
 
+Only spells that are actually possible are listed in the tables below. Theoretical spells are listed in their own table.
+
 # Cantrips
-These are spells that anyone can cast as they deal minimal damage to the veil between planes. Most people aren't even aware that they're magic.
+These are spells that anyone can cast as they deal minimal damage to the veil between planes. Maybe most people aren't even aware that they're magic.
 
 ```dataview
 TABLE WITHOUT ID link(file.link,spellName) AS "Name", spellSchool AS "Category", spellDescription AS "Description", spellComponents AS "Components", isForbidden AS "Forbidden?"
@@ -27,7 +29,7 @@ SORT spellName
 Commonly taught to beginner mages, but slightly more powerful than cantrips.
 
 ```dataview
-TABLE WITHOUT ID link(file.link,spellName) AS "Name", spellSchool AS "Category", spellDescription AS "Description", spellComponents AS "Components"
+TABLE WITHOUT ID link(file.link,spellName) AS "Name", spellSchool AS "Category", spellDescription AS "Description", spellComponents AS "Components", isForbidden AS "Forbidden?"
 FROM #Spells/Minor
 WHERE !isTheoretical
 SORT spellName
