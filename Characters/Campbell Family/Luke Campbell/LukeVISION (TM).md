@@ -1,6 +1,9 @@
 ---
 alias: colorblind, protanopia
 ---
+%%
+It's separate from the main Luke article just for the alias.
+%%
 
 As a dogboy, [[Luke Campbell|Luke]] suffers from protanopia, or red-green colorblindness. Among other things, this causes him to mistake [[CURSED AL'S CURSED ORB]] for an ordinary [[chocolate orange]]. I mean, it's also because he's an idiot, but being colorblind isn't doing him any favors either. (A Legendary Artifact has some distinct vibes it gives off that Luke totally failed to pick up on.)
 
