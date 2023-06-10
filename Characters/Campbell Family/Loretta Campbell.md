@@ -14,4 +14,7 @@ OtherNotes:
 SortOrder: 10
 ---
 
+sudoMinor:: New article
+#minorChange #unseenByLun 
+
 #character 
