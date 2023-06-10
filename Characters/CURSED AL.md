@@ -127,9 +127,15 @@ Yeah, maybe his curse is "being ADHD-coded". And stasis is like hyperfixation.
 
 Actually, his curse is that he's French. And that he's stuck in the Astral Plane for some reason. But mostly that's he French.
 
+For real, though, maybe his curse wasn't caused by being in the stasis dimension. His curse **is** that he's in the stasis dimension. And [[Astral Projection]] doesn't work exactly the same way it does in D&D.
+
+He can still influence people, but his physical body is just gathering dust in a corner somewhere. James does not know that he is stuck in the Astral Plane. In fact, James may not even know where AL's physical body is.
+
+On the other hand, it'd be funny in a fucked up kind of way if he's just, like, sitting in a chair in James's living room or mounted on a pedestal like a taxidermy. And maybe he wasn't always gathering dust. James used to clean him up, but as the years went by, he lost hope and eventually AL's body was relegated to the attic or some sort of storage unit. (But that's not funny.)
+
 %%
-sudoMinor:: Gave a brief response to your question, which is also in your DMs.
-#minorChange #unseenByLun 
+sudoMajor:: For real, though, maybe his curse wasn't caused by being in the stasis dimension. His curse **is** that he's in the stasis dimension.
+#majorChange  #unseenByLun 
 %%
 
 #character #cursed-al #the-cursed-one #unanswered-questions #contains-music
