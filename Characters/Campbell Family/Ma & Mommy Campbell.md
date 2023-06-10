@@ -1,10 +1,10 @@
 ---
-Name: "Ma & Pa Campbell"
-Category: Supporting
+Name: "Ma & Mommy Campbell"
+Category: NULL
 Role: Luke's parents.
 DOB:
 Species: "Dog, presumably"
-Gender: "Idk, I'm tired. One's female and one's male. It's not who you'd expect."
+Gender: "~~Idk, I'm tired. One's female and one's male. It's not who you'd expect.~~ Nvm, Luke has two moms now."
 Orientation: "They're both bi, I guess. They're T4T, actually."
 Personality: "Loving, but a bit simpleminded"
 MainGoal: Take care of their farm and their son

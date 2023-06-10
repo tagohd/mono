@@ -26,7 +26,7 @@ His bond with [[Sam Ward|Sam]] is so strong that it allows him to track their SO
 sudoMinor:: Added some bits from the plot
 #minorChange #unseenByLun 
 %%
-Luke is 16. He runs cross-country because Sam does, and only because Sam does. He doesn't care much for sports, and he hates running. He helps [[Ma & Pa Campbell|his parents]] on the farm, but he can't wait to leave [[Genton]] where he can finally be himself. Maybe he (naively) wants to move to [[Rhapsody]]? This possibly contradicts my earlier characterization of Rhapsody, but he's also going there under different circumstances than he imagined. (Also a little bit of [Paris syndrome](https://en.wikipedia.org/wiki/Paris_syndrome).)
+Luke is 16. He runs cross-country because Sam does, and only because Sam does. He doesn't care much for sports, and he hates running. He helps [[Ma & Mommy Campbell|his parents]] on the farm, but he can't wait to leave [[Genton]] where he can finally be himself. Maybe he (naively) wants to move to [[Rhapsody]]? This possibly contradicts my earlier characterization of Rhapsody, but he's also going there under different circumstances than he imagined. (Also a little bit of [Paris syndrome](https://en.wikipedia.org/wiki/Paris_syndrome).)
 
 ## Various Luke Characterizations
 Main idea: Luke was fully aware [[CURSED AL'S CURSED ORB|the Orb]] was made of chocolate and wanted to eat it from the start
