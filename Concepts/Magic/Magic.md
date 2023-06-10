@@ -43,7 +43,7 @@ This isn't to say that only certain people can cast certain spells. It's just th
 
 %%
 sudoMajor:: Responded to your comments.
-#majorChange #unseenByLun 
+#majorChange #unseenBySudo 
 #Cite/Game/Undertale #Cite/Game/Hollow-Knight 
 gameRefType:: Undertale/General
 gameRefType:: Hollow Knight/Items
@@ -103,6 +103,8 @@ tvRefType:: FMAB/General
 >Governments don't want to officially acknowledge the existence of magic, so they leave that up to IMAS. Any crime committed via magical means is prosecuted normally.
 >
 >Governments are aware of magic, of course. It's just classified. (This undoubtedly leads to quite a few conspiracy theories.)
+
+[Lun]: You really want magic to be classified huh. Fine, fine! Baka...
 
 %%
 trivial:: Added tags for Works Cited and fields for the Unanswered Questions heading on [[File Overview]]

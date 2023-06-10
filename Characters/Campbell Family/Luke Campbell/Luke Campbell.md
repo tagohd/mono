@@ -154,7 +154,8 @@ Okay, let's look at it this way: Luke's out of high school. What does that affec
 >	- Environmentally friendly!
 
 sudoMajor:: Yeah, okay, let's say he's 19 and he's back home after his first year in college. (Or maybe it's winter break.) And I'll age everyone else (i.e. Sam and Case) up accordingly.
+Lunsays:: Actually, I don't mind him being younger that much on second thought. It's not like we were going to put explicit scenes in this story. Right?!
 Priority:: 1
-#majorChange #unseenByLun 
+#majorChange #unseenBySudo 
 
 #character #luke-campbell #contains-music 
