@@ -32,8 +32,8 @@ OOOH! Maybe he's an [[Institute for the Magical Arts & Sciences|IMAS]] auditor s
 
 [Lun]: Oh, this doesn't work anymore with my whole idea for [[James's Excuse]], but that hasn't been agreed upon anyway. Also, he might be investigating James for the IMAS for other reasons if we go that route (he's a powerful evil wizard man who seems to be getting increasingly unstable or something).
 
-sudoMinor:: Yeah, that could work.
-#minorChange #unseenByLun 
+sudoMajor:: Yeah, that could work. Oh, maybe James is defrauding IMAS out of a lot of grant money or something.
+#majorChange #unseenByLun 
 
 [^1]: Personality-wise, he's probably more similar to Meryl, but Milly also has a big fuck-off gun, and that's an important part of Case's character.
 
@@ -59,8 +59,9 @@ Maybe [[Luke Campbell|Luke]] fights [[CURSED AL]] for the first time and is woef
 - Probably just a bit older than Luke, maybe 19
 
 %%
-question:: What species is Case?
+aq:: What species is Case?
+He's a wolverine.
 %%
 
 
-#character #case-weston #unanswered-questions 
+#character #case-weston #answered-questions 

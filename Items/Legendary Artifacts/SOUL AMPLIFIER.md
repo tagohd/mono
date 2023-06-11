@@ -33,11 +33,6 @@ And there's another potential FMA parallel: the SOUL AMPLIFIER is kinda like the
 And CURSED AL is after [[Sam Ward|Sam]] because they're a ginger and therefore don't have a SOUL, so he's going to, like, focus the power of everybody's SOULS onto them and use them as a vessel or something
 
 %%
-trivial:: Added tags for Works Cited.
-#trivialChange 
-sudoMinor:: Added information from Chat Logs.
-#minorChange #unseenByLun 
-
 Sudosays:: I'm going to make sure this is linked every time it's mentioned so that it automatically gets updated everywhere if I change the name. (Except for the one that's inside the flowchart because that breaks the flowchart.)
 
 I don't think tagging the same thing multiple times will really accomplish anything, but it does make it feel more like a citation

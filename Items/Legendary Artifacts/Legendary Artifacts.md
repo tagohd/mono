@@ -11,11 +11,11 @@ trivial:: Dropped the "The" from the title.
 # About
 The Legendary Artifacts are objects [[Luke Campbell|Luke]] must retrieve on his quest to defeat [[CURSED AL]].
 
->[!question] How many are there?
+>[!question] [aq:: How many are there?]
 >Let's go with 7.
 
->[!question] [question:: What do they do, aside from function as convenient objectives?]
->Who knows? I sure don't. Maybe they form some sort of weapon when properly assembled. A [[SOUL AMPLIFIER]] or something?
+>[!question] [aq:: What do they do, aside from function as convenient objectives?]
+>I don't know what each individual one does by itself, but together they form the [[SOUL AMPLIFIER]], which lets the user handle metric fucktons of [[Mana]]. If I answer these questions, I'll do it in the article for each one instead of here.
 
 >[!question] Are they Horcruxes?
 >No. I think Luke needs to gather them all, not destroy them. But they do have some relations to SOULS, and it seems likely that AL can't be defeated without them. And they may hold some personal significance to AL.
@@ -52,4 +52,4 @@ SORT OrderAcquired
 
 
 
-#items #legendary-artifact #the-orb #soul-amplifier #soul #luke-campbell #cursed-al #unanswered-questions #rhapsody 
+#items #legendary-artifact #the-orb #soul-amplifier #soul #luke-campbell #cursed-al #answered-questions #rhapsody 

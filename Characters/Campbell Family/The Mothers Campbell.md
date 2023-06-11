@@ -1,15 +1,19 @@
-%%
-sudoMajor:: Luke has three moms now. And yes, they all smoke weed.
-#majorChange #unseenByLun 
-%%
+>[!info]
+>See: [[Louise Campbell]], [[Loretta Campbell]], and [[Elizabeth Campbell]]
 
-[[Luke Campbell|Luke's]] parents. Own a [[Campbell Farms|farm]] in [[Genton]]. Not necessarily all dogs. [question:: What species are they?]
+[[Luke Campbell|Luke's]] parents. Own a [[Campbell Farms|farm]] in [[Genton]]. Not necessarily all dogs.
 
-See: [[Louise Campbell]], [[Loretta Campbell]], and [[Elizabeth Campbell]]
+>[!question] [aq:: What species are they?]
+>Louise: Bnuuy
+>Loretta: Doggo
+>Elizabeth: Gouger
 
-question:: What if they all help Luke out in various ways throughout the story? What are their individual skills?
+>[!question] [question:: What if they all help Luke out in various ways throughout the story? What are their individual skills?]
+>Elizabeth: Holder of the brain cell. Maybe she can give Luke hints sometimes?
+>Louise: Thrower of hands. Idk you can occasionally summon her?
 
->[!question] What does Luke call each of them?
+
+>[!question] [aq:: What does Luke call each of them?]
 >Louise: Ma
 >Loretta: Mama
 >Elizabeth: Mom

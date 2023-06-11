@@ -65,9 +65,7 @@ movieRefType:: Star Wars/Character
 >[!question] He's a wizard! Can't he just, like, fly and teleport and stuff?
 >Maybe he (ostensibly) really cares about making sure the younger generation is trained in the use of magic?
 >![[wizard that knows fuck all.jpg|300]]
->sudoMinor:: Or we can just stick with "Magic doesn't work that way." [[Teleport|Teleportation]] just isn't a spell that exists. The best you can do is [[Evasion|teleport short distances]], kinda like a dash ability. [[Plane Shift]] and [[Astral Projection]] are different.
-#minorChange #unseenByLun 
-
+>Or we can just stick with "Magic doesn't work that way." [[Teleport|Teleportation]] just isn't a spell that exists. The best you can do is [[Evasion|teleport short distances]], kinda like a dash ability. [[Plane Shift]] and [[Astral Projection]] are different.
 
 [Lun]: Here's an addition to my "Luke misinterpreted James" thing that might work: James did not intend to gather all the artifacts at all. He just wanted Luke to bring him the one (1) from [[Rhapsody]] to check if it's still there, maybe study it (and get a little addicted to its evil power?). Then James died shortly after, and Luke was like "Guess I have to collect all the rest now to complete my quest!". And then maybe the reason James didn't want to collect that one himself is that it would have warned AL that he's on to his funny business (whereas a random dogboy taking it is just another unlucky thursday).
 
@@ -77,7 +75,9 @@ movieRefType:: Star Wars/Character
 
 ## An answer trying to tie everything above together: James is the evil one
 
-So here's the main idea: [[James Redawić|James]] actually wants [[CURSED AL]] to collect all of the [[Legendary Artifacts]] and assemble the [[SOUL AMPLIFIER]]. He is sending [[Luke Campbell|Luke]] on a quest to collect all of them under the pretence that he's trying to stop AL, but actually wants to use it for himself to both save his own life and kill AL. And then maybe do some other messed up shit, because oh no: turns out he's actually even more fucked up than AL.
+So here's the main idea: [[James Redawić|James]] actually wants [[CURSED AL]] to collect all of the [[Legendary Artifacts]] and assemble the [[SOUL AMPLIFIER]]. He is sending [[Luke Campbell|Luke]] on a quest to collect all of them under the pretense that he's trying to stop AL, but actually wants to use it for himself to both save his own life and kill AL. And then maybe do some other messed up shit, because oh no: turns out he's actually even more fucked up than AL.
+
+[Sudo]: Oh! What if James tells Luke that constructing the [[SOUL AMPLIFIER]] is the only way to defeat CURSED AL? I mean, he wouldn't really be lying. Wait, that's basically what you just said, isn't it? Anyway, I've updated [[Destroy Legendary Artifact]] to reflect this.
 
 This of course raises some questions:
 - Why does James want to kill AL??? I thought they were former lovers?
@@ -92,7 +92,7 @@ This of course raises some questions:
   - What about the "James still remembers you" thing?
 	  - That can still be preserved in this approach! However, James now means it as a _threat_ (which Luke / the player does not know, but AL definitely does).
   - What does this mean for the rest of the story?
-	  - Luke killing James definitely wasn't part of James' plans. However, Luke is now on his quest to obtain all the artefacts and helps out AL all the same. AL finds out James got killed, but continues to assemble the [[SOUL AMPLIFIER]] anyways since he can just use it to resurrect James now. If the player has a choice in what to do with the SOUL AMPLIFIER after defeating AL, the true ending entails using it to resurrect James. Who then snatches it and becomes the new big bad.
+	  - Luke killing James definitely wasn't part of James' plans. However, Luke is now on his quest to obtain all the artefacts and helps out AL all the same. AL finds out James got killed, but continues to assemble the [[SOUL AMPLIFIER]] anyways since he can just use it to resurrect James now. If the player has a choice in what to do with the [[SOUL AMPLIFIER]] after defeating AL, the true ending entails using it to resurrect James. Who then snatches it and becomes the new big bad.
 	  - AL is actually not that evil. To save James he's definitely done some messed up stuff (like abducting [[Sam Ward|Sam]]) but does it out of love for his husbando. And yes, he was definitely morally grey to start out with, but he's like, a respectable type of evil. This may also explain why he spares Luke in their first encounter with [[Case Weston|Case]].
 	    James, on the contrary, is now acting purely out of hatred and is just an all-around evil guy. 
 

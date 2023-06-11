@@ -27,7 +27,7 @@ You thought [[CURSED AL]] was [The Big Bad](https://tvtropes.org/pmwiki/pmwiki.p
 - Possibly the same as [[Ednathrallor Verdensmorder]]?
 
 
->[!question] Is The Emperoress secretly Edna?
+>[!question] [aq:: Is The Emperoress secretly Edna?]
 >No.
 
 

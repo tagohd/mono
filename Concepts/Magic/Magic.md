@@ -155,7 +155,6 @@ And of course, HP is just an abstraction of your ability to keep going in a figh
 
 ### You can't teleport, but you CAN wavedash
 >[!question] If James is a paraplegic wizard, can't he just, like, fly and teleport and stuff?
->sudoMinor:: Let's just stick with "Magic doesn't work that way." [[Teleport|Teleportation]] just isn't a spell that exists. The best you can do is [[Evasion|teleport short distances]], kinda like a dash ability. [[Plane Shift]] and [[Astral Projection]] are different.
-#minorChange #unseenByLun 
+>Let's just stick with "Magic doesn't work that way." [[Teleport|Teleportation]] just isn't a spell that exists. The best you can do is [[Evasion|teleport short distances]], kinda like a dash ability. [[Plane Shift]] and [[Astral Projection]] are different.
 
 #general #concepts #magic #unanswered-questions 

@@ -16,8 +16,9 @@ number headings: auto, first-level 1, max 6, contents ^toc, 1.1
 	- [[#3.5 Trivial Changes|3.5 Trivial Changes]]
 - [[#4 Files with Music|4 Files with Music]]
 - [[#5 Unanswered Questions|5 Unanswered Questions]]
-- [[#6 Stubs|6 Stubs]]
-- [[#7 All|7 All]]
+- [[#6 Answered Questions|6 Answered Questions]]
+- [[#7 Stubs|7 Stubs]]
+- [[#8 All|8 All]]
 
 %%I would like for this to not be self-referential, but whatever. (Why can't this be more like LaTeX?)%%
 
@@ -105,11 +106,17 @@ FROM #unanswered-questions
 SORT file.name
 ```
 
-# 6 Stubs
+# 6 Answered Questions
+```dataview
+TABLE aq AS "Question(s)"
+FROM #answered-questions 
+```
+
+# 7 Stubs
 ```dataview
 LIST FROM #stub 
 ```
-# 7 All
+# 8 All
 ```dataview
 TABLE file.mday AS "Last changed", Lunsays, Sudosays
 SORT file.mtime DESC

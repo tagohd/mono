@@ -18,6 +18,8 @@ SortOrder: 12
 [[James Redawić|James's]] partner since [[CURSED AL]] vanished. Helps him run the [[The Old Silver Mine|museum]]. A bear, in both senses of the word.
 
 >[!question] Does he know that James is a [[Magic]] user?
+>%% aq:: Does he know that James is a [[Magic]] user?
+>%%
 >They've been together a long time. James is pretty good at keeping secrets, but he's not *that* good.
 
 #character #bering-strait-grigori #answered-questions 

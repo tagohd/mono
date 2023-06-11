@@ -19,8 +19,4 @@ SortOrder: 10
 >
 >Just kidding, he was probably conceived through IVF with an anonymous sperm donor or something. Let's not think about it too much. But they told him he was a virgin birth, and he believed (believes?) it.
 
-
-sudoMinor:: New article
-#minorChange #unseenByLun 
-
 #character #loretta-campbell
