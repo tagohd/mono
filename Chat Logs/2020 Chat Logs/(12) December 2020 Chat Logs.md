@@ -19,7 +19,7 @@ sudoscience:
 >Well, does my song make you feel like a villain at least?
 
 lunathrix:
->Does wounded knight facing a [[The Dragon|giant one-winged dragon]] count as a villain?
+>Does wounded knight facing a [[Ednathrallor Verdensmorder|giant one-winged dragon]] count as a villain?
 >You could see it as animal abuse?
 
 ^2a6e51

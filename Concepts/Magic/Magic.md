@@ -48,10 +48,26 @@ gameRefType:: Hollow Knight/Items
 question:: Fuckin' magic, how does it work?
 %%
 
-# Can vs. Should
+# Fuckin' Magic, How Does It Work?
+## Can vs. Should
 
 >[!idea] Anyone *can* use magic, but few know it even exists
 >Maybe magic was only recently discovered, given that it exists on [[Mana Plane|a separate plane of reality]]. Or perhaps magic users try to keep its existence a secret because of how dangerous it is. You know, the whole "tearing apart the fabric of reality" thing.
+
+>[!question] Lun: Doesn't "magic was only recently discovered" kind of clash with the idea of AL being an ancient magician? It also limits how many enemies/bosses can logically have cool magic attacks.
+>Magic being kept a secret also sounds pretty disruptive to the story, every time someone new saw Luke casting magic you'd need to have a whole "what the FUCK did you just do" dialogue.
+>I'm more a fan of the whole "it's not commonly taught to everyone because you can accidentally nuke your current location"-idea. 
+
+[Sudo]: Maybe it's recent in the sense that oil is recent. It's always been around, and there have been limited uses for it (e.g. pitch), but it didn't really take off until the last century. But that's a good point about it being secret. Might have to scratch that idea. (Hmmm, in that case maybe [[Institute for the Magical Arts & Sciences|IMAS]] should actually have a little more authority.)
+[Sudo]: I am pretty attached to the whole "can vs. should" thing, though. But, yeah, maybe it's just not something most people even need to learn. Oh! Maybe electricity is a better analogy than oil. Everyone uses electricity in their day-to-day life, but you don't necessarily need to understand it to make use of it. It's also not that hard to start doing little projects with it, but you're not going to be, like, rewiring your whole house or designing a computer chip without a lot of specialized training. And it can easily kill you if you don't know what you're doing. And, again, widespread but relatively recent in the grand scheme of things.
+[Sudo]: Also like electricity, anyone *can* learn to use magic, but a lot of people don't see the need.
+
+%%
+sudoMajor:: Okay, maybe magic is "recent" in the sense that electricity is recent. But you're right, it shouldn't be secret. And also a lot of people don't really have a need for, e.g. Maxwell's equations in their daily life.
+#majorChange #unseenByLun 
+%%
+
+
 
 >Spells weak enough that they can't damage the veil to the point of free mana spills are commonly taught to people, even non-mages, since they're both easy to cast and safe.
 
@@ -60,6 +76,16 @@ Maybe people aren't even aware that this is magic. It's just... a thing that you
 Furthermore, magic is kind of a last resort. Again, because of how dangerous it can be, even the most skilled users try to limit how often they use it.
 
 Maybe there are some in-game consequences, too. You've played OneShot, right? Maybe if you use magic too much, you can see it start to corrupt reality; weird glitchy things start showing up, and maybe certain areas become inaccessible. (Probably nothing that would soft-lock you unless you're *really* overusing it.) But it starts out subtle—most players might not even notice it—then ramps up the more you use it.
+
+	Lun: Hmmm, the way I thought of it magic is pretty much completely safe to use if you know what you're doing (and don't intentionally go horse crazy with it). I do like the idea of the world getting corrupted though, OneShot good game. Maybe that could be an effect of free Mana instead (in addition to the immediate random effects it has)?
+
+[Sudo]: Okay, maybe it's not a "last resort" then. But maybe it's more like Warp in Star Trek. They could all be going Warp 9 if they wanted to (and if their warp engines were capable of it), but they collectively agreed to not go over Warp 5(?) because it turned out it was literally tearing apart the universe or something like that. (It's TNG S7E9, if you're interested. And then they kinda just forgot about it in later episodes lol.) #Cite/TV/Star-Trek-TNG [tvRefType: Star Trek TNG/General]
+[Sudo]: On second thought, maybe not. But even if it's not a last resort, it might not be a first resort either. Perhaps there just aren't that many practical spells. Or using magic is kind of a pain in the ass. Or a pain in the SOUL? (Haha, there's an idea: maybe some people don't like magic because they think it's like the SOUL-equivalent of smoking cigarettes. It's not actually, but that doesn't stop people from believing it.)
+
+%%
+sudoMajor:: Perhaps there's some sort of in-universe disincentive to using magic? Beyond the risk of universal destruction, that is. Like, it's kinda hard or it's not that useful most of the time?
+#majorChange #unseenByLun 
+%%
 
 Probably wouldn't be as fourth-wall-breaking as OneShot, but it could still be a little meta. Maybe characters don't comment on it at first, so you think it really was just a glitch, but as it progresses, they'll be like, "Hey, this has been going for a while, hasn't it? I just didn't say anything at first because I thought my eyes were playing tricks on me," revealing that it's been diegetic the whole time.
 
@@ -101,5 +127,35 @@ tvRefType:: FMAB/General
 
 sudoMajor:: Oh, that's old, actually. I just haven't updated it with the newer ideas in [[James's Excuse]], i.e. magic not being a secret and being more like electricity.
 #majorChange #unseenByLun 
+
+## WINDMILLS DO NOT WORK THAT WAY! GOOD NIGHT!
+### More effective than placebo, at least
+>[!question] If James is paraplegic, why doesn't he just magically cure himself?
+>There's only so much you can do with healing magic.
+
+[Lun]: Also, relating what you wrote above: consider that magic might not be able to do _everything_. How I see it, [[Mana]] is really just a funky energy source which you can use to do a bunch of different things. However, most of it is pretty elementary (move stuff, ignite stuff, zap stuff, create simple stuff) whereas something like healing is very much not an elementary thing to do. That would require almost complete biological knowledge on what you want to heal + even if you know what to do, the healing itself would be extremely difficult too, like curing paralysis would probably involve stitching neurons back together.
+
+[Sudo]:  Yeah, that's a good way of looking at it too. Basically my first response: Magic doesn't work that way. 
+[Sudo]: Oh, wait, I realized another problem.
+
+>[!question] Don't most games have healing spells? Or at least some way to restore HP (whatever that is)?
+>Maybe MONO is a rouge-like? Perhaps you slowly heal over time (but if you take enough damage, maybe you never really heal fully, just like real life), and if you die, you're perma-dead (also just like real life).
+>
+>>[!note] Of course, the main thing with video games is that very often fun trumps realism. Verisimilitude doesn't matter if the game isn't fun.
+>
+>Or maybe healing spells don't really "heal" you. They're more like first aid. They might stop bleeding and let you ignore the pain, but you're still technically injured.
+
+And of course, HP is just an abstraction of your ability to keep going in a fight. What it's actually analogous to might not really matter.
+
+[Lun]: Alright, add "Conjure band-aid" to the spell list. Also maybe you can speed up time to accelerate natural healing (which would not work for curing paralysis or let's say losing a limb)? I guess in this game you just have to go visit an actual-to god doctor when you take too much damage. Kind of like the Pokecenters in pokemon, except that its a peoplecenter and you are the people.
+
+[Sudo]: Done. See: [[Cure Wounds]] and [[Regenerate]]
+
+[Lun]: Oh, you're ACTUALLY putting in DnD spells huh
+
+### You can't teleport, but you CAN wavedash
+>[!question] If James is a paraplegic wizard, can't he just, like, fly and teleport and stuff?
+>sudoMinor:: Let's just stick with "Magic doesn't work that way." [[Teleport|Teleportation]] just isn't a spell that exists. The best you can do is [[Evasion|teleport short distances]], kinda like a dash ability. [[Plane Shift]] and [[Astral Projection]] are different.
+#minorChange #unseenByLun 
 
 #general #concepts #magic #unanswered-questions 

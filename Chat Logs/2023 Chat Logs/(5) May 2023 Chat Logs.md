@@ -306,7 +306,7 @@ L:
 
 ## Continuity? I don't know her
 S:
->So with the Emperor/Empress, I'm guessing this makes Cursed Al more like Darth Vader, and he's serving a gender-fluid Palpatine?^[Maybe The Emperoress is actually [[The Dragon]]?]
+>So with the Emperor/Empress, I'm guessing this makes Cursed Al more like Darth Vader, and he's serving a gender-fluid Palpatine?^[Maybe The Emperoress is actually [[Ednathrallor Verdensmorder]]?]
 
 L:
 >I completely forgot who Cursed Al is or what his role in the story is

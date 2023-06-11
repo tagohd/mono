@@ -3,7 +3,7 @@ Name: Loretta 'Mama' Campbell
 Category: Supporting
 Role: One of Luke's 3 moms.
 DOB: 1976-09-13
-Species:
+Species: Dog (*Canis familiaris*)
 Gender: "Genderfluid, but mostly on the girl end of the spectrum (she/they)"
 Orientation: Pansexual
 Personality:

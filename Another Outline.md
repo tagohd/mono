@@ -65,7 +65,7 @@ trivial:: Nothing changed here. I just accidentally moved it. I think something 
 
 ### INT. A CAVE NEARBY
 
-**[[The Dragon|EDNA]]:** My, my... I sense something incredibly beautiful nearby...
+**[[Ednathrallor Verdensmorder|EDNA]]:** My, my... I sense something incredibly beautiful nearby...
 
 \[Looking out of her lair, she spots Pauline.\]
 

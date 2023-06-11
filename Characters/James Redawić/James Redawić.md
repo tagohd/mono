@@ -5,8 +5,8 @@ Category: Main
 Role: Mentor to [[Luke Campbell|Luke]]
 Age: 250? (But he doesn't look a day over 125!)
 DOB: 1849-10-12
-Species: Tortoise?
-Gender: Male (he/him)
+Species: Elk (*Cervus canadensis*)
+Gender: "Wizard (he/him)"
 Orientation: Bisexual
 Personality: Laconic (unless you ask him about silver mines)
 MainGoal: Revenge on [[CURSED AL|AL]] for abandoning him

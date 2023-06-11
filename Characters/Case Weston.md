@@ -4,7 +4,7 @@ Name: Case Weston
 Category: Main
 Role: Deuteragonist?
 DOB: 2003-11-15
-Species:
+Species: Wolverine?
 Gender: Male (he/him) (Trans?)
 Orientation: Gay
 Personality: Tsundere

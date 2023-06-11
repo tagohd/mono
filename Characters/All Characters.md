@@ -42,12 +42,14 @@ SORT SortOrder
 ```
 
 # Supporting
+## Appearance
 ```dataview
 TABLE WITHOUT ID link(file.link,Name) AS "Name", DOB, round((date(today) - DOB).years, 1) AS "Age", Species, Gender, AppearanceNotes AS "Notes", References
 FROM #character WHERE Category = "Supporting"
 SORT SortOrder
 ```
 
+## Personality
 ```dataview
 TABLE WITHOUT ID link(file.link,Name) AS "Name", Role, Orientation, Personality, MainGoal AS "Goal", OtherNotes AS "Notes"
 FROM #character WHERE Category = "Supporting"
@@ -55,27 +57,18 @@ SORT SortOrder
 ```
 
 # Other?
+## Appearance
 ```dataview
 TABLE WITHOUT ID link(file.link,Name) AS "Name", DOB, round((date(today) - DOB).years, 1) AS "Age", Species, Gender, AppearanceNotes AS "Notes", References
 FROM #character WHERE Category = "Side"
 SORT SortOrder
 ```
 
+## Personality
 ```dataview
 TABLE WITHOUT ID link(file.link,Name) AS "Name", Role, Orientation, Personality, MainGoal AS "Goal", OtherNotes AS "Notes"
 FROM #character WHERE Category = "Side"
 SORT SortOrder
 ```
 
-## Details
-### [[Boring Straight Greg]]
-- Diversity hire, not to be confused with the significantly cooler [[Bering Strait Grigori]]
-
-### [[Bering Strait Grigori]]
-- Helps James run the [[Plata]] Mine Museum
-- He's a bear, in *both* senses of the word
-
-### [[Steve the Royalty-Free Skeleton]]
-- just a normal skeleton. nothing to see here. #Cite/Game/Undertale [gameRefType:: Undertale/Character]
-
-#general #refdoc #unanswered-questions
+#general #refdoc 

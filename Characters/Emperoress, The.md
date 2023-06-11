@@ -1,14 +1,15 @@
 ---
+alias: The Emperoress
 Name: The Emperoress
 Category: Supporting
 Role: The *real* big bad
-DOB:
-Species:
-Gender: "Yes, please! (any pronouns)"
+DOB: 
+Species: Stoat (*Mustela erminea*)
+Gender: "&quot;Yes, please!&quot; (any pronouns)"
 Orientation: Aroace
 Personality:
 MainGoal:
-References: ["James Stephanie Sterling (Real Life)"]
+References: ["James Stephanie Sterling (Real Life)", "Papa Titan (The Owl House)"]
 AppearanceNotes:
 OtherNotes:
 SortOrder: 6
@@ -23,7 +24,7 @@ You thought [[CURSED AL]] was [The Big Bad](https://tvtropes.org/pmwiki/pmwiki.p
 - The one actually pulling all the strings
 - The bigender/genderfluid master of CURSED AL
 	- Many believe they're two separate people
-- Possibly the same as [[The Dragon]]?
+- Possibly the same as [[Ednathrallor Verdensmorder]]?
 
 
 >[!question] Is The Emperoress secretly Edna?

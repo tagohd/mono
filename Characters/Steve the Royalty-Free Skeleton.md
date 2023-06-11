@@ -7,13 +7,13 @@ Species:
 Gender: calcium
 Orientation:
 Personality:
-MainGoal: 
+MainGoal: make the authors have a bad time
 References: ["Sans (Undertale)", "That one skeleton from Omori (Omori)"]
 AppearanceNotes: skeletal
 OtherNotes: greg became a lot cooler after he lost his skin and organs
 SortOrder: 14
 ---
-
+# About
 Definitely not Sans Undertale. The former skeleton of [[Boring Straight Greg]]?
 
 gameRefType:: Undertale/Character

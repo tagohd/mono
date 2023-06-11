@@ -4,8 +4,8 @@ Category: Main
 Role: Main antagonist
 Age:
 DOB: 1760-01-07
-Species: Fucked-up deer?
-Gender: Male (he/they/it)
+Species: Elk (*Cervus canadensis*)
+Gender: "&quot;Gender is beneath me&quot; (he/they/it)"
 Orientation: Gay
 Personality: "Extremely devoted to [[James Redawić|James]], but not the best at showing it"
 MainGoal: Save [[James Redawić|James]]

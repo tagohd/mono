@@ -1,5 +1,5 @@
 ---
-alias: Edna, Ednathrallor
+alias: Edna, Ednathrallor, The Dragon
 Name: Ednathrallor 'Edna' Verdensmorder
 Category: Supporting
 Role: "A dragon. What more do you need?"
@@ -37,5 +37,6 @@ This leads to one of the more tragic moments in the game: the horse, scared shit
 # Other Notes
 - You'd think this is the true main antagonist, but she's actually [[(12) December 2020 Chat Logs#^8a0296|super chill]]
 - Tragically in love with Pauline, the horse #Cite/Movie/Shrek [movieRefType:: Shrek/Character]
+- Last name is Norwegian for "World killer", but again, she's super chill. Not a case of nominative determinism at all. 
 
 #character #the-dragon #the-horse #luke-campbell #plot-ideas 
