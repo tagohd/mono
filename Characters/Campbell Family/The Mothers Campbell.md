@@ -9,12 +9,15 @@ See: [[Louise Campbell]], [[Loretta Campbell]], and [[Elizabeth Campbell]]
 
 question:: What if they all help Luke out in various ways throughout the story? What are their individual skills?
 
-question:: What does Luke call each of them?
+>[!question] What does Luke call each of them?
+>Louise: Ma
+>Loretta: Mama
+>Elizabeth: Mom
 
 >[!idea]
 >Luke has a core memory of struggling to find the perfect Mother's Day gift for them when he was younger.
 
-#character #the-mothers-campbell #unanswered-questions #redirect
+#the-mothers-campbell #unanswered-questions #answered-questions #redirect
 
 #Cite/Movie/Star-Wars #Cite/Game/Mother3 
 

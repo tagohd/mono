@@ -61,6 +61,14 @@ This isn't directly revealed to the player (unless they're also colorblind, I gu
 
 We can use [this site](https://www.color-blindness.com/coblis-color-blindness-simulator/) to simulate how Luke might see an object. (Put the pictures in the relevant article, not this one.)
 
+>[!note]
+>Most mammals have protanopia, actually. So maybe this is just unique to Luke and not all deople (dog people). We follow real-world logic, but only when it's funny.
+
+%% 
+sudoMinor:: Maybe only Luke is colorblind and not all deople.
+#minorChange #unseenByLun 
+%%
+
 ## Lucas Progresso
 
 Maybe he has to go into hiding and he changes his name to this at some point?

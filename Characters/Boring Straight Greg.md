@@ -3,13 +3,13 @@ Name: Gregory Smith
 Category: Side
 Role: Diversity hire
 DOB: 1984-02-27
-Species:
+Species: Brown rat (*Rattus norvegicus*)
 Gender: "Male (he/him)"
 Orientation: Heterosexual
 Personality: "Literally the least interesting individual you will ever meet."
 MainGoal: "Buy a house with his wife and two kids and fill it with tacky décor from Hobby Lobby. (He isn't married.)"
 References: ["Larry (Pokémon Scarlet and Violet)", "Stanley/Employee 427 (The Stanley Parable)"]
-AppearanceNotes: Works a white collar office job.
+AppearanceNotes: "Works a white collar office job. (Rat race, get it?)"
 OtherNotes: The only interesting thing about him is how exceptionally uninteresting he is.
 SortOrder: 13
 ---

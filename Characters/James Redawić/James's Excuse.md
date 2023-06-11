@@ -7,6 +7,7 @@ Priority:: 1
 # Why doesn't James just get the Artifacts himself?
 Sudosays:: This has kind of devolved more into a discussion about magic than about the original question. So, are we going with that he's a paraplegic or what?
 Lunsays:: Agreed, I think we can move some of this to the Magic page. Also, I wrote a part that's _actually a possible answer to the original question_! See below for more!!
+sudoMajor:: Moved like half of this document into [[Magic]]
 
 ![[uhhh.jpg]]
 

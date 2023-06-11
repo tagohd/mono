@@ -3,7 +3,7 @@ alias: The Emperoress
 Name: The Emperoress
 Category: Supporting
 Role: The *real* big bad
-DOB: 
+DOB: 1047-06-10
 Species: Stoat (*Mustela erminea*)
 Gender: "&quot;Yes, please!&quot; (any pronouns)"
 Orientation: Aroace

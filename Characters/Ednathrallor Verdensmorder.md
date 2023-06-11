@@ -4,7 +4,7 @@ Name: Ednathrallor 'Edna' Verdensmorder
 Category: Supporting
 Role: "A dragon. What more do you need?"
 DOB: 1090-02-24
-Species: Dragon
+Species: Dragon (A Bad Dragon?)
 Gender: Female (she/her)
 Orientation: Lesbian
 Personality: Loves horses and rennaisance fairs. Actually pretty laidback.
@@ -37,6 +37,6 @@ This leads to one of the more tragic moments in the game: the horse, scared shit
 # Other Notes
 - You'd think this is the true main antagonist, but she's actually [[(12) December 2020 Chat Logs#^8a0296|super chill]]
 - Tragically in love with Pauline, the horse #Cite/Movie/Shrek [movieRefType:: Shrek/Character]
-- Last name is Norwegian for "World killer", but again, she's super chill. Not a case of nominative determinism at all. 
+- Last name is Norwegian for "World killer", but again, she's super chill. Not a case of nominative determinism at all. Plus it sounds funny.
 
 #character #the-dragon #the-horse #luke-campbell #plot-ideas 

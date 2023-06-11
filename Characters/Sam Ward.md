@@ -3,13 +3,12 @@ alias: Sam, Sammich
 Name: Sammich 'Sam' Ward
 Category: Main
 Role: Damsel-in-distress (not a damsel and maybe not in distress)
-Age: 20
 DOB: 2006-12-05
 Species: Red fox (*Vulpes vulpes*)
 Gender: "&quot;No, thanks!&quot; (they/them)"
 Orientation: Queer (let's just leave it at that)
 Personality: Athletic and outgoing.
-MainGoal: "Not be captured by [[CURSED AL]], I guess?"
+MainGoal: ["Not be captured by [[CURSED AL]], I guess?", "They're just trying to get ready for college, man"]
 References: ["Cloth (Hollow Knight)???", "Noelle Holiday (Deltarune)", "Kronk (The Emperor's New Groove)"]
 Notes:
 SortOrder: 4
