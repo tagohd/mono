@@ -64,10 +64,6 @@ gameRefType:: Chrono Trigger/Plot
 Going off the above and the ideas in [[Magic]], [[Legendary Artifacts]], and [[(6) June 2023 Chat Logs]], maybe AL knew James was fated to die. He devoted himself to preventing this. Keeping James alive became his singular obsession. Eventually, he realized he couldn't prevent James's death, but perhaps he could undo it? Such a powerful spell would require (and I do believe this is the technical term) an absolute shitload of mana, more than any one SOUL could possibly handle. But if he had [[SOUL AMPLIFIER|a way to use multiple SOULS simultaneously]]...
 
 Oh, also, maybe he put himself into some sort of stasis dimension (possibly via [[Plane Shift]] or [[Astral Projection]]) while he was working this out. So he just kinda disappeared for who knows how long before suddenly reemerging shortly before James was fated to die. Maybe he thought it would work like this:
-%%
-sudoMinor:: Potentially explaining how AL went into stasis via spells.
-#minorChange 
-%%
 
 ```mermaid
 flowchart TB
@@ -134,24 +130,35 @@ He can still influence people (hence the Radiance connection), but his physical 
 
 On the other hand, it'd be funny in a fucked up kind of way if he's just, like, sitting in a chair in James's living room or mounted on a pedestal like a taxidermy. And maybe he wasn't always gathering dust. James used to clean him up, but as the years went by, he lost hope and eventually AL's body was relegated to the attic or some sort of storage unit. (But that's not funny.)
 
-%%
-sudoMajor:: For real, though, maybe his curse wasn't caused by being in the stasis dimension. His curse **is** that he's in the stasis dimension.
-Priority:: 5
-#majorChange  
-%%
-
-#lun 
-lunR::5
-
 ---
 Lun
 
 Casting "fuck off into another plane of existence" seems like a pretty major spell, so the curse _could_ be caused by that. The problem is that with the current magic system, the backlash from casting overly powerful spells is very much localized to where you cast the spell as it's caused by the free [[Mana]] originating from the rift where you cast the spell. This means in this scenario that AL wouldn't have been hit by it, as the spell he cast zooped him away. James would have gotten hit instead. That could be pretty cool going with the "James hates AL" angle ([[James's Excuse]]) as it gives him another reason to be so pissed (and potentially _actually be crippled_, giving him another reason not to collect the artefacts himself), but doesn't explain why AL is cursed yet. ^fb3aaa
 
+[Sudo]: Ooh, that's a good idea.
+
 Some more thoughts in a list:
 - AL's curse being that he's in the stasis dimension is a cool concept, but then how does that work when he gets free? I assume the story requires AL to get out so he can assemble the [[SOUL AMPLIFIER]] and eventually fight [[Luke Campbell|Luke]] and resurrect James. Does he become no-longer-CURSED AL?
+
+[Sudo]: Maybe he has some sort of lieutenant on the Material Plane who will activate it for him. Or what if the [[SOUL AMPLIFIER]] is actually a portal? (Gravity Falls reference?!)
+
 - AL's body remaining in the physical realm slightly clashes with my thoughts in [[James's Excuse]]. Not inconsolably, but if James can find AL's body he can probably figure out what happened and get him back by using [[Dispel Magic]].
+
+[Sudo]: Fuck, I forgot about Dispel Magic. Maybe that's another spell that just doesn't exist here. You don't dispel magic, you just seal the rift. That, or [[Astral Projection]] doesn't work the same way it does in D&D, which is already something I've been leaning towards.
+[Sudo]: But if it does work similarly to how it does in D&D, then AL probably went to some fortified location prior to casting it to make sure nothing happens to his physical body. I believe I mentioned this in the article on [[Sam Ward|Sam]].
+
 - Alternate idea: The stasis dimension isn't in the physical plane, or in the mana plane, but somewhere in between. This means that he could more freely experiment with mana, but was constantly exposed to a low dose of free mana effects, eventually changing him quite dramatically.
+
+[Sudo]: Free Mana = Free Radicals?
+[Sudo]: Oh, going off what I said about Dispel Magic, maybe Astral Projection requires a constant flow of free mana for as long as you're in the Astral Plane (whereas [[Plane Shift]] doesn't since it takes your physical body to the other plane; Astral Projection would likely be a forbidden spell, then). So, there's an active rift wherever AL's body is that's spilling a ton of free mana, and it has to be sealed. (Deltarune reference?!) Needless to say, this would be very not good if AL is in there a long time.
+[Sudo]: On the other hand, maybe this isn't a good idea. I would think a huge mana fountain would probably make AL pretty easy to find. (I was thinking maybe there are multiple rifts to throw you off, but I don't want to rip off Deltarune that much.)
+[Sudo]: Maybe he just fell into the rift or something?
+
+%%
+sudoMajor:: A few replies, but they might not actually go anywhere.
+#majorChange #unseenByLun 
+%%
+
 ---
 
 #character #cursed-al #the-cursed-one #unanswered-questions #contains-music

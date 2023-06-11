@@ -5,9 +5,5 @@ And here's a picture of how it looks to someone with [[LukeVISION (TM)|protanopi
 ![[THE ORB in LukeVISION (TM).png]]
 
 (I just wanted to have *something* in the "Items" folder that wasn't a [[Legendary Artifacts|Legendary Artifact]], okay?)
-%%
-sudoMinor:: Added the photo showing how it looks if you're colorblind
-#minorChange #unseenByLun 
-%%
 
 #items #the-orange #stub 

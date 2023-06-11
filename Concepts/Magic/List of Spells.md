@@ -3,10 +3,7 @@ alias: spells
 ---
 
 %%
-sudoMajor:: New document feat. lots of Dataview and some new spells (mostly stolen from D&D)
 Sudosays:: I'm not going to include all the spells in the Changes.
-Priority:: 5
-#majorChange 
 %%
 
 The stronger the spell, the more [[Mana]] required, and thus larger tears in the veil separating reality from the [[Mana Plane]].
@@ -58,10 +55,9 @@ SORT spellName
 # Forbidden Spells
 Spells [[Institute for the Magical Arts & Sciences|IMAS]] has forbidden for any number of reasons (usually obvious). May include spells of any level.
 
-#lun 
-lunR::6
+
 %%
-Maybe we can add a spell here that James and AL used to become immortal?
+Lunsays:: Maybe we can add a spell here that James and AL used to become immortal?
 %%
 
 ```dataview
