@@ -139,7 +139,7 @@ Okay, let's look at it this way: Luke's out of high school. What does that affec
 
 sudoMajor: Yeah, okay, let's say he's 19 and he's back home after his first year in college. (Or maybe it's winter break.) And I'll age everyone else (i.e. Sam and Case) up accordingly.
 Lunsays:: Actually, I don't mind him being younger that much on second thought. It's not like we were going to put explicit scenes in this story. Right?!
-sudoMinor:: Correct. I guess I'll change everyone's ages again?
+sudoMinor:: Correct. 1) It's not that kind of game. 2) I wouldn't be comfortable writing that regardless of the characters' ages. I guess I'll change everyone's ages again?
 #minorChange #unseenByLun 
 
 

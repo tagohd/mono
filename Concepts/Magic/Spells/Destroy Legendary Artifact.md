@@ -19,7 +19,7 @@ spellComponents: VSM
 Allows the user to permanently destroy any Legendary Artifact.
 
 >[!warning]
->[[Institute for the Magical Arts & Sciences|IMAS]] strongly encourages its members to refrain from destroying any Legendary Artifacts. Instead, please between them to your local IMAS hall so they can be studied.
+>[[Institute for the Magical Arts & Sciences|IMAS]] strongly encourages its members to refrain from destroying any Legendary Artifacts. Instead, please bring them to your local IMAS hall so they can be studied.
 
 # Meta
 

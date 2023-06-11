@@ -148,7 +148,7 @@ This of course raises some questions:
 
 sudoMajor:: So, are we saying that using the [[SOUL AMPLIFIER]] *doesn't* actually destroy the universe and/or harm Sam?
 
-sudoMajor:: Also, what if James and AL's deal is that they can't die unless killed? 
+sudoMajor:: Also, what if James and AL's deal is that they can't die unless killed? And that's why AL is so motivated to solve this conundrum—he and James were supposed to have *millennia* together, not just a measly couple of centuries.
 
 #majorChange #unseenByLun 
 
