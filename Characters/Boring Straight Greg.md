@@ -4,15 +4,17 @@ Category: Side
 Role: Diversity hire
 DOB: 1984-02-27
 Species:
-Gender: Male (he/him)
+Gender: "Male (he/him)"
 Orientation: Heterosexual
-Personality: Literally the least interesting individual you will ever meet.
-MainGoal: Buy a house with his wife and two kids and fill it with tacky décor from Hobby Lobby. (He isn't married.)
-References: ["Larry (Pokémon Scarlet and Violet)", "Stanley/Employee \#427 (The Stanley Parable)"]
+Personality: "Literally the least interesting individual you will ever meet."
+MainGoal: "Buy a house with his wife and two kids and fill it with tacky décor from Hobby Lobby. (He isn't married.)"
+References: ["Larry (Pokémon Scarlet and Violet)", "Stanley/Employee 427 (The Stanley Parable)"]
 AppearanceNotes: Works a white collar office job.
 OtherNotes: Forgettable.
 SortOrder: 13
 ---
+
+I know I said there was no significance to the birthdates and they were just randomly generated, but there is a bit of significance to this one. I generated 5 random Mondays from 
 
 The token cishet. Gets his skeleton exploded off-screen.
 

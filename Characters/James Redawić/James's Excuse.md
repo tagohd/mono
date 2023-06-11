@@ -121,7 +121,7 @@ And of course, HP is just an abstraction of your ability to keep going in a figh
 
 [Lun]: Alright, add "Conjure band-aid" to the spell list. Also maybe you can speed up time to accelerate natural healing (which would not work for curing paralysis or let's say losing a limb)? I guess in this game you just have to go visit an actual-to god doctor when you take too much damage. Kind of like the Pokecenters in pokemon, except that its a peoplecenter and you are the people.
 
-sudoMajor:: Done. See: [[Cure Wounds]] and [[Regenerate]]
+[Sudo]: Done. See: [[Cure Wounds]] and [[Regenerate]]
 
 [Lun]: Oh, you're ACTUALLY putting in DnD spells huh
 
@@ -143,6 +143,7 @@ This of course raises some questions:
 	  - That can still be preserved in this approach! However, James now means it as a _threat_ (which Luke / the player does not know, but AL definitely does).
   - What does this mean for the rest of the story?
 	  - Luke killing James definitely wasn't part of James' plans. However, Luke is now on his quest to obtain all the artefacts and helps out AL all the same. AL finds out James got killed, but continues to assemble the [[SOUL AMPLIFIER]] anyways since he can just use it to resurrect James now. If the player has a choice in what to do with the SOUL AMPLIFIER after defeating AL, the true ending entails using it to resurrect James. Who then snatches it and becomes the new big bad.
+sudoMajor:: So, are we saying that using the [[SOUL AMPLIFIER]] *doesn't* actually destroy the universe?
 	  - AL is actually not that evil. To save James he's definitely done some messed up stuff (like abducting [[Sam Ward|Sam]]) but does it out of love for his husbando. And yes, he was definitely morally grey to start out with, but he's like, a respectable type of evil. This may also explain why he spares Luke in their first encounter with [[Case Weston|Case]].
 	    James, on the contrary, is now acting purely out of hatred and is just an all-around evil guy. 
 
