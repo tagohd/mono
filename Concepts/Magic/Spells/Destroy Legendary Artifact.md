@@ -82,7 +82,11 @@ I don't know if this game's UI is going to have a way of distinguishing main and
 %%
 sudoMajor:: Somehow, I ended up writing a scene between Luke and Case here. It probably belongs in [[1.4 The Crossing of the First Threshold]] instead? Read this fourth.
 Priority:: 4
-#majorChange #unseenByLun 
+#majorChange 
 %%
+
+#lun 
+lunR:: 3
+Agreed, this probably belong in 1.4. Also, cute scene. I think this fits the story more than Luke befriending Case by saving him or vice versa. They just start of as (relatively) friendly towards each other despite both wanting the orb and even work together to get it. And then Case antagonizes Luke because he doesn't want him to eat the chocolate orange and Luke ends up running away with the orb for himself (though he feels bad about it). I mean, that's what I'm getting from this scene at least?
 
 #Spells/Major 

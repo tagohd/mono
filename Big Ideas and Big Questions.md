@@ -26,17 +26,22 @@ I don't know if I can answer that yet...
 ## Representation
 Already mentioned that everyone is queer, but now we also have... d i s a b i l i t i e s [question:: Why is anyone disabled in a universe where magic exists?]
 
+#lun 
+lunR::8
+  
 - [[Luke Campbell|Luke]] is [[LukeVISION (TM)|colorblind]]
 	- And an idiot. Is that a disability? [question:: Is idiot a disability?]
+		[Lun]: If you want everyone to have a disability and this counts, you don't have any further work!
 - Maybe [[CURSED AL|CURSED AL's]] curse is that he has ADHD/is ADHD-coded
 - Maybe [[James Redawić|James]] is paraplegic or otherwise can't walk very far. (See: [[James's Excuse]])
+	  [Lun]: Also works with what I suggested in [[CURSED AL#^fb3aaa]]!
 - [[Sam Ward|Sam]] has IBD (not to be confused with IED, IUD, or IBS)
 	- They also don't have a [[SOUL]] [question:: Is "not having a SOUL" a disability? In this world, it could be.]
 
 %%
 sudoMajor:: I have responded. Also, the characters have disabilities now.
 Priority:: 10
-#majorChange  #unseenByLun 
+#majorChange  
 %%
 
 #general #luke-campbell #cursed-al #unanswered-questions 

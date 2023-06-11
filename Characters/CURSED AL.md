@@ -13,6 +13,9 @@ References: ["Belos (The Owl House)", "Flowey (Undertale)", "The Radiance (Hollo
 AppearanceNotes:
 OtherNotes: His curse is that he's French.
 SortOrder: 2
+GameRef:
+  GameName: Chrono Trigger
+  RefType: Plot
 ---
 # The Cursed One
 ![[The Cursed One.mp3]]
@@ -36,7 +39,7 @@ Voice: he sounds like Michael McKean as Chuck McGill.
 
 ---
 Lun
---
+
 Going with my semi-convoluted [[Magic]] system, he might have become CURSED by the terrible after-effects of casting an incredibly powerful spell a very long time ago. Whatever could have prompted him to cast such a powerful spell knowing the dangers of free [[Mana]]? Perhaps it was for a greater good? After all, it was the last spell he cast before becoming CURSED...
 
 ---
@@ -63,7 +66,7 @@ Going off the above and the ideas in [[Magic]], [[Legendary Artifacts]], and [[(
 Oh, also, maybe he put himself into some sort of stasis dimension (possibly via [[Plane Shift]] or [[Astral Projection]]) while he was working this out. So he just kinda disappeared for who knows how long before suddenly reemerging shortly before James was fated to die. Maybe he thought it would work like this:
 %%
 sudoMinor:: Potentially explaining how AL went into stasis via spells.
-#minorChange #unseenByLun 
+#minorChange 
 %%
 
 ```mermaid
@@ -134,7 +137,21 @@ On the other hand, it'd be funny in a fucked up kind of way if he's just, like, 
 %%
 sudoMajor:: For real, though, maybe his curse wasn't caused by being in the stasis dimension. His curse **is** that he's in the stasis dimension.
 Priority:: 5
-#majorChange  #unseenByLun 
+#majorChange  
 %%
+
+#lun 
+lunR::5
+
+---
+Lun
+
+Casting "fuck off into another plane of existence" seems like a pretty major spell, so the curse _could_ be caused by that. The problem is that with the current magic system, the backlash from casting overly powerful spells is very much localized to where you cast the spell as it's caused by the free [[Mana]] originating from the rift where you cast the spell. This means in this scenario that AL wouldn't have been hit by it, as the spell he cast zooped him away. James would have gotten hit instead. That could be pretty cool going with the "James hates AL" angle ([[James's Excuse]]) as it gives him another reason to be so pissed (and potentially _actually be crippled_, giving him another reason not to collect the artefacts himself), but doesn't explain why AL is cursed yet. ^fb3aaa
+
+Some more thoughts in a list:
+- AL's curse being that he's in the stasis dimension is a cool concept, but then how does that work when he gets free? I assume the story requires AL to get out so he can assemble the [[SOUL AMPLIFIER]] and eventually fight [[Luke Campbell|Luke]] and resurrect James. Does he become no-longer-CURSED AL?
+- AL's body remaining in the physical realm slightly clashes with my thoughts in [[James's Excuse]]. Not inconsolably, but if James can find AL's body he can probably figure out what happened and get him back by using [[Dispel Magic]].
+- Alternate idea: The stasis dimension isn't in the physical plane, or in the mana plane, but somewhere in between. This means that he could more freely experiment with mana, but was constantly exposed to a low dose of free mana effects, eventually changing him quite dramatically.
+---
 
 #character #cursed-al #the-cursed-one #unanswered-questions #contains-music

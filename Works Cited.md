@@ -7,7 +7,7 @@ There, now you can't say it's plagiarism. (I don't think it really works that wa
 %%
 sudoMajor:: Dataview!!! (I could use some help, though.)
 Priority:: 7
-#majorChange #unseenByLun 
+#majorChange 
 %%
 
 # Notes
@@ -57,6 +57,17 @@ FROM #Cite/Game/Chrono-Trigger
 | [[CURSED AL]] | Plot |
 
 But I should probably focus more on, idk, the actual plot? Instead of this.
+
+
+#lun 
+lunR::7
+Lunsays:: I gave it a spin!
+You do have to put the the GameRef stuff in the YAML in front of the file, though (see [[CURSED AL]]). I mean, at least I think you do. I'm not sure what kind of magic you're doing with those comments.
+```dataview
+TABLE GameRef.GameName as Game, GameRef.RefType as "Type of Reference"
+WHERE GameRef.GameName = "Chrono Trigger"
+SORT GameRef.GameName
+```
 
 ## Earthbound
 ```dataview

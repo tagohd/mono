@@ -38,4 +38,33 @@ Sudosays:: I'm going to make sure this is linked every time it's mentioned so th
 I don't think tagging the same thing multiple times will really accomplish anything, but it does make it feel more like a citation
 %%
 
+#lun 
+lunR::9
+Lunsays:: here's another big one!
+%%
+First responding to your comment: In case we fail to have this file linked every time when it's mentioned, you can do a vault-wide replace all if you open your vault in [Atom](https://github.com/atom/atom) and then use the replace-all thing there. Now, for the main course:
+%%
+
+---
+Lun
+
+# The working mechanism and connection to the [[Legendary Artifacts]]
+
+The goal of the [[SOUL AMPLIFIER]] is to expand the range of spells a magician can cast to "essentially anything". Since the power of casting [[Magic]] is mainly limited by the amount of [[Mana]] one can store in their [[SOUL]] (though skill is also required to convert the mana to the required spell), the [[SOUL AMPLIFIER]] accomplishes this by creating an artificial SOUL which can contain HUGE amounts of mana.
+
+Here's how it works:
+- Get [[Sam Ward|a sacrificial lamb with no SOUL]]
+- Fill this empty vessel with a large collection of other people's SOULs.
+	- Stealing and transferring SOULs will require one or two [[Legendary Artifacts]]. Maybe the [[THE BLADE OF POWER]] is used to separate SOUL from body and then another one to transfer it into the vessel?
+	- The vessel may experience lasting incredible anguish, which is why it is not recommended for the caster to use themselves as vessel (in case the caster has no SOUL to begin with)
+- Place the vessel in a half-living state to loosen the connection between their SOUL and their body
+	- Will require another artefact (maybe a needle or something?)
+- Transfer the vessel's SOUL into an artificial vessel, [[CURSED AL'S CURSED ORB|THE ORB]]
+	- This is different from the SOUL separations done to fill the vessel, as the vessel may not be killed. While [[CURSED AL'S CURSED ORB|THE ORB]] can contain a SOUL, the SOUL still requires a connection to a living owner lest it starts dissipating (which was previously not an issue because we were going from one living owner to another). So for this step you need yet another artefact (besides the orb)
+- Connect your own SOUL to [[CURSED AL'S CURSED ORB|THE ORB]]
+	- Not sure how this works, maybe you just have to put the orb on a staff (another artefact) and then hold the staff to be connected to the ORB?
+- You can now use your store-bought SOUL as if it were your own and cast spells previously beyond imagination!
+
+---
+
  #items #soul #soul-amplifier #stub 
