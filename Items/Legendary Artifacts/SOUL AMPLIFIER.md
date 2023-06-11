@@ -38,11 +38,11 @@ Sudosays:: I'm going to make sure this is linked every time it's mentioned so th
 I don't think tagging the same thing multiple times will really accomplish anything, but it does make it feel more like a citation
 %%
 
-#lun 
-lunR::9
 Lunsays:: here's another big one!
 %%
 First responding to your comment: In case we fail to have this file linked every time when it's mentioned, you can do a vault-wide replace all if you open your vault in [Atom](https://github.com/atom/atom) and then use the replace-all thing there. Now, for the main course:
+
+Sudo: Good to know!
 %%
 
 ---
@@ -64,6 +64,10 @@ Here's how it works:
 - Connect your own SOUL to [[CURSED AL'S CURSED ORB|THE ORB]]
 	- Not sure how this works, maybe you just have to put the orb on a staff (another artefact) and then hold the staff to be connected to the ORB?
 - You can now use your store-bought SOUL as if it were your own and cast spells previously beyond imagination!
+
+[Sudo]: Metal af 🤘
+[Sudo]: Oh, wait, I have a WIP for this...
+%% Insert SOUL BENEFICIARY %%
 
 ---
 

@@ -25,9 +25,6 @@ I don't know if I can answer that yet...
 # What else is important to me about MONO
 ## Representation
 Already mentioned that everyone is queer, but now we also have... d i s a b i l i t i e s [question:: Why is anyone disabled in a universe where magic exists?]
-
-#lun 
-lunR::8
   
 - [[Luke Campbell|Luke]] is [[LukeVISION (TM)|colorblind]]
 	- And an idiot. Is that a disability? [question:: Is idiot a disability?]
@@ -37,11 +34,5 @@ lunR::8
 	  [Lun]: Also works with what I suggested in [[CURSED AL#^fb3aaa]]!
 - [[Sam Ward|Sam]] has IBD (not to be confused with IED, IUD, or IBS)
 	- They also don't have a [[SOUL]] [question:: Is "not having a SOUL" a disability? In this world, it could be.]
-
-%%
-sudoMajor:: I have responded. Also, the characters have disabilities now.
-Priority:: 10
-#majorChange  
-%%
 
 #general #luke-campbell #cursed-al #unanswered-questions 

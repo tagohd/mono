@@ -4,12 +4,6 @@ tags: refdoc
 
 There, now you can't say it's plagiarism. (I don't think it really works that way.)
 
-%%
-sudoMajor:: Dataview!!! (I could use some help, though.)
-Priority:: 7
-#majorChange 
-%%
-
 # Notes
 I wish I could structure it in some way such that it only showed the refType for the relevant work and not just all refType fields in the note. And maybe there's some way I could make better use of nested tags? Copying and pasting the Dataview code over and over doesn't seem that efficient.
 
@@ -58,11 +52,9 @@ FROM #Cite/Game/Chrono-Trigger
 
 But I should probably focus more on, idk, the actual plot? Instead of this.
 
-
-#lun 
-lunR::7
 Lunsays:: I gave it a spin!
 You do have to put the the GameRef stuff in the YAML in front of the file, though (see [[CURSED AL]]). I mean, at least I think you do. I'm not sure what kind of magic you're doing with those comments.
+
 ```dataview
 TABLE GameRef.GameName as Game, GameRef.RefType as "Type of Reference"
 WHERE GameRef.GameName = "Chrono Trigger"
