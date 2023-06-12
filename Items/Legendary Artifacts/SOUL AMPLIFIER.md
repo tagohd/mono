@@ -55,7 +55,7 @@ The goal of the [[SOUL AMPLIFIER]] is to expand the range of spells a magician c
 Here's how it works:
 - Get [[Sam Ward|a sacrificial lamb with no SOUL]]
 - Fill this empty vessel with a large collection of other people's SOULs.
-	- Stealing and transferring SOULs will require one or two [[Legendary Artifacts]]. Maybe the [[THE BLADE OF POWER]] is used to separate SOUL from body and then another one to transfer it into the vessel?
+	- Stealing and transferring SOULs will require one or two [[Legendary Artifacts]]. Maybe the [[BLADE OF POWER]] is used to separate SOUL from body and then another one to transfer it into the vessel?
 	- The vessel may experience lasting incredible anguish, which is why it is not recommended for the caster to use themselves as vessel (in case the caster has no SOUL to begin with)
 - Place the vessel in a half-living state to loosen the connection between their SOUL and their body
 	- Will require another artefact (maybe a needle or something?)
@@ -65,7 +65,7 @@ Here's how it works:
 [Sudo]: Okay, let me make sure I'm following this right. SOULS go out of their original owners, into Sam, and then into THE ORB?
 
 - Connect your own SOUL to [[CURSED AL'S CURSED ORB|THE ORB]]
-	- Not sure how this works, maybe you just have to put the orb on [[STAFF OF RULHOKIM|a staff]] (another artefact) and then hold the staff to be connected to the ORB?
+	- Not sure how this works, maybe you just have to put the orb on [[STAFF OF RULKOHIM|a staff]] (another artefact) and then hold the staff to be connected to the ORB?
 - You can now use your store-bought SOUL as if it were your own and cast spells previously beyond imagination!
 
 [Sudo]: Metal af 🤘

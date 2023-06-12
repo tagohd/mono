@@ -5,11 +5,11 @@ spellClass: Major
 spellLevel: 9
 spellDescription: The user's effectively ceases to age.
 isForbidden: True 
-isTheoretical: True
+isTheoretical: False
 spellComponents: VSM
 ---
 >[!warning]
->Do not do this spell. We don't even need to explain why. Just don't. As far as anyone at [[Institute for the Magical Arts & Sciences|IMAS]] is aware, no one has ever successfully cast it anyway. You're not going to be the first. Don't even try.
+>Do we even have to say why you shouldn't do this one? 
 
 *9th-level necromancy*
 

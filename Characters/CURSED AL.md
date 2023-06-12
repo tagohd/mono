@@ -150,12 +150,12 @@ Some more thoughts in a list:
 - Alternate idea: The stasis dimension isn't in the physical plane, or in the mana plane, but somewhere in between. This means that he could more freely experiment with mana, but was constantly exposed to a low dose of free mana effects, eventually changing him quite dramatically.
 
 [Sudo]: Free Mana = Free Radicals?
-[Sudo]: Oh, going off what I said about Dispel Magic, maybe Astral Projection requires a constant flow of free mana for as long as you're in the Astral Plane (whereas [[Plane Shift]] doesn't since it takes your physical body to the other plane; Astral Projection would likely be a forbidden spell, then). So, there's an active rift wherever AL's body is that's spilling a ton of free mana, and it has to be sealed. (Deltarune reference?!) Needless to say, this would be very not good if AL is in there a long time.
-[Sudo]: On the other hand, maybe this isn't a good idea. I would think a huge mana fountain would probably make AL pretty easy to find. (I was thinking maybe there are multiple rifts to throw you off, but I don't want to rip off Deltarune that much.)
+[Sudo]: Oh, going off what I said about Dispel Magic, maybe Astral Projection requires a constant flow of free mana for as long as you're in the Astral Plane (whereas [[Plane Shift]] doesn't since it takes your physical body to the other plane; Astral Projection would likely be a forbidden spell, then). So, there's an active rift wherever AL's body is that's spilling a ton of free mana, and it has to be sealed. (Deltarune reference?!) Needless to say, this would be very not good if AL is in there a long time (for AL or the rest of the world).
+[Sudo]: On the other hand, maybe this isn't a good idea. I would think a huge mana fountain would probably make AL pretty easy to find. (I was thinking maybe there are multiple rifts to throw you off, but I don't want to rip off Deltarune *that* much.)
 [Sudo]: Maybe he just fell into the rift or something?
 
 %%
-sudoMajor:: A few replies, but they might not actually go anywhere.
+sudoMajor:: A few replies, but they might not actually go anywhere. (Including ones I didn't DM you a screenshot of.)
 #majorChange #unseenByLun 
 %%
 
