@@ -24,13 +24,13 @@ OtherNotes:
 SortOrder:
 ```
 
-For the sake of birthdates, I'm just going to pretend the game takes place in 2023. It might not actually take place then, but if everyone's born in 199X or whatever, it makes it kinda hard to distinguish who's older than whom. Also for the sake of convenience, age is calculated relative to Luke's 16th birthday.[^age] Again, the game doesn't necessarily begin on his birthday (but it doesn't NOT begin on his birthday), it's just a simplification.
+For the sake of birthdates, I'm just going to pretend the game takes place in 2020 (which is when I first had the idea for MONO; 'rona doesn't exist in this game, though). It might not actually take place then, but if everyone's born in 199X or whatever, it makes it kinda hard to distinguish who's older than whom. Also for the sake of convenience, age is calculated relative to Luke's 17th birthday.[^age] Again, the game doesn't necessarily begin on his birthday (but it doesn't NOT begin on his birthday), it's just a simplification.
 
 [^age]: It used to be calculated from the current date, but I don't want them to keep aging because who knows how long this will take.
 
 # All
 ```dataview
-TABLE WITHOUT ID Category, link(file.link,Name) AS "Name", round((date(2023-05-26) - DOB).years, 1) AS "Age", Species, Role
+TABLE WITHOUT ID Category, link(file.link,Name) AS "Name", round((date(2020-10-22) - DOB).years, 1) AS "Age", Species, Role
 FROM #character 
 SORT SortOrder
 ```
@@ -38,7 +38,7 @@ SORT SortOrder
 # Main
 ## Appearance
 ```dataview
-TABLE WITHOUT ID link(file.link,Name) AS "Name", DOB, round((date(2023-05-26) - DOB).years, 1) AS "Age", Species, Gender, AppearanceNotes AS "Notes", References
+TABLE WITHOUT ID link(file.link,Name) AS "Name", DOB, round((date(2020-10-22) - DOB).years, 1) AS "Age", Species, Gender, AppearanceNotes AS "Notes", References
 FROM #character WHERE Category = "Main"
 SORT SortOrder
 ```
@@ -53,7 +53,7 @@ SORT SortOrder
 # Supporting
 ## Appearance
 ```dataview
-TABLE WITHOUT ID link(file.link,Name) AS "Name", DOB, round((date(2023-05-26) - DOB).years, 1) AS "Age", Species, Gender, AppearanceNotes AS "Notes", References
+TABLE WITHOUT ID link(file.link,Name) AS "Name", DOB, round((date(2020-10-22) - DOB).years, 1) AS "Age", Species, Gender, AppearanceNotes AS "Notes", References
 FROM #character WHERE Category = "Supporting"
 SORT SortOrder
 ```
@@ -68,7 +68,7 @@ SORT SortOrder
 # Other?
 ## Appearance
 ```dataview
-TABLE WITHOUT ID link(file.link,Name) AS "Name", DOB, round((date(2023-05-26) - DOB).years, 1) AS "Age", Species, Gender, AppearanceNotes AS "Notes", References
+TABLE WITHOUT ID link(file.link,Name) AS "Name", DOB, round((date(2020-10-22) - DOB).years, 1) AS "Age", Species, Gender, AppearanceNotes AS "Notes", References
 FROM #character WHERE Category = "Side"
 SORT SortOrder
 ```

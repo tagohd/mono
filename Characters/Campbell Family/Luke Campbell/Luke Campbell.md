@@ -3,8 +3,7 @@ alias: hero, protagonist, Luke
 Name: Lucas 'Luke' Campbell
 Category: Main
 Role: Protagonist
-Age: 19
-DOB: 2007-05-26
+DOB: 2003-10-22
 Species: Dogboy - Labrador Retriever (*Canis familiaris*)
 Gender: Male (he/him)
 Orientation: Asexual/Panromantic (Poly?)
@@ -17,12 +16,16 @@ SortOrder: 1
 ---
 #Cite/Movie/Star-Wars [movieRefType:: Star Wars/Character Name]
 
+sudoMinor:: Made Luke 17 so that Case can still be old enough to have a job but it's less weird for him to have a relationship with Luke.
+sudoMinor:: Changed Luke's birthday to 22 October, the day I first started writing MONO.
+#minorChange #unseenByLun 
+
 # Luke, THE RELUCTANT HERO
 His bond with [[Sam Ward|Sam]] is so strong that it allows him to track their SOUL to [[CURSED AL]]. Luke’s SOUL is also quite powerful itself, allowing him to use [[Magic]], but it’s his bond with Sam that truly gives him strength.
 
 **Plot:** Luke awakens in his house. He is a young man of average height, perhaps somewhat on the short side, and a bit scrawny. He’s not malnourished, per se, but he isn’t exactly musclebound, either. He gets dressed, heads outside, and picks some tulips from the garden. It’s a beautiful day outside. He goes to the neighboring house, knocks on the door, and asks for Sam.
 
-Luke is 16. He runs cross-country because Sam does, and only because Sam does. He doesn't care much for sports, and he hates running. He helps [[The Mothers Campbell|his parents]] on the farm, but he can't wait to leave [[Genton]] where he can finally be himself. Maybe he (naively) wants to move to [[Rhapsody]]? This possibly contradicts my earlier characterization of Rhapsody, but he's also going there under different circumstances than he imagined. (Also a little bit of [Paris syndrome](https://en.wikipedia.org/wiki/Paris_syndrome).)
+Luke is 17. He runs cross-country because Sam does, and only because Sam does. He doesn't care much for sports, and he hates running. He helps [[The Mothers Campbell|his parents]] on the farm, but he can't wait to leave [[Genton]] where he can finally be himself. Maybe he (naively) wants to move to [[Rhapsody]]? This possibly contradicts my earlier characterization of Rhapsody, but he's also going there under different circumstances than he imagined. (Also a little bit of [Paris syndrome](https://en.wikipedia.org/wiki/Paris_syndrome).)
 
 ## Various Luke Characterizations
 Main idea: Luke was fully aware [[CURSED AL'S CURSED ORB|the Orb]] was made of chocolate and wanted to eat it from the start

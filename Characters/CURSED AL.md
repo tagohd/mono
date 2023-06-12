@@ -11,7 +11,7 @@ MainGoal: Save [[James Redawić|James]]
 References: ["Belos (The Owl House)", "Flowey (Undertale)", "The Radiance (Hollow Knight)", "Chuck McGill (Better Call Saul)"]
 AppearanceNotes:
 OtherNotes: His curse is that he's French.
-SortOrder: 2
+SortOrder: 4
 GameRef:
   GameName: Chrono Trigger
   RefType: Plot

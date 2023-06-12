@@ -12,7 +12,7 @@ MainGoal: Revenge on [[CURSED AL|AL]] for abandoning him
 References: ["Obi-Wan Kenobi (Star Wars)"]
 AppearanceNotes: Uses a wheelchair
 OtherNotes: Runs a museum out of an [[The Old Silver Mine|old silver mine]] in [[Plata]]
-SortOrder: 3
+SortOrder: 5
 ---
 # Pronunciation
 ![[Pronunciation - Redawić.webm]]

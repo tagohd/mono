@@ -3,7 +3,7 @@ alias: Case
 Name: Case Weston
 Category: Main
 Role: Deuteragonist?
-DOB: 2003-11-15
+DOB: 2001-07-15
 Species: Wolverine (*Gulo gulo*)
 Gender: Male (he/him) (Trans?)
 Orientation: Gay
@@ -12,7 +12,7 @@ MainGoal: ["Investigate [[James Redawić|James]]", "Keep [[Luke Campbell|Luke]] 
 References: ["Nicholas D. Wolfwood (Trigun (1998))"]
 AppearanceNotes:
 OtherNotes:
-SortOrder: 5
+SortOrder: 3
 ---
 %%
 Sudosays:: Huh. The main character's name is Luke. And the secondary protagonist(?) is named Case? Luke and Case. Wonder where I came up with that. Luke and Case. Lucas. And ~~Clase~~ Claus?
