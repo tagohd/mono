@@ -143,15 +143,18 @@ Some more thoughts in a list:
 
 [Lun]: So he only comes back to the material plane after the [[SOUL AMPLIFIER]] is finished? But then he can't do anything in the story until the end (e.g. abduct Sam, fight Luke, look menacing). Well, his lieutenant can, but then what's the point of having AL if you only see his lieutenant anyway?
 
-sudo:: In this scenario, he's more like The Triangle (Bill Cipher) or The Moth (The Radiance). Physically, he can't really do anything, but he s
+sudo:: In this scenario (which isn't yet canon), he's more like Bill Cipher or The Radiance. He can't physically do anything himself, but he still wields a great deal of influence. He controls other people and uses them to carry out tasks.
+#reply [R:: 8]
 
 - AL's body remaining in the physical realm slightly clashes with my thoughts in [[James's Excuse]]. Not inconsolably, but if James can find AL's body he can probably figure out what happened and get him back by using [[Dispel Magic]].
 
 [Sudo]: Fuck, I forgot about Dispel Magic. Maybe that's another spell that just doesn't exist here. You don't dispel magic, you just seal the rift. That, or [[Astral Projection]] doesn't work the same way it does in D&D, which is already something I've been leaning towards.
 [Sudo]: But if it does work similarly to how it does in D&D, then AL probably went to some fortified location prior to casting it to make sure nothing happens to his physical body. I believe I mentioned this in the article on [[Sam Ward|Sam]].
-#lun 
-lunR:: 9
+
 [Lun]: AL first teleporting to a fortified location before going into stasis seems to clash with the idea that he thought time would not advance on the material plane while he was in stasis. How would you make that work?
+
+sudo:: Okay, maybe he wasn't going into stasis. Maybe there was something he could only obtain from a different plane of existence?
+#reply [R:: 9]
 
 - Alternate idea: The stasis dimension isn't in the physical plane, or in the mana plane, but somewhere in between. This means that he could more freely experiment with mana, but was constantly exposed to a low dose of free mana effects, eventually changing him quite dramatically.
 
@@ -159,14 +162,14 @@ lunR:: 9
 [Sudo]: Oh, going off what I said about Dispel Magic, maybe Astral Projection requires a constant flow of free mana for as long as you're in the Astral Plane (whereas [[Plane Shift]] doesn't since it takes your physical body to the other plane; Astral Projection would likely be a forbidden spell, then). So, there's an active rift wherever AL's body is that's spilling a ton of free mana, and it has to be sealed. (Deltarune reference?!) Needless to say, this would be very not good if AL is in there a long time (for AL or the rest of the world).
 [Sudo]: On the other hand, maybe this isn't a good idea. I would think a huge mana fountain would probably make AL pretty easy to find. (I was thinking maybe there are multiple rifts to throw you off, but I don't want to rip off Deltarune *that* much.)
 [Sudo]: Maybe he just fell into the rift or something?
-#lun 
-lunR:: 10
+
 [Lun]: Maybe him plane shifting into a different plane would just be easier all around? Or do you want to make the astral projection thing work because that's AL's curse?
 
-%%
-sudoMajor:: A few replies, but they might not actually go anywhere. (Including ones I didn't DM you a screenshot of.)
-#majorChange 
-%%
+Sudo:: This one's kinda long.
+#reply [R:: 10]
+[Sudo]: From a Doylist perspective, his curse is that he's too single-minded/can't see the forest through the trees. (From a *very* Doylist perspective, his curse is being named CURSED AL.) He's too focused on saving James instead of cherishing the time they *do* have.
+[Sudo]: (And maybe James being fated to die is, like, a metaphor for cancer or some shit? Idk. Not to get too off-topic, but I actually was thinking that living for a very long time would be likely to exponentially increase your risk of developing cancer, but I kinda just hand-waved that away by saying "It's *magic*".)
+[Sudo]: Anyway, how his curse manifests in-universe should be symbolic of that somehow.
 
 ---
 
