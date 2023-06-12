@@ -108,6 +108,6 @@ sudoMajor:: Also, what if James and AL's deal is that they can't die unless kill
 
 
 lunR: 2
-That seems like a good reason for AL's obsession with the whole saving thing, and this may also be a good start for their individual backstories. Why where they evil in the first place? Maybe they used some fucked up magic to gain functional immortality (i.e. not aging) and had to sacrifice some innocents to accomplish that. Maybe they used like a prototype-SOUL AMPLIFIER and AL was able to perfect it to the real deal during his stasis?
+That seems like a good reason for AL's obsession with the whole saving thing, and this may also be a good start for their individual backstories. Why where they evil in the first place? Maybe they used [[Longevity (spell)|some fucked up magic to gain functional immortality (i.e. not aging)]] and had to sacrifice some innocents to accomplish that. Maybe they used like a prototype-SOUL AMPLIFIER and AL was able to perfect it to the real deal during his stasis?
 
 #general #james-redawic #unanswered-questions 

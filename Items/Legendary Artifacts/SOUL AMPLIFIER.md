@@ -61,8 +61,11 @@ Here's how it works:
 	- Will require another artefact (maybe a needle or something?)
 - Transfer the vessel's SOUL into an artificial vessel, [[CURSED AL'S CURSED ORB|THE ORB]]
 	- This is different from the SOUL separations done to fill the vessel, as the vessel may not be killed. While [[CURSED AL'S CURSED ORB|THE ORB]] can contain a SOUL, the SOUL still requires a connection to a living owner lest it starts dissipating (which was previously not an issue because we were going from one living owner to another). So for this step you need yet another artefact (besides the orb)
+
+[Sudo]: Okay, let me make sure I'm following this right. SOULS go out of their original owners, into Sam, and then into THE ORB?
+
 - Connect your own SOUL to [[CURSED AL'S CURSED ORB|THE ORB]]
-	- Not sure how this works, maybe you just have to put the orb on a staff (another artefact) and then hold the staff to be connected to the ORB?
+	- Not sure how this works, maybe you just have to put the orb on [[STAFF OF RULHOKIM|a staff]] (another artefact) and then hold the staff to be connected to the ORB?
 - You can now use your store-bought SOUL as if it were your own and cast spells previously beyond imagination!
 
 [Sudo]: Metal af 🤘
