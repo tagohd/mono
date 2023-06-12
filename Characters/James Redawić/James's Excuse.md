@@ -100,7 +100,9 @@ sudoMajor:: So, are we saying that using the [[SOUL AMPLIFIER]] *doesn't* actual
 
 
 lunR: 1
-Good question. How about this: James mainly didn't want AL to try to cast a spell of change fate/resurrection calibre because he thought it would a) just not work and b) be incredibly dangerous and maybe destroy the universe. But then AL invented/found the SOUL AMPLIFIER which theoretically would actually allow one to cast such a powerful spell without destroying the universe. Since obviously nobody ever tried using it you can't be sure it won't actually destroy the universe, but in theory it should be safe. As for harming Sam, no clue. AL is definitely still evil enough to harm some innocent person for personal gain.
+Good question. How about this: James mainly didn't want AL to try to cast a spell of change fate/resurrection calibre because he thought it would a) just not work and b) be incredibly dangerous and maybe destroy the universe. But then AL invented/found the [[SOUL AMPLIFIER]] which theoretically would actually allow one to cast such a powerful spell without destroying the universe. Since obviously nobody ever tried using it you can't be sure it won't actually destroy the universe, but in theory it should be safe. As for harming Sam, no clue. AL is definitely still evil enough to harm some innocent person for personal gain.
+
+[Sudo]: Of course AL is. But why would Luke use it if it meant harming Sam or anyone else?
 
 sudoMajor:: Also, what if James and AL's deal is that they can't die unless killed? And that's why AL is so motivated to solve this conundrum—he and James were supposed to have *millennia* together, not just a measly couple of centuries.
 
