@@ -70,7 +70,15 @@ Here's how it works:
 
 [Sudo]: Metal af 🤘
 [Sudo]: Oh, wait, I have a WIP for this...
-%% Insert SOUL BENEFICIARY %%
+
+# Soul Beneficiary
+
+![[Soul Beneficiary.mp3]]
+%%
+songTitle:: Soul Beneficiary
+songRemarks:: You've already heard this one. I uploaded it to Tumblr. But it was in October 2021, so maybe you forgot.
+#chromaticChange #unheardByLun
+%%
 
 ---
 
