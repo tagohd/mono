@@ -14,7 +14,7 @@ spellComponents: VS
 - Casting Time: 1 reaction, which you take when you are hit by an attack
 - Range: Self
 - Materials: N/A
-- Duration: 1 turn
+- Duration: 1 round
 
 >[!note]
 >This is a modified version of Blink. It is one level higher mostly because there currently aren't any intermediate spells.
