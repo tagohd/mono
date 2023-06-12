@@ -15,10 +15,11 @@ AppearanceNotes: Uses a wheelchair
 OtherNotes: Runs a museum out of an [[The Old Silver Mine|old silver mine]] in [[Plata]]
 SortOrder: 3
 ---
-%%
-question:: James age and species
-%%
+# Pronunciation
+![[Pronunciation - Redawić.webm]]
+/'rɛdəvɪtʃ/ RED-əv-itch
 
+# Photo of James
 ![[wizard that knows fuck all.jpg]]
 # James, THE DARK MAGICIAN
 Perhaps he meddled with something he shouldn’t have and released [[CURSED AL]] from his prison. Former lover of Al?
@@ -42,11 +43,6 @@ Or maybe CURSED AL is manipulating James into manipulating Luke? James knows whe
 [Sudo]: And James is like, "Hmmm, that's a good point."
 
 [Lun]: I do like the idea of James being a little evil. Corrupt that old man! Also, see what I answered on [[James's Excuse]]
-
-%%
-trivial:: Marked as read
-#trivialChange 
-%%
 
 #Cite/Lit/LOTR [litRefType:: LOTR/Items] (??? Only in the sense that the Artifacts have a corrupting influence over their possessor. Imagine if The One Ring talked to its bearer like that lol.)
 

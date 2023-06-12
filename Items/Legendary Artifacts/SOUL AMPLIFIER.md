@@ -2,7 +2,7 @@
 Location: SPACE
 Purpose: UNLIMITED POWER
 Description: Orbital Space Laser???
-OrderAcquired: 99
+OrderAcquired: 8
 IncludeInTable: True
 ---
 Gives the user's [[SOUL]] access to the \[\[BIG SHOT\]\] ability. (Not really. Probably.)

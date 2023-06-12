@@ -5,14 +5,12 @@ IncludeInTable: False
 sudoMinor:: Maybe they're like the Infinity Stones? Also added DATAVIEW.
 sudoMinor:: Decided there should be 7 Artifacts.
 #minorChange #unseenByLun 
-trivial:: Dropped the "The" from the title.
-#trivialChange 
 %%
 # About
 The Legendary Artifacts are objects [[Luke Campbell|Luke]] must retrieve on his quest to defeat [[CURSED AL]].
 
 >[!question] [aq:: How many are there?]
->Let's go with 7.
+>Let's go with 7. (8 if you count the [[SOUL AMPLIFIER]].)
 
 >[!question] [aq:: What do they do, aside from function as convenient objectives?]
 >I don't know what each individual one does by itself, but together they form the [[SOUL AMPLIFIER]], which lets the user handle metric fucktons of [[Mana]]. If I answer these questions, I'll do it in the article for each one instead of here.
