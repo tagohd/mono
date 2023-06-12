@@ -140,9 +140,10 @@ Some more thoughts in a list:
 - AL's curse being that he's in the stasis dimension is a cool concept, but then how does that work when he gets free? I assume the story requires AL to get out so he can assemble the [[SOUL AMPLIFIER]] and eventually fight [[Luke Campbell|Luke]] and resurrect James. Does he become no-longer-CURSED AL?
 
 [Sudo]: Maybe he has some sort of lieutenant on the Material Plane who will activate it for him. Or what if the [[SOUL AMPLIFIER]] is actually a portal? (Gravity Falls reference?!)
-#lun 
-lunR:: 8
+
 [Lun]: So he only comes back to the material plane after the [[SOUL AMPLIFIER]] is finished? But then he can't do anything in the story until the end (e.g. abduct Sam, fight Luke, look menacing). Well, his lieutenant can, but then what's the point of having AL if you only see his lieutenant anyway?
+
+sudo:: In this scenario, he's more like The Triangle (Bill Cipher) or The Moth (The Radiance). Physically, he can't really do anything, but he s
 
 - AL's body remaining in the physical realm slightly clashes with my thoughts in [[James's Excuse]]. Not inconsolably, but if James can find AL's body he can probably figure out what happened and get him back by using [[Dispel Magic]].
 
