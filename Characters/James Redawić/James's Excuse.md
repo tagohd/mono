@@ -1,8 +1,6 @@
 ---
-focus: True
-focusComment: Why does James make Luke get the Artifacts? This seems like a major plothole if not addressed.
-question:: Why doesn't James just get the Artifacts himself?
-Priority:: 1
+focus: False
+aq:: Why doesn't James just get the Artifacts himself?
 ---
 # Why doesn't James just get the Artifacts himself?
 Sudosays:: This has kind of devolved more into a discussion about magic than about the original question. So, are we going with that he's a paraplegic or what?
@@ -98,7 +96,6 @@ This of course raises some questions:
 
 sudoMajor: So, are we saying that using the [[SOUL AMPLIFIER]] *doesn't* actually destroy the universe and/or harm Sam?
 
-
 lunR: 1
 Good question. How about this: James mainly didn't want AL to try to cast a spell of change fate/resurrection calibre because he thought it would a) just not work and b) be incredibly dangerous and maybe destroy the universe. But then AL invented/found the [[SOUL AMPLIFIER]] which theoretically would actually allow one to cast such a powerful spell without destroying the universe. Since obviously nobody ever tried using it you can't be sure it won't actually destroy the universe, but in theory it should be safe. As for harming Sam, no clue. AL is definitely still evil enough to harm some innocent person for personal gain.
 
@@ -106,8 +103,10 @@ Good question. How about this: James mainly didn't want AL to try to cast a spel
 
 sudoMajor: Also, what if James and AL's deal is that they can't die unless killed? And that's why AL is so motivated to solve this conundrum—he and James were supposed to have *millennia* together, not just a measly couple of centuries.
 
-
 lunR: 2
 That seems like a good reason for AL's obsession with the whole saving thing, and this may also be a good start for their individual backstories. Why where they evil in the first place? Maybe they used [[Longevity (Spell)|some fucked up magic to gain functional immortality (i.e. not aging)]] and had to sacrifice some innocents to accomplish that. Maybe they used like a prototype-SOUL AMPLIFIER and AL was able to perfect it to the real deal during his stasis?
+
+sudoMajor:: There is still one question about whether Luke would be willing to use the [[SOUL AMPLIFIER]], but I think the main question has been satisfactorily answered for now. I'm moving it out of focus.
+#majorChange #unseenByLun 
 
 #general #james-redawic #unanswered-questions 
