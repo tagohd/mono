@@ -3,10 +3,6 @@ focus: False
 aq:: Why doesn't James just get the Artifacts himself?
 ---
 # Why doesn't James just get the Artifacts himself?
-Sudosays:: This has kind of devolved more into a discussion about magic than about the original question. So, are we going with that he's a paraplegic or what?
-Lunsays:: Agreed, I think we can move some of this to the Magic page. Also, I wrote a part that's _actually a possible answer to the original question_! See below for more!!
-sudoMajor:: Moved like half of this document into [[Magic]]
-
 ![[uhhh.jpg]]
 
 >[!idea] What if he's paraplegic?
@@ -107,6 +103,8 @@ lunR: 2
 That seems like a good reason for AL's obsession with the whole saving thing, and this may also be a good start for their individual backstories. Why where they evil in the first place? Maybe they used [[Longevity (Spell)|some fucked up magic to gain functional immortality (i.e. not aging)]] and had to sacrifice some innocents to accomplish that. Maybe they used like a prototype-SOUL AMPLIFIER and AL was able to perfect it to the real deal during his stasis?
 
 sudoMajor:: There is still one question about whether Luke would be willing to use the [[SOUL AMPLIFIER]], but I think the main question has been satisfactorily answered for now. I'm moving it out of focus.
+Priority:: 1
 #majorChange #unseenByLun 
+
 
 #general #james-redawic #unanswered-questions 
