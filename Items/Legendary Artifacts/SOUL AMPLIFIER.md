@@ -86,4 +86,4 @@ songRemarks:: You've already heard this one. I uploaded it to Tumblr. But it was
 
 ---
 
- #items #soul #soul-amplifier #stub 
+ #items #soul #soul-amplifier #stub #contains-music 
