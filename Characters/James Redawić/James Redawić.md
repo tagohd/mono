@@ -3,7 +3,6 @@ alias: James
 Name: James Redawić
 Category: Main
 Role: Mentor to [[Luke Campbell|Luke]]
-Age: 250? (But he doesn't look a day over 125!)
 DOB: 1849-10-12
 Species: Elk (*Cervus canadensis*)
 Gender: "Wizard (he/him)"

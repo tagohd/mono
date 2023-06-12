@@ -96,7 +96,7 @@ This of course raises some questions:
 	  - AL is actually not that evil. To save James he's definitely done some messed up stuff (like abducting [[Sam Ward|Sam]]) but does it out of love for his husbando. And yes, he was definitely morally grey to start out with, but he's like, a respectable type of evil. This may also explain why he spares Luke in their first encounter with [[Case Weston|Case]].
 	    James, on the contrary, is now acting purely out of hatred and is just an all-around evil guy. 
 
-sudoMajor:: So, are we saying that using the [[SOUL AMPLIFIER]] *doesn't* actually destroy the universe and/or harm Sam?
+sudoMajor: So, are we saying that using the [[SOUL AMPLIFIER]] *doesn't* actually destroy the universe and/or harm Sam?
 
 
 lunR: 1
@@ -104,7 +104,7 @@ Good question. How about this: James mainly didn't want AL to try to cast a spel
 
 [Sudo]: Of course AL is. But why would Luke use it if it meant harming Sam or anyone else?
 
-sudoMajor:: Also, what if James and AL's deal is that they can't die unless killed? And that's why AL is so motivated to solve this conundrum—he and James were supposed to have *millennia* together, not just a measly couple of centuries.
+sudoMajor: Also, what if James and AL's deal is that they can't die unless killed? And that's why AL is so motivated to solve this conundrum—he and James were supposed to have *millennia* together, not just a measly couple of centuries.
 
 
 lunR: 2
