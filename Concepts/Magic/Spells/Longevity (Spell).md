@@ -30,6 +30,22 @@ The toll of this spell is enormous. After enduring that stress, each time you ca
 [^3]: This part was just copied from the description of Wish.
 
 sudoMajor:: Answering how [[James Redawić|James]], [[CURSED AL]], and [[Emperoress, The|The Emperoress]] have lived so long. (As a dragon, [[Ednathrallor Verdensmorder|Edna]] is just naturally long-lived.)
-#majorChange #unseenByLun 
+
+#lun 
+lunR:: 2
+[Lun]: This is discriminatory against non-virgins. What's wrong with their blood? Does sex alter the magical properties of your body?? I need answers. 
+
+Also, alternate idea for the whole sacrificing cost:
+- You don't need blood to cast the spell, you just need a lot of mana
+	- E.g. this cost is not inherent to this spell, you can cast it without killing a bunch of people if you had a Big Fucking Soul™
+- AL doesn't have this amount of mana, so he uses an early version of the [[SOUL AMPLIFIER]] instead
+	- Pretty much a shorter version of the full one:
+		- Reap some souls
+		- Jam them directly into [[CURSED AL'S CURSED ORB|THE ORB]]
+		- Quickly cast your spell because girl those souls are dissipating (no living holder)
+	- Much more unstable, which gives a chance to mess up the spell
+		- RIP James lol
+
+#majorChange 
 
 #Spells/Major 

@@ -92,19 +92,23 @@ This of course raises some questions:
 
 sudoMajor: So, are we saying that using the [[SOUL AMPLIFIER]] *doesn't* actually destroy the universe and/or harm Sam?
 
-lunR: 1
-Good question. How about this: James mainly didn't want AL to try to cast a spell of change fate/resurrection calibre because he thought it would a) just not work and b) be incredibly dangerous and maybe destroy the universe. But then AL invented/found the [[SOUL AMPLIFIER]] which theoretically would actually allow one to cast such a powerful spell without destroying the universe. Since obviously nobody ever tried using it you can't be sure it won't actually destroy the universe, but in theory it should be safe. As for harming Sam, no clue. AL is definitely still evil enough to harm some innocent person for personal gain.
+[Lun]: Good question. How about this: James mainly didn't want AL to try to cast a spell of change fate/resurrection calibre because he thought it would a) just not work and b) be incredibly dangerous and maybe destroy the universe. But then AL invented/found the [[SOUL AMPLIFIER]] which theoretically would actually allow one to cast such a powerful spell without destroying the universe. Since obviously nobody ever tried using it you can't be sure it won't actually destroy the universe, but in theory it should be safe. As for harming Sam, no clue. AL is definitely still evil enough to harm some innocent person for personal gain.
 
 [Sudo]: Of course AL is. But why would Luke use it if it meant harming Sam or anyone else?
 
+#lun
+lunR::1
+[Lun]: Well, as soon as the thing has been assembled, you're not really hurting anyone by using it. But saving Sam does require destroying it (disconnect the SOUL from Sam and then put Sam out of his half-death state). So he would probably not mind using it as long as he can save Sam afterwards ASAP? 
+
 sudoMajor: Also, what if James and AL's deal is that they can't die unless killed? And that's why AL is so motivated to solve this conundrum—he and James were supposed to have *millennia* together, not just a measly couple of centuries.
 
-lunR: 2
-That seems like a good reason for AL's obsession with the whole saving thing, and this may also be a good start for their individual backstories. Why where they evil in the first place? Maybe they used [[Longevity (Spell)|some fucked up magic to gain functional immortality (i.e. not aging)]] and had to sacrifice some innocents to accomplish that. Maybe they used like a prototype-SOUL AMPLIFIER and AL was able to perfect it to the real deal during his stasis?
+[Lun]: That seems like a good reason for AL's obsession with the whole saving thing, and this may also be a good start for their individual backstories. Why where they evil in the first place? Maybe they used [[Longevity (Spell)|some fucked up magic to gain functional immortality (i.e. not aging)]] and had to sacrifice some innocents to accomplish that. Maybe they used like a prototype-SOUL AMPLIFIER and AL was able to perfect it to the real deal during his stasis?
 
 sudoMajor:: There is still one question about whether Luke would be willing to use the [[SOUL AMPLIFIER]], but I think the main question has been satisfactorily answered for now. I'm moving it out of focus.
 Priority:: 1
-#majorChange #unseenByLun 
 
+
+
+#majorChange 
 
 #general #james-redawic #unanswered-questions 

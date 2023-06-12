@@ -6,7 +6,8 @@ An abandoned silver mine in [[Plata]], and the namesake of the town (*plata* is 
 
 %%
 sudoMajor:: (Part) of a new song here!
-#majorChange #unseenByLun 
+Lunsays:: WOOOO!!!
+#majorChange 
 %%
 # A Song?
 ![[Farm.mp3]]

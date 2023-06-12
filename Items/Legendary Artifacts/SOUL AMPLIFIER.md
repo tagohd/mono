@@ -64,6 +64,10 @@ Here's how it works:
 
 [Sudo]: Okay, let me make sure I'm following this right. SOULS go out of their original owners, into Sam, and then into THE ORB?
 
+#lun 
+lunR:: 7
+[Lun]: Yes, except that the SOULs don't really go out of Sam entirely. They go into the orb but are still connected to the living vessel, otherwise they would disappear. Also, I'd imagine the SOULs are fused when they enter the same vessel, so Sam just gets one giant SOUL which is then carried in the orb. (Maybe because the SOUL is so huge it can still connect to its owner even while away from them? It's like part of the SOUL is used to construct a link between Sam and the orb, but because the SOUL is so vast it doesn't diminish much of its power. To maybe make it more clear: the SOUL is like a big ball of yarn, and it always needs to be connected to the owner by a thread or it disappears. With a normally sized soul you can't go very far or you unwind the whole SOUL and have nothing left over, but with a MEGA SOUL you can go almost anywhere and still have most of the yarn in your orb.)
+
 - Connect your own SOUL to [[CURSED AL'S CURSED ORB|THE ORB]]
 	- Not sure how this works, maybe you just have to put the orb on [[STAFF OF RULKOHIM|a staff]] (another artefact) and then hold the staff to be connected to the ORB?
 - You can now use your store-bought SOUL as if it were your own and cast spells previously beyond imagination!
