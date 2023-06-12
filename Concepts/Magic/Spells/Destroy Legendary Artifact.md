@@ -9,7 +9,7 @@ isTheoretical: False
 spellComponents: VSM
 ---
 >[!info]
->Okay, so maybe nobody wants the Legendary Artifacts destroyed. It's still possible, but for now let's say that destroying any of them basically locks you into a less-than-ideal ending.
+>Okay, so maybe *nobody* wants the Legendary Artifacts destroyed. It's still possible, but for now let's say that destroying any of them basically locks you into a less-than-ideal ending.
 
 *7th-level transmutation*
 
