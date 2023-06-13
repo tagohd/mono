@@ -65,11 +65,9 @@ Here's how it works:
 
 [Lun]: Yes, except that the SOULs don't really go out of Sam entirely. They go into the orb but are still connected to the living vessel, otherwise they would disappear. Also, I'd imagine the SOULs are fused when they enter the same vessel, so Sam just gets one giant SOUL which is then carried in the orb. (Maybe because the SOUL is so huge it can still connect to its owner even while away from them? It's like part of the SOUL is used to construct a link between Sam and the orb, but because the SOUL is so vast it doesn't diminish much of its power. To maybe make it more clear: the SOUL is like a big ball of yarn, and it always needs to be connected to the owner by a thread or it disappears. With a normally sized soul you can't go very far or you unwind the whole SOUL and have nothing left over, but with a MEGA SOUL you can go almost anywhere and still have most of the yarn in your orb.)
 
-#reply [R:: 9]
+
 sudo:: That seems a bit convoluted, but I don't have any better ideas. Just to be clear, the original owners of the SOULS die in this process, right? The SOUL is severed from their body so it can be put into Sam? Maybe we need to think more about how exactly the SOUL relates to using magic/mana. (Oh, I think I missed where you said that in the first paragraph. So, the SOUL is like a mana capacitor? )
 
-#lun 
-lunR::1
 Lun: Exactly, the original owners of the souls get fucking murdered. Brutally. And yes^2, the soul is kind of like a bucket you can fill with mana which prevents the mana from going haywire. For a little while at least, which is why you should always use all mana in your soul and ASAP after getting it in your bucket least your bucket explodes. Hold on, maybe this is why [[Sam Ward|Sam]] doesn't have their soul (anymore)??
 Oh and yes the final step where you put the SOUL in the orb but it's still connected to the living vessel is a bit convoluted, but it's the only way I could make that idea work while keeping Sam alive (for now). If you have any other more elegant fixes, go crazy.
 
@@ -81,17 +79,12 @@ Oh and yes the final step where you put the SOUL in the orb but it's still conne
 [Sudo]: Oh, wait, I have a WIP for this...
 
 ## Idea
-sudoMajor:: If there was a category higher than major, I would put this there.
-Priority:: 1
-
 Basically, it just seems like Sam is kinda redundant in this capacity. Why can't AL just put the SOULS in his own body? What's the significance of Sam not having a SOUL of their own?
 
-
-#lun 
-lunR::2
-The answer to both of those questions is that you need a person without a SOUL to house other people's SOULs. Also this [[SOUL AMPLIFIER#^fa90fa]].
-Though I guess there is no explanation for why you can fuse SOULs inside a person with no SOUL to begin with, and you can't just fuse more SOULs onto your own SOUL (of you, a SOUL-haver). Except for the excruciating pain thing, which may suffice. Or maybe a person holding multiple SOULs just can't really function in a normal way (pretty much only works as a SOUL-bag at that point), which is why you need to use another person. But then you run into the problem again why that person can't start out with a SOUL...
-OH, got an idea. What if one of the [[Legendary Artifacts]] is actually an artificial SOUL with the power to absorb other SOULs, which is what AL puts into Sam. He needs someone without a SOUL, because you can't have multiple SOULs in one person. As soon as this SOUL is in Sam, any further SOULs he feeds to Sam are absorbed into the Artifact SOUL, thereby they still only have one. AL also couldn't put this Artifact SOUL into himself because his own SOUL would be absorbed, which would probably be bad.
+Lun:
+>The answer to both of those questions is that you need a person without a SOUL to house other people's SOULs. Also this [[SOUL AMPLIFIER#^fa90fa]].
+>Though I guess there is no explanation for why you can fuse SOULs inside a person with no SOUL to begin with, and you can't just fuse more SOULs onto your own SOUL (of you, a SOUL-haver). Except for the excruciating pain thing, which may suffice. Or maybe a person holding multiple SOULs just can't really function in a normal way (pretty much only works as a SOUL-bag at that point), which is why you need to use another person. But then you run into the problem again why that person can't start out with a SOUL...
+>OH, got an idea. What if one of the [[Legendary Artifacts]] is actually an artificial SOUL with the power to absorb other SOULs, which is what AL puts into Sam. He needs someone without a SOUL, because you can't have multiple SOULs in one person. As soon as this SOUL is in Sam, any further SOULs he feeds to Sam are absorbed into the Artifact SOUL, thereby they still only have one. AL also couldn't put this Artifact SOUL into himself because his own SOUL would be absorbed, which would probably be bad.
 
 Not to rip off FMA too much, but maybe the end goal is that AL turns Sam into a living ~~philosopher's stone~~ SOUL AMPLIFIER. #Cite/TV/FMAB [tvRefType:: FMAB/Plot]
 
@@ -129,13 +122,21 @@ Oh! Here's a thought (or 12):
 
 [^1]: Mana-Coulombs? Magic Charges?
 
-#lun 
-lunR::3
-Alright, so the whole parallel-casting thing pretty much comes down to the same as filling one vessel with a bunch of souls. Having to carry Sam around as the conduit rather than the orb does make it a bit more elegant (though also kinda funny).
-I think it works really well for the ending scene too! 
-But maybe instead of parallel casting you can keep the "one artefact SOUL absorbing other SOULs"? It works just as well with the "Sam becomes a living SOUL AMPLIFIER" thing but lets you keep the "Sam needs to have no SOUL" thing.
-We already pulled a "he just walked into this random guy and decided to use him for his evil plans" with Luke, so maybe we shouldn't for Sam as well. Though I guess he could have targeted Luke for being Sam's best friend, and Sam is the one primeval "random guy he decided to use".
-To conclude: I think we can kind of mash both SOUL AMPLIFIER ideas to have the best of both worlds here.
+
+Lun:
+>Alright, so the whole parallel-casting thing pretty much comes down to the same as filling one vessel with a bunch of souls. Having to carry Sam around as the conduit rather than the orb does make it a bit more elegant (though also kinda funny).
+>I think it works really well for the ending scene too! 
+>But maybe instead of parallel casting you can keep the "one artefact SOUL absorbing other SOULs"? It works just as well with the "Sam becomes a living SOUL AMPLIFIER" thing but lets you keep the "Sam needs to have no SOUL" thing.
+>We already pulled a "he just walked into this random guy and decided to use him for his evil plans" with Luke, so maybe we shouldn't for Sam as well. Though I guess he could have targeted Luke for being Sam's best friend, and Sam is the one primeval "random guy he decided to use".
+>To conclude: I think we can kind of mash both SOUL AMPLIFIER ideas to have the best of both worlds here.
+
+1. Here I go spoiling old games again (Mother 3), but I was thinking of it like: AL is Porky Minch[^2] and Sam is like Claus/The Masked Man (except they're not Luke's twin). They're not being carried around as much as they are completely under AL's control.
+2. Artificial SOUL is a cool idea (also sounds like a good band name). Maybe that's what AL was working on in "stasis"?
+3. I'm not sure I want to keep the "Sam needs to have no SOUL" thing, though. Their having a SOUL seems kinda integral to the whole "Luke calls out to Sam's SOUL to break them free from AL's control" deal. Actually, I already have something of an idea for the song that would play there:
+
+![[mus_xpart_2.ogg]]
+
+[^2]: I guess that makes [[Emperoress, The|The Emperoress]] Giygas?
 
 # Soul Beneficiary
 
