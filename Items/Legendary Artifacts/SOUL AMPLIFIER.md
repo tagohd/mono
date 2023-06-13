@@ -86,16 +86,20 @@ Not to rip off FMA too much, but maybe the end goal is that AL turns Sam into a 
 
 Oh! Here's a thought:
 
-1. Sam does actually have a SOUL. Forget I said they didn't. So why does AL kidnap them? No real reason; they were just convenient. Maybe he slightly fucked up exiting the "stasis" dimension and came out in Genton instead of Plata. (They're only ~40km apart, so not that big of a mistake.) Oh, actually, what if he comes out IN Sam's house?
-2. The SOUL acts like a capacitor for Mana. SOULS, in general, don't tend to tolerate Mana very well, but you can learn to improve your tolerance. This is why novice mages can only cast weak spells—they haven't built up enough to tolerance to be able to handle the higher levels of Mana required by more powerful spells.
+1. [[Sam Ward|Sam]] does actually have a [[SOUL]]. Forget I said they didn't. So why does AL kidnap them? No real reason; they were just convenient. Maybe he slightly fucked up exiting the "stasis" dimension and came out in [[Genton]] instead of [[Plata]]. (They're only ~40km apart, so not that big of a mistake.) Oh, actually, what if he comes out IN Sam's house? ^c9847f
+2. The SOUL acts like a capacitor for [[mana]]. SOULS, in general, don't tend to tolerate mana very well, but you can learn to improve your tolerance. This is why novice mages can only cast weak spells—they haven't built up enough to tolerance to be able to handle the higher levels of mana required by more powerful spells.
 	1. If it really acts like a capacitor, you could theoretically collect the mana in advance. There would have to be some limits to this, though. Maybe Mana decays over time, or storing it in your SOUL without using it is really uncomfortable.
-		1. This could be represented by the player having to hold down a button to charge their Mana. You can maintain your charge for as long as you can hold \[Y\], but it's going to make pressing other buttons awkward, especially if there's a platforming section or something. Or maybe it's like a weapon with an overcharge. The Mana is coming out whether you want it to or not, so you'd better have a spell ready unless you want to take damage.
+		1. This could be represented by the player having to hold down a button to charge their mana. You can maintain your charge for as long as you can hold \[Y\], but it's going to make pressing other buttons awkward, especially if there's a platforming section or something. Or maybe it's like a weapon with an overcharge. The mana is coming out whether you want it to or not, so you'd better have a spell ready unless you want to take damage.
 		2. Higher spellcasting level = higher tolerance to Mana = can hold charge longer
-		3. "average person can tolerate 300 MC[^1] of mana" factoid actually just statistical error.
+		3. "average person can tolerate 3,000 Mc[^1] of mana" factoid actually just statistical error. average person can tolerate 0 Mc. [[Manas Georg]], who lives in cave & can tolerate over 10,000,000 Mc, is an outlier adn should not have been counted.
 3. It is generally not possible for multiple mages to cast the same spell in parallel.
-	1. Example: A spell requires 50 MC of Mana to cast. Luke can tolerate 20 MC. Case can tolerate 30 MC. They cannot pool their mana together to cast the spell.
-	2. Example: Let's say it costs 15 C to cast [[Magic Missile]] at the first level. Case cannot lend Luke 5 C
-4. [[Reverse Fate]] (which is basically just a modified version of [[Wish]]) requires obscene amounts of Mana to cast.
+	1. Example: A spell requires 500 Mc of Mana to cast. [[Luke Campbell|Luke]] can tolerate 200 Mc. [[Case Weston|Case]] can tolerate 300 Mc. They cannot pool their mana together to cast the spell.
+	2. Example: Let's say it costs 150 Mc to cast [[Magic Missile]] at the first level and 50 additional Mc per higher level. Case cannot lend Luke 50 Mc so that Luke can cast it at the second level.
+4. [[Reverse Fate]] (which is basically just a modified version of [[Wish]]) requires *obscene* amounts of mana to cast. More than even Manas Georg could tolerate.
+5. The SOUL AMPLIFIER allows for parallel casting, thus making it possible to cast absurdly powerful spells like Reverse Fate. It works by unifying multiple SOULS into one body. It's still a work in progress, so AL wants to test it on Sam first.
+	1. AL built a similar device when casting [[Longevity (Spell)|Longevity]], but maybe it broke when he tried to cast it on James. This time around, he's had a few hundred additional years to perfect the design.
+6. After successfully using the SOUL AMPLIFIER, AL has Sam enthralled and attempts to force them to cast a lesser spell as a trial run. Luke and Case intervene. Luke calls out to Sam's SOUL, but they're too far gone.
+7. It's clear
 
 
 [^1]: Mana-Coulombs? Magic Charges?

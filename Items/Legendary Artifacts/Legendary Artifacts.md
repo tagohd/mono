@@ -36,7 +36,7 @@ For [[Luke Campbell|Luke]], collecting them might just expand his spell options,
 
 # List of Legendary Artifacts
 %%
-Priority:: 1
+Priority:: 3
 sudoMajor:: Just making sure you've seen that there is a table.
 #majorChange #unseenByLun 
 %%
