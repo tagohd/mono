@@ -7,7 +7,7 @@ IncludeInTable: True
 ---
 Gives the user's [[SOUL]] access to the \[\[BIG SHOT\]\] ability. (Not really. Probably.)
 %%
-#Cite/Game/Undertale (Okay, yes, that's Deltarune. But I don't see a need to distinguish them for this purpose.) [gameRefType:: Undertale/General]
+#Cite/Game/Deltarune (Okay, yes, that's Deltarune. But I don't see a need to distinguish them for this purpose. Actually, now that I have made a few references to Deltarune specifically, I *do* see a need.) [gameRefType:: Deltarune/General]
 %%
 
 Okay, yeah, maybe it is some kind of cannon/ORB LAUNCHER. And also it's in space? #Cite/Game/Metroid #Cite/Unknown 
@@ -28,7 +28,7 @@ And AL is so obsessed with this idea that it leads to their breakup, even though
 
 AL's like, "I love you so much that I would tear apart the fabric of the universe to keep you with me", but James is like, "AL, you idiot, we *live* in the universe!"
 
-And there's another potential FMA parallel: the SOUL AMPLIFIER is kinda like the giant transmutation circle, and it's going to draw on the power of everyone's [[SOUL|SOULS]]. #Cite/TV/FMAB  
+And there's another potential FMA parallel: the SOUL AMPLIFIER is kinda like the giant transmutation circle, and it's going to draw on the power of everyone's [[SOUL|SOULS]]. #Cite/TV/FMAB  [tvRefType:: FMAB/Plot]
 
 And CURSED AL is after [[Sam Ward|Sam]] because they're a ginger and therefore don't have a SOUL, so he's going to, like, focus the power of everybody's SOULS onto them and use them as a vessel or something
 
@@ -86,13 +86,15 @@ Priority:: 1
 
 Basically, it just seems like Sam is kinda redundant in this capacity. Why can't AL just put the SOULS in his own body? What's the significance of Sam not having a SOUL of their own?
 
+
 #lun 
 lunR::2
 The answer to both of those questions is that you need a person without a SOUL to house other people's SOULs. Also this [[SOUL AMPLIFIER#^fa90fa]].
 Though I guess there is no explanation for why you can fuse SOULs inside a person with no SOUL to begin with, and you can't just fuse more SOULs onto your own SOUL (of you, a SOUL-haver). Except for the excruciating pain thing, which may suffice. Or maybe a person holding multiple SOULs just can't really function in a normal way (pretty much only works as a SOUL-bag at that point), which is why you need to use another person. But then you run into the problem again why that person can't start out with a SOUL...
 OH, got an idea. What if one of the [[Legendary Artifacts]] is actually an artificial SOUL with the power to absorb other SOULs, which is what AL puts into Sam. He needs someone without a SOUL, because you can't have multiple SOULs in one person. As soon as this SOUL is in Sam, any further SOULs he feeds to Sam are absorbed into the Artifact SOUL, thereby they still only have one. AL also couldn't put this Artifact SOUL into himself because his own SOUL would be absorbed, which would probably be bad.
 
-Not to rip off FMA too much, but maybe the end goal is that AL turns Sam into a living ~~philosopher's stone~~ SOUL AMPLIFIER.
+Not to rip off FMA too much, but maybe the end goal is that AL turns Sam into a living ~~philosopher's stone~~ SOUL AMPLIFIER. #Cite/TV/FMAB [tvRefType:: FMAB/Plot]
+
 
 Oh! Here's a thought (or 12):
 
@@ -101,16 +103,16 @@ Oh! Here's a thought (or 12):
 	1. If it really acts like a capacitor, you could theoretically collect the mana in advance. There would have to be some limits to this, though. Maybe Mana decays over time, or storing it in your SOUL without using it is really uncomfortable.
 		1. This could be represented by the player having to hold down a button to charge their mana. You can maintain your charge for as long as you can hold \[Y\], but it's going to make pressing other buttons awkward, especially if there's a platforming section or something. Or maybe it's like a weapon with an overcharge. The mana is coming out whether you want it to or not, so you'd better have a spell ready unless you want to take damage.
 		2. Higher spellcasting level = higher tolerance to Mana = can hold charge longer
-		3. "average person can tolerate 3,000 M⋅C[^1] of mana" factoid actually just statistical error. average person can tolerate 0 M⋅C. [[Manas Georg]], who lives in cave & can tolerate over 10,000,000 M⋅C, is an outlier adn should not have been counted.
+		3. "average person can tolerate 3,000 M⋅C[^1] of mana" factoid actually just statistical error. average person can tolerate 0 M⋅C. [[Manas Georg]], who lives in cave & can tolerate over 10,000,000 M⋅C, is an outlier adn should not have been counted. #Cite/Meme/Spiders-Georg [memeRefType:: Spiders Georg/Character]
 3. It is generally not possible for multiple mages to cast the same spell in parallel.
 	1. Example: A spell requires 500 M⋅C of Mana to cast. [[Luke Campbell|Luke]] can tolerate 200 M⋅C. [[Case Weston|Case]] can tolerate 300 M⋅C. They cannot pool their mana together to cast the spell.
 	2. Example: Let's say it costs 150 M⋅C to cast [[Magic Missile]] at the first level and 50 additional M⋅C per higher level. Case cannot lend Luke 50 M⋅C so that Luke can cast it at the second level.
 4. [[Reverse Fate]] (which is basically just a modified version of [[Wish]]) requires *obscene* amounts of mana to cast. More than even Manas Georg could tolerate.
-5. The SOUL AMPLIFIER allows for parallel casting, thus making it possible to cast absurdly powerful spells like Reverse Fate. It works by unifying multiple SOULS into one body. It's still a work in progress, so AL wants to test it on Sam first.
+5. The SOUL AMPLIFIER allows for parallel casting, thus making it possible to cast absurdly powerful spells like Reverse Fate. It works by unifying multiple SOULS into one body. It's still a work in progress, so AL wants to test it on Sam first before using it on himself.
 	1. AL built a similar device when casting [[Longevity (Spell)|Longevity]], but maybe it broke when he tried to cast it on James. This time around, he's had a few hundred additional years to perfect the design.
 6. (This is near the end of the game.) After successfully using the SOUL AMPLIFIER, AL has Sam enthralled and attempts to force them to cast a lesser spell as a trial run. Luke and Case intervene. Luke calls out to Sam's SOUL, but they're too far gone.
-7. It's clear that despite all their training, Case and Luke are *still* no match for AL. Luke is exhausted and badly wounded, but Case has an idea. He'll distract AL long enough for Luke to cast some healing spells on himself, and then he'll... do something to the SOUL AMPLIFIER? AL (via Sam) casts [[Greater Fuck You Up Big Time]] in Case's general direction, but it also hits one of the [[Legendary Artifacts]] and part of the spell ricochets back towards AL.
-8. With AL's concentration broken, his grip on Sam loosens, and Luke is able to reach out to their SOUL. (Figuratively, I hope.) It's too late, however. The effects of the SOUL AMPLIFIER cannot be undone.
+7. It's clear that despite all their training, Case and Luke are *still* no match for AL. Luke is exhausted and badly wounded, but Case has an idea. He'll distract AL long enough for Luke to cast some healing spells on himself, and then he'll... do something to the SOUL AMPLIFIER? AL (via Sam) casts [[Greater Fuck You Up Big Time]] in Case's general direction, but it also hits one of the [[Legendary Artifacts]] and part of the spell ricochets back towards AL. #Cite/Game/Mega-Man-X #Cite/Game/Mother3 [gameRefType:: "Mega Man X/Plot", "Mother 3/Plot"]
+8. With AL's concentration broken, his grip on Sam loosens, and Luke is able to reach out to their SOUL. (Figuratively, I hope.) It's too late, however. The effects of the SOUL AMPLIFIER cannot be undone. #Cite/Game/Undertale [gameRefType:: Undertale/Plot]
 9. AL fires back at Luke. Luke dodges, but still takes major damage. Even with their new BIG SOUL, AL is forcing Sam to use more mana than their physical form can handle (something AL did not anticipate). He'll have to spare Luke for now so that he can cast Reverse Fate before Sam's body disintegrates.
 10. James is dead. Case is dead. Some other characters I haven't written yet are dead. And Luke is about to be dead, too, if he doesn't act fast. There's only one solution. With the last of his strength, he calls out to Sam's SOUL once more:
 >![[Luke Call Out.png]]
@@ -120,8 +122,10 @@ Oh! Here's a thought (or 12):
 >![[Sam Reply 2.png]]
 >The music swells.
 >![[Game Boy Screen.png]]
->The screen fades to "white".
+>The screen fades to "white". #Cite/Game/Omori ? [gameRefType:: Omori/Plot]
 12. [[Luke Campbell]] is a fairly normal guy. He lives in a sleepy little farming town called [[Genton]], where he helps [[The Mothers Campbell|his parents]] out on their [[Campbell Farms|farm]]. He's 17. He runs cross-country for his high school, and he hates it. He's never been particularly interested in sports, but given that Genton is a small, mostly rural town, high school football is kinda the main event; consequently, Luke doesn't fit in all that well. His next door neighbors are the Wards. They don't have any children.
+13. Credits roll. That's the end of the game.
+14. Psych! There's a way to get Sam back, but I haven't figured out what it is yet.
 
 [^1]: Mana-Coulombs? Magic Charges?
 
