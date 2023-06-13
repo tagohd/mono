@@ -98,9 +98,9 @@ sudoMajor: So, are we saying that using the [[SOUL AMPLIFIER]] *doesn't* actuall
 
 [Lun]: Well, as soon as the thing has been assembled, you're not really hurting anyone by using it. But saving Sam does require destroying it (disconnect the SOUL from Sam and then put Sam out of their half-death state). So he would probably not mind using it as long as he can save Sam afterwards ASAP? 
 
-R:: 1
+R:: 3
 sudo:: Okay, I suppose that makes sense. I guess it depends on how exactly the thing works. (Also, reminder that Sam uses they/them.)
-#reply ^reply-1
+#reply
 
 sudoMajor: Also, what if James and AL's deal is that they can't die unless killed? And that's why AL is so motivated to solve this conundrum—he and James were supposed to have *millennia* together, not just a measly couple of centuries.
 

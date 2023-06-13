@@ -49,7 +49,7 @@ Sudo: Good to know!
 Lun
 
 Focus:: True
-FocusComment:: We've established that the purpose of the device is to allow the user to cast spells that require more mana than they could physically handle, but I'm not sure about the mechanism by which it accomplishes this.
+FocusComment:: We've established that the purpose of the device is to allow the user to cast spells that require more mana than they could physically handle, but I'm not sure about the mechanism by which it accomplishes this. In particular, I think we need to clarify Sam's role.
 
 # The working mechanism and connection to the [[Legendary Artifacts]]
 
@@ -69,8 +69,8 @@ Here's how it works:
 
 [Lun]: Yes, except that the SOULs don't really go out of Sam entirely. They go into the orb but are still connected to the living vessel, otherwise they would disappear. Also, I'd imagine the SOULs are fused when they enter the same vessel, so Sam just gets one giant SOUL which is then carried in the orb. (Maybe because the SOUL is so huge it can still connect to its owner even while away from them? It's like part of the SOUL is used to construct a link between Sam and the orb, but because the SOUL is so vast it doesn't diminish much of its power. To maybe make it more clear: the SOUL is like a big ball of yarn, and it always needs to be connected to the owner by a thread or it disappears. With a normally sized soul you can't go very far or you unwind the whole SOUL and have nothing left over, but with a MEGA SOUL you can go almost anywhere and still have most of the yarn in your orb.)
 
-sudo:: That seems a bit convoluted, but I don't have any better ideas. Just to be clear, the original owners of the SOULS die in this process, right? The SOUL is severed from their body so it can be put into Sam? Maybe we need to think more about how exactly the SOUL relates to using magic/mana.
-#reply [R:: 7]
+#reply [R:: 9]
+sudo:: That seems a bit convoluted, but I don't have any better ideas. Just to be clear, the original owners of the SOULS die in this process, right? The SOUL is severed from their body so it can be put into Sam? Maybe we need to think more about how exactly the SOUL relates to using magic/mana. (Oh, I think I missed where you said that in the first paragraph. So, the SOUL is like a mana capacitor? ) 
 
 - Connect your own SOUL to [[CURSED AL'S CURSED ORB|THE ORB]]
 	- Not sure how this works, maybe you just have to put the orb on [[STAFF OF RULKOHIM|a staff]] (another artefact) and then hold the staff to be connected to the ORB?
@@ -78,6 +78,17 @@ sudo:: That seems a bit convoluted, but I don't have any better ideas. Just to b
 
 [Sudo]: Metal af 🤘
 [Sudo]: Oh, wait, I have a WIP for this...
+
+## Idea
+Basically, it just seems like Sam is kinda redundant in this capacity. Why can't AL just put the SOULS in his own body? What's the significance of Sam not having a SOUL of their own?
+
+Not to rip off FMA too much, but maybe the end goal is that AL turns Sam into a living ~~philosopher's stone~~ SOUL AMPLIFIER.
+
+Oh! Here's a thought:
+
+1. Sam does actually have a SOUL. Forget I said they didn't. So why does AL kidnap them? No real reason; they were just convenient. Maybe he slightly fucked up exiting the "stasis" dimension and came out in Genton instead of Plata. (They're only ~40km apart, so not that big of a mistake.) Oh, actually, what if he comes out IN Sam's house?
+2. The SOUL acts like a capacitor for mana. SOULS, in general, don't tend to tolerate mana very well, but you can learn to improve your tolerance. This is why novice magicians can only cast weak spells—they haven't built up enough to tolerance to be able to handle the higher levels of mana required by more powerful spells.
+3. [[Reverse Fate]] (which is basically just a modified version of [[Wish]]) requires obscene amounts of mana to cast.
 
 # Soul Beneficiary
 

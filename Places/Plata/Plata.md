@@ -2,7 +2,7 @@ High in the mountains, Plata is the home of a former silver mine ("Plata" being 
 
 sudoMajor:: Maybe [[Institute for the Magical Arts & Sciences|IMAS]] has a regional office here, and that's why [[Luke Campbell|Luke]] suspects [[Sam Ward|Sam]] is here.[^1] (Also, it's relatively close to [[Genton]].)
 
-[^1]: Perhaps the veil between the Material Plane and the [[Mana Plane]] is exceptionally thin here because it's in the mountains or because of the (formerly) high presence of silver. Or maybe wizards just tend to like being in quaint little mountain villages?
+sudoMajor:: 1 Perhaps the veil between the Material Plane and the [[Mana Plane]] is exceptionally thin here because it's in the mountains or because of the (formerly) high presence of silver. Or maybe wizards just tend to like being in quaint little mountain villages?
 
 #majorChange #unseenByLun 
 

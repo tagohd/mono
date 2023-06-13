@@ -27,14 +27,14 @@ The toll of this spell is enormous. After enduring that stress, each time you ca
 
 [^1]: Equivalent to about 12 people
 [^2]: Thought about vanilla extract for the meme, but figured fresh vanilla beans would be much harder to obtain. TBH, the materials don't really matter. The spell's already been cast; not like it's going to be cast again. Point is this spell is expensive and requires materials that aren't easy to come by/aren't likely to be sourced ethically. Maybe instead of all that, it just requires a philosopher's stone? (But creating a philosopher's stone would be similarly immoral.)
-[^3]: This part was just copied from the description of Wish.
+[^3]: This part was just copied from the description of [[Wish]].
 
 sudoMajor:: Answering how [[James Redawić|James]], [[CURSED AL]], and [[Emperoress, The|The Emperoress]] have lived so long. (As a dragon, [[Ednathrallor Verdensmorder|Edna]] is just naturally long-lived.)
 
 
 [Lun]: This is discriminatory against non-virgins. What's wrong with their blood? Does sex alter the magical properties of your body?? I need answers. 
 
-#reply [R:: 2]
+#reply [R:: 4]
 sudo:: Fuckin'... idk. It just seems to be the standard for Satanic rituals for some reason. No, you know what? You're right. Instead of virgin blood, it should be cishet blood. And that's what kills [[Boring Straight Greg]].
 
 Also, alternate idea for the whole sacrificing cost:
@@ -48,7 +48,7 @@ Also, alternate idea for the whole sacrificing cost:
 	- Much more unstable, which gives a chance to mess up the spell
 		- RIP James lol
 
-#reply [R:: 3]
+#reply [R:: 5]
 sudo:: Yeah, the point wasn't so much the blood anyway. It was more: this spell is hella unethical, and you're basically stealing the life essence of other people to prolong your own life. (The addition of magic is what makes it a thousandfold increase instead of simply a twelvefold increase.)
 
 #Spells/Major 
