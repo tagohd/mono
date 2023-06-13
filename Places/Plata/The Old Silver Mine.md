@@ -18,4 +18,6 @@ songRemarks:: A short clip of a song that might play at the mine and/or the Camp
 
 I'm not very good at getting the melody out of my head and onto the staff, but this is close to what I've had in mind; it's not quite right, though. Also, as you can see, it's only 16 seconds long. I'm not sure if this will play here or at [[Campbell Farms|Luke's farm]]. Maybe both? I want to say it reminds me of *West of Loathing*. #Cite/Game/West-of-Loathing [gameRefType:: West of Loathing/Music]
 
+There was another, much more obvious reference that I thought of yesterday (2023-06-12), but now I can't remember what it was. #Cite/Unknown [uRefType:: Music]
+
 #places #plata #the-old-mine #james-redawic #bering-strait-grigori #contains-music 
