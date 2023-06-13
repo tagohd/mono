@@ -1,2 +1,2 @@
 # I'm so sorry... (makes all line endings the windows default)
-* text eol=lf
+*.md text eol=lf

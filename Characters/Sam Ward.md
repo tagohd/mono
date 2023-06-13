@@ -47,6 +47,8 @@ Love interest for [Luke](Luke%20Campbell.md).
 * On the cross-country team with Luke, except they actually enjoy it
 * Their lack of SOUL makes them a crucial component of CURSED AL's plan
 
+![[tale_of_two_sams.png]]
+
 
 >[!question] Is Sam short for "Samuel" or "Samantha"?
 >Neither. It's short for "Sammich". (You'll never find out their AGAB or their deadname.)
