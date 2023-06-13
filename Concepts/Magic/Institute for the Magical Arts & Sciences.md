@@ -17,8 +17,11 @@ question:: What is James's and/or CURSED AL's backstory with IMAS? Were they exp
 [Sudo]: One idea I had that I think I mentioned in [[Case Weston|Case's]] article is that maybe James is defrauding them out of a lot of grant money and that's why Case is put on the case. If it was anything more major than that, I think IMAS would have to have a bit more authority than IEEE, making them more like an official government agency. Or maybe the Spanish Inquisition. Nobody would expect that.
 [Sudo]: Or, as I alluded to in [[Longevity (Spell)]], maybe they were expelled for merely researching it? On the other hand, they're also both incredibly old; it's possible they cast the spell before IMAS was even founded. Maybe they were expelled after they were found out. They were like, "Hey, thanks for the numerous advancements to our research, but what you did was super fucked up and we don't want to be associated with you."
 
-sudoMajor:: Given how old James and AL are, it's possible they cast Longevity before IMAS was even founded. Maybe there was some [Operation Paperclip](https://en.wikipedia.org/wiki/Operation_Paperclip) bullshit.
-#majorChange #unseenByLun 
+%%
+sudoMajor: Given how old James and AL are, it's possible they cast Longevity before IMAS was even founded. Maybe there was some [Operation Paperclip](https://en.wikipedia.org/wiki/Operation_Paperclip) bullshit.
+
+This was in [[1. Plot Overview]], so I'm marking it as read.
+%%
 
 
 #general #concepts #imas #unanswered-questions 

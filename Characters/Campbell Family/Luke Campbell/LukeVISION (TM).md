@@ -13,9 +13,4 @@ We can use [this site](https://www.color-blindness.com/coblis-color-blindness-si
 
 [Lun]: Diversity win! The protagonist is red-green colorblind.
 
-%%
-trivial:: Read
-#trivialChange 
-%%
-
 #luke-campbell 

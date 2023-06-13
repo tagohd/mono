@@ -46,11 +46,6 @@ So, the "lore" here is that this is the theme of the protagonist's hometown. (Th
 
 That's kinda what I was trying to represent by having the instruments change. The broader idea here is that this is the soundtrack for an imaginary video game with a vaguely defined plot, so maybe it's a dynamic soundtrack and the instruments get replaced as you forge relationships with the other residents or rebuild the town or something. I think it makes more sense as separate tracks, but I spent longer than I should have working on this, so I'm just going to post this.
 
-%%
-trivial:: Added tags for Works Cited. Added tag "contains-music". Added music metadata.
-#trivialChange 
-%%
-
 # Boringsville at Night
 ![[Boringsville at Night.mp3]]
 %%
@@ -63,10 +58,5 @@ I like this version, but I'm not sure I'd call it "boring". Maybe Genton has a c
 
 [Lun]: The song won't play further than 0:02 for me!!! Let me hear it!!!!!
 [Sudo]: Here's a [SoundCloud](https://soundcloud.com/tagohd/boringsville-at-night/s-LbVe8duHr3Y?si=f4442dc81e304133a104ef06eaea22bd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) link. Maybe you should download the file again? It plays fine for me.
-
-%%
-sudoMinor:: Included a SoundCloud link, but I also already DMed it to you. Maybe try downloading the song again?
-#minorChange #unseenByLun 
-%%
 
 #places #genton #contains-music 

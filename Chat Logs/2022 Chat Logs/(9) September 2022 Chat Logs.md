@@ -25,9 +25,4 @@ L:
 S:
 >Yeah, it was more just, "Hey, this is cool! I can't use this here, but I should definitely save it for later.^[Hey, what do you know?]"
 
-%%
-trivial:: Added tag "contains-music" and music metadata
-#trivialChange 
-%%
-
 #general #music-ideas-for-later #contains-music 

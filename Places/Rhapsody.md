@@ -1,7 +1,3 @@
-%%
-trivial:: Added tags for Works Cited. Added tag "contains-music" and music metadata.
-#trivialChange 
-%%
 ![[Rhapsody for a Dying City.mp3]]
 %%
 songTitle:: Rhapsody for a Dying City

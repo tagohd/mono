@@ -1,12 +1,6 @@
 ---
 number headings: auto, max 2
 ---
-
-%%
-trivial:: Marked as read
-#trivialChange 
-%%
-
 # 1 Organization
 [Lun]: In order to not clutter files with Lunsays and Sudosays, maybe we should delete eachothers' comments after reading them? Their main function is just warning eachother of new stuff anyways. 
 [Sudo]: That's why I commented them out with \%\%, then you can just put it into "read" view and they disappear. You could also just delete one of the : so it no longer shows up in Dataview. But maybe they're not always worth preserving.

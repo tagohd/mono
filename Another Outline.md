@@ -1,9 +1,5 @@
 #general #plot-outline #act-1 #luke-campbell #sam-ward #james-redawic #cursed-al #the-orb #the-horse #the-dragon #the-old-mine #genton #ma-and-pa-campbell #rhapsody 
 
-%%
-trivial:: Nothing changed here. I just accidentally moved it. I think something might be wrong with my mouse.
-#trivialChange 
-%%
 # Act I
 ## [[1.1 The Call to Adventure]]
 ### EXT. [[Genton|GENTON]]

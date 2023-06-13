@@ -15,6 +15,8 @@ SortOrder: 4
 GameRef:
   GameName: Chrono Trigger
   RefType: Plot
+Focus: True
+FocusComment: Yeah, his curse is a metaphor, but how exactly does it present in the story?
 ---
 # The Cursed One
 ![[The Cursed One.mp3]]
@@ -165,11 +167,11 @@ sudo:: Okay, maybe he wasn't going into stasis. Maybe there was something he cou
 
 [Lun]: Maybe him plane shifting into a different plane would just be easier all around? Or do you want to make the astral projection thing work because that's AL's curse?
 
-Sudo:: This one's kinda long.
+sudo:: This one's kinda long.
 #reply [R:: 10]
 [Sudo]: From a Doylist perspective, his curse is that he's too single-minded/can't see the forest through the trees. (From a *very* Doylist perspective, his curse is being named CURSED AL.) He's too focused on saving James instead of cherishing the time they *do* have.
 [Sudo]: (And maybe James being fated to die is, like, a metaphor for cancer or some shit? Idk. Not to get too off-topic, but I actually was thinking that living for a very long time would be likely to exponentially increase your risk of developing cancer, but I kinda just hand-waved that away by saying "It's *magic*".)
-[Sudo]: Anyway, how his curse manifests in-universe should be symbolic of that somehow.
+[Sudo]: Anyway, how his curse manifests in-universe should be symbolic of that somehow. Maybe he didn't literally think he was going into stasis. Maybe it just took him way longer than he expected/he lost track of time.
 
 ---
 

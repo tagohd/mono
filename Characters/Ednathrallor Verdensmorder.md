@@ -14,10 +14,6 @@ AppearanceNotes: Missing one wing.
 OtherNotes: "Horses, unfortunately, find her terrifying."
 SortOrder: 7
 ---
-%%
-trivial:: Added tags for Works Cited
-#trivialChange 
-%%
 # Diversity Dragon
 
 Right now (25 May 2023), we have:

@@ -48,6 +48,9 @@ Sudo: Good to know!
 ---
 Lun
 
+Focus:: True
+FocusComment:: We've established that the purpose of the device is to allow the user to cast spells that require more mana than they could physically handle, but I'm not sure about the mechanism by which it accomplishes this.
+
 # The working mechanism and connection to the [[Legendary Artifacts]]
 
 The goal of the [[SOUL AMPLIFIER]] is to expand the range of spells a magician can cast to "essentially anything". Since the power of casting [[Magic]] is mainly limited by the amount of [[Mana]] one can store in their [[SOUL]] (though skill is also required to convert the mana to the required spell), the [[SOUL AMPLIFIER]] accomplishes this by creating an artificial SOUL which can contain HUGE amounts of mana.

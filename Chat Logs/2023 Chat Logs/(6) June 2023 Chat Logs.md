@@ -96,10 +96,7 @@ L:
 >yes go to sleep please
 
 \[...\]
-%%
-trivial:: Links to Mana Plane instead of Mana
-#trivialChange 
-%%
+
 S:
 >Alright, but just one more thing. For some reason I am imagining the [[Mana Plane|mana plane]] being like this:
 >![[fma truth.jpeg]]

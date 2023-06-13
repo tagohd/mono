@@ -1,5 +1,6 @@
 %%
-sudoMajor:: Added species and other information for all characters.
+Priority:: 1
+sudoMajor:: Wanted to make sure you've seen that I've added species and other information for all characters.
 #majorChange #unseenByLun 
 %%
 

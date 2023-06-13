@@ -1,11 +1,6 @@
 ---
 IncludeInTable: False
 ---
-%%
-sudoMinor:: Maybe they're like the Infinity Stones? Also added DATAVIEW.
-sudoMinor:: Decided there should be 7 Artifacts.
-#minorChange #unseenByLun 
-%%
 # About
 The Legendary Artifacts are objects [[Luke Campbell|Luke]] must retrieve on his quest to defeat [[CURSED AL]].
 
@@ -40,7 +35,11 @@ For [[Luke Campbell|Luke]], collecting them might just expand his spell options,
 ---
 
 # List of Legendary Artifacts
-
+%%
+Priority:: 1
+sudoMajor:: Just making sure you've seen that there is a table.
+#majorChange #unseenByLun 
+%%
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Artifact", Description, Location, Purpose
