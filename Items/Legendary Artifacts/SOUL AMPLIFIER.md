@@ -98,9 +98,16 @@ Oh! Here's a thought:
 4. [[Reverse Fate]] (which is basically just a modified version of [[Wish]]) requires *obscene* amounts of mana to cast. More than even Manas Georg could tolerate.
 5. The SOUL AMPLIFIER allows for parallel casting, thus making it possible to cast absurdly powerful spells like Reverse Fate. It works by unifying multiple SOULS into one body. It's still a work in progress, so AL wants to test it on Sam first.
 	1. AL built a similar device when casting [[Longevity (Spell)|Longevity]], but maybe it broke when he tried to cast it on James. This time around, he's had a few hundred additional years to perfect the design.
-6. After successfully using the SOUL AMPLIFIER, AL has Sam enthralled and attempts to force them to cast a lesser spell as a trial run. Luke and Case intervene. Luke calls out to Sam's SOUL, but they're too far gone.
-7. It's clear
+6. (This is near the end of the game.) After successfully using the SOUL AMPLIFIER, AL has Sam enthralled and attempts to force them to cast a lesser spell as a trial run. Luke and Case intervene. Luke calls out to Sam's SOUL, but they're too far gone.
+7. It's clear that despite all their training, Case and Luke are *still* no match for AL. Luke is exhausted and badly wounded, but Case has an idea. He'll distract AL long enough for Luke to cast some healing spells on himself, and then he'll... do something to the SOUL AMPLIFIER? AL (via Sam) casts [[Greater Fuck You Up Big Time]] in Case's general direction, but it also hits one of the [[Legendary Artifacts]] and part of the spell ricochets back towards AL.
+8. With AL's concentration broken, his grip on Sam loosens, and Luke is able to reach out to their SOUL. (Figuratively, I hope.) It's too late, however. The effects of the SOUL AMPLIFIER cannot be undone.
+9. AL fires back at Luke. Luke dodges, but still takes major damage. Even with their new BIG SOUL, AL is forcing Sam to use more mana than their physical form can handle (something AL did not anticipate). He'll have to spare Luke for now so that he can cast Reverse Fate before Sam's body disintegrates.
+10. James is dead. Case is dead. Some other characters I haven't written yet are dead. And Luke is about to be dead, too, if he doesn't act fast. There's only one solution. With the last of his strength, he calls out to Sam's SOUL once more.
 
+>![[Luke Call Out.png]]
+>(The player doesn't get to hear what Luke said.)
+>![[Sam Reply 1.png]]
+>![[Sam Reply 2.png]]
 
 [^1]: Mana-Coulombs? Magic Charges?
 
