@@ -47,10 +47,6 @@ Sudo: Good to know!
 
 ---
 Lun
-
-Focus:: True
-FocusComment:: We've established that the purpose of the device is to allow the user to cast spells that require more mana than they could physically handle, but I'm not sure about the mechanism by which it accomplishes this. In particular, I think we need to clarify Sam's role.
-
 # The working mechanism and connection to the [[Legendary Artifacts]]
 
 The goal of the [[SOUL AMPLIFIER]] is to expand the range of spells a magician can cast to "essentially anything". Since the power of casting [[Magic]] is mainly limited by the amount of [[Mana]] one can store in their [[SOUL]] (though skill is also required to convert the mana to the required spell), the [[SOUL AMPLIFIER]] accomplishes this by creating an artificial SOUL which can contain HUGE amounts of mana.
@@ -80,11 +76,15 @@ sudo:: That seems a bit convoluted, but I don't have any better ideas. Just to b
 [Sudo]: Oh, wait, I have a WIP for this...
 
 ## Idea
+sudoMajor:: If there was a category higher than major, I would put this there.
+Priority:: 1
+#majorChange #unseenByLun 
+
 Basically, it just seems like Sam is kinda redundant in this capacity. Why can't AL just put the SOULS in his own body? What's the significance of Sam not having a SOUL of their own?
 
 Not to rip off FMA too much, but maybe the end goal is that AL turns Sam into a living ~~philosopher's stone~~ SOUL AMPLIFIER.
 
-Oh! Here's a thought:
+Oh! Here's a thought (or 12):
 
 1. [[Sam Ward|Sam]] does actually have a [[SOUL]]. Forget I said they didn't. So why does AL kidnap them? No real reason; they were just convenient. Maybe he slightly fucked up exiting the "stasis" dimension and came out in [[Genton]] instead of [[Plata]]. (They're only ~40km apart, so not that big of a mistake.) Oh, actually, what if he comes out IN Sam's house? ^c9847f
 2. The SOUL acts like a capacitor for [[mana]]. SOULS, in general, don't tend to tolerate mana very well, but you can learn to improve your tolerance. This is why novice mages can only cast weak spells—they haven't built up enough to tolerance to be able to handle the higher levels of mana required by more powerful spells.
@@ -102,12 +102,16 @@ Oh! Here's a thought:
 7. It's clear that despite all their training, Case and Luke are *still* no match for AL. Luke is exhausted and badly wounded, but Case has an idea. He'll distract AL long enough for Luke to cast some healing spells on himself, and then he'll... do something to the SOUL AMPLIFIER? AL (via Sam) casts [[Greater Fuck You Up Big Time]] in Case's general direction, but it also hits one of the [[Legendary Artifacts]] and part of the spell ricochets back towards AL.
 8. With AL's concentration broken, his grip on Sam loosens, and Luke is able to reach out to their SOUL. (Figuratively, I hope.) It's too late, however. The effects of the SOUL AMPLIFIER cannot be undone.
 9. AL fires back at Luke. Luke dodges, but still takes major damage. Even with their new BIG SOUL, AL is forcing Sam to use more mana than their physical form can handle (something AL did not anticipate). He'll have to spare Luke for now so that he can cast Reverse Fate before Sam's body disintegrates.
-10. James is dead. Case is dead. Some other characters I haven't written yet are dead. And Luke is about to be dead, too, if he doesn't act fast. There's only one solution. With the last of his strength, he calls out to Sam's SOUL once more.
-
+10. James is dead. Case is dead. Some other characters I haven't written yet are dead. And Luke is about to be dead, too, if he doesn't act fast. There's only one solution. With the last of his strength, he calls out to Sam's SOUL once more:
 >![[Luke Call Out.png]]
 >(The player doesn't get to hear what Luke said.)
+11. The screen flashes a couple times, then we see Sam's reply:
 >![[Sam Reply 1.png]]
 >![[Sam Reply 2.png]]
+>The music swells.
+>![[Game Boy Screen.png]]
+>The screen fades to "white".
+12. [[Luke Campbell]] is a fairly normal guy. He lives in a sleepy little farming town called [[Genton]], where he helps [[The Mothers Campbell|his parents]] out on their [[Campbell Farms|farm]]. He's 17. He runs cross-country for his high school, and he hates it. He's never been particularly interested in sports, but given that Genton is a small, mostly rural town, high school football is kinda the main event; consequently, Luke doesn't fit in all that well. His next door neighbors are the Wards. They don't have any children.
 
 [^1]: Mana-Coulombs? Magic Charges?
 

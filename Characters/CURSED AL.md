@@ -52,7 +52,7 @@ Going with my semi-convoluted [[Magic]] system, he might have become CURSED by t
 - Has antlers though #Cite/TV/The-Owl-House [tvRefType:: The Owl House/Character]
 
 %%
-question:: CURSED AL age and species
+aq:: CURSED AL age and species
 %%
 
 # Backstory with [[James Redawić|James]]?
@@ -175,4 +175,4 @@ sudo:: This one's kinda long.
 
 ---
 
-#character #cursed-al #the-cursed-one #unanswered-questions #contains-music
+#character #cursed-al #the-cursed-one #unanswered-questions #contains-music #answered-questions 
