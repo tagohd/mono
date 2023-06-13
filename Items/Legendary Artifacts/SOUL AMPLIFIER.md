@@ -87,8 +87,18 @@ Not to rip off FMA too much, but maybe the end goal is that AL turns Sam into a 
 Oh! Here's a thought:
 
 1. Sam does actually have a SOUL. Forget I said they didn't. So why does AL kidnap them? No real reason; they were just convenient. Maybe he slightly fucked up exiting the "stasis" dimension and came out in Genton instead of Plata. (They're only ~40km apart, so not that big of a mistake.) Oh, actually, what if he comes out IN Sam's house?
-2. The SOUL acts like a capacitor for mana. SOULS, in general, don't tend to tolerate mana very well, but you can learn to improve your tolerance. This is why novice magicians can only cast weak spells—they haven't built up enough to tolerance to be able to handle the higher levels of mana required by more powerful spells.
-3. [[Reverse Fate]] (which is basically just a modified version of [[Wish]]) requires obscene amounts of mana to cast.
+2. The SOUL acts like a capacitor for Mana. SOULS, in general, don't tend to tolerate Mana very well, but you can learn to improve your tolerance. This is why novice mages can only cast weak spells—they haven't built up enough to tolerance to be able to handle the higher levels of Mana required by more powerful spells.
+	1. If it really acts like a capacitor, you could theoretically collect the mana in advance. There would have to be some limits to this, though. Maybe Mana decays over time, or storing it in your SOUL without using it is really uncomfortable.
+		1. This could be represented by the player having to hold down a button to charge their Mana. You can maintain your charge for as long as you can hold \[Y\], but it's going to make pressing other buttons awkward, especially if there's a platforming section or something. Or maybe it's like a weapon with an overcharge. The Mana is coming out whether you want it to or not, so you'd better have a spell ready unless you want to take damage.
+		2. Higher spellcasting level = higher tolerance to Mana = can hold charge longer
+		3. "average person can tolerate 300 MC[^1] of mana" factoid actually just statistical error.
+3. It is generally not possible for multiple mages to cast the same spell in parallel.
+	1. Example: A spell requires 50 MC of Mana to cast. Luke can tolerate 20 MC. Case can tolerate 30 MC. They cannot pool their mana together to cast the spell.
+	2. Example: Let's say it costs 15 C to cast [[Magic Missile]] at the first level. Case cannot lend Luke 5 C
+4. [[Reverse Fate]] (which is basically just a modified version of [[Wish]]) requires obscene amounts of Mana to cast.
+
+
+[^1]: Mana-Coulombs? Magic Charges?
 
 # Soul Beneficiary
 
