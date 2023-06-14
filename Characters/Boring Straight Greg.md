@@ -4,7 +4,8 @@ Category: Side
 Role: Diversity hire
 DOB: 1984-02-27
 Species: Brown rat (*Rattus norvegicus*)
-Gender: "Male (he/him)"
+Gender: Cis male (he/him)
+Pronouns: he/him
 Orientation: Heterosexual
 Personality: "Literally the least interesting individual you will ever meet."
 MainGoal: "Buy a house with his wife and two kids and fill it with tacky décor from Hobby Lobby. (He isn't married.)"

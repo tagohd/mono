@@ -5,7 +5,8 @@ Category: Main
 Role: Deuteragonist?
 DOB: 2001-07-15
 Species: "Maybe: Wolverine (*Gulo gulo*)"
-Gender: Male (he/him) (Trans?)
+Gender: Male (Trans?) (he/they)
+Pronouns: he/they
 Orientation: Gay
 Personality: Tsundere
 MainGoal: ["Investigate [[James Redawić|James]]", "Keep [[Luke Campbell|Luke]] safe"]
@@ -57,7 +58,7 @@ I don't know why I'm not sure it fits him. Here's what [Wikipedia](https://en.wi
 
 >Wolverines are considered to be primarily scavengers. A majority of the wolverine's sustenance is derived from carrion, on which it depends almost exclusively in winter and early spring. Wolverines may find carrion themselves, feed on it after the predator (often, a pack of wolves), has finished, or simply take it from another predator. Wolverines are also known to follow wolf and lynx trails, purportedly with the intent of scavenging the remains of their kills. Whether eating live prey or carrion, the wolverine's feeding style appears voracious, leading to the nickname of "glutton" (also the basis of the scientific name). However, this feeding style is believed to be an adaptation to food scarcity, especially in winter.
 
-Growing up food insecure could be a good backstory for him.
+Growing up food insecure could be a good backstory for him. It could also enhance the Wolfwood parallels, since Wolfwood grew up an orphan.
 
 # The Things He Does For Love
 Maybe [[Luke Campbell|Luke]] fights [[CURSED AL]] for the first time and is woefully unprepared, and Case steps in to help Luke out. Then when Luke fights AL for the last time, Case ends up sacrificing himself. (Cf: [[(6) June 2023 Chat Logs]] and [[Repo organization]]) #Cite/Game/Mega-Man-X [gameRefType:: MMX/Plot]

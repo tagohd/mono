@@ -6,6 +6,7 @@ Role: "A dragon. What more do you need?"
 DOB: 1090-02-24
 Species: Dragon (A Bad Dragon?)
 Gender: Female (she/her)
+Pronouns: she/her
 Orientation: Lesbian
 Personality: Loves horses and rennaisance fairs. Actually pretty laidback.
 MainGoal: Settle down with a horse and her hoard of garden gnomes.

@@ -5,7 +5,8 @@ Category: Supporting
 Role: Luke's noble steed
 DOB: 2012-01-13
 Species: American Quarter Horse (*Equus ferus caballus*)
-Gender: Female
+Gender: Female (she/it)
+Pronouns: she/it
 Orientation: N/A
 Personality: Gentle and reliable. All around a good horse.
 MainGoal: "Whatever most horses' goals are, I guess. Not be eaten by dragons?"

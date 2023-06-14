@@ -6,6 +6,7 @@ Role: Damsel-in-distress (not a damsel and maybe not in distress)
 DOB: 2003-12-05
 Species: Red fox (*Vulpes vulpes*)
 Gender: "&quot;No, thanks!&quot; (they/them)"
+Pronouns: they/them
 Orientation: Queer (let's just leave it at that)
 Personality: Athletic and outgoing.
 MainGoal: ["Not be captured by [[CURSED AL]], I guess?", "They're just trying to get ready for college, man"]

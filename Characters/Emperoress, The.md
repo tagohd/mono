@@ -6,6 +6,7 @@ Role: The *real* big bad
 DOB: 1047-06-10
 Species: Stoat (*Mustela erminea*)
 Gender: "&quot;Yes, please!&quot; (any pronouns)"
+Pronouns: any
 Orientation: Aroace
 Personality:
 MainGoal:

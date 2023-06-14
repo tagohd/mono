@@ -6,6 +6,7 @@ Role: Protagonist
 DOB: 2003-10-22
 Species: Dogboy - Labrador Retriever (*Canis familiaris*)
 Gender: Male (he/him)
+Pronouns: he/him
 Orientation: Asexual/Panromantic (Poly?)
 Personality: "Friendly, but stupid. Very in love with [[Sam Ward|Sam]]."
 MainGoal: Find [[Sam Ward|Sam]]
@@ -53,9 +54,18 @@ You know how you can broadly divide dog races into the group that got bred to do
 
 ## Other Notes
 - Imagine if Vash the Stampede were a short king. And a dogboy. #Cite/TV/Trigun98 [tvRefType:: Trigun/Character]
-	- Goofy blond guy that doesn't look like he could easily fuck you up, but he can. He just chooses not to.
+	- Goofy ~~blond~~ guy that doesn't look like he could easily fuck you up, but he can. He just chooses not to.
 	- Tragic backstory?
 	- Also has a tendency to be put into Situations (TM)
+
+sudoMajor:: If Luke is a pacifist crybaby like Vash, wouldn't that make the game too similar to Undertale?
+#majorChange #unseenByLun 
+>[!note]
+>For as much as the game is a love letter to Undertale and my other favorite games, I feel like basing the main character on Vash the Stampede (a guy who *really* doesn't want to kill anyone) might make it a bit *too* similar to Undertale.
+>
+>We could have him actively refuse to kill people. This would make the combat similar to Deltarune where the enemies just run away when their HP is too low. In this case, however, it's made obvious that it's Luke's choice to end the battle, not the enemies'. (He could also be like Niko OneShot and straight up tell the player when he doesn't want to do something.)
+>
+>Also, if he ever does kill someone (*cough cough* James), he feels really bad about it. *Really* bad. Like, physically sick. Even if they're a terrible person like James. Then he's less like a video game protagonist and more like a real person. I'm not speaking from personal experience here or anything, but I've been led to believe that killing someone has a tendency to really fuck you up in the head.
 
 ## LukeVISION (TM)
 As a dogboy, Luke suffers from protanopia, or red-green colorblindness. Among other things, this causes him to mistake [[CURSED AL'S CURSED ORB]] for an ordinary [[chocolate orange]]. I mean, it's also because he's an idiot, but being colorblind isn't doing him any favors either. (A Legendary Artifact has some distinct vibes it gives off that Luke totally failed to pick up on.)
@@ -103,6 +113,5 @@ I'm sure this represents *some* step on the Hero's Journey, but I'm not sure whi
 [Lun]: James is kind of a bitch for this one, but I guess that be how it be sometimes
 [Sudo]: Yeah, I'm going to have to come up with some excuse for why he can't just go and do it himself. Maybe he's too busy running the museum?
 [Sudo]: Too busy to save the fucking universe? Yeah, I don't think that's gonna fly. But I should probably put this in James's note and not Luke's.
-
 
 #character #luke-campbell #contains-music 

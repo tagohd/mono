@@ -6,6 +6,7 @@ Role: One of Luke's 3 moms.
 DOB: 1971-04-29
 Species: Gouger (*Puma concolor*)
 Gender: Female (she/her)
+Pronouns: she/her
 Orientation: Lesbian
 Personality: She's the smart one I think. Holder of the only braincell in the entire Campbell family.
 MainGoal:

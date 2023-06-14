@@ -5,7 +5,8 @@ Category: Main
 Role: Mentor to [[Luke Campbell|Luke]]
 DOB: 1849-10-12
 Species: Elk (*Cervus canadensis*)
-Gender: "Wizard (he/him)"
+Gender: Wizard (he/him)
+Pronouns: he/him
 Orientation: Bisexual
 Personality: Laconic (unless you ask him about silver mines)
 MainGoal: Revenge on [[CURSED AL|AL]] for abandoning him

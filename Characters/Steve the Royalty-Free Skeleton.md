@@ -4,7 +4,8 @@ Category: Side
 Role: spooky scary skeleton
 DOB: 1984-02-27
 Species: spooky scary skeleton (*Subfabula sinecomicus*)
-Gender: calcium
+Gender: calcium (he/it)
+Pronouns: he/it
 Orientation: edward elric thumbs up.jpg
 Personality: "suprisingly more interesting than [[Boring Straight Greg|Greg]], though that's not saying much"
 MainGoal: make the authors have a bad time

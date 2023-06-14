@@ -4,7 +4,8 @@ Category: Side
 Role: A garden gnome with a legendarily high tolerance for mana
 DOB: 1951-03-05
 Species: Garden Gnome (*Pumiliohorti alemanes*)
-Gender: Male
+Gender: Male (he/it)
+Pronouns: he/it
 Orientation: Gnomesexual
 Personality: "Just a silly little guy :3"
 MainGoal: "Revert back to his original form."
