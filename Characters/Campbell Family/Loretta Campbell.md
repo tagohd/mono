@@ -13,7 +13,7 @@ MainGoal:
 References:
 AppearanceNotes:
 OtherNotes: Luke's biological mother
-SortOrder: 10
+SortOrder: 9
 ---
 
 >[!question] Who is [[Luke Campbell|Luke's]] father?

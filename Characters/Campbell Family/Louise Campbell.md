@@ -13,7 +13,7 @@ MainGoal:
 References:
 AppearanceNotes:
 OtherNotes:
-SortOrder: 9
+SortOrder: 10
 ---
 
 sudoMinor:: New article
