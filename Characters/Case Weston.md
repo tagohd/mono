@@ -4,7 +4,7 @@ Name: Case Weston
 Category: Main
 Role: Deuteragonist?
 DOB: 2001-07-15
-Species: Wolverine (*Gulo gulo*)
+Species: "Maybe: Wolverine (*Gulo gulo*)"
 Gender: Male (he/him) (Trans?)
 Orientation: Gay
 Personality: Tsundere
@@ -14,6 +14,7 @@ AppearanceNotes:
 OtherNotes:
 SortOrder: 3
 ---
+# About
 %%
 Sudosays:: Huh. The main character's name is Luke. And the secondary protagonist(?) is named Case? Luke and Case. Wonder where I came up with that. Luke and Case. Lucas. And ~~Clase~~ Claus?
 Sudosays:: Also, Case Weston sounds a little too similar to Case Western, as in Case Western Reserve University. Well, Donald Knuth (inventor of TeX, among other accomplishments) and Gregg Gillis (Girl Talk) went there, so maybe it can stay.
@@ -43,6 +44,21 @@ This was in [[1. Plot Overview]], so I'm marking it as read.
 >[!question] Undercover as what?
 >Maybe he works at the museum after all. He hasn't been able to find out much about James's plan, but he has learned a lot about turn-of-the-century mining techniques. (See: [[James Redawić#James, THE MUSEUM OWNER?]])
 
+## Species
+sudoMajor:: I thought I knew what species Case was, but now I'm not sure.
+#majorChange #unseenByLun 
+
+>[!question] [question:: What species is Case?]
+>I said he's a wolverine, but is he, though? I'm not sure if that really fits him.
+
+I don't know why I'm not sure it fits him. Here's what [Wikipedia](https://en.wikipedia.org/wiki/Wolverine) says about them:
+
+>The wolverine is the largest land-dwelling species of the family Mustelidae. It is a muscular carnivore and a solitary animal. The wolverine has a reputation for ferocity and strength out of proportion to its size, with the documented ability to kill prey many times larger than itself.
+
+>Wolverines are considered to be primarily scavengers. A majority of the wolverine's sustenance is derived from carrion, on which it depends almost exclusively in winter and early spring. Wolverines may find carrion themselves, feed on it after the predator (often, a pack of wolves), has finished, or simply take it from another predator. Wolverines are also known to follow wolf and lynx trails, purportedly with the intent of scavenging the remains of their kills. Whether eating live prey or carrion, the wolverine's feeding style appears voracious, leading to the nickname of "glutton" (also the basis of the scientific name). However, this feeding style is believed to be an adaptation to food scarcity, especially in winter.
+
+Growing up food insecure could be a good backstory for him.
+
 # The Things He Does For Love
 Maybe [[Luke Campbell|Luke]] fights [[CURSED AL]] for the first time and is woefully unprepared, and Case steps in to help Luke out. Then when Luke fights AL for the last time, Case ends up sacrificing himself. (Cf: [[(6) June 2023 Chat Logs]] and [[Repo organization]]) #Cite/Game/Mega-Man-X [gameRefType:: MMX/Plot]
 
@@ -61,10 +77,5 @@ Maybe [[Luke Campbell|Luke]] fights [[CURSED AL]] for the first time and is woef
 	- He's not a wolf, though. That would be too obvious.
 - Probably just a bit older than Luke, maybe 19
 
-%%
-aq:: What species is Case?
-He's a wolverine.
-%%
 
-
-#character #case-weston #answered-questions 
+#character #case-weston #unanswered-questions 

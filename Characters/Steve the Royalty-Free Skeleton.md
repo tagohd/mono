@@ -3,7 +3,7 @@ Name: Sans Undertale?!
 Category: Side
 Role: spooky scary skeleton
 DOB: 1984-02-27
-Species: spooky scary skeleton
+Species: spooky scary skeleton (*Subfabula sinecomicus*)
 Gender: calcium
 Orientation: edward elric thumbs up.jpg
 Personality: "suprisingly more interesting than [[Boring Straight Greg|Greg]], though that's not saying much"
@@ -16,5 +16,8 @@ SortOrder: 14
 # About
 Definitely not Sans Undertale. The former skeleton of [[Boring Straight Greg]]?
 
-gameRefType:: Undertale/Character
-#character #strfs #stub #Cite/Game/Undertale 
+#Cite/Game/Undertale [gameRefType:: Undertale/Character]
+
+![[edward elric thumbs up.jpg]]
+
+#character #strfs #stub 
