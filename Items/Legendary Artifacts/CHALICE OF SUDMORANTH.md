@@ -1,6 +1,6 @@
 ---
-Location: Unknown
-Purpose: "I. drink. your. ~~milkshake~~ SOUL. I drink it up!"
+Location: "~~The Cuyahoga River~~ A poison swamp"
+Purpose: Holds the poison. The poison for Sam. The poison chosen specially to place Sam into a state of near death. Sam's poison.
 Description: A silver chalice with a gold inlay.
 OrderAcquired: 4
 IncludeInTable: True
@@ -17,4 +17,4 @@ Communion wine? Nah, SOUL JUICE. (Wait, aren't those kinda the same thing?)
 sudoMinor:: A new artifact.
 #minorChange #unseenByLun 
 
-#items #legendary-artifact #the-chalice
+#items #legendary-artifact #the-chalice #stub 

@@ -50,7 +50,7 @@ sudoMajor:: Just making sure you've seen that there is a table.
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Artifact", Description, Location, Purpose
-FROM "Items/Legendary Artifacts" WHERE IncludeInTable
+FROM "Items" WHERE IncludeInTable
 SORT OrderAcquired
 ```
 

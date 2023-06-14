@@ -1,7 +1,7 @@
 ---
 alias: THE ORB, chocolate orange, chocolate oranges
 Location: Rhapsody
-Purpose: "Refracts mana or something? Idk :)"
+Purpose: "Holds fused SOULS"
 Description: A small, blood-red orb.
 OrderAcquired: 1
 IncludeInTable: True
@@ -10,8 +10,9 @@ IncludeInTable: True
 Main idea from [[(5) May 2023 Chat Logs#THE ~~CLAW~~ ORB|May 2023 chat logs]].
 Cf: [[Luke Campbell#Various Luke Characterizations|Various Luke Characterizations]], [[The Story So Far#^6a412b|The Story So Far]]
 
->[!question] What is THE ORB? Is it the secret to CURSED AL'S power? Can it restore your [[SOUL]]? Is it a [[Ednathrallor Verdensmorder|dragon]] egg? Or is it really just a [[chocolate orange]]? A cursed chocolate orange, perhaps?
+>[!question] What is THE ORB? Is it the secret to CURSED AL'S power? Can it restore your [[SOUL]]? Is it a [[Ednathrallor Verdensmorder|dragon]] egg? Or is it really just a [[Chocolate Orange]]? A cursed chocolate orange, perhaps?
 >THE ORB is a container for SOULS.
+>%% [aq:: What is THE ORB?] %%
 
 Building off the ideas in the [[(5) May 2023 Chat Logs#Behold, THE ORBNGE|chat log]], there's the real orb, and then there's the chocolate orange. Either [[Luke Campbell|Luke]] is too stupid to tell the difference, or he secretly wants both. [[Case Weston|Case]] is smart enough to know the difference, but seeing Luke grab the orange makes him question things. "Was I wrong, or is he really just that stupid?"
 
@@ -50,4 +51,4 @@ songTitle:: Power (1)
 songRemarks:: Maybe more instruments get added as you acquire more Artifacts
 %%
 
-#items #the-orb #luke-campbell #cursed-al #case-weston #unanswered-questions #legendary-artifact #contains-music 
+#items #the-orb #luke-campbell #cursed-al #case-weston #answered-questions #legendary-artifact #contains-music 

@@ -15,4 +15,4 @@ Oh, wait, it's a stick. And [[Luke Campbell|Luke]] is a dogboy. This might not e
 sudoMinor:: New artifact
 #minorChange #unseenByLun 
 
-#items #legendary-artifact #the-staff
+#items #legendary-artifact #the-staff #stub 
