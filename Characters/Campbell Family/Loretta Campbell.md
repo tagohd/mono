@@ -1,4 +1,5 @@
 ---
+alias: Luke's Mama, Loretta
 Name: Loretta 'Mama' Campbell
 Category: Supporting
 Role: One of Luke's 3 moms.

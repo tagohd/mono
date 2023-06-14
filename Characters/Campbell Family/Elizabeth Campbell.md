@@ -1,4 +1,5 @@
 ---
+alias: Luke's Mom, Elizabeth
 Name: Elizabeth 'Mom' Campbell
 Category: Supporting
 Role: One of Luke's 3 moms.

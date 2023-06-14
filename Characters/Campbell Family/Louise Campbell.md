@@ -1,4 +1,5 @@
 ---
+alias: Luke's Ma, Louise
 Name: Louise 'Ma' Campbell
 Category: Supporting
 Role: One of Luke's 3 moms.

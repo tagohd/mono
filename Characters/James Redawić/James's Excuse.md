@@ -106,11 +106,5 @@ sudoMajor: Also, what if James and AL's deal is that they can't die unless kille
 
 [Lun]: That seems like a good reason for AL's obsession with the whole saving thing, and this may also be a good start for their individual backstories. Why where they evil in the first place? Maybe they used [[Longevity (Spell)|some fucked up magic to gain functional immortality (i.e. not aging)]] and had to sacrifice some innocents to accomplish that. Maybe they used like a prototype-SOUL AMPLIFIER and AL was able to perfect it to the real deal during his stasis?
 
-sudoMajor:: There is still one question about whether Luke would be willing to use the [[SOUL AMPLIFIER]], but I think the main question has been satisfactorily answered for now. I'm moving it out of focus.
-Priority:: 1
-
-
-
-#majorChange 
 
 #general #james-redawic #unanswered-questions 
