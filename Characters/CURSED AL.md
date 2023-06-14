@@ -62,7 +62,7 @@ uRefType:: Plot
 tvRefType:: FMAB/Plot
 gameRefType:: Chrono Trigger/Plot
 %%
-Going off the above and the ideas in [[Magic]], [[Legendary Artifacts]], and [[(6) June 2023 Chat Logs]], maybe AL knew James was fated to die. He devoted himself to preventing this. Keeping James alive became his singular obsession. Eventually, he realized he couldn't prevent James's death, but perhaps he could undo it? Such a powerful spell would require (and I do believe this is the technical term) an absolute shitload of mana, more than any one SOUL could possibly handle. But if he had [[SOUL AMPLIFIER|a way to use multiple SOULS simultaneously]]...
+Going off the above and the ideas in [[Magic]], [[Legendary Artifacts]], and [[(6) June 2023 Chat Logs]], maybe AL knew James was fated to die. He devoted himself to preventing this. Keeping James alive became his singular obsession. Eventually, he realized he couldn't prevent James's death, but perhaps he could undo it? Such a powerful spell would require (and I do believe this is the technical term) an absolute shitload of mana, more than any one SOUL could possibly handle. But if he had [[BFS 10000|a way to use multiple SOULS simultaneously]]...
 
 Oh, also, maybe he put himself into some sort of stasis dimension (possibly via [[Plane Shift]] or [[Astral Projection]]) while he was working this out. So he just kinda disappeared for who knows how long before suddenly reemerging shortly before James was fated to die. Maybe he thought it would work like this:
 
@@ -103,7 +103,7 @@ flowchart TB
 	F["James dies anyway having spent the past
 	few decades without AL"]
 	E --> F
-	G[AL constructs the SOUL AMPLIFIER]
+	G[AL constructs the BFS 10000]
 	H["AL resurrects James but
 	destroys the universe in the process"]
 	F -.-> G -.-> H
@@ -139,11 +139,11 @@ Casting "fuck off into another plane of existence" seems like a pretty major spe
 [Sudo]: Ooh, that's a good idea.
 
 Some more thoughts in a list:
-- AL's curse being that he's in the stasis dimension is a cool concept, but then how does that work when he gets free? I assume the story requires AL to get out so he can assemble the [[SOUL AMPLIFIER]] and eventually fight [[Luke Campbell|Luke]] and resurrect James. Does he become no-longer-CURSED AL?
+- AL's curse being that he's in the stasis dimension is a cool concept, but then how does that work when he gets free? I assume the story requires AL to get out so he can assemble the [[BFS 10000]] and eventually fight [[Luke Campbell|Luke]] and resurrect James. Does he become no-longer-CURSED AL?
 
-[Sudo]: Maybe he has some sort of lieutenant on the Material Plane who will activate it for him. Or what if the [[SOUL AMPLIFIER]] is actually a portal? (Gravity Falls reference?!)
+[Sudo]: Maybe he has some sort of lieutenant on the Material Plane who will activate it for him. Or what if the [[BFS 10000]] is actually a portal? (Gravity Falls reference?!)
 
-[Lun]: So he only comes back to the material plane after the [[SOUL AMPLIFIER]] is finished? But then he can't do anything in the story until the end (e.g. abduct Sam, fight Luke, look menacing). Well, his lieutenant can, but then what's the point of having AL if you only see his lieutenant anyway?
+[Lun]: So he only comes back to the material plane after the [[BFS 10000]] is finished? But then he can't do anything in the story until the end (e.g. abduct Sam, fight Luke, look menacing). Well, his lieutenant can, but then what's the point of having AL if you only see his lieutenant anyway?
 
 sudo:: In this scenario (which isn't yet canon), he's more like Bill Cipher or The Radiance. He can't physically do anything himself, but he still wields a great deal of influence. He controls other people and uses them to carry out tasks.
 #reply [R::10]

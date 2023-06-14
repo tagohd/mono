@@ -46,7 +46,7 @@ This was in [[1. Plot Overview]], so I'm marking it as read.
 # The Things He Does For Love
 Maybe [[Luke Campbell|Luke]] fights [[CURSED AL]] for the first time and is woefully unprepared, and Case steps in to help Luke out. Then when Luke fights AL for the last time, Case ends up sacrificing himself. (Cf: [[(6) June 2023 Chat Logs]] and [[Repo organization]]) #Cite/Game/Mega-Man-X [gameRefType:: MMX/Plot]
 
-[Lun]: MY LOVE INTEREST!!! At least let Luke revive him after defeating AL. Oh, or what if you get to use the [[SOUL AMPLIFIER]] after defeating AL for a purpose of the player's choice? You could revive a love interest that died, revive James, AL(??!?), or use it for something different entirely.
+[Lun]: MY LOVE INTEREST!!! At least let Luke revive him after defeating AL. Oh, or what if you get to use the [[BFS 10000]] after defeating AL for a purpose of the player's choice? You could revive a love interest that died, revive James, AL(??!?), or use it for something different entirely.
 
 [Sudo]: Oooh, that's a really good idea! You know, except for the part where it might destroy the universe.
 [Sudo]: Lol, multiple endings, but most of them are just "The universe was destroyed, but you get to spend eternity with $Character"

@@ -34,7 +34,7 @@ He's manipulating Luke into defeating CURSED AL. I mean, you don't date a guy li
 
 [Lun]: Oh, that explains the "James is kind of a bitch" thing
 
-Or maybe CURSED AL is manipulating James into manipulating Luke? James knows where [[Legendary Artifacts]] are because AL told him. James gives this information to Luke so that he can stop AL from making the [[SOUL AMPLIFIER]] (James does not want to live forever, especially if it means the destruction of the universe), but this does mean that Luke ends up making AL's job easier.
+Or maybe CURSED AL is manipulating James into manipulating Luke? James knows where [[Legendary Artifacts]] are because AL told him. James gives this information to Luke so that he can stop AL from making the [[BFS 10000]] (James does not want to live forever, especially if it means the destruction of the universe), but this does mean that Luke ends up making AL's job easier.
 
 [Lun]: Having someone collect all parts of some cursed machine to stop someone else from collecting them seems to indeed be quite the idiot move. [question:: Is James also dumb?  Or did Luke just misinterpret whatever James said and was then unable to get corrected after James fucking Died™]
 [Sudo]: This might be a case of "The author is also an idiot." Maybe the plan *was* for the artifacts to be destroyed, but James was like, "You're still a novice. You won't be able to handle the mana needed to cast [[Destroy Legendary Artifact]], so just bring them back to me, and I'll take care of that." But then, because they're cursed artifacts, James becomes unwilling to destroy them.

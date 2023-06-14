@@ -27,7 +27,7 @@ aq:: Why doesn't James just get the Artifacts himself?
 >Or he wants to make it seem that way (to AL, not to Luke), and he'll use [[Legendary Artifacts]] himself and betray AL
 
 >[!question] Okay, so then why can't AL get the artifacts himself?
->Who said he can't? Maybe it *is* like Mother 3, and sometimes AL (or one of his underlings) gets to the artifact first. But, unlike Mother 3, you can't build the [[SOUL AMPLIFIER]] with just a simple majority of the artifacts. You need all of them.
+>Who said he can't? Maybe it *is* like Mother 3, and sometimes AL (or one of his underlings) gets to the artifact first. But, unlike Mother 3, you can't build the [[BFS 10000]] with just a simple majority of the artifacts. You need all of them.
 
 %%
 #Cite/Game/Mother3 
@@ -35,7 +35,7 @@ gameRefType:: Mother3/Plot
 %%
 
 >[!question] Also, why would James want to use the Artifacts himself? I thought he *didn't* want to destroy the universe.
->Okay, maybe this was a bad idea. Or maybe he doesn't want to build the [[SOUL AMPLIFIER]]; he wants to do something else with the Artifacts.
+>Okay, maybe this was a bad idea. Or maybe he doesn't want to build the [[BFS 10000]]; he wants to do something else with the Artifacts.
 
 >[!idea] Can't we just say Luke is an idiot, so it never occurs to him to question this?
 >James really sells him on the whole CHOSEN ONE thing. "It is your destiny to do these errands for me, CHOSEN ONE."
@@ -69,9 +69,9 @@ movieRefType:: Star Wars/Character
 
 ## An answer trying to tie everything above together: James is the evil one
 
-So here's the main idea: [[James Redawić|James]] actually wants [[CURSED AL]] to collect all of the [[Legendary Artifacts]] and assemble the [[SOUL AMPLIFIER]]. He is sending [[Luke Campbell|Luke]] on a quest to collect all of them under the pretense that he's trying to stop AL, but actually wants to use it for himself to both save his own life and kill AL. And then maybe do some other messed up shit, because oh no: turns out he's actually even more fucked up than AL.
+So here's the main idea: [[James Redawić|James]] actually wants [[CURSED AL]] to collect all of the [[Legendary Artifacts]] and assemble the [[BFS 10000]]. He is sending [[Luke Campbell|Luke]] on a quest to collect all of them under the pretense that he's trying to stop AL, but actually wants to use it for himself to both save his own life and kill AL. And then maybe do some other messed up shit, because oh no: turns out he's actually even more fucked up than AL.
 
-[Sudo]: Oh! What if James tells Luke that constructing the [[SOUL AMPLIFIER]] is the only way to defeat CURSED AL? I mean, he wouldn't really be lying. Wait, that's basically what you just said, isn't it? Anyway, I've updated [[Destroy Legendary Artifact]] to reflect this.
+[Sudo]: Oh! What if James tells Luke that constructing the [[BFS 10000]] is the only way to defeat CURSED AL? I mean, he wouldn't really be lying. Wait, that's basically what you just said, isn't it? Anyway, I've updated [[Destroy Legendary Artifact]] to reflect this.
 
 This of course raises some questions:
 - Why does James want to kill AL??? I thought they were former lovers?
@@ -86,13 +86,13 @@ This of course raises some questions:
   - What about the "James still remembers you" thing?
 	  - That can still be preserved in this approach! However, James now means it as a _threat_ (which Luke / the player does not know, but AL definitely does).
   - What does this mean for the rest of the story?
-	  - Luke killing James definitely wasn't part of James' plans. However, Luke is now on his quest to obtain all the artefacts and helps out AL all the same. AL finds out James got killed, but continues to assemble the [[SOUL AMPLIFIER]] anyways since he can just use it to resurrect James now. If the player has a choice in what to do with the [[SOUL AMPLIFIER]] after defeating AL, the true ending entails using it to resurrect James. Who then snatches it and becomes the new big bad.
+	  - Luke killing James definitely wasn't part of James' plans. However, Luke is now on his quest to obtain all the artefacts and helps out AL all the same. AL finds out James got killed, but continues to assemble the [[BFS 10000]] anyways since he can just use it to resurrect James now. If the player has a choice in what to do with the [[BFS 10000]] after defeating AL, the true ending entails using it to resurrect James. Who then snatches it and becomes the new big bad.
 	  - AL is actually not that evil. To save James he's definitely done some messed up stuff (like abducting [[Sam Ward|Sam]]) but does it out of love for his husbando. And yes, he was definitely morally grey to start out with, but he's like, a respectable type of evil. This may also explain why he spares Luke in their first encounter with [[Case Weston|Case]].
 	    James, on the contrary, is now acting purely out of hatred and is just an all-around evil guy. 
 
-sudoMajor: So, are we saying that using the [[SOUL AMPLIFIER]] *doesn't* actually destroy the universe and/or harm Sam?
+sudoMajor: So, are we saying that using the [[BFS 10000]] *doesn't* actually destroy the universe and/or harm Sam?
 
-[Lun]: Good question. How about this: James mainly didn't want AL to try to cast a spell of change fate/resurrection calibre because he thought it would a) just not work and b) be incredibly dangerous and maybe destroy the universe. But then AL invented/found the [[SOUL AMPLIFIER]] which theoretically would actually allow one to cast such a powerful spell without destroying the universe. Since obviously nobody ever tried using it you can't be sure it won't actually destroy the universe, but in theory it should be safe. As for harming Sam, no clue. AL is definitely still evil enough to harm some innocent person for personal gain.
+[Lun]: Good question. How about this: James mainly didn't want AL to try to cast a spell of change fate/resurrection calibre because he thought it would a) just not work and b) be incredibly dangerous and maybe destroy the universe. But then AL invented/found the [[BFS 10000]] which theoretically would actually allow one to cast such a powerful spell without destroying the universe. Since obviously nobody ever tried using it you can't be sure it won't actually destroy the universe, but in theory it should be safe. As for harming Sam, no clue. AL is definitely still evil enough to harm some innocent person for personal gain.
 
 [Sudo]: Of course AL is. But why would Luke use it if it meant harming Sam or anyone else?
 
@@ -104,7 +104,7 @@ sudo:: Okay, I suppose that makes sense. I guess it depends on how exactly the t
 
 sudoMajor: Also, what if James and AL's deal is that they can't die unless killed? And that's why AL is so motivated to solve this conundrum—he and James were supposed to have *millennia* together, not just a measly couple of centuries.
 
-[Lun]: That seems like a good reason for AL's obsession with the whole saving thing, and this may also be a good start for their individual backstories. Why where they evil in the first place? Maybe they used [[Longevity (Spell)|some fucked up magic to gain functional immortality (i.e. not aging)]] and had to sacrifice some innocents to accomplish that. Maybe they used like a prototype-SOUL AMPLIFIER and AL was able to perfect it to the real deal during his stasis?
+[Lun]: That seems like a good reason for AL's obsession with the whole saving thing, and this may also be a good start for their individual backstories. Why where they evil in the first place? Maybe they used [[Longevity (Spell)|some fucked up magic to gain functional immortality (i.e. not aging)]] and had to sacrifice some innocents to accomplish that. Maybe they used like a prototype-BFS 10000 and AL was able to perfect it to the real deal during his stasis?
 
 
 #general #james-redawic #unanswered-questions 

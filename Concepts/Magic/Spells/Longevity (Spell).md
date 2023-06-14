@@ -1,4 +1,5 @@
 ---
+alias: Longevity
 spellName: Longevity
 spellSchool: Necromancy
 spellClass: Major
@@ -40,7 +41,7 @@ sudo:: Fuckin'... idk. It just seems to be the standard for Satanic rituals for 
 Also, alternate idea for the whole sacrificing cost:
 - You don't need blood to cast the spell, you just need a lot of mana
 	- E.g. this cost is not inherent to this spell, you can cast it without killing a bunch of people if you had a Big Fucking Soul™
-- AL doesn't have this amount of mana, so he uses an early version of the [[SOUL AMPLIFIER]] instead
+- AL doesn't have this amount of mana, so he uses an early version of the [[BFS 10000]] instead
 	- Pretty much a shorter version of the full one:
 		- Reap some souls
 		- Jam them directly into [[CURSED AL'S CURSED ORB|THE ORB]]

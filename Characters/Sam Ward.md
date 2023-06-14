@@ -21,7 +21,7 @@ Love interest for [Luke](Luke%20Campbell.md).
 [question:: What's their personality? Why does Luke like them?]
 
 >[!question] Why did CURSED AL take their SOUL?
->Maybe they don't actually have a SOUL, and that's why they're important to CURSED AL's plan. (See: [[SOUL AMPLIFIER]]) So, he didn't just take their SOUL, he straight up kidnapped them.
+>Maybe they don't actually have a SOUL, and that's why they're important to CURSED AL's plan. (See: [[BFS 10000]]) So, he didn't just take their SOUL, he straight up kidnapped them.
 
 [[4 - The Crossing of the First Threshold]]
 >Perhaps it will be a recurring theme that Luke will find something that reminds him of Sam.
