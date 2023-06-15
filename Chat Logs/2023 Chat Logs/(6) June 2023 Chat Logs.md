@@ -145,4 +145,20 @@ S:
 >- Gay furries go brrr
 >- Wizard Divorce or: if two wizards were in the [[mana plane]] and one killed the other with a spell, would that be fucked up or what?
 
+# 2023-06-06
+S:
+>I just had a very important realization
+>DOGS ARE COLORBLIND
+>![[THE ORB in LukeVISION (TM).png]]
+>![[Rhapsody in LukeVISION (TM).png]]
+>Luke's still an idiot, though
+>![[2023-06-06.png]]
+>Also, Dataview 👍
+>Probably spent more time today fucking around with that than actually on the plot
+>Maybe AL's curse is the same as my curse (ADHD)
+>Haha going into "stasis" = hyperfixation
+>Heehoo funney joke
+>I should probably go to sleep before my grasp on the English language loosens any further
+>(Not that I didn't deliberately misspell that)
+
 #general #plot-ideas #character-ideas #place-ideas 
