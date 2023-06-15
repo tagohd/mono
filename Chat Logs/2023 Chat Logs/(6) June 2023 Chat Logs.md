@@ -367,4 +367,61 @@ S:
 >It's a 0% chance you get the one you actually want to talk to
 >Like, if you're trying to call Louise to help you fight, that's when you'll get to talk to Elizabeth
 
+L:
+>luke is both dumb and unlucky. poor guy
+
+\[...\]
+
+S:
+>![[IMG_5406.png]]
+
+L:
+>did you name case case for this pun
+
+S:
+>Believe it or not, no
+>I actually almost wrote "Case is sent to investigate" at first
+
+L:
+>that would have been a tragic waste
+
+S:
+>Indeed
+>Very fortunate that the name I chose for no discernible reason makes a good pun
+
+L:
+>another sign the gods smile upon this story
+
+S:
+>I just realized something else: I was already aware that Case Weston sounds like Case Western Reserve University, which is in Cleveland. Maybe that's where the game takes place. In other words...
+>![[IMG_5407.png]]
+>Just like Elden Ring
+
+L:
+>isnt that the place where everything is corn
+
+S:
+>I think that's Iowa
+
+L:
+>so whats ohio's deal then
+
+S:
+>That's a lot of states, actually
+>Maybe Ohio is also mostly corn? Or toxic swamps? I know they have that river that caught on fire, but that's about all I know
+>![[IMG_5383.jpeg]]
+
+L:
+>the fallen leaves tell a story
+>(corn leaves)
+>(the story is also about corn)
+
+S:
+>You know, the game is currently lacking in poison swamps... I'll have to fix this
+
+L:
+>the dragon is a poison dragon?
+
+
+
 #general #plot-ideas #character-ideas #place-ideas 
