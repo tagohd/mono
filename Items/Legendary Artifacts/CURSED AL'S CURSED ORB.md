@@ -1,6 +1,6 @@
 ---
 alias: THE ORB, chocolate orange, chocolate oranges
-Location: Rhapsody
+Location: "[[Rhapsody]]"
 Purpose: "Holds fused SOULS"
 Description: A small, blood-red orb.
 OrderAcquired: 1

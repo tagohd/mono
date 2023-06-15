@@ -2,7 +2,7 @@
 Name: Alain 'CURSED AL' Bonhomme
 Category: Main
 Role: Main antagonist
-DOB: 1760-01-07
+DOB: 1666-01-07
 Species: Elk (*Cervus canadensis*)
 Gender: "&quot;Gender is beneath me&quot; (he/they/it)"
 Pronouns: he/they/it
