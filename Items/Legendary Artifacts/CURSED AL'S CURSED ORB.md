@@ -31,7 +31,6 @@ No, wait, he's still an idiot. Just less of an idiot. Imagine if the chocolate o
 
 [Lun]: Yeah, I don't think color blindness is much of an excuse for mistaking a chocolate orange with a powerful cursed artifact, but it's at least _something_ you could cut Luke some slack with. Mostly just dumb though.
 
-#reply [R:: 2]
 sudo:: That's what I was getting at, yes.
 
 # Theme of THE ORB?

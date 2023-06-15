@@ -426,20 +426,51 @@ S:
 >Maybe?
 
 # 2023-06-14
+
+#lun 
+lunR::1
+Lunsays:: I hath responded!
+
 S:
 >Oh, here's a possible way we could combine both ideas: what if the SOUL fusion reaction can only happen in a living vessel, but once it's completed, the SOULS can be safely transferred into THE ORB?
+
+L:
+> That works, but if Sam is required after the fusion, why hasn't AL killed them by the time they fight Luke?
+
+S:
 >And then we can also keep Sam not having a SOUL. AL still kidnaps them as a matter of convenience—he's not even aware they don't have a SOUL—and when he takes all the SOULS out of them, he fully expects them to just die, but joke's on him because they're used to not having a SOUL. Luke distracts AL, and Sam is like, "Surprise, muthafucka" and takes THE ORB. The rest of the scene plays out the same: Sam casts Reverse Fate, and Luke wakes up back at the beginning of the game with a weird déjà vu feeling that something is terribly wrong.
+
+L:
+> The virgin SOUL-addict AL vs. the chad no-SOUL-needing Sam
+
 
 S:
 >Also, what if: SOUL AMPLIFIER > BFS 10000
 >![[BFG 10000.gif]]
 >Actual footage of Reverse Fate being cast
 >Oh, hey, that's my own gif
+
+L:
+> I guess you really like the BFS 10000, huh. It certainly looks cool enough!
+
+S:
 >You can't just shoot a SOUL into the surface of Mars
 >Objective: Shoot a SOUL into the surface of Mars
 
+L:
+> This is how we exile AL
+
 S:
 >I was thinking it would be funny if Luke could sell the Artifacts, but they go straight to CURSED AL if you do. They're worth a lot of money, so the player might have an incentive to do this, and, as we've already established, Luke's an idiot, so he would go along with it. (Heh, what if it's like OneShot and Luke talks to you? "Are you sure this is a good idea, $PlayerName? Well, okay... If you say so...")
+
+L:
+> I like the idea of AL going shopping at the black market (the owl house flavour) and just finding some of his cursed artifacts. This should be implemented.
+
+S:
 >I feel like the other characters would stop him, though. Like, you can't sell them if Case is in your party, and if James is still alive, he'll be like, "Wtf dude, go buy it back! Now!" And of course, you have to pay way more than you sold it for. The store owners are trying to make a profit, after all.
+
+L:
+> Jokes on Case as AL gets the artifacts in the end anyways. Luke is so big brain that none can understand his genious, especially not himself.
+
 
 #general #plot-ideas #character-ideas #place-ideas 

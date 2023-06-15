@@ -147,7 +147,9 @@ Some more thoughts in a list:
 [Lun]: So he only comes back to the material plane after the [[BFS 10000]] is finished? But then he can't do anything in the story until the end (e.g. abduct Sam, fight Luke, look menacing). Well, his lieutenant can, but then what's the point of having AL if you only see his lieutenant anyway?
 
 sudo:: In this scenario (which isn't yet canon), he's more like Bill Cipher or The Radiance. He can't physically do anything himself, but he still wields a great deal of influence. He controls other people and uses them to carry out tasks.
-#reply [R::10]
+
+#lun [lunR::10]
+The moff 2.0...
 
 - AL's body remaining in the physical realm slightly clashes with my thoughts in [[James's Excuse]]. Not inconsolably, but if James can find AL's body he can probably figure out what happened and get him back by using [[Dispel Magic]].
 
@@ -157,7 +159,9 @@ sudo:: In this scenario (which isn't yet canon), he's more like Bill Cipher or T
 [Lun]: AL first teleporting to a fortified location before going into stasis seems to clash with the idea that he thought time would not advance on the material plane while he was in stasis. How would you make that work?
 
 sudo:: Okay, maybe he wasn't going into stasis. Maybe there was something he could only obtain from a different plane of existence?
-#reply [R:: 11]
+
+#lun [lunR::11]
+Mono: Into the multiverse?!
 
 - Alternate idea: The stasis dimension isn't in the physical plane, or in the mana plane, but somewhere in between. This means that he could more freely experiment with mana, but was constantly exposed to a low dose of free mana effects, eventually changing him quite dramatically.
 
@@ -169,10 +173,12 @@ sudo:: Okay, maybe he wasn't going into stasis. Maybe there was something he cou
 [Lun]: Maybe him plane shifting into a different plane would just be easier all around? Or do you want to make the astral projection thing work because that's AL's curse?
 
 sudo:: This one's kinda long, but also doesn't really answer anything.
-#reply [R:: 12]
 [Sudo]: From a Doylist perspective, his curse is that he's too single-minded/can't see the forest through the trees. (From a *very* Doylist perspective, his curse is being named CURSED AL.) He's too focused on saving James instead of cherishing the time they *do* have.
 [Sudo]: (And maybe James being fated to die is, like, a metaphor for cancer or some shit? Idk. Not to get too off-topic, but I actually was thinking that living for a very long time would be likely to exponentially increase your risk of developing cancer, but I kinda just hand-waved that away by saying "It's *magic*".)
 [Sudo]: Anyway, how his curse manifests in-universe should be symbolic of that somehow. Maybe he didn't literally think he was going into stasis. Maybe it just took him way longer than he expected/he lost track of time.
+
+#lun [lunR::12]
+seems to fit with the idea that he's adhd coded lol
 
 ---
 
