@@ -161,4 +161,210 @@ S:
 >I should probably go to sleep before my grasp on the English language loosens any further
 >(Not that I didn't deliberately misspell that)
 
+# 2023-06-10
+S:
+>Good morning! I lied about not working on it anymore. Luke has 3 moms now. But I haven't really made any other big changes. Long distance teleportation doesn't exist, but you can still "\*teleports behind you\* Nothing personnel, kid"
+>I think that's about it
+
+L:
+>alright good choice but if thats the case can we have luke repeatedly mention some "dark period in his life" and "event  that changed him forever" and then it turns out he's referring to when he had to make 3 mother day's gifts in elementary school and it really stressed him out bcs he wanted all of them to be good
+
+S:
+>Yes, absolutely
+>Oh, and btw, their names are Louise, Loretta, and Elizabeth (who specifically hates being called "Liz"). I have not figured out what Luke calls each of them
+>Ma, Mama, and Mom?
+
+L:
+>mom, momtwo, momthree?
+
+S:
+>Mom, Earthbound, Mom3
+>I did not consider that connection until just now
+
+L:
+>the references cannot be stopped
+
+
+S:
+>At this point, I have to assume it's literally instinct
+
+L:
+>theres simply no other explanation
+
+\[...\]
+
+S:
+>So, idk how genetics and stuff work in this world, but the way I see it, it seems like only one of Luke's moms needs to be the same species as him (or none if he's adopted, I guess). So, what if one of his moms is literally a cougar?
+
+L:
+>i feel like inventing a new working mechanism for genetics would be a bit much 
+>so yes, one same species should be fine
+
+S:
+>That wasn't really the important part of the message
+
+L:
+>was the cougar part the important part?
+
+S:
+>Yeah
+>Idk why I didn't hear the message come in
+>Wait, yeah, maybe that's a bad idea. Literal predatory lesbian
+>Forget I asked
+
+L:
+>i dont see the issue
+>cant anyone be "predatory"
+>why does it matter that its a lesbian
+
+S:
+>Because I thought that was a stereotype. And cougar is slang for an older woman who seeks out significantly younger partners (not sure if that got lost in translation)
+>But I guess I could write around that
+>That's the thing about stereotypes, isn't it? They're not always true
+
+L:
+>just make her a sweetie and its all good
+
+S:
+>Wait, did I just stereotype the concept of stereotypes
+
+L:
+>hm, stereoception
+>i need her to do this to luke
+>![[IMG_5404.png]]
+
+S:
+>Of course
+>Like any time she sees him
+
+L:
+>gotta make sure her kid is clean
+
+S:
+>*Especially* if they're out in public
+
+L:
+>and helping to defeat some evil wizard or whatever
+
+S:
+>No son of mine is going to save the world looking like a slob
+>And stand up straight!
+
+L:
+>dont slouch your tail!
+
+S:
+>\*90s movie trailer voice\* Luke Campbell isn't just fighting to save the world. He's fighting for his right to party. Coming this summer. Rated PG-13
+
+L:
+>Luke would be a party animal
+>get it? cause he's a dogboy
+
+S:
+>Lol
+
+L:
+>anyway i pushed what i mentioned a few hours ago
+>it's what i would like to call, certainly something
+>have a look at it in peace for i am going to sleep now
+>arrividerci
+
+S:
+>That's the name of the movie: Party Animal
+>Sounds like a 2000s animated film
+>Good night!
+
+L:
+>ill start animating right away
+>in my dreams that is
+>good afternoon!
+
+# 2023-06-11
+L:
+>"they told him he was a virgin birth and he believes it" + "james convinced him he was the CHOSEN ONE" = luke is convinced he's the second coming of christ?
+
+S:
+>![[IMG_5405.png]]
+>Maybe?
+
+L:
+>oh big +1 on the moms being part of the story
+
+S:
+>I don't want to write dead moms
+
+L:
+>though one of them being actually smart and a large part of the story revolving around luke being too dumb to realize he's getting tricked will make things spicier
+>definitely not impossible though
+
+S:
+>Maybe she's the holder of the *singular* brain cell
+>She's only smart in comparison to everyone else
+>\*to the other Campbells
+
+L:
+>in the land of the blind, one-eye is king or something?
+
+S:
+>Or maybe she really is smart, but Luke's just a dumb, stubborn teenager
+
+L:
+>mama campbell: \*spoils the entire plot abt james being evil\*
+>luke: mama! youre trying to ruin my fun again, let me be! >:(\
+
+S:
+>Heh, what if that's a mechanic: you can try to call her to ask for a hint, but Luke will just be like, "I'm not doing that. I can figure this out on my own."
+
+L:
+>what happens if you follow her advice anyway?
+
+S:
+>It'd be like when you try to ask Papyrus for a hint and he just tells you stuff you already know
+>Oh, I meant that Luke refuses to call her
+>You don't get any hints in this game because Luke doesn't want them
+
+L:
+>but you _can_ call your moms i hope?
+>maybe its a roulette which one of the three you get on the phone...
+
+S:
+>Sure, he just won't say that he needs a hint
+
+L:
+>mama campbell: starts giving advice
+>luke: \*hangs up immediately\*
+
+S:
+>"Mama, I'm 16. I got this!"
+>Regardless (or especially) if he does not, in fact, got this
+>Or her "hints" are just stuff you can't actually do in the game. She tells you to brush your teeth or something
+
+L:
+>that should be a hidden mechanic which influences your attempts at trying to romance love interests
+
+S:
+>Dating sim but no one wants to date you because your breath stinky
+>Or what if she's busy every time you try to call her for a hint and you get a "hint" from one of his other moms instead?
+
+L:
+>finally listening to the "brush your teeth" advice gets luke a bf and becomes a major turning point in his character development
+
+S:
+>You do get to talk to her, but not when she could give you an actual hint
+
+L:
+>good use of the roulette system
+>except that the roulette isnt random, we get to decide that
+>it was rigged from the start. thats game design!
+
+S:
+>Nah, it's a 50/50 chance which mom you get. It's still rigged, but it's a little bit random
+
+L:
+>just not the helpful one
+
+S:
+>It's a 0% chance you get the one you actually want to talk to
+>Like, if you're trying to call Louise to help you fight, that's when you'll get to talk to Elizabeth
+
 #general #plot-ideas #character-ideas #place-ideas 
