@@ -8,3 +8,5 @@ Probably looks something like this:
 An Elks Lodge in Idaho Springs, Colorado. (Image Credit: Billy Hathorn, Wikimedia Commons, licensed under CC BY-SA 3.0)
 
 (Get it? Because AL and James are elks?)
+
+#places #Plata/IMAS-HQ #stub 

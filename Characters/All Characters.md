@@ -81,8 +81,4 @@ FROM #character WHERE Category = "Side"
 SORT SortOrder
 ```
 
-```dataview
-TABLE dateformat(DOB, "yyyy-MM-dd") AS "DOB" from #character SORT DOB
-```
-
 #general #refdoc 

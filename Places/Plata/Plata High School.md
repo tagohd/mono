@@ -5,4 +5,4 @@ The main high school in [[Plata]]. Let's say Plata has a population of about 6,5
 
 [[Case Weston|Case]] graduated from here. Their mascot is the Miners. It's an okay school; nothing remarkable about it.
 
-#places #plata #plata-high #stub 
+#places #Plata/Plata-High #stub 

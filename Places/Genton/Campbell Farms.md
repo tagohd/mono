@@ -18,4 +18,4 @@ sudoMinor:: New note! It's a stub, though. Answered some unanswered questions, a
 #minorChange #unseenByLun 
 %%
 
-#places #the-farm #answered-questions 
+#places #Genton/Campbell-Farms #answered-questions 

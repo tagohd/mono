@@ -6,6 +6,7 @@
 - [[The Old Silver Mine]]
 - [[Plata High School]]
 - [[Institute for the Magical Arts & Sciences]] [[IMAS International Headquarters|International Headquarters]]
+- [[Plata Fairgrounds]]
 
 ## Notable Residents
 - [[Case Weston]]
@@ -46,4 +47,4 @@ songTitle:: Snowy Pt. 2
 songRemarks:: The same song that's on ALP.
 %%
 
-#places #plata #james-redawic #snowy-pt-1 #snowy-pt-2 #contains-music 
+#places #Plata #james-redawic #snowy-pt-1 #snowy-pt-2 #contains-music 

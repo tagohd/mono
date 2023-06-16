@@ -6,4 +6,4 @@ The only high school in [[Genton]] (population: ~5000). It has an enrollment of 
 
 It's better known for its athletics than its academics.
 
-#places #genton #genton-high #stub 
+#places #Genton/Genton-High #stub 
