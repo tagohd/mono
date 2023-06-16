@@ -459,6 +459,8 @@ L:
 S:
 >I was thinking it would be funny if Luke could sell the Artifacts, but they go straight to CURSED AL if you do. They're worth a lot of money, so the player might have an incentive to do this, and, as we've already established, Luke's an idiot, so he would go along with it. (Heh, what if it's like OneShot and Luke talks to you? "Are you sure this is a good idea, $PlayerName? Well, okay... If you say so...")
 
+^sell-the-artifacts
+
 L:
 > I like the idea of AL going shopping at the black market (the owl house flavour) and just finding some of his cursed artifacts. This should be implemented.
 
@@ -476,9 +478,21 @@ S:
 
 S:
 >> I guess you really like the BFS 10000, huh. It certainly looks cool enough!
+>
 >You mean because I already changed the name everywhere? It automatically updated when I changed the name of the file, which was my intent. (Didn't want to bother with Atom, so I just added an alias and searched for the unlinked mentions.) I think it's a more fitting name than SOUL AMPLIFIER, since it basically is a Big Fucking SOUL.
 
 S:
+>> I like the idea of AL going shopping at the black market (the owl house flavour) and just finding some of his cursed artifacts. This should be implemented.
 >
+> He's just, like, there. In the background. But since Luke has never seen him before, he assumes it's just Some Guy (TM)
+> Lol, what if he's like Rouxls Kaard and actually operates one of the shops
+> "Should you really be selling us this stuff?"
+> 
+> "I have a lot of Wizard Debt, okay?"
+
+S:
+>> Jokes on Case as AL gets the artifacts in the end anyways. Luke is so big brain that none can understand his genious, especially not himself.
+>
+>Oh, yeah, I guess I'm going to have to figure out how that happens. How does AL end up with the Artifacts if they're supposed to be in the possession of either Luke or James?
 
 #general #plot-ideas #character-ideas #place-ideas 
