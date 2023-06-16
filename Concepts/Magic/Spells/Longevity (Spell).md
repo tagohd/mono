@@ -30,17 +30,15 @@ The toll of this spell is enormous. After enduring that stress, each time you ca
 [^2]: Thought about vanilla extract for the meme, but figured fresh vanilla beans would be much harder to obtain. TBH, the materials don't really matter. The spell's already been cast; not like it's going to be cast again. Point is this spell is expensive and requires materials that aren't easy to come by/aren't likely to be sourced ethically. Maybe instead of all that, it just requires a philosopher's stone? (But creating a philosopher's stone would be similarly immoral.)
 [^3]: This part was just copied from the description of [[Wish]].
 
-sudoMajor:: Answering how [[James Redawić|James]], [[CURSED AL]], and [[Emperoress, The|The Emperoress]] have lived so long. (As a dragon, [[Ednathrallor Verdensmorder|Edna]] is just naturally long-lived.)
-
 
 [Lun]: This is discriminatory against non-virgins. What's wrong with their blood? Does sex alter the magical properties of your body?? I need answers. 
 
-sudo:: Fuckin'... idk. It just seems to be the standard for Satanic rituals for some reason. No, you know what? You're right. Instead of virgin blood, it should be cishet blood. And that's what kills [[Boring Straight Greg]].
+[Sudo]: Fuckin'... idk. It just seems to be the standard for Satanic rituals for some reason. No, you know what? You're right. Instead of virgin blood, it should be cishet blood. And that's what kills [[Boring Straight Greg]].
 
-#lun 
-lunR::5
 [Lun]: So now non-cishet blood is bad? UHOH, sudo = racism confirmed?!?!?!
 
+sudo:: No, silly. Satan doesn't want gay blood because those are *his* people. So it has to be cishet blood.
+#reply
 
 Also, alternate idea for the whole sacrificing cost:
 - You don't need blood to cast the spell, you just need a lot of mana
@@ -54,10 +52,11 @@ Also, alternate idea for the whole sacrificing cost:
 		- RIP James lol
 
 
-sudo:: Yeah, the point wasn't so much the blood anyway. It was more: this spell is hella unethical, and you're basically stealing the life essence of other people to prolong your own life. (The addition of magic is what makes it a thousandfold increase instead of simply a twelvefold increase.)
+[Sudo]: Yeah, the point wasn't so much the blood anyway. It was more: this spell is hella unethical, and you're basically stealing the life essence of other people to prolong your own life. (The addition of magic is what makes it a thousandfold increase instead of simply a twelvefold increase.)
 
-#lun 
-lunR::6
 [Lun]: How about both blood and the soul thing. Satanic rituals!!!
+
+sudo:: I mean, if you're taking their SOUL using the [[BLADE OF POWER]], I would assume there's probably some bloodshed involved anyway?
+#reply 
 
 #Spells/Major 

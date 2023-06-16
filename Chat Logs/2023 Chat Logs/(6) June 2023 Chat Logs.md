@@ -427,10 +427,6 @@ S:
 
 # 2023-06-14
 
-#lun 
-lunR::1
-Lunsays:: I hath responded!
-
 S:
 >Oh, here's a possible way we could combine both ideas: what if the SOUL fusion reaction can only happen in a living vessel, but once it's completed, the SOULS can be safely transferred into THE ORB?
 
@@ -472,5 +468,17 @@ S:
 L:
 > Jokes on Case as AL gets the artifacts in the end anyways. Luke is so big brain that none can understand his genious, especially not himself.
 
+# 2023-06-15
+S:
+>> That works, but if Sam is required after the fusion, why hasn't AL killed them by the time they fight Luke?
+>
+>He assumes they're dead by virtue of no longer having a SOUL in them?
+
+S:
+>> I guess you really like the BFS 10000, huh. It certainly looks cool enough!
+>You mean because I already changed the name everywhere? It automatically updated when I changed the name of the file, which was my intent. (Didn't want to bother with Atom, so I just added an alias and searched for the unlinked mentions.) I think it's a more fitting name than SOUL AMPLIFIER, since it basically is a Big Fucking SOUL.
+
+S:
+>
 
 #general #plot-ideas #character-ideas #place-ideas 

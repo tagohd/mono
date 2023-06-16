@@ -6,10 +6,6 @@ Until directed otherwise, I am going to imagine it like an oil well. Mages, ther
 sudo:: Try this one: https://www.youtube.com/watch?v=GX-9wXFQRgA. Or just search "there will be blood milkshake", if you haven't seen *There Will Be Blood*. (Ew. Blood milkshake.)
 #Cite/Movie/There-Will-Be-Blood [movieRefType:: There Will Be Blood/General]
 
-#lun 
-lunR::3
-mmm milkshake
-
 # Pictures of the Mana Plane
 ![[fma truth.jpeg]]
 #Cite/TV/FMAB [tvRefType:: FMAB/Places]
