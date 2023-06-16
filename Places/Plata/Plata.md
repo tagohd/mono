@@ -1,3 +1,22 @@
+# At A Glance
+## Population
+- 6578
+
+## Notable Locations
+- [[The Old Silver Mine]]
+- [[Plata High School]]
+- [[Institute for the Magical Arts & Sciences]] [[IMAS International Headquarters|International Headquarters]]
+
+## Notable Residents
+- [[Case Weston]]
+- [[James Redawić]]
+- [[CURSED AL]] (formerly)
+- [[Ednathrallor Verdensmorder]] (nearby)
+
+## Legendary Artifacts
+- None
+
+# About
 High in the mountains, Plata is the home of a former silver mine ("Plata" being Spanish for "silver"). The mine ran dry a long time ago, but there's a small [[The Old Silver Mine|museum]] dedicated to it. The museum's [[James Redawić|curator]] is so knowledgeable it's almost like he was personally there 150 years ago...
 
 sudoMajor:: Maybe [[Institute for the Magical Arts & Sciences|IMAS]] has a regional office here, and that's why [[Luke Campbell|Luke]] suspects [[Sam Ward|Sam]] is here.[^1] (Also, it's relatively close to [[Genton]].)

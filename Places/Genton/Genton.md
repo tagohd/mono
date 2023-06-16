@@ -1,6 +1,24 @@
 ---
 alias: Boringsville
 ---
+# At A Glance
+## Population
+- 5067
+
+## Notable Locations
+- [[Campbell Farms]]
+- [[Genton High School]]
+
+## Notable Residents
+- [[Luke Campbell]]
+- [[The Mothers Campbell]]
+- [[Luke's Noble Steed|Pauline]]
+- [[Sam Ward]]
+- [[Manas Georg|George Ward]]
+
+## Legendary Artifacts
+- [[NEEDLE OF CALAGASH]] (but on a different plane of reality)
+
 # About
 
 ![[Pronunciation - Genton.webm]]

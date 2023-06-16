@@ -1,5 +1,6 @@
 ---
-Name: Manas Georg, George Ward
+alias: George Ward
+Name: "George &quot;Manas Georg&quot; Ward"
 Category: Side
 Role: A garden gnome with a legendarily high tolerance for mana
 DOB: 1951-03-05
