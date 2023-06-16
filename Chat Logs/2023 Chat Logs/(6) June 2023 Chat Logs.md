@@ -475,11 +475,15 @@ S:
 >> That works, but if Sam is required after the fusion, why hasn't AL killed them by the time they fight Luke?
 >
 >He assumes they're dead by virtue of no longer having a SOUL in them?
+>
+>> But isn't Sam required to be at the fight with Luke for your ending to be able to take place? Then AL would have to do the SOUL fusing, Orb transferring and Staff making all right before the fight. Or Sam just plays dead for a really long time and AL is like "someone should really come get rid of this corpse its been here for 2 weeks. I wont do it though."
 
 S:
 >> I guess you really like the BFS 10000, huh. It certainly looks cool enough!
 >
 >You mean because I already changed the name everywhere? It automatically updated when I changed the name of the file, which was my intent. (Didn't want to bother with Atom, so I just added an alias and searched for the unlinked mentions.) I think it's a more fitting name than SOUL AMPLIFIER, since it basically is a Big Fucking SOUL.
+>
+>> No_no_hes_got_a_point.gif
 
 S:
 >> I like the idea of AL going shopping at the black market (the owl house flavour) and just finding some of his cursed artifacts. This should be implemented.
@@ -490,9 +494,13 @@ S:
 > 
 > "I have a lot of Wizard Debt, okay?"
 
+>> Bonus points if AL also CLEARLY stands out from the rest of the crowd by virtue of having an evil mage aura but Luke just doesn't notice or thinks its normal (I guess he doesnt know too much about magic)
+
 S:
 >> Jokes on Case as AL gets the artifacts in the end anyways. Luke is so big brain that none can understand his genious, especially not himself.
 >
 >Oh, yeah, I guess I'm going to have to figure out how that happens. How does AL end up with the Artifacts if they're supposed to be in the possession of either Luke or James?
+>
+>> Luke keeps them in his inventory like an idiot and AL just kinda snatches them? Maybe he pulls some cheap trick on Luke and he, of course, falls for it. Or he sends someone to take it from him. In the loop where James doesn't get killed (if were doing that), James could set it up so Luke loses the artefacts to AL, but if James is dead I imagine it's just some good old Luke Stupidity at work
 
 #general #plot-ideas #character-ideas #place-ideas 
