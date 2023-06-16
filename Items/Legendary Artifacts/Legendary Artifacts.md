@@ -30,6 +30,20 @@ sudoMajor:: If AL has previously built a prototype [[BFS 10000]], shouldn't he a
 >1. After they found out he had cast [[Longevity (Spell)|Longevity]], [[Institute for the Magical Arts & Sciences|IMAS]] makes him get rid of The Artifacts as a condition of not putting him in Wizard Jail. The Artifacts are now being researched in various IMAS facilities across the country. This obviously makes it harder for [[Luke Campbell|Luke]] (or anyone else) to acquire them since they're tightly guarded.
 >2. After the accident that paralyzed James [citation needed], The Artifacts were magically scattered everywhere. No one knows for sure where they all are.
 
+---
+
+#lun [lunR::8]
+L:
+My idea of the ordeal is that the prototype [[BFS 10000]] was actually just the [[BFS 10000]] but without a bunch of the artefacts stabilising the whole ordeal. So maybe only the [[BLADE OF POWER]] to steal the souls and [[CURSED AL'S CURSED ORB|THE ORB]] to hold them. This is enough to do some big spell casting, but because it's a bunch of separate, (dissipating) SOULs, the whole thing is just kind of a mess. So for the real version, AL needs all of the [[Legendary Artifacts]] to create a single, stable, big fucking soul.
+
+Which reminds me, why is a single big SOUL more stable than a bunch of separate ones? Or can the ORB only hold a single SOUL? But then that would mess with my idea of the mechanism of the prototype version. 
+The original reason was that the single big one was still connected to a living host while for the prototype version AL just killed the fools and tried using their SOULs in a hurry (which is also why he messed up the second time). 
+But that clashes with the "Sam is only required for the fusion reaction" idea. Though I think you mostly wanted that so Sam could steal the [[BFS 10000]] in the final battle with AL? Maybe we can somehow keep that with Sam still functioning as the living vessel? Or we change the workings of the prototype. Or we invent another reason why the full-artefact version works better than the few-artefact version. Hold on, aren't some of the artefacts ([[CHALICE OF SUDMORANTH]], [[BEE]]) specifically made to work with the living vessel idea? So can we even thrash that at this point?
+
+Third and last artefact related point: What if AL made all of them? At the start he only had a few, but then to save James he goes into another realm to create the others? Just an idea I had because a bunch of the artefacts have a use case _very_ specific to the [[BFS 10000]]. I'd say, either that or we go with the option that the artefacts had been created earlier with the specific purpose of creating the [[BFS 10000]], but then who did that and why did the knowledge on how to make it get lost. And how did AL get them all eventually?
+
+---
+
 Yeah, okay, I think I'm going with the idea that they form the [[BFS 10000]] for now. Of course, now I need to figure out what *that* does. But CURSED AL is trying to build one for... reasons. (If CURSED AL isn't the real Big Bad, then it may be likely that his reasons are inscrutable to mere mortals. He's merely carrying out the wishes of some eldritch being, and we all know eldritch beings love acting in ways humans can't even hope to comprehend.) Whatever his reasons, it's going to be very bad if he's successful.
 
 ---
