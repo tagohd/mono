@@ -1,4 +1,5 @@
 ---
+alias: Greg Smith, Gregory Smith, Greg
 Name: Gregory Smith
 Category: Side
 Role: Diversity hire

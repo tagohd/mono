@@ -52,7 +52,8 @@ Or maybe CURSED AL is manipulating James into manipulating Luke? James knows whe
 
 >[!question] [question:: When/how did James become paralyzed?]
 >How: I think it would be "good" if it's AL's fault somehow.
->When: If it happened when AL tried to cast [[Longevity (Spell)|Longevity]], then he's been paralyzed for a long time, and that kinda breaks the idea I had in [[1. Plot Overview]] that he's scamming [[Institute for the Magical Arts & Sciences|IMAS]] for money to make his house wheelchair
+>
+>When: If it happened when AL tried to cast [[Longevity (Spell)|Longevity]], then he's been paralyzed for a long time, and that kinda breaks the idea I had in [[1. Plot Overview]] that he's scamming [[Institute for the Magical Arts & Sciences|IMAS]] for money to make his house wheelchair-accessible. He could still be scamming them just because he's an evil bastard, I guess.
 
 # James Still Remembers You
 ![[3 - James Still Remembers You.mp3]]
