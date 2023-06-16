@@ -37,10 +37,13 @@ The toll of this spell is enormous. After enduring that stress, each time you ca
 
 [Lun]: So now non-cishet blood is bad? UHOH, sudo = racism confirmed?!?!?!
 
-sudo:: No, silly. Satan doesn't want gay blood because those are *his* people. So it has to be cishet blood.
+[Sudo]: No, silly. Satan doesn't want gay blood because those are *his* people. So it has to be cishet blood.
 
-#lun [lunR::1]
+
 [Lun]: Oh, nice save. So is Satan an actual canon character in this story and is he an ally?
+
+sudo:: Maybe Satan == [[The Emperoress]]?
+#reply [R:: 1]
 
 Also, alternate idea for the whole sacrificing cost:
 - You don't need blood to cast the spell, you just need a lot of mana
@@ -60,7 +63,6 @@ Also, alternate idea for the whole sacrificing cost:
 
 sudo:: I mean, if you're taking their SOUL using the [[BLADE OF POWER]], I would assume there's probably some bloodshed involved anyway?
 
-#lun [lunR::2]
 [Lun]: Haha yes stabby time!!
 
 #Spells/Major 
