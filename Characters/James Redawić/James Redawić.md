@@ -3,7 +3,7 @@ alias: James
 Name: James Redawić
 Category: Main
 Role: Mentor to [[Luke Campbell|Luke]]
-DOB: 1749-10-12
+DOB: 1799-10-12
 Species: Elk (*Cervus canadensis*)
 Gender: Wizard (he/him)
 Pronouns: he/him
