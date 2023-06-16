@@ -46,15 +46,13 @@ Or maybe CURSED AL is manipulating James into manipulating Luke? James knows whe
 
 #Cite/Lit/LOTR [litRefType:: LOTR/Items] (??? Only in the sense that the Artifacts have a corrupting influence over their possessor. Imagine if The One Ring talked to its bearer like that lol.)
 
-question:: [[James's Excuse|Why doesn't James just get the artifacts himself?]]
+>[!question] [[James's Excuse|Why doesn't James just get the artifacts himself?]]
+>I think we've agreed it's because he's in a wheelchair?
+>%% [aq:: Why doesn't James just get the artifacts himself?] %%
 
->[!tldr]
->Still this:
->![[wizard that knows fuck all.jpg|300]]
->But possible solutions:
-> - He's in a wheelchair, and magic can't/shouldn't be used to heal him
-> - He knows he's going to die, so he has to get Luke (or someone, but Luke is convenient) to do it for him
-> - He tells Luke that collecting the artifacts is a hazing ritual for new members of [[Institute for the Magical Arts & Sciences|The Wizard Club (TM)]] (See: [[Destroy Legendary Artifact]]) (that's not really a motivation, though)
+>[!question] [question:: When/how did James become paralyzed?]
+>How: I think it would be "good" if it's AL's fault somehow.
+>When: If it happened when AL tried to cast [[Longevity (Spell)|Longevity]], then he's been paralyzed for a long time, and that kinda breaks the idea I had in [[1. Plot Overview]] that he's scamming [[Institute for the Magical Arts & Sciences|IMAS]] for money to make his house wheelchair
 
 # James Still Remembers You
 ![[3 - James Still Remembers You.mp3]]
@@ -66,4 +64,4 @@ songRemarks:: Same version that's on ALP
 See: [[(2) February 2023 Chat Logs#The Most Important Change I've Made|The Most Important Change I've Made]]
 
 
-#character #james-redawic #james-still-remembers-you #bering-strait-grigori #plata #unanswered-questions #contains-music  
+#character #james-redawic #james-still-remembers-you #bering-strait-grigori #plata #answered-questions #contains-music  #unanswered-questions 

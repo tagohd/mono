@@ -2,6 +2,13 @@
 focus: False
 aq:: Why doesn't James just get the Artifacts himself?
 ---
+>[!tldr]
+>Still this:
+>![[wizard that knows fuck all.jpg|300]]
+>But possible solutions:
+> - He's in a wheelchair, and magic can't/shouldn't be used to heal him
+> - He knows he's going to die, so he has to get Luke (or someone, but Luke is convenient) to do it for him
+> - He tells Luke that collecting the artifacts is a hazing ritual for new members of [[Institute for the Magical Arts & Sciences|The Wizard Club (TM)]] (See: [[Destroy Legendary Artifact]]) (that's not really a motivation, though)
 # Why doesn't James just get the Artifacts himself?
 ![[uhhh.jpg]]
 
@@ -105,4 +112,4 @@ sudoMajor: Also, what if James and AL's deal is that they can't die unless kille
 [Lun]: That seems like a good reason for AL's obsession with the whole saving thing, and this may also be a good start for their individual backstories. Why where they evil in the first place? Maybe they used [[Longevity (Spell)|some fucked up magic to gain functional immortality (i.e. not aging)]] and had to sacrifice some innocents to accomplish that. Maybe they used like a prototype-BFS 10000 and AL was able to perfect it to the real deal during his stasis?
 
 
-#general #james-redawic #unanswered-questions 
+#general #james-redawic #answered-questions 
