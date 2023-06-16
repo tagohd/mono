@@ -3,7 +3,7 @@ alias: Luke's Ma, Louise
 Name: Louise 'Ma' Campbell
 Category: Supporting
 Role: One of Luke's 3 moms.
-DOB: 1979-03-28
+DOB: 1969-03-28
 Species: European rabbit (*Oryctolagus cuniculus*)
 Gender: Trans Female (she/her)
 Pronouns: she/her

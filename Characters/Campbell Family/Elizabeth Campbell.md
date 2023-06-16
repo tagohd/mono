@@ -3,7 +3,7 @@ alias: Luke's Mom, Elizabeth
 Name: Elizabeth 'Mom' Campbell
 Category: Supporting
 Role: One of Luke's 3 moms.
-DOB: 1971-04-29
+DOB: 1961-04-29
 Species: Gouger (*Puma concolor*)
 Gender: Female (she/her)
 Pronouns: she/her

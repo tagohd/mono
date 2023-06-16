@@ -3,7 +3,7 @@ alias: Luke's Mama, Loretta
 Name: Loretta 'Mama' Campbell
 Category: Supporting
 Role: One of Luke's 3 moms.
-DOB: 1976-09-13
+DOB: 1966-09-13
 Species: Dog (*Canis familiaris*)
 Gender: "Genderfluid, but mostly on the girl end of the spectrum (she/they)"
 Pronouns: she/they
