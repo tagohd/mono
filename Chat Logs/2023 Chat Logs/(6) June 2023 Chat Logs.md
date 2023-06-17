@@ -313,6 +313,8 @@ L:
 >luke: mama! youre trying to ruin my fun again, let me be! >:(\
 
 #Gameplay 
+gameplay:: Luke refuses to ask for hints.
+
 S:
 >Heh, what if that's a mechanic: you can try to call her to ask for a hint, but Luke will just be like, "I'm not doing that. I can figure this out on my own."
 
@@ -339,6 +341,8 @@ S:
 >"Mama, I'm 16. I got this!"
 >Regardless (or especially) if he does not, in fact, got this
 >Or her "hints" are just stuff you can't actually do in the game. She tells you to brush your teeth or something
+
+gameplay:: Luke's parents give hints that aren't actionable.
 
 L:
 >that should be a hidden mechanic which influences your attempts at trying to romance love interests
@@ -370,6 +374,8 @@ S:
 
 L:
 >luke is both dumb and unlucky. poor guy
+
+gameplay:: Luke will never be able to talk to the mother that can actually give him useful advice.
 
 \[...\]
 
