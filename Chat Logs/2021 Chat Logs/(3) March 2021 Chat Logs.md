@@ -89,6 +89,8 @@ S:
 >But, also, he's, like, stupid hard. He's like Sans. You think he'll be an easy fight until you die on the first turn
 >https://youtu.be/zjImpr03L94 \[8-bit remix of "It's Not Unusual\] He's also like Mettaton EX because he's just doing that the whole fight. You cannot grasp the true form of Carlton's attack.
 
+#Gameplay 
+
 L:
 >There's just one problem in having Carlton Banks as your sans - would anyone really think it would be an easy fight?
 >The man exudes power with dance moves alone

@@ -70,7 +70,7 @@ Maybe [[Luke Campbell|Luke]] fights [[CURSED AL]] for the first time and is woef
 [Sudo]: Hmmm, I had another gameplay idea earlier, but what was it?
 [Sudo]: Oh, it was: after you discover that Luke is [[LukeVISION (TM)|colorblind]], the game display changes to reflect that.
 [Sudo]: Funny coming up with these ideas when the game is not being made.
-
+#Gameplay 
 # Old Notes
 - He shows up near the end of Act I, first as an antagonist and later as a love interest?
 	- Maybe it's one-sided. However, Luke *does* have two hands...

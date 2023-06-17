@@ -65,12 +65,12 @@ sudoMajor:: If Luke is a pacifist crybaby like Vash, wouldn't that make the game
 >
 >We could have him actively refuse to kill people. This would make the combat similar to Deltarune where the enemies just run away when their HP is too low. In this case, however, it's made obvious that it's Luke's choice to end the battle, not the enemies'. (He could also be like Niko OneShot and straight up tell the player when he doesn't want to do something.)
 >
->Also, if he ever does kill someone (*cough cough* James), he feels really bad about it. *Really* bad. Like, physically sick. Even if they're a terrible person like James. Then he's less like a video game protagonist and more like a real person. I'm not speaking from personal experience here or anything, but I've been led to believe that killing someone has a tendency to really fuck you up in the head.
+>Also, if he ever does kill someone (*cough cough* James), he feels really bad about it. *Really* bad. Like, physically sick. Even if they're a terrible person like James. Then he's less like a video game protagonist and more like a real person. I'm not speaking from personal experience here or anything, but I've been led to believe that killing someone has a tendency to really fuck you up in the head. #Gameplay 
 
 ## LukeVISION (TM)
 As a dogboy, Luke suffers from protanopia, or red-green colorblindness. Among other things, this causes him to mistake [[CURSED AL'S CURSED ORB]] for an ordinary [[chocolate orange]]. I mean, it's also because he's an idiot, but being colorblind isn't doing him any favors either. (A Legendary Artifact has some distinct vibes it gives off that Luke totally failed to pick up on.)
 
-This isn't directly revealed to the player (unless they're also colorblind, I guess). Like, the game is still colored normally. They just have to figure out that Luke is colorblind when he's told to pick up a blood-red ORB and grabs something orange instead.
+This isn't directly revealed to the player (unless they're also colorblind, I guess). Like, the game is still colored normally. They just have to figure out that Luke is colorblind when he's told to pick up a blood-red ORB and grabs something orange instead. #Gameplay 
 
 We can use [this site](https://www.color-blindness.com/coblis-color-blindness-simulator/) to simulate how Luke might see an object. (Put the pictures in the relevant article, not this one.)
 

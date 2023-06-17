@@ -312,6 +312,7 @@ L:
 >mama campbell: \*spoils the entire plot abt james being evil\*
 >luke: mama! youre trying to ruin my fun again, let me be! >:(\
 
+#Gameplay 
 S:
 >Heh, what if that's a mechanic: you can try to call her to ask for a hint, but Luke will just be like, "I'm not doing that. I can figure this out on my own."
 
@@ -460,6 +461,7 @@ S:
 >I was thinking it would be funny if Luke could sell the Artifacts, but they go straight to CURSED AL if you do. They're worth a lot of money, so the player might have an incentive to do this, and, as we've already established, Luke's an idiot, so he would go along with it. (Heh, what if it's like OneShot and Luke talks to you? "Are you sure this is a good idea, $PlayerName? Well, okay... If you say so...")
 
 ^sell-the-artifacts
+#Gameplay 
 
 L:
 > I like the idea of AL going shopping at the black market (the owl house flavour) and just finding some of his cursed artifacts. This should be implemented.
@@ -503,6 +505,8 @@ S:
 > sudo:: spot the main character.jpg
 #reply [R:: 10]
 
+#Gameplay 
+
 S:
 >> Jokes on Case as AL gets the artifacts in the end anyways. Luke is so big brain that none can understand his genious, especially not himself.
 >
@@ -514,5 +518,7 @@ L:
 S:
 > sudo:: Maybe that could be combined with the scripted loss? AL wipes the floor with Luke AND takes the Artifacts from him. I'll also expand on this in the part where I mentioned the choices the player has with the Artifacts (I don't remember which article that was right now).
 #reply [R:: 11]
+
+#Gameplay 
 
 #general #plot-ideas #character-ideas #place-ideas 

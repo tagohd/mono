@@ -9,7 +9,7 @@ The farm operated by [[The Mothers Campbell]]. [[Luke Campbell|Luke]] helps out 
 #Cite/Movie/Star-Wars [movieRefType:: Star Wars/Setting]
 
 >[!question] [aq:: Maybe they're sheep herders?]
->It's already weird enough that they have horses. Let's not add other non-anthro animals to the mix.
+>It's already weird enough that they have horses. Let's not add other non-anthro animals to the mix. (This conflicts with [[1.1 The Call to Adventure]].)
 
 #Cite/Game/Mother3 [gameRefType:: Mother 3/Setting]
 

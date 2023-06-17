@@ -40,7 +40,7 @@ This isn't to say that only certain people can cast certain spells. It's just th
 [Sudo]: Oh, so we're just gonna steal from Hollow Knight instead? SOUL Vessels? (And you poke rifts between planes by attacking enemies?) But, yeah, whenever I suggest something that's just "blatant plagiarism of Undertale", I'm mostly joking. Mostly. (But really, it's more like a placeholder until I come up with something that's less "blatant plagiarism of Undertale".)
 
 [Sudo]: Oh! Maybe the "color" of your SOUL determines your spellcasting ability? Even though everyone is casting magic in the same fundamental way (channeling Mana from the Mana Plane, as opposed to, e.g., calling on the power of a god), maybe they manipulate the Mana in different ways depending on their spellcasting ability.
-
+#Gameplay ?
 %%
 #Cite/Game/Undertale #Cite/Game/Hollow-Knight 
 gameRefType:: Undertale/General
@@ -94,7 +94,7 @@ Probably wouldn't be as fourth-wall-breaking as OneShot, but it could still be a
 gameRefType:: OneShot/General
 %%
 
-Wouldn't that be something? A game that punishes you for using its magic system... Maybe it only does this if you forget to close the rift or something. But maybe the game doesn't actively remind you to close the rifts; you have to keep on top of that yourself. And, of course, maybe there are occasionally incentives to **_not_** close the rifts.
+Wouldn't that be something? A game that punishes you for using its magic system... Maybe it only does this if you forget to close the rift or something. But maybe the game doesn't actively remind you to close the rifts; you have to keep on top of that yourself. And, of course, maybe there are occasionally incentives to **_not_** close the rifts. #Gameplay 
 
 Also, something something Law of Equivalent Exchange.
 %%
@@ -152,9 +152,10 @@ And of course, HP is just an abstraction of your ability to keep going in a figh
 [Sudo]: Done. See: [[Cure Wounds]] and [[Regenerate]]
 
 [Lun]: Oh, you're ACTUALLY putting in DnD spells huh
+#Gameplay 
 
 ### You can't teleport, but you CAN wavedash
 >[!question] If James is a paraplegic wizard, can't he just, like, fly and teleport and stuff?
->Let's just stick with "Magic doesn't work that way." [[Teleport|Teleportation]] just isn't a spell that exists. The best you can do is [[Evasion|teleport short distances]], kinda like a dash ability. [[Plane Shift]] and [[Astral Projection]] are different.
+>Let's just stick with "Magic doesn't work that way." [[Teleport|Teleportation]] just isn't a spell that exists. The best you can do is [[Evasion|teleport short distances]], kinda like a dash ability. [[Plane Shift]] and [[Astral Projection]] are different. #Gameplay 
 
 #general #concepts #magic #unanswered-questions 

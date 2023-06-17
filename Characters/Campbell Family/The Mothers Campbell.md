@@ -16,6 +16,7 @@ Unlike most journeys hero, I think it's important that Luke's parents actually s
 >		- They did lie to him about being born to a virgin... Reaping what they sowed?
 >- Louise: Thrower of hands. Idk... you can occasionally summon her?
 >- Loretta: Moral support? Saves your game?
+#Gameplay 
 
 >[!question] [aq:: What does Luke call each of them?]
 >- Louise: Ma

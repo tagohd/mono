@@ -64,6 +64,7 @@ Couple things going on here: 1) I added a new melody, and 2) I thought it would 
 So, the "lore" here is that this is the theme of the protagonist's hometown. (The protagonist's name is Luke Campbell, btw; not sure if I've mentioned that before.) This town is basically in the middle of Bumfuck, Nowhere, and there's absolutely nothing to do, hence Luke calls it "Boringsville" instead of its actual name (which I still haven't come up with). Anyway, plot happens, Luke goes on a grand adventure, yadda yadda yadda, and at some point he returns to Boringsville, but he has a new appreciation for it. Yeah, it's a sleepy little farming town, but the people make living there worthwhile (or something sappy like that).
 
 That's kinda what I was trying to represent by having the instruments change. The broader idea here is that this is the soundtrack for an imaginary video game with a vaguely defined plot, so maybe it's a dynamic soundtrack and the instruments get replaced as you forge relationships with the other residents or rebuild the town or something. I think it makes more sense as separate tracks, but I spent longer than I should have working on this, so I'm just going to post this.
+#Gameplay ?
 
 # Boringsville at Night
 ![[Boringsville at Night.mp3]]

@@ -21,4 +21,4 @@ spellComponents: VS
 
 You vanish instantly, traversing through the Ethereal Plane (the spell fails and the casting is wasted if you are already on the Ethereal Plane). Until your next turn, any attacks targeting you automatically miss. On your next turn, you reappear at any unoccupied point within a 10-foot sphere. You cannot reappear inside the ground or a wall, but you can reappear in the air—you may take fall damage, however.
 
-#Spells/Intermediate
+#Spells/Intermediate #Gameplay 
