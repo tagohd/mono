@@ -87,10 +87,10 @@ S:
 >Or maybe it's short for Alfonso Ribeiro
 >That's the last boss, the ultimate evil threatening to destroy the entire tri-state area: Carlton Banks. His battle theme is just an 8-bit version of It's Not Unusual
 >But, also, he's, like, stupid hard. He's like Sans. You think he'll be an easy fight until you die on the first turn
->https://youtu.be/zjImpr03L94 \[8-bit remix of "It's Not Unusual\] He's also like Mettaton EX because he's just doing that the whole fight. You cannot grasp the true form of Carlton's attack.
+>https://youtu.be/zjImpr03L94 \[8-bit remix of "It's Not Unusual\] He's also like Mettaton EX because he's just doing that the whole fight. You cannot grasp the true form of Carlton's attack. ^al-mtt-ex
 
 #Gameplay 
-gameplay:: The boss fight against AL is deceptively hard. And also he dances the whole fight like MTT EX.
+gameplay:: The boss fight against AL is deceptively hard. And also he dances the whole fight like MTT EX. [[(3) March 2021 Chat Logs#^al-mtt-ex|ref]]
 
 L:
 >There's just one problem in having Carlton Banks as your sans - would anyone really think it would be an easy fight?

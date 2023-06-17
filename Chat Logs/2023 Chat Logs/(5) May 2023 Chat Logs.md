@@ -515,10 +515,10 @@ S:
 >![[picard facepalm.jpg]]
 >But, really, it looks great!
 >And yeah, far be it from me to tell you how to live your life, but you should probably go to sleep
->Isn't it like 01:30?
+>Isn't it like 01:30? ^classic-misdirection
 
 #Gameplay 
-gameplay:: The same jingle that plays when you acquire one of the [[Legendary Artifacts]] also plays when you acquire the [[Chocolate Orange]].
+gameplay:: The same jingle that plays when you acquire one of the [[Legendary Artifacts]] also plays when you acquire the [[Chocolate Orange]]. [[(5) May 2023 Chat Logs#^classic-misdirection|ref]]
 
 L:
 >it sure is!
