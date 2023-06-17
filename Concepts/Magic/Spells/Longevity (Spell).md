@@ -42,7 +42,7 @@ The toll of this spell is enormous. After enduring that stress, each time you ca
 
 [Lun]: Oh, nice save. So is Satan an actual canon character in this story and is he an ally?
 
-sudo:: Maybe Satan == [[The Emperoress]]?
+sudo:: Maybe Satan == [[Emperoress, The|The Emperoress]]?
 #reply [R:: 1]
 
 Also, alternate idea for the whole sacrificing cost:
@@ -61,7 +61,7 @@ Also, alternate idea for the whole sacrificing cost:
 
 [Lun]: How about both blood and the soul thing. Satanic rituals!!!
 
-sudo:: I mean, if you're taking their SOUL using the [[BLADE OF POWER]], I would assume there's probably some bloodshed involved anyway?
+[Sudo]: I mean, if you're taking their SOUL using the [[BLADE OF POWER]], I would assume there's probably some bloodshed involved anyway?
 
 [Lun]: Haha yes stabby time!!
 

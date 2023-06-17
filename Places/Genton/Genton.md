@@ -22,6 +22,7 @@ alias: Boringsville
 # About
 
 ![[Pronunciation - Genton.webm]]
+\^ Pronunciation
 
 Genton (/‘gɪntən/ *GHIN-tən*, though more accurately transcribed as /'gɪnʔən/ *GHIN-ən*) is a small farming village where nothing much ever happens. There’s a general store, a couple restaurants, a church, and not much else. The youths, the few that there are, find life there so dull that they often refer to it pejoratively as “[[Genton#Boringsville|Boringsville]]”. But strange things have been happening lately: the animals have been attacking, people are disappearing, and all around there’s been a sinister feeling hanging in the air. #Cite/Game/Earthbound [gameRefType:: Earthbound/Setting]
 
