@@ -149,8 +149,8 @@ sudoMajor:: Oh, that's old, actually. I just haven't updated it with the newer i
 >
 >>[!note] Of course, the main thing with video games is that very often fun trumps realism. Verisimilitude doesn't matter if the game isn't fun.
 >
->Or maybe healing spells don't really "heal" you. They're more like first aid. They might stop bleeding and let you ignore the pain, but you're still technically injured.
-^first-aid
+>Or maybe healing spells don't really "heal" you. They're more like first aid. They might stop bleeding and let you ignore the pain, but you're still technically injured. ^first-aid
+
 And of course, HP is just an abstraction of your ability to keep going in a fight. What it's actually analogous to might not really matter.
 
 [Lun]: Alright, add "Conjure band-aid" to the spell list. Also maybe you can speed up time to accelerate natural healing (which would not work for curing paralysis or let's say losing a limb)? I guess in this game you just have to go visit an actual-to god doctor when you take too much damage. Kind of like the Pokecenters in pokemon, except that its a peoplecenter and you are the people.

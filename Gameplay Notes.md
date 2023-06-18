@@ -2,5 +2,5 @@ sudoMajor:: Will expand later, but here are all the notes so far where I've ment
 #majorChange #unseenByLun 
 
 ```dataview
-TABLE gameplay AS "Idea" FROM #Gameplay
+TABLE gameplay AS "Idea" FROM #Gameplay 
 ```

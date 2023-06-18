@@ -170,6 +170,12 @@ TABLE memeRefType as "Type of Reference"
 FROM #Cite/Meme 
 ```
 
+# Other
+```dataview
+TABLE otherRefType as "Type of Reference"
+FROM #Cite/Other 
+```
+
 # Unknown
 Feels like I'm referencing something, but idk what
 

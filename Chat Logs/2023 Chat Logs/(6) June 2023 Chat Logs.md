@@ -466,13 +466,11 @@ L:
 > This is how we exile AL
 
 S:
->I was thinking it would be funny if Luke could sell the Artifacts, but they go straight to CURSED AL if you do. They're worth a lot of money, so the player might have an incentive to do this, and, as we've already established, Luke's an idiot, so he would go along with it. (Heh, what if it's like OneShot and Luke talks to you? "Are you sure this is a good idea, $PlayerName? Well, okay... If you say so...")
+>I was thinking it would be funny if Luke could sell the Artifacts, but they go straight to CURSED AL if you do. They're worth a lot of money, so the player might have an incentive to do this, and, as we've already established, Luke's an idiot, so he would go along with it. (Heh, what if it's like OneShot and Luke talks to you? "Are you sure this is a good idea, $PlayerName? Well, okay... If you say so...") ^sell-the-artifacts
 
-^sell-the-artifacts
 #Gameplay 
-gameplay:: The player is made to feel like they're taking advantage of Luke's idiocy/naïveté.
 
-gameplay:: The player can choose to sell the Artifacts, but this has consequences.
+gameplay:: "The player is made to feel like they're taking advantage of Luke's idiocy/naïveté.", "The player can choose to sell the Artifacts, but this has consequences. ([[(6) June 2023 Chat Logs#^sell-the-artifacts|ref]])"
 
 L:
 > I like the idea of AL going shopping at the black market (the owl house flavour) and just finding some of his cursed artifacts. This should be implemented.

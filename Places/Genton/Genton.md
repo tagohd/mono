@@ -83,4 +83,15 @@ I like this version, but I'm not sure I'd call it "boring". Maybe Genton has a c
 [Lun]: The song won't play further than 0:02 for me!!! Let me hear it!!!!!
 [Sudo]: Here's a [SoundCloud](https://soundcloud.com/tagohd/boringsville-at-night/s-LbVe8duHr3Y?si=f4442dc81e304133a104ef06eaea22bd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) link. Maybe you should download the file again? It plays fine for me.
 
+## Alternate Idea
+![[Village_Theme_(Melancholy).mp3]]
+%%
+%%
+
+%%
+songTitleNew:: Village Theme (Melancholy)
+songRemarksNew:: I was originally going for "Song that plays when you come back later in the game and Genton has been razed", but I think it also kinda feels like a lullaby. Definitely less exciting than "Boringsville at Night". (Again, I wrote this not too long after I first wrote the original "Boringsville", but I never published it.)
+%%
+#chromaticChange #unheardByLun 
+
 #places #Genton #contains-music 
