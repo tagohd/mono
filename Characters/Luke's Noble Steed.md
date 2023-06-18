@@ -7,7 +7,7 @@ DOB: 2012-01-13
 Species: American Quarter Horse (*Equus ferus caballus*)
 Gender: Female (she/it)
 Pronouns: she/it
-Orientation: N/A
+Orientation: Lesbian, apparently
 Personality: Gentle and reliable. All around a good horse.
 MainGoal: "Whatever most horses' goals are, I guess. Not be eaten by dragons?"
 References: ["Horses (Real Life)", "Epona (The Legend of Zelda)"]
@@ -25,6 +25,10 @@ A bay mare named Pauline. A good, reliable horse, but just a normal horse noneth
 >Technically, she belongs to [[The Mothers Campbell|his parents]], but she's effectively Luke's horse. His parents may have their own horse(s). (Luke's parents must be pretty rich then.)
 
 [[Ednathrallor Verdensmorder|Edna]] is in love with her, but she can't reciprocate because she's a horse.
+
+sudoMajor:: The horse pines for another mare, and the dragon pines for a horse. The horse also pines to be nowhere near dragons. This, too, is yuri.
+#majorChange #unseenByLun 
+Priority:: 1
 
 %%
 sudoMinor:: Answered an unanswered question. (Who owns Pauline?)
