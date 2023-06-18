@@ -40,9 +40,9 @@ The toll of this spell is enormous. After enduring that stress, each time you ca
 [Sudo]: No, silly. Satan doesn't want gay blood because those are *his* people. So it has to be cishet blood.
 
 
-[Lun]: Oh, nice save. So is Satan an actual canon character in this story and is he an ally?
+[Lun]: Oh, nice save. So is Satan an actual canon character in this story and is he an ally? ^2618c6
 
-sudo:: Maybe Satan == [[Emperoress, The|The Emperoress]]?
+sudo:: Maybe Satan == [[Emperoress, The|The Emperoress]]? [[Longevity (Spell)#^2618c6|ref]]
 #reply [R:: 1]
 
 Also, alternate idea for the whole sacrificing cost:

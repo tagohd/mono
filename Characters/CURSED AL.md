@@ -164,8 +164,9 @@ Some more thoughts in a list:
 [Sudo]: I was thinking maybe the [[BEE]] comes from some Elemental Plane? And also the [[NEEDLE OF CALAGASH]] is on [[Campbell Farms]], but like, in the Upside Down. (Literally a needle in a haystack)
 
 [Lun]: Consider that since the bee is contributing the poison it would be entirely reasonable for it to be from a Poison Swamp. Besides that, how did the needle get on the Campbell Farms?! Are his moms actually powerful mages as well? Actually, I have something to say about this on the [[Legendary Artifacts]]
+^r5
 
-sudo:: Sorry, was the Stranger Things reference lost on you? It's on Campbell Farms, but on a separate plane of existence. I'm not sure if this is how planes work in D&D, but I'm imagining them somewhat like layers in Photoshop. Mostly, I just wanted to make the "needle in a haystack" joke, and Campbell Farms seemed like a good location for a haystack. Good call with the BEE being in the poison swamp, though. (continues...)
+sudo:: Sorry, was the Stranger Things reference lost on you? It's on Campbell Farms, but on a separate plane of existence. I'm not sure if this is how planes work in D&D, but I'm imagining them somewhat like layers in Photoshop. Mostly, I just wanted to make the "needle in a haystack" joke, and Campbell Farms seemed like a good location for a haystack. Good call with the BEE being in the poison swamp, though. (continues...) [[CURSED AL#^r5|ref]]
 
 >Actually, let me make sure we're on the same page wrt planes here. I'm thinking of it like a map. Latitude and longitude are the X and Y coordinates respectively. If we extend the map into 3 dimensions, the Z coordinate represents the plane of existence (I guess it technically already *is* in 3D, and the plane is more like the 4th dimension, but for the sake of simplicity, let's consider the planes as 2D for now). Let's also say the Material Plane extends from (-inf, -inf, 0) to (+inf, +inf, 0). So, if, for example, Campbell Farms is at (10.06475, -11.33150, 0), then the NEEDLE is at (10.06475, -11.33150, -3) or something. Does that track with your conception of planes?
 >

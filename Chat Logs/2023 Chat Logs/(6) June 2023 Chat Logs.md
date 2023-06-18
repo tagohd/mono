@@ -510,13 +510,14 @@ S:
 > "I have a lot of Wizard Debt, okay?"
 
 L:
->Bonus points if AL also CLEARLY stands out from the rest of the crowd by virtue of having an evil mage aura but Luke just doesn't notice or thinks its normal (I guess he doesnt know too much about magic)
+>Bonus points if AL also CLEARLY stands out from the rest of the crowd by virtue of having an evil mage aura but Luke just doesn't notice or thinks its normal (I guess he doesnt know too much about magic) ^al-ruru-wednesday
 
 S:
-> sudo:: spot the main character.jpg
+> sudo:: spot the main character.jpg [[(6) June 2023 Chat Logs#^al-ruru-wednesday|ref]]
 #reply [R:: 10]
 
 #Gameplay 
+gameplay:: AL can occasionally be spotted in the background at shops and/or he runs his own shop. [[(6) June 2023 Chat Logs#^al-ruru-wednesday|ref]]
 
 S:
 >> Jokes on Case as AL gets the artifacts in the end anyways. Luke is so big brain that none can understand his genious, especially not himself.
@@ -527,9 +528,11 @@ L:
 > Luke keeps them in his inventory like an idiot and AL just kinda snatches them? Maybe he pulls some cheap trick on Luke and he, of course, falls for it. Or he sends someone to take it from him. In the loop where James doesn't get killed (if were doing that), James could set it up so Luke loses the artefacts to AL, but if James is dead I imagine it's just some good old Luke Stupidity at work
 
 S:
-> sudo:: Maybe that could be combined with the scripted loss? AL wipes the floor with Luke AND takes the Artifacts from him. I'll also expand on this in the part where I mentioned the choices the player has with the Artifacts (I don't remember which article that was right now).
+> sudo:: Maybe that could be combined with the scripted loss? AL wipes the floor with Luke AND takes the Artifacts from him. I'll also expand on this in the part where I mentioned the choices the player has with the Artifacts (I don't remember which article that was right now). [[(6) June 2023 Chat Logs#^game-over|ref]]
 #reply [R:: 11]
+^game-over
 
 #Gameplay 
+gameplay:: There's a scripted game over against AL, and he takes any Artifacts in Luke's possession. [[(6) June 2023 Chat Logs#^game-over|ref]]
 
 #general #plot-ideas #character-ideas #place-ideas 
