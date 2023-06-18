@@ -18,6 +18,8 @@ Unlike most journeys hero, I think it's important that Luke's parents actually s
 >- Loretta: Moral support? Saves your game?
 #Gameplay 
 
+gameplay:: Luke's mothers act like real mothers and actually worry about him while he's on his quest to save the world. They might even try to help him from time to time. (Whether or not Luke wants them to is a different matter.)
+
 >[!question] [aq:: What does Luke call each of them?]
 >- Louise: Ma
 >- Loretta: Mom

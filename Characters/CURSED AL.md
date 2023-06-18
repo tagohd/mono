@@ -166,13 +166,13 @@ Some more thoughts in a list:
 [Lun]: Consider that since the bee is contributing the poison it would be entirely reasonable for it to be from a Poison Swamp. Besides that, how did the needle get on the Campbell Farms?! Are his moms actually powerful mages as well? Actually, I have something to say about this on the [[Legendary Artifacts]]
 ^r5
 
-sudo:: Sorry, was the Stranger Things reference lost on you? It's on Campbell Farms, but on a separate plane of existence. I'm not sure if this is how planes work in D&D, but I'm imagining them somewhat like layers in Photoshop. Mostly, I just wanted to make the "needle in a haystack" joke, and Campbell Farms seemed like a good location for a haystack. Good call with the BEE being in the poison swamp, though. (continues...) [[CURSED AL#^r5|ref]]
+sudo:: Sorry, was the Stranger Things reference lost on you? It's on Campbell Farms, but on a separate plane of existence. I'm not sure if this is how planes work in D&D, but I'm imagining them somewhat like layers in Photoshop. Mostly, I just wanted to make the "needle in a haystack" joke, and Campbell Farms seemed like a good location for a haystack. Good call with the BEE being in the poison swamp, though. (continues...) ([[CURSED AL#^r5|ref]])
 
 >Actually, let me make sure we're on the same page wrt planes here. I'm thinking of it like a map. Latitude and longitude are the X and Y coordinates respectively. If we extend the map into 3 dimensions, the Z coordinate represents the plane of existence (I guess it technically already *is* in 3D, and the plane is more like the 4th dimension, but for the sake of simplicity, let's consider the planes as 2D for now). Let's also say the Material Plane extends from (-inf, -inf, 0) to (+inf, +inf, 0). So, if, for example, Campbell Farms is at (10.06475, -11.33150, 0), then the NEEDLE is at (10.06475, -11.33150, -3) or something. Does that track with your conception of planes?
 >
 >Two other notes:
 >1. The X and Y axes are continuous, but the Z (planar) axis is discrete; you can't, e.g., go to (10.06475, -11.33150, 2.79625). That's just... not a thing.
->2. Because [[Teleport]] doesn't work the same way in MONO as it does in D&D, [[Plane Shift]] only permits travel along the Z axis. Your X and Y coordinates don't change. (Summoning [[The Emperoress]], as in [[2. Plot Overview (Again)]], is an exception.
+>2. Because [[Teleport]] doesn't work the same way in MONO as it does in D&D, [[Plane Shift]] only permits travel along the Z axis. Your X and Y coordinates don't change. (Summoning [[Emperoress, The|The Emperoress]], as in [[2. Plot Overview (Again)]], is an exception.
 #reply [R:: 5]
 
 - Alternate idea: The stasis dimension isn't in the physical plane, or in the mana plane, but somewhere in between. This means that he could more freely experiment with mana, but was constantly exposed to a low dose of free mana effects, eventually changing him quite dramatically.

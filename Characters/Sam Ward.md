@@ -27,6 +27,10 @@ Love interest for [Luke](Luke%20Campbell.md).
 [[4 - The Crossing of the First Threshold]]
 >Perhaps it will be a recurring theme that Luke will find something that reminds him of Sam.
 #Gameplay 
+^reminders-of-sam
+%%
+gameplay:: Perhaps it will be a recurring theme that Luke will find something that reminds him of Sam. ([[Sam Ward#^reminders-of-sam|ref]])
+%%
 
 [question:: What are some things that would remind Luke of Sam?] And are they directly connected to Sam (i.e. something they actually owned), or is it just like, "These are Sam's favorite flowers"? Maybe Sam is also very fond of [[CURSED AL'S CURSED ORB|chocolate oranges]]?
 

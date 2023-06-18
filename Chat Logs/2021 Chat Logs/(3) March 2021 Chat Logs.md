@@ -90,7 +90,7 @@ S:
 >https://youtu.be/zjImpr03L94 \[8-bit remix of "It's Not Unusual\] He's also like Mettaton EX because he's just doing that the whole fight. You cannot grasp the true form of Carlton's attack. ^al-mtt-ex
 
 #Gameplay 
-gameplay:: The boss fight against AL is deceptively hard. And also he dances the whole fight like MTT EX. [[(3) March 2021 Chat Logs#^al-mtt-ex|ref]]
+gameplay:: The boss fight against AL is deceptively hard. And also he dances the whole fight like MTT EX. ([[(3) March 2021 Chat Logs#^al-mtt-ex|ref]])
 
 L:
 >There's just one problem in having Carlton Banks as your sans - would anyone really think it would be an easy fight?

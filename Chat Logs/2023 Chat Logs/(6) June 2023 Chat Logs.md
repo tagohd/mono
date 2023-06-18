@@ -313,7 +313,7 @@ L:
 >luke: mama! youre trying to ruin my fun again, let me be! >:(\
 
 #Gameplay 
-gameplay:: Luke refuses to ask for hints. [[(6) June 2023 Chat Logs#^luke-plays-on-hard|ref]]
+gameplay:: Luke refuses to ask for hints. ([[(6) June 2023 Chat Logs#^luke-plays-on-hard|ref]])
 
 S:
 >Heh, what if that's a mechanic: you can try to call her to ask for a hint, but Luke will just be like, "I'm not doing that. I can figure this out on my own." ^luke-plays-on-hard
@@ -342,7 +342,7 @@ S:
 >Regardless (or especially) if he does not, in fact, got this
 >Or her "hints" are just stuff you can't actually do in the game. She tells you to brush your teeth or something ^bad-advice
 
-gameplay:: Luke's parents give hints that aren't actionable. [[(6) June 2023 Chat Logs#^bad-advice|ref]]
+gameplay:: Luke's parents give hints that aren't actionable. ([[(6) June 2023 Chat Logs#^bad-advice|ref]])
 
 L:
 >that should be a hidden mechanic which influences your attempts at trying to romance love interests
@@ -354,7 +354,7 @@ S:
 L:
 >finally listening to the "brush your teeth" advice gets luke a bf and becomes a major turning point in his character development ^minty-fresh
 
-gameplay:: Relationships are affected by Luke's oral hygiene [[(6) June 2023 Chat Logs#^minty-fresh|ref]]
+gameplay:: Relationships are affected by Luke's oral hygiene ([[(6) June 2023 Chat Logs#^minty-fresh|ref]])
 
 S:
 >You do get to talk to her, but not when she could give you an actual hint
@@ -377,7 +377,7 @@ S:
 L:
 >luke is both dumb and unlucky. poor guy
 
-gameplay:: Luke will never be able to talk to the mother that can actually give him useful advice. [[(6) June 2023 Chat Logs#^truth-is|ref]] 
+gameplay:: Luke will never be able to talk to the mother that can actually give him useful advice. Which mother he *does* talk to is decided randomly. ([[(6) June 2023 Chat Logs#^truth-is|ref]] )
 
 \[...\]
 
@@ -513,11 +513,11 @@ L:
 >Bonus points if AL also CLEARLY stands out from the rest of the crowd by virtue of having an evil mage aura but Luke just doesn't notice or thinks its normal (I guess he doesnt know too much about magic) ^al-ruru-wednesday
 
 S:
-> sudo:: spot the main character.jpg [[(6) June 2023 Chat Logs#^al-ruru-wednesday|ref]]
+> sudo:: spot the main character.jpg ([[(6) June 2023 Chat Logs#^al-ruru-wednesday|ref]])
 #reply [R:: 10]
 
 #Gameplay 
-gameplay:: AL can occasionally be spotted in the background at shops and/or he runs his own shop. [[(6) June 2023 Chat Logs#^al-ruru-wednesday|ref]]
+gameplay:: AL can occasionally be spotted in the background at shops and/or he runs his own shop. ([[(6) June 2023 Chat Logs#^al-ruru-wednesday|ref]])
 
 S:
 >> Jokes on Case as AL gets the artifacts in the end anyways. Luke is so big brain that none can understand his genious, especially not himself.
@@ -528,11 +528,11 @@ L:
 > Luke keeps them in his inventory like an idiot and AL just kinda snatches them? Maybe he pulls some cheap trick on Luke and he, of course, falls for it. Or he sends someone to take it from him. In the loop where James doesn't get killed (if were doing that), James could set it up so Luke loses the artefacts to AL, but if James is dead I imagine it's just some good old Luke Stupidity at work
 
 S:
-> sudo:: Maybe that could be combined with the scripted loss? AL wipes the floor with Luke AND takes the Artifacts from him. I'll also expand on this in the part where I mentioned the choices the player has with the Artifacts (I don't remember which article that was right now). [[(6) June 2023 Chat Logs#^game-over|ref]]
+> sudo:: Maybe that could be combined with the scripted loss? AL wipes the floor with Luke AND takes the Artifacts from him. I'll also expand on this in the part where I mentioned the choices the player has with the Artifacts (I don't remember which article that was right now). ([[(6) June 2023 Chat Logs#^game-over|ref]])
 #reply [R:: 11]
 ^game-over
 
 #Gameplay 
-gameplay:: There's a scripted game over against AL, and he takes any Artifacts in Luke's possession. [[(6) June 2023 Chat Logs#^game-over|ref]]
+gameplay:: There's a scripted game over against AL, and he takes any Artifacts in Luke's possession. ([[(6) June 2023 Chat Logs#^game-over|ref]])
 
 #general #plot-ideas #character-ideas #place-ideas 

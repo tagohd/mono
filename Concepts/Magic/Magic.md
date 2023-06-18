@@ -41,6 +41,9 @@ This isn't to say that only certain people can cast certain spells. It's just th
 
 [Sudo]: Oh! Maybe the "color" of your SOUL determines your spellcasting ability? Even though everyone is casting magic in the same fundamental way (channeling Mana from the Mana Plane, as opposed to, e.g., calling on the power of a god), maybe they manipulate the Mana in different ways depending on their spellcasting ability.
 #Gameplay ?
+
+gameplay:: "SOUL color determines spellcasting ability or vice versa. This seems unlikely to be implemented since we haven't decided that spellcasting abilities differ across mages. Furthermore, Luke's ability scores will probably be predetermined. Further-furthermore, will the SOUL even be shown?", "If the SOUL *is* shown, maybe there's a small chance that it's a different color than normal. Kinda like a FUN value event. Like, if your FUN value is 6, your SOUL is green, but for all other values, it's red. ([[Magic#^03cfb6|ref]])"
+
 %%
 #Cite/Game/Undertale #Cite/Game/Hollow-Knight 
 gameRefType:: Undertale/General
@@ -76,8 +79,9 @@ Maybe people aren't even aware that this is magic. It's just... a thing that you
 Furthermore, magic is kind of a last resort. Again, because of how dangerous it can be, even the most skilled users try to limit how often they use it.
 
 Maybe there are some in-game consequences, too. You've played OneShot, right? Maybe if you use magic too much, you can see it start to corrupt reality; weird glitchy things start showing up, and maybe certain areas become inaccessible. (Probably nothing that would soft-lock you unless you're *really* overusing it.) But it starts out subtle—most players might not even notice it—then ramps up the more you use it.
+^magic-not-even-once
 
-	Lun: Hmmm, the way I thought of it magic is pretty much completely safe to use if you know what you're doing (and don't intentionally go horse crazy with it). I do like the idea of the world getting corrupted though, OneShot good game. Maybe that could be an effect of free Mana instead (in addition to the immediate random effects it has)?
+[Lun]: Hmmm, the way I thought of it magic is pretty much completely safe to use if you know what you're doing (and don't intentionally go horse crazy with it). I do like the idea of the world getting corrupted though, OneShot good game. Maybe that could be an effect of free Mana instead (in addition to the immediate random effects it has)?
 
 [Sudo]: Okay, maybe it's not a "last resort" then. But maybe it's more like Warp in Star Trek. They could all be going Warp 9 if they wanted to (and if their warp engines were capable of it), but they collectively agreed to not go over Warp 5(?) because it turned out it was literally tearing apart the universe or something like that. (It's TNG S7E9, if you're interested. And then they kinda just forgot about it in later episodes lol.) #Cite/TV/Star-Trek-TNG [tvRefType: Star Trek TNG/General]
 [Sudo]: On second thought, maybe not. But even if it's not a last resort, it might not be a first resort either. Perhaps there just aren't that many practical spells. Or using magic is kind of a pain in the ass. Or a pain in the SOUL? (Haha, there's an idea: maybe some people don't like magic because they think it's like the SOUL-equivalent of smoking cigarettes. It's not actually, but that doesn't stop people from believing it.)
@@ -95,6 +99,8 @@ gameRefType:: OneShot/General
 %%
 
 Wouldn't that be something? A game that punishes you for using its magic system... Maybe it only does this if you forget to close the rift or something. But maybe the game doesn't actively remind you to close the rifts; you have to keep on top of that yourself. And, of course, maybe there are occasionally incentives to **_not_** close the rifts. #Gameplay 
+
+gameplay:: Diegetic glitches resulting from forgetting to seal rifts after casting spells. Otherwise being punished for using magic. Possible incentives for NOT closing rifts. ([[Magic#^magic-not-even-once|ref]])
 
 Also, something something Law of Equivalent Exchange.
 %%
@@ -144,7 +150,7 @@ sudoMajor:: Oh, that's old, actually. I just haven't updated it with the newer i
 >>[!note] Of course, the main thing with video games is that very often fun trumps realism. Verisimilitude doesn't matter if the game isn't fun.
 >
 >Or maybe healing spells don't really "heal" you. They're more like first aid. They might stop bleeding and let you ignore the pain, but you're still technically injured.
-
+^first-aid
 And of course, HP is just an abstraction of your ability to keep going in a fight. What it's actually analogous to might not really matter.
 
 [Lun]: Alright, add "Conjure band-aid" to the spell list. Also maybe you can speed up time to accelerate natural healing (which would not work for curing paralysis or let's say losing a limb)? I guess in this game you just have to go visit an actual-to god doctor when you take too much damage. Kind of like the Pokecenters in pokemon, except that its a peoplecenter and you are the people.
@@ -154,8 +160,14 @@ And of course, HP is just an abstraction of your ability to keep going in a figh
 [Lun]: Oh, you're ACTUALLY putting in DnD spells huh
 #Gameplay 
 
+gameplay:: You can heal yourself, but only to an extent. If you get hurt too badly, you need to see a doctor. ([[Magic#^first-aid|ref]])
+
 ### You can't teleport, but you CAN wavedash
 >[!question] If James is a paraplegic wizard, can't he just, like, fly and teleport and stuff?
->Let's just stick with "Magic doesn't work that way." [[Teleport|Teleportation]] just isn't a spell that exists. The best you can do is [[Evasion|teleport short distances]], kinda like a dash ability. [[Plane Shift]] and [[Astral Projection]] are different. #Gameplay 
+>Let's just stick with "Magic doesn't work that way." [[Teleport|Teleportation]] just isn't a spell that exists. The best you can do is [[Evasion|teleport short distances]], kinda like a dash ability. [[Plane Shift]] and [[Astral Projection]] are different. 
+
+#Gameplay 
+
+gameplay:: See [[Evasion]]. ([[Magic#You can't teleport, but you CAN wavedash|ref]])
 
 #general #concepts #magic #unanswered-questions 

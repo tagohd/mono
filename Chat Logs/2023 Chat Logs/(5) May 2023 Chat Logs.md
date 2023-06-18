@@ -518,7 +518,7 @@ S:
 >Isn't it like 01:30? ^classic-misdirection
 
 #Gameplay 
-gameplay:: The same jingle that plays when you acquire one of the [[Legendary Artifacts]] also plays when you acquire the [[Chocolate Orange]]. [[(5) May 2023 Chat Logs#^classic-misdirection|ref]]
+gameplay:: The same jingle that plays when you acquire one of the [[Legendary Artifacts]] also plays when you acquire the [[Chocolate Orange]]. ([[(5) May 2023 Chat Logs#^classic-misdirection|ref]])
 
 L:
 >it sure is!

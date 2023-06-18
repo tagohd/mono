@@ -66,11 +66,17 @@ sudoMajor:: If Luke is a pacifist crybaby like Vash, wouldn't that make the game
 >We could have him actively refuse to kill people. This would make the combat similar to Deltarune where the enemies just run away when their HP is too low. In this case, however, it's made obvious that it's Luke's choice to end the battle, not the enemies'. (He could also be like Niko OneShot and straight up tell the player when he doesn't want to do something.)
 >
 >Also, if he ever does kill someone (*cough cough* James), he feels really bad about it. *Really* bad. Like, physically sick. Even if they're a terrible person like James. Then he's less like a video game protagonist and more like a real person. I'm not speaking from personal experience here or anything, but I've been led to believe that killing someone has a tendency to really fuck you up in the head. #Gameplay 
+^ptsd
+
+gameplay:: Luke does NOT want to kill anyone, and he'll have a Very Bad Time (TM) if he does. ([[Luke Campbell#^ptsd|ref]])
 
 ## LukeVISION (TM)
 As a dogboy, Luke suffers from protanopia, or red-green colorblindness. Among other things, this causes him to mistake [[CURSED AL'S CURSED ORB]] for an ordinary [[chocolate orange]]. I mean, it's also because he's an idiot, but being colorblind isn't doing him any favors either. (A Legendary Artifact has some distinct vibes it gives off that Luke totally failed to pick up on.)
 
 This isn't directly revealed to the player (unless they're also colorblind, I guess). Like, the game is still colored normally. They just have to figure out that Luke is colorblind when he's told to pick up a blood-red ORB and grabs something orange instead. #Gameplay 
+^lukevision
+
+gameplay:: Show, don't tell when it comes to Luke's protanopia. ([[Luke Campbell#^lukevision|ref]])
 
 We can use [this site](https://www.color-blindness.com/coblis-color-blindness-simulator/) to simulate how Luke might see an object. (Put the pictures in the relevant article, not this one.)
 
@@ -106,6 +112,10 @@ This could also set up something of a "No, I am your father" moment when Luke fi
 ![[queen of england.jpeg]]
 #Cite/Movie/Megamind [movieRefType:: Megamind/Plot]
 And he's not even lying. Anyone can use any type of [[Magic#^03cfb6|magic]]. There is nothing special about Luke. Of course, Luke only focuses on that second part, and he completely loses his self-confidence.
+^tighten
+
+#Gameplay 
+gameplay:: There's a scripted game over against CURSED AL, and AL reveals that Luke was never THE CHOSEN ONE, and James has been manipulating him. ([[Luke Campbell#^tighten|ref]])
 
 I'm sure this represents *some* step on the Hero's Journey, but I'm not sure which one (probably "[[2.4 Atonement with the Father]]"). I just realized the *Star Wars* comparison I referenced in the [[README]] is only about *A New Hope* and not the entire trilogy; this is obviously more like *The Empire Strikes Back*.
 #Cite/Movie/Star-Wars 

@@ -71,6 +71,9 @@ Maybe [[Luke Campbell|Luke]] fights [[CURSED AL]] for the first time and is woef
 [Sudo]: Oh, it was: after you discover that Luke is [[LukeVISION (TM)|colorblind]], the game display changes to reflect that.
 [Sudo]: Funny coming up with these ideas when the game is not being made.
 #Gameplay 
+
+gameplay:: Case heroically sacrifices himself in the final battle against AL, which includes yet another scripted game over. ([[Case Weston#The Things He Does For Love|ref]])
+
 # Old Notes
 - He shows up near the end of Act I, first as an antagonist and later as a love interest?
 	- Maybe it's one-sided. However, Luke *does* have two hands...
