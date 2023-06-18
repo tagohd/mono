@@ -13,4 +13,7 @@ sudo:: Try this one: https://www.youtube.com/watch?v=GX-9wXFQRgA. Or just search
 ![[squidward.png]]
 #Cite/TV/SpongeBob [tvRefType:: SpongeBob/Places]
 
+sudoMajor:: Hey, wait, I just realized something: Squidward's on top of an elevator here. Elevators are also how you get to [[Eeby Deeby]]. Maybe if you fuck up really badly while trying to go to Eeby Deeby, you get sent to the ~~Shadow Realm~~ Mana Plane?
+#majorChange #unseenByLun 
+
 #places #mana-plane #mana #stub 
