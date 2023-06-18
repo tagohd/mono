@@ -1,9 +1,14 @@
 ---
 number headings: auto, first-level 1, max 6, 1.1, contents ^toc
 ---
-sudoMajor:: A place for all the "photos", especially references. (Question: Is this Dataviewable?)
+sudoMajor:: A place for all the "photos", especially references.
 Priority:: 5
 #majorChange #unseenByLun 
+
+>[!question] Is this Dataviewable?
+
+>[!question] *Should* this be in Dataview?
+>Maybe? It's kind of a pain in the ass doing it by hand.
 
 # 1 Contents ^toc
 
@@ -26,6 +31,7 @@ Priority:: 5
 	- [[#2.9 Loretta "Mama" Campbell|2.9 Loretta "Mama" Campbell]]
 	- [[#2.10 Louise "Ma" Campbell|2.10 Louise "Ma" Campbell]]
 	- [[#2.11 Elizabeth "Mom" Campbell|2.11 Elizabeth "Mom" Campbell]]
+		- [[#2.11.1 Reference Images|2.11.1 Reference Images]]
 	- [[#2.12 Grigori Mikhailovich Karstov|2.12 Grigori Mikhailovich Karstov]]
 	- [[#2.13 Greg Smith|2.13 Greg Smith]]
 	- [[#2.14 Steve the Royalty-Free Skeleton|2.14 Steve the Royalty-Free Skeleton]]
@@ -36,8 +42,14 @@ Priority:: 5
 	- [[#3.2 Plata|3.2 Plata]]
 		- [[#3.2.1 IMAS International HQ|3.2.1 IMAS International HQ]]
 			- [[#3.2.1.1 Reference Images|3.2.1.1 Reference Images]]
-	- [[#3.3 Mana Plane|3.3 Mana Plane]]
-			- [[#3.3.1.1 Reference Images|3.3.1.1 Reference Images]]
+	- [[#3.3 Rhapsody|3.3 Rhapsody]]
+	- [[#3.4 Mana Plane|3.4 Mana Plane]]
+			- [[#3.4.1.1 Reference Images|3.4.1.1 Reference Images]]
+	- [[#3.5 Eeby Deeby|3.5 Eeby Deeby]]
+		- [[#3.5.1 Reference Images|3.5.1 Reference Images]]
+- [[#4 Items|4 Items]]
+	- [[#4.1 BEE|4.1 BEE]]
+		- [[#4.1.1 Reference Images|4.1.1 Reference Images]]
 
 # 2 Characters
 ## 2.1 Luke Campbell
@@ -68,6 +80,9 @@ Various sketches of Luke.
 ### 2.1.1 Reference Images
 ![[case_weston.jpg]]
 Front: [[Case Weston|Case]], Rear: [[Luke Campbell|Luke]]
+
+![[luke and elizabeth.png]]
+Luke and [[Elizabeth Campbell|Elizabeth]]
 
 ## 2.2 Sam Ward
 ![[404.png]]
@@ -142,6 +157,9 @@ JSS again
 
 ## 2.11 Elizabeth "Mom" Campbell
 ![[404.png]]
+### 2.11.1 Reference Images
+![[luke and elizabeth.png]]
+[[Elizabeth Campbell|She]] does this to [[Luke Campbell|Luke]] a lot.
 
 ## 2.12 Grigori Mikhailovich Karstov
 ![[404.png]]
@@ -176,9 +194,16 @@ Uh... maybe [[Plata]] is a little bit bigger than this.
 #### 3.2.1.1 Reference Images
 ![[Elks Lodge.jpg]]
 
-## 3.3 Mana Plane
+## 3.3 Rhapsody
+![[Rhapsody_slightlysmaller.png]]
+[[Luke Campbell|Luke]] pondering [[CURSED AL'S CURSED ORB|THE ORB]] outside of [[Rhapsody]]
+
+![[rhapsody_art2.png]]
+Early concept art of Rhapsody?
+
+## 3.4 Mana Plane
 ![[404.png]]
-#### 3.3.1.1 Reference Images
+#### 3.4.1.1 Reference Images
 ![[squidward.png]]
 Reasons you got sent to the [[Mana Plane]] #1: Your elevator exploded when you were trying to get to [[Eeby Deeby]]
 
@@ -187,5 +212,21 @@ Reasons you got sent to the Mana Plane #2: You're really bad at alchemy
 
 ~~Reasons you got sent to the Mana Plane #3: you forgot to make a left turn at Albuquerque.~~
 
----
+## 3.5 Eeby Deeby
+![[404.png]]
+
+### 3.5.1 Reference Images
+![[eeby deeby.jpg]]
+[[Eeby Deeby]] is accessible via [[CURSED AL'S CURSED ELEVATOR]]
+
+# 4 Items
+## 4.1 BEE
+![[404.png]]
+### 4.1.1 Reference Images
+![[B.png]]
+According to all known laws of aviation, there is no way a [[BEE]] should be able to fly. It's wings are too small to get its fat little body off the ground. The BEE, of course, flies anyway, because BEES don't care what humans think is impossible.
+
+![[not-the-bees.gif]]
+Obtaining the BEE can be difficult.
+
 #refdoc 
