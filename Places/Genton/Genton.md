@@ -86,11 +86,13 @@ I like this version, but I'm not sure I'd call it "boring". Maybe Genton has a c
 ## Alternate Idea
 ![[Village_Theme_(Melancholy).mp3]]
 %%
+songTitle:: Village Theme (Melancholy)
+songRemarks:: I was originally going for "Song that plays when you come back later in the game and Genton has been razed", but I think it also kinda feels like a lullaby. Definitely less exciting than "Boringsville at Night". (Again, I wrote this not too long after I first wrote the original "Boringsville", but I never published it.)
 %%
 
 %%
 songTitleNew:: Village Theme (Melancholy)
-songRemarksNew:: I was originally going for "Song that plays when you come back later in the game and Genton has been razed", but I think it also kinda feels like a lullaby. Definitely less exciting than "Boringsville at Night". (Again, I wrote this not too long after I first wrote the original "Boringsville", but I never published it.)
+songRemarksNew:: I was originally going for "Song that plays when you come back later in the game and Genton has been razed", but I think it also kinda feels like a lullaby. Definitely less exciting than "Boringsville at Night". (Again, I wrote this not too long after I first wrote the original "Boringsville", but I never published it.) (You can delete all of this "new" metadata after you've listened to it. I'm doing it this way so that it still shows up in [[0. File overview#4 Files with Music]] but "Chromatic Changes" only shows new songs.)
 %%
 #chromaticChange #unheardByLun 
 
