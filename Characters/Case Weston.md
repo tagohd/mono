@@ -3,7 +3,7 @@ alias: Case
 Name: Case Weston
 Category: Main
 Role: Deuteragonist?
-DOB: 2001-07-15
+DOB: 2002-07-15
 Species: "Maybe: Wolverine (*Gulo gulo*)"
 Gender: Male (Trans?) (he/they)
 Pronouns: he/they
@@ -72,7 +72,7 @@ Maybe [[Luke Campbell|Luke]] fights [[CURSED AL]] for the first time and is woef
 [Sudo]: Funny coming up with these ideas when the game is not being made.
 #Gameplay 
 
-gameplay:: Case heroically sacrifices himself in the final battle against AL, which includes yet another scripted game over. ([[Case Weston#The Things He Does For Love|ref]])
+gameplay:: "Case heroically sacrifices himself in the final battle against AL, which includes yet another scripted game over. ([[Case Weston#The Things He Does For Love|ref]])", "Different endings, most of which boil down to &quot;Just Monika&quot;", "The game display changes to reflect Luke's protanopia after that fact is revealed. (Maybe this only makes sense if the game is in first-person.)"
 
 # Old Notes
 - He shows up near the end of Act I, first as an antagonist and later as a love interest?
