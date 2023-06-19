@@ -42,11 +42,11 @@ Or maybe CURSED AL is manipulating James into manipulating Luke? James knows whe
 [Sudo]: "Oh, pwease don't destwoy us, Mr. Wizard! Think about all the weally cool spells you could cast with us!"
 [Sudo]: And James is like, "Hmmm, that's a good point."
 
-[Lun]: I do like the idea of James being a little evil. Corrupt that old man! Also, see what I answered on [[James's Excuse]]
+[Lun]: I do like the idea of James being a little evil. Corrupt that old man! Also, see what I answered on [[(Talk) James Redawić]]
 
 #Cite/Lit/LOTR [litRefType:: LOTR/Items] (??? Only in the sense that the Artifacts have a corrupting influence over their possessor. Imagine if The One Ring talked to its bearer like that lol.)
 
->[!question] [[James's Excuse|Why doesn't James just get the artifacts himself?]]
+>[!question] [[(Talk) James Redawić|Why doesn't James just get the artifacts himself?]]
 >I think we've agreed it's because he's in a wheelchair?
 >%% [aq:: Why doesn't James just get the artifacts himself?] %%
 

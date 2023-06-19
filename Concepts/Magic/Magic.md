@@ -131,7 +131,7 @@ tvRefType:: FMAB/General
 
 [Lun]: You really want magic to be classified huh. Fine, fine! Baka...
 
-sudoMajor:: Oh, that's old, actually. I just haven't updated it with the newer ideas in [[James's Excuse]], i.e. magic not being a secret and being more like electricity.
+sudoMajor:: Oh, that's old, actually. I just haven't updated it with the newer ideas in [[(Talk) James Redawić]], i.e. magic not being a secret and being more like electricity.
 #majorChange #unseenByLun 
 
 ## WINDMILLS DO NOT WORK THAT WAY! GOOD NIGHT!

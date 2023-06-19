@@ -1,8 +1,9 @@
----
-focus: False
-aq:: Why doesn't James just get the Artifacts himself?
----
->[!tldr]
+# James's Excuse
+>[!tldr]+
+>Status: Resolved
+>%%[aq:: Why doesn't James just get the Artifacts himself?]%%
+
+>[!tldr] Old TL;DR
 >Still this:
 >![[wizard that knows fuck all.jpg|300]]
 >But possible solutions:
@@ -69,7 +70,7 @@ movieRefType:: Star Wars/Character
 >Or we can just stick with "Magic doesn't work that way." [[Teleport|Teleportation]] just isn't a spell that exists. The best you can do is [[Evasion|teleport short distances]], kinda like a dash ability. [[Plane Shift]] and [[Astral Projection]] are different. #Gameplay 
 ^wavedash
 
-gameplay:: You can't teleport, but you can wavedash. See [[Evasion]]. ([[James's Excuse#^wavedash|ref]])
+gameplay:: You can't teleport, but you can wavedash. See [[Evasion]]. ([[(Talk) James Redawić#^wavedash|ref]])
 
 [Lun]: Here's an addition to my "Luke misinterpreted James" thing that might work: James did not intend to gather all the artifacts at all. He just wanted Luke to bring him the one (1) from [[Rhapsody]] to check if it's still there, maybe study it (and get a little addicted to its evil power?). Then James died shortly after, and Luke was like "Guess I have to collect all the rest now to complete my quest!". And then maybe the reason James didn't want to collect that one himself is that it would have warned AL that he's on to his funny business (whereas a random dogboy taking it is just another unlucky thursday).
 
@@ -101,7 +102,7 @@ This of course raises some questions:
 	    James, on the contrary, is now acting purely out of hatred and is just an all-around evil guy. 
 ^true-ending
 
-gameplay:: The player can choose to use the [[BFS 10000]] to get the "true ending", or to resurrect a character of their choice. ([[James's Excuse#^true-ending|ref]])
+gameplay:: The player can choose to use the [[BFS 10000]] to get the "true ending", or to resurrect a character of their choice. ([[(Talk) James Redawić#^true-ending|ref]])
 
 [Sudo]: So, are we saying that using the [[BFS 10000]] *doesn't* actually destroy the universe and/or harm Sam?
 

@@ -15,9 +15,12 @@ AppearanceNotes:
 OtherNotes:
 SortOrder: 1
 ---
+[[(Talk) Luke Campbell|Talk]]
+
 #Cite/Movie/Star-Wars [movieRefType:: Star Wars/Character Name]
 
-sudoMinor:: Made Luke 17 so that Case can still be old enough to have a job but it's less weird for him to have a relationship with Luke.
+sudoMinor:: Made Luke 17 so that Case can still be old enough to have a job but it's less weird for him to have a relationship with Luke. Also realized if Case just graduated high school, he should be 18, not 19 (unless he got held back).
+
 sudoMinor:: Changed Luke's birthday to 22 October, the day I first started writing MONO.
 #minorChange #unseenByLun 
 

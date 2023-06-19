@@ -1,3 +1,4 @@
+[[Luke Campbell|Article]]
 # Age
 >[!tldr]+
 >Status: Resolved
@@ -5,6 +6,7 @@
 >Luke is 17 and a high school junior (birthday: 22 October 2003). Sam is a couple months younger (05 December 2003). Case is 18 (15 July 2002), and has just graduated high school.
 >
 >There are no plans to include any sexually explicit scenes in the game. I don't want to write that.
+>%%[aq:: How old are Luke, Sam, and Case?]%%
 
 (Carried over from [[Sam Ward#Characterizations]])
 * \[Sam\] is about Luke's age, so... 16-17? (I haven't really decided how old Luke is, either.)

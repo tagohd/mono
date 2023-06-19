@@ -135,7 +135,7 @@ On the other hand, it'd be funny in a fucked up kind of way if he's just, like, 
 ---
 Lun
 
-Casting "fuck off into another plane of existence" seems like a pretty major spell, so the curse _could_ be caused by that. The problem is that with the current magic system, the backlash from casting overly powerful spells is very much localized to where you cast the spell as it's caused by the free [[Mana]] originating from the rift where you cast the spell. This means in this scenario that AL wouldn't have been hit by it, as the spell he cast zooped him away. James would have gotten hit instead. That could be pretty cool going with the "James hates AL" angle ([[James's Excuse]]) as it gives him another reason to be so pissed (and potentially _actually be crippled_, giving him another reason not to collect the artefacts himself), but doesn't explain why AL is cursed yet. ^fb3aaa
+Casting "fuck off into another plane of existence" seems like a pretty major spell, so the curse _could_ be caused by that. The problem is that with the current magic system, the backlash from casting overly powerful spells is very much localized to where you cast the spell as it's caused by the free [[Mana]] originating from the rift where you cast the spell. This means in this scenario that AL wouldn't have been hit by it, as the spell he cast zooped him away. James would have gotten hit instead. That could be pretty cool going with the "James hates AL" angle ([[(Talk) James Redawić]]) as it gives him another reason to be so pissed (and potentially _actually be crippled_, giving him another reason not to collect the artefacts himself), but doesn't explain why AL is cursed yet. ^fb3aaa
 
 [Sudo]: Ooh, that's a good idea.
 
@@ -150,7 +150,7 @@ Some more thoughts in a list:
 
 [Lun]: The moff 2.0...
 
-- AL's body remaining in the physical realm slightly clashes with my thoughts in [[James's Excuse]]. Not inconsolably, but if James can find AL's body he can probably figure out what happened and get him back by using [[Dispel Magic]].
+- AL's body remaining in the physical realm slightly clashes with my thoughts in [[(Talk) James Redawić]]. Not inconsolably, but if James can find AL's body he can probably figure out what happened and get him back by using [[Dispel Magic]].
 
 [Sudo]: Fuck, I forgot about Dispel Magic. Maybe that's another spell that just doesn't exist here. You don't dispel magic, you just seal the rift. That, or [[Astral Projection]] doesn't work the same way it does in D&D, which is already something I've been leaning towards.
 [Sudo]: But if it does work similarly to how it does in D&D, then AL probably went to some fortified location prior to casting it to make sure nothing happens to his physical body. I believe I mentioned this in the article on [[Sam Ward|Sam]].

@@ -30,7 +30,7 @@ Already mentioned that everyone is queer, but now we also have... d i s a b i l 
 	- And an idiot. Is that a disability? [question:: Is idiot a disability?]
 		[Lun]: If you want everyone to have a disability and this counts, you don't have any further work!
 - Maybe [[CURSED AL|CURSED AL's]] curse is that he has ADHD/is ADHD-coded
-- Maybe [[James Redawić|James]] is paraplegic or otherwise can't walk very far. (See: [[James's Excuse]])
+- Maybe [[James Redawić|James]] is paraplegic or otherwise can't walk very far. (See: [[(Talk) James Redawić]])
 	  [Lun]: Also works with what I suggested in [[CURSED AL#^fb3aaa]]!
 - [[Sam Ward|Sam]] has IBD (not to be confused with IED, IUD, or IBS)
 	- They also don't have a [[SOUL]] [question:: Is "not having a SOUL" a disability? In this world, it could be.]
