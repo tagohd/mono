@@ -88,13 +88,16 @@ I like this version, but I'm not sure I'd call it "boring". Maybe Genton has a c
 %%
 songTitle:: Village Theme (Melancholy)
 songRemarks:: I was originally going for "Song that plays when you come back later in the game and Genton has been razed", but I think it also kinda feels like a lullaby. Definitely less exciting than "Boringsville at Night". (Again, I wrote this not too long after I first wrote the original "Boringsville", but I never published it.)
+#lun [lunR::7]
+L: I like that we now have boringsville, boringsville (more melancholic) and boringsville (so very  very melancholic). Maybe luke just gets progressively more nostalgic for his hometown after leaving it for like 3 days and having all his friends dying around him (im so sorry for calling this town boring can we please go back to boring please - luke, presumably)
 %%
+
+
 
 %%
 songTitleNew:: Village Theme (Melancholy)
 songRemarksNew:: I was originally going for "Song that plays when you come back later in the game and Genton has been razed", but I think it also kinda feels like a lullaby. Definitely less exciting than "Boringsville at Night". (Again, I wrote this not too long after I first wrote the original "Boringsville", but I never published it.) (You can delete all of this "new" metadata after you've listened to it. I'm doing it this way so that it still shows up in [[0. File overview#4 Files with Music]] but "Chromatic Changes" only shows new songs.)
 
 %%
-#chromaticChange #unheardByLun 
 
 #places #Genton #contains-music 

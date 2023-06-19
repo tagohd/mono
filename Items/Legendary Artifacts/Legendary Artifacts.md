@@ -34,13 +34,11 @@ L:
 >My idea of the ordeal is that the prototype [[BFS 10000]] was actually just the [[BFS 10000]] but without a bunch of the artefacts stabilising the whole ordeal. So maybe only the [[BLADE OF POWER]] to steal the souls and [[CURSED AL'S CURSED ORB|THE ORB]] to hold them. This is enough to do some big spell casting, but because it's a bunch of separate, (dissipating) SOULs, the whole thing is just kind of a mess. So for the real version, AL needs all of the [[Legendary Artifacts]] to create a single, stable, big fucking soul. ^r6
 
 sudo:: That's basically how I interpreted it in [[2. Plot Overview (Again)#^prototype]]. ([[Legendary Artifacts#^r6|ref]])
-#reply [R:: 6]
 
 L:
 >Which reminds me, why is a single big SOUL more stable than a bunch of separate ones? Or can the ORB only hold a single SOUL? But then that would mess with my idea of the mechanism of the prototype version. ^r7
 
 sudo:: I recognize this is something of a non-answer, but maybe that's just how SOULS work? In other words, the answer is, "It's magic"? Perhaps there's some inherent property of SOULS that makes [[BFS 10000#^parallel-casting|parallel casting]] impossible that's solved via SOUL fusion. ([[Legendary Artifacts#^r7|ref]])
-#reply [R:: 7]
 
 >The original reason was that the single big one was still connected to a living host while for the prototype version AL just killed the fools and tried using their SOULs in a hurry (which is also why he messed up the second time).
 >But that clashes with the "Sam is only required for the fusion reaction" idea. Though I think you mostly wanted that so Sam could steal the [[BFS 10000]] in the final battle with AL? Maybe we can somehow keep that with Sam still functioning as the living vessel? Or we change the workings of the prototype. Or we invent another reason why the full-artefact version works better than the few-artefact version. Hold on, aren't some of the artefacts ([[CHALICE OF SUDMORANTH]], [[BEE]]) specifically made to work with the living vessel idea? So can we even thrash that at this point? ^r8
@@ -55,6 +53,9 @@ sudo:: I mean, the big problem is that AL needs some reason to kidnap Sam, but t
 >
 >Hmmm... I think we really need to pin down exactly what Sam's role in the [[BFS 10000]] is before we can determine what each of the Artifacts do.
 #reply [R:: 8]
+
+#lun [lunR::8]
+L: Thinking about the mechanism of the [[BFS 10000]] again... A difficult nut to crack 
 
 L:
 >Third and last artefact related point: What if AL made all of them? At the start he only had a few, but then to save James he goes into another realm to create the others? Just an idea I had because a bunch of the artefacts have a use case _very_ specific to the [[BFS 10000]]. I'd say, either that or we go with the option that the artefacts had been created earlier with the specific purpose of creating the [[BFS 10000]], but then who did that and why did the knowledge on how to make it get lost. And how did AL get them all eventually? ^r9

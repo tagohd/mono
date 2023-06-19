@@ -16,6 +16,5 @@ IncludeInTable: True
 Communion wine? Nah, SOUL JUICE. (Wait, aren't those kinda the same thing?)
 
 sudoMinor:: A new artifact.
-#minorChange #unseenByLun 
 
 #items #legendary-artifact #the-chalice #stub 
