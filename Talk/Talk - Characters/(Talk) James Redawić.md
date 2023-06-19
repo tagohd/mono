@@ -1,9 +1,27 @@
 [[James Redawić|Article]]
+
+# Why does James want the Artifacts?
+sudoMajor:: We've established why James can't get the Artifacts himself, but what does he intend to do when Luke brings them to him?
+#majorChange #unseenByLun 
+>[!tldr]
+>Status: Open
+>
+>We've established why James can't get the Artifacts himself, but what does he intend to do when Luke brings them to him? This might be easier to answer once we've figured out what the Artifacts do.
+>
+>%%[question:: We've established why James can't get the Artifacts himself, but what does he intend to do when Luke brings them to him?]%%
+
+Not "What does he tell Luke to convince him to get the Artifacts?" That's pretty easy. ("You need to get the Artifacts to defeat CURSED AL and save your friend.") But what's *his* goal here? What is he going to do when he gets them?
+
+Obviously, he wants revenge on AL. How does acquiring the Artifacts help with that? Is he going to destroy them so that AL can't build the [[BFS 10000]]? Does he intend to build his own (or a different device that also requires the Artifacts)? If so, to what end?
+
+~~Alternatively: What if James *wants* to die? He doesn't even want revenge. He wants to build his own BFS 10K because he *can't* die otherwise. (Either he doesn't know that *Longevity* didn't work, or it actually did work)~~ Not doing this one.
+
+
 # James's Excuse
 >[!tldr]+
 >Status: Resolved
 >
->James is physically incapable of getting the Artifacts himself because he is in a wheelchair. Curing paralysis is beyond the capabilities of [[Magic]], as is [[Teleport]].
+>James is physically incapable of getting the Artifacts himself because he is a paraplegic. Curing paralysis is beyond the capabilities of [[Magic]], as is [[Teleport]].
 >
 >%%[aq:: Why doesn't James just get the Artifacts himself?]%%
 
@@ -122,5 +140,4 @@ gameplay:: The player can choose to use the [[BFS 10000]] to get the "true endin
 
 [Lun]: That seems like a good reason for AL's obsession with the whole saving thing, and this may also be a good start for their individual backstories. Why where they evil in the first place? Maybe they used [[Longevity (Spell)|some fucked up magic to gain functional immortality (i.e. not aging)]] and had to sacrifice some innocents to accomplish that. Maybe they used like a prototype-BFS 10000 and AL was able to perfect it to the real deal during his stasis?
 
-
-#general #james-redawic #answered-questions 
+#general #james-redawic #answered-questions #talk #unanswered-questions 

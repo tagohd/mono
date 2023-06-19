@@ -64,3 +64,4 @@ Sudo:
 >Correct. 1) It's not that kind of game. 2) I wouldn't be comfortable writing that regardless of the characters' ages. I guess I'll change everyone's ages again?
 
 
+#general #luke-campbell #talk 
