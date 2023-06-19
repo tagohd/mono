@@ -1,3 +1,4 @@
+[[James Redawić|Article]]
 # James's Excuse
 >[!tldr]+
 >Status: Resolved
