@@ -1,6 +1,9 @@
 # James's Excuse
 >[!tldr]+
 >Status: Resolved
+>
+>James is physically incapable of getting the Artifacts himself because he is in a wheelchair. Curing paralysis is beyond the capabilities of [[Magic]], as is [[Teleport]].
+>
 >%%[aq:: Why doesn't James just get the Artifacts himself?]%%
 
 >[!tldr] Old TL;DR
