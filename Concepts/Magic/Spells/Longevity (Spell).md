@@ -43,8 +43,11 @@ The toll of this spell is enormous. After enduring that stress, each time you ca
 
 sudo:: Maybe Satan == [[Emperoress, The|The Emperoress]]? 
 
-#lun [lunR::1]
+
 [Lun]: Oh shit, that's a wild idea. But how does Satan work in MONO??? Some sort of [[Mana]] demon or something? Or OP mages can use magic to "ascend"? Maybe they're the first one to have casted [[Longevity (Spell)|Longevity]]?? Though that kind off subtracts from AL being the ancient evil super-powerful mage. I'm not sure how to make another one work in the story.
+
+sudo:: Bro, [[Emperoress, The|The Emperoress]] was your idea XD
+#reply [R:: 1]
 
 Also, alternate idea for the whole sacrificing cost:
 - You don't need blood to cast the spell, you just need a lot of mana
