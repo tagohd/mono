@@ -1,4 +1,5 @@
 ---
+alias: THE BLADE
 Location: Unknown
 Purpose: Severs the connection between SOUL and body.
 Description: Zoinks! It's the gay blade!

@@ -533,4 +533,215 @@ S:
 #Gameplay 
 gameplay:: There's a scripted game over against AL, and he takes any Artifacts in Luke's possession. ([[(6) June 2023 Chat Logs#^game-over|ref]])
 
+# 2023-06-19
+S:
+>Hey, so, one of the Artifacts is a BEE, right? What if:
+>![[not-the-bees.gif]]
+>Did I ever tell you about the D&D campaign we did in high school? I don't even remember the premise, but one of the PCs was a chaotic neutral Druid, and he could summon animals, so he spent the whole session asking us, "You wanna buy some bats?"
+>
+>Well, I bought the bats. They attacked me.
+>![[dead dove.gif]]
+>![[huge mistake.gif]]
+>There are a lot of relevant Arrested Development gifs
+>![[beads.gif]]
+>![[Insect Plague.jpeg]]
+>Also, this could potentially be a spell in MONO. Or maybe having the BEE in your possession acts like Glowing Womb. Drains your Mana, but spawns nasty little bugses that attack your enemies
+>🅱️
+
+L:
+>I know who this situation calls for
+>https://www.youtube.com/watch?v=PYtXuBN1Hvc
+
+S:
+>Excellent
+
+L:
+>Also, you don't really have a mana bar with our magic system, so im afraid pulling a glowing womb will be difficult
+
+S:
+>Fine, it draws on HP then. Or you literally just throw a handful of bees at them, I guess
+
+L:
+>on top of that, luke doesnt seem like much of a responsible parent
+
+S:
+>Clearly, the solution is yet more bees
+>That's the artifact now. The BRIEFCASE OF BEES
+
+L:
+>thats beautiful
+
+S:
+>As opposed to a singular, very large BEE
+
+L:
+>sometimes you just need more bees
+
+S:
+>[[BFS 10000#^7d9fde]]
+>I guess this is what I was thinking of when I said it drains your Mana. Unless I've made a fundamental misunderstanding of how the magic system works, but you didn't correct me, so I'm hoping I didn't. But, yeah, I'm not sure that really works with a Glowing Womb type thing. Reduces how much Mana your SOUL can tolerate proportional to how many INFERNAL BEES have spawned?
+>![[Screenshot of BEE article.jpeg]]
+>RIP to this guy, I guess. He has been replaced by DR BEES
+
+L:
+>I think I wrote _somewhere_ that you need to spend mana ASAP or it can cause your SOUL to break or something
+
+S:
+>Or maybe he IS DR BEES
+
+L:
+>he could be dr bees
+
+S:
+>Yeah, I think I vaguely recall you mentioning that, actually
+
+L:
+>I think a capacitor is a really good analogy for how a SOUL works, it's just that the electricity in this case is very unstable and trying to kill you
+
+S:
+>As opposed to normal electricity, which is 100% without hazards
+
+L:
+>none at all
+>would store in my SOUL for prolonged durations
+
+S:
+>I mean, that's also kinda what I was getting at with the overcharge analogy. Hold it too long and you start taking damage/ your SOUL asplode
+
+L:
+>alright thats fair
+>i guess one could do that
+
+S:
+>You get a unique Game Over screen if you do that
+>![[YOUR HEAD A SPLODE.png]]
+
+L:
+>you also have a 1% of breaking your SOUL and fucking up your save file by losing access to magic
+>(if you save i guess)
+>which also leads to the SOULless challenge runs of the game
+
+S:
+>![[Determination.gif]]
+>POV: You held the Mana too long
+
+L:
+>Didn't need it anyway - Luke
+
+S:
+>Hey, look, I'm just like Sam now
+>Maybe
+
+L:
+>maybe?!
+
+S:
+>I haven't completely decided if they have a SOUL or not
+
+L:
+>fair
+>oh also
+>ive been busy yesterday so havent looked at obsidian further
+>but wanted to comment
+>how the frisbees does sam know how to case Reverse Fate
+>just to comment on one of the many plotholes you promised
+>cast* darn
+
+S:
+>Yeah, Case definitely doesn't know
+
+L:
+>gotta rub it in huh
+
+S:
+>Literally didn't even notice until you pointed it out lol
+>But to answer your question
+>![[uhhh.jpg]]
+
+L:
+>yeah ill put that in the vault to think about
+
+S:
+>Alternatively:
+>![[wizard that knows fuck all.jpg]]
+
+L:
+>very useful image indeed
+
+S:
+>I guess it made more sense when AL was using them as a puppet? Like, AL was casting Reverse Fate through them, and they just kinda did an enby-in-the-middle attack or something
+>SQL injection?
+>Refer to previous image
+
+L:
+>and AL was casting Reverse Fate to ress James then?
+
+S:
+>Spell Query Language
+>Yes
+
+L:
+>if the SOUL is still connected to sam, they could still perform some enby-in-the-middle shenanigans
+>and if we take the needle/poison route, they would be?
+>\*still connected to the soul
+>maybe it kind of works like a cloud computer. the orb just connects to Sam's SOUL
+
+S:
+>![[I GUESS.png]]
+>Another useful image
+>Hmmm, maybe that's not the tone I was going for
+
+L:
+>no, no, its understandable
+>it can be hard dealing with the fact that one of your characters is become a cloud computer
+>man i really should start to read my messages before i send them
+
+S:
+>Now I am become Cloud, reverser of fate
+
+L:
+>injecter of SQL
+>hmmm, i feel like the idea of the big bad trying to use SOULs to become more powerful but then failing because the SOULs start rebelling is somehow familiar
+
+S:
+>UPDATE reverseFate SET outcome = 'Good Ending' WHERE caster = 'CURSED AL';
+>Or maybe more like:
+>DROP TABLE SOULS;
+>Gee, I wonder what could possibly have inspired me there
+
+L:
+>it's fine, our story is novel due to the addition of SQL injection
+>and more queers
+>and a horse
+>thats also queer?!
+
+S:
+>Their full legal name is Sammich'); DROP TABLE SOULS;-- Ward
+
+L:
+>lol
+
+S:
+>Little Sammy Tables, they call them
+>Maybe the horse is queer? The horse is not sentient, but that doesn't mean it can't be queer
+
+L:
+>we have gay penguins
+>im 50% sure one of my hens is an angry lesbian
+>the horse can be queer
+
+S:
+>The horse pines for another mare, and the dragon pines for a horse. The horse also pines to be nowhere near dragons. This, too, is yuri
+
+L:
+>id like that to be in the final credits or something
+>put that in the vault its important
+
+S:
+>Forget the Hero's Journey. This is what MONO is *really* about
+
+L:
+>its a very rich story
+
+
 #general #plot-ideas #character-ideas #place-ideas 

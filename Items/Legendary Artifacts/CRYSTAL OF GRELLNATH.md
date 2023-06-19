@@ -1,4 +1,5 @@
 ---
+alias: THE CRYSTAL
 Location: A spooky cave?
 Purpose: Light reflected through this crystal into the vessel's eyes starts the SOUL fusion reaction in the vessel's body
 Description: Ooh, shiny!

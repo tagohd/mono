@@ -1,4 +1,5 @@
 ---
+alias: THE STAFF
 Location: Unknown
 Purpose: Acts as a conduit for SOUL energy from THE ORB. Also makes for a pretty sweet bō staff.
 Description: An ornately carved staff made of wood from a rare tree.
