@@ -52,12 +52,11 @@ L:
 >Or maybe that's not what the NEEDLE does at all. Maybe because *Longevity* and *[[Reverse Fate]]* require so much mana, you need this specialized NEEDLE to seal the rift. (Wouldn't it need to be one of the Artifacts AL originally had then? Also, [[BFS 10000#^needle-ref|when you first suggested that one of the artifacts be a needle]], I got the impression that you meant more like a syringe than a sewing needle.) Instead, maybe THE BLADE has to be coated in [[BEE]] venom, and that slows the rate of decay of the SOULS. (So, then, what's the CHALICE for? Or maybe it shouldn't be a chalice at all. I only chose that because chalices seem to be fairly archetypal artifacts, e.g. The Holy Grail.)
 >
 >Hmmm... I think we really need to pin down exactly what Sam's role in the [[BFS 10000]] is before we can determine what each of the Artifacts do.
-#reply [R:: 8]
 
 L: Thinking about the mechanism of the [[BFS 10000]] again... A difficult nut to crack
 
 sudo:: Indeed
-#reply 
+#reply [R:: 6]
 
 L:
 >Third and last artefact related point: What if AL made all of them? At the start he only had a few, but then to save James he goes into another realm to create the others? Just an idea I had because a bunch of the artefacts have a use case _very_ specific to the [[BFS 10000]]. I'd say, either that or we go with the option that the artefacts had been created earlier with the specific purpose of creating the [[BFS 10000]], but then who did that and why did the knowledge on how to make it get lost. And how did AL get them all eventually? ^r9

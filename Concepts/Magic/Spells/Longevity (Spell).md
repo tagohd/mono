@@ -41,7 +41,7 @@ The toll of this spell is enormous. After enduring that stress, each time you ca
 
 [Lun]: Oh, nice save. So is Satan an actual canon character in this story and is he an ally? ^2618c6
 
-sudo:: Maybe Satan == [[Emperoress, The|The Emperoress]]? 
+[Sudo]: Maybe Satan == [[Emperoress, The|The Emperoress]]? 
 
 
 [Lun]: Oh shit, that's a wild idea. But how does Satan work in MONO??? Some sort of [[Mana]] demon or something? Or OP mages can use magic to "ascend"? Maybe they're the first one to have casted [[Longevity (Spell)|Longevity]]?? Though that kind off subtracts from AL being the ancient evil super-powerful mage. I'm not sure how to make another one work in the story.
