@@ -1,7 +1,9 @@
 [[CURSED AL'S CURSED ORB|Article]]
 # Luke is an idiot
 >[!tldr]+
->Maybe [[Luke Campbell|Luke]] isn't an idiot as much as he's just naïve. As seen in [[Destroy Legendary Artifact]], he knows the [[Chocolate Orange]] isn't really THE ORB
+>Status: Resolved
+>
+>Maybe [[Luke Campbell|Luke]] isn't an idiot as much as he's just naïve (he's still a little bit of an idiot, though). As seen in [[1.4 The Crossing of the First Threshold#Wherein Luke and Case Find THE ORB|1.4 The Crossing of the First Threshold]], he knows the [[Chocolate Orange]] isn't really THE ORB. He was just joking. But he really is [[LukeVISION (TM)|colorblind]].
 
 Main idea from [[(5) May 2023 Chat Logs#THE ~~CLAW~~ ORB|May 2023 chat logs]].
 Cf: [[Luke Campbell#Various Luke Characterizations|Various Luke Characterizations]], [[The Story So Far#^6a412b|The Story So Far]]
@@ -27,4 +29,4 @@ No, wait, he's still an idiot. Just less of an idiot. Imagine if the chocolate o
 
 [Lun]: Yeah, I don't think color blindness is much of an excuse for mistaking a chocolate orange with a powerful cursed artifact, but it's at least _something_ you could cut Luke some slack with. Mostly just dumb though.
 
-sudo:: That's what I was getting at, yes.
+[Sudo]: That's what I was getting at, yes.

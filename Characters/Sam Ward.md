@@ -13,6 +13,8 @@ MainGoal: ["Not be captured by [[CURSED AL]], I guess?", "They're just trying to
 References: ["Cloth (Hollow Knight)???", "Noelle Holiday (Deltarune)", "Kronk (The Emperor's New Groove)"]
 Notes:
 SortOrder: 2
+Focus: True
+FocusComment: Do they have a SOUL or not? This may be determined by solving [[BFS 10000]].
 ---
 # Sam, THE INNOCENT ONE
 Love interest for [Luke](Luke%20Campbell.md).
@@ -23,6 +25,8 @@ Love interest for [Luke](Luke%20Campbell.md).
 
 >[!question] Why did CURSED AL take their SOUL?
 >Maybe they don't actually have a SOUL, and that's why they're important to CURSED AL's plan. (See: [[BFS 10000]]) So, he didn't just take their SOUL, he straight up kidnapped them.
+
+question:: Do they have a SOUL or not?
 
 [[4 - The Crossing of the First Threshold]]
 >Perhaps it will be a recurring theme that Luke will find something that reminds him of Sam.
