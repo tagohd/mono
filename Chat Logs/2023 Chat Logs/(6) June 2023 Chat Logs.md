@@ -702,6 +702,7 @@ S:
 L:
 >injecter of SQL
 >hmmm, i feel like the idea of the big bad trying to use SOULs to become more powerful but then failing because the SOULs start rebelling is somehow familiar
+^ZmluYWxl
 
 S:
 >UPDATE reverseFate SET outcome = 'Good Ending' WHERE caster = 'CURSED AL';
