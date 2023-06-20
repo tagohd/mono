@@ -512,7 +512,7 @@ L:
 
 S:
 > sudo:: spot the main character.jpg ([[(6) June 2023 Chat Logs#^al-ruru-wednesday|ref]])
-#reply [R:: 10]
+#reply [R:: 2]
 
 #Gameplay 
 gameplay:: AL can occasionally be spotted in the background at shops and/or he runs his own shop. ([[(6) June 2023 Chat Logs#^al-ruru-wednesday|ref]])
@@ -527,7 +527,7 @@ L:
 
 S:
 > sudo:: Maybe that could be combined with the scripted loss? AL wipes the floor with Luke AND takes the Artifacts from him. I'll also expand on this in the part where I mentioned the choices the player has with the Artifacts (I don't remember which article that was right now). ([[(6) June 2023 Chat Logs#^game-over|ref]])
-#reply [R:: 11]
+#reply [R:: 3]
 ^game-over
 
 #Gameplay 

@@ -15,6 +15,4 @@ IncludeInTable: True
 # About
 Communion wine? Nah, SOUL JUICE. (Wait, aren't those kinda the same thing?)
 
-sudoMinor:: A new artifact.
-
 #items #legendary-artifact #the-chalice #stub 
