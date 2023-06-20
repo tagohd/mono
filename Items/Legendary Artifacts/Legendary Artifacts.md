@@ -55,7 +55,7 @@ L:
 
 L: Thinking about the mechanism of the [[BFS 10000]] again... A difficult nut to crack
 
-sudo:: Indeed
+sudo:: Indeed. And yet, it seems like the most important nut right now since a lot of other questions hinge on answering this one.
 #reply [R:: 6]
 
 L:
