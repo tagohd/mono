@@ -23,9 +23,4 @@ The spell damages objects in the area and ignites flammable objects that aren't 
 >[!warning]
 >We at [[Institute for the Magical Arts & Sciences|IMAS]] see no legitimate use for this spell outside of a wartime situation. As advocates for peace across the world, IMAS members are strictly forbidden from military service (except as conscientious objectors).
 
-%%
-sudoMinor:: Tagging the ones that have little bits of worldbuilding.
-#minorChange #unseenByLun 
-%%
-
 #Spells/Major

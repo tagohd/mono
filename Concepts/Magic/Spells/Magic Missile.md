@@ -23,9 +23,4 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 >[!warning]
 >[[Institute for the Magical Arts & Sciences|IMAS]] understands then need for personal protection, so this spell is not forbidden. But please note that you may still be charged with assault if you target a person with this spell. In the event that you are facing criminal charges after using this spell for legitimate self-defense, IMAS members may be eligible for legal representation at a discounted rate. Contact your local IMAS hall for more information.
 
-%%
-sudoMinor:: Tagging the ones that have little bits of worldbuilding.
-#minorChange #unseenByLun 
-%%
-
 #Spells/Minor

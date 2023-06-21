@@ -26,9 +26,4 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 >[!note]
 >This is one of the few reliable healing spells. Healing magic is extremely complicated. Most magic use in medicine tends to center more around creating raw materials. For reasons unknown, infectious diseases and chronic conditions tend to resist magical treatment. Many of IMAS's most prominent members are dedicated to researching this.
 
-%%
-sudoMinor:: Tagging the ones that have little bits of worldbuilding.
-#minorChange #unseenByLun 
-%%
-
 #Spells/Minor 

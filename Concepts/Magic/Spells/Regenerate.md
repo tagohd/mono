@@ -24,9 +24,4 @@ You touch a creature and stimulate its natural healing ability. The target regai
 >[!warning]
 >[[Institute for the Magical Arts & Sciences|IMAS]] advises you to seek professional medical evaluation after using this spell.
 
-%%
-sudoMinor:: Tagging the ones that have little bits of worldbuilding.
-#minorChange #unseenByLun 
-%%
-
 #Spells/Major 

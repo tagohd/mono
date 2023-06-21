@@ -16,7 +16,4 @@ OtherNotes: Does *not* want to be called Liz. Ever.
 SortOrder: 11
 ---
 
-sudoMinor:: New article
-#minorChange #unseenByLun 
-
 #character #elizabeth-campbell

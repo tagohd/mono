@@ -13,9 +13,4 @@ The farm operated by [[The Mothers Campbell]]. [[Luke Campbell|Luke]] helps out 
 
 #Cite/Game/Mother3 [gameRefType:: Mother 3/Setting]
 
-%%
-sudoMinor:: New note! It's a stub, though. Answered some unanswered questions, at least.
-#minorChange #unseenByLun 
-%%
-
 #places #Genton/Campbell-Farms #answered-questions 

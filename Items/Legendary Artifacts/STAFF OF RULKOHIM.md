@@ -13,7 +13,4 @@ IncludeInTable: True
 
 Oh, wait, it's a stick. And [[Luke Campbell|Luke]] is a dogboy. This might not end well.
 
-sudoMinor:: New artifact
-#minorChange #unseenByLun 
-
 #items #legendary-artifact #the-staff #stub 

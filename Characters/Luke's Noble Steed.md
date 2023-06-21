@@ -30,9 +30,4 @@ sudoMajor:: The horse pines for another mare, and the dragon pines for a horse. 
 #majorChange #unseenByLun 
 Priority:: 1
 
-%%
-sudoMinor:: Answered an unanswered question. (Who owns Pauline?)
-#minorChange #unseenByLun 
-%%
-
 #character #the-horse #ma-and-pa-campbell #luke-campbell #the-dragon #answered-questions 

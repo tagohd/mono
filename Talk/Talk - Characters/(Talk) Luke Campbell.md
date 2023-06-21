@@ -112,11 +112,6 @@ gameplay:: Luke does NOT want to kill anyone, and he'll have a Very Bad Time (TM
 >There are no plans to include any sexually explicit scenes in the game. I don't want to write that.
 >%%[aq:: How old are Luke, Sam, and Case?]%%
 
-sudoMinor:: Made Luke 17 so that Case can still be old enough to have a job but it's less weird for him to have a relationship with Luke. Also realized if Case just graduated high school, he should be 18, not 19 (unless he got held back).
-
-sudoMinor:: Changed Luke's birthday to 22 October, the day I first started writing MONO.
-#minorChange #unseenByLun 
-
 (Carried over from [[Sam Ward#Characterizations]])
 * \[Sam\] is about Luke's age, so... 16-17? (I haven't really decided how old Luke is, either.)
 

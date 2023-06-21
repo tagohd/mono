@@ -9,9 +9,4 @@
 >[!question] [aq:: Have James and Luke met previously?]
 >Probably not, unless we really want to lean into the time-loop thing? I don't think so, though.
 
-%%
-sudoMinor:: Answered some unanswered questions.
-#minorChange #unseenByLun 
-%%
-
 #general #luke-campbell #james-redawic #act-1 #plot-outline #answered-questions 
