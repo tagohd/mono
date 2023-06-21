@@ -5,7 +5,7 @@
 His bond with [[Sam Ward|Sam]] is so strong that it allows him to track their SOUL to [[CURSED AL]]. Luke’s SOUL is also quite powerful itself, allowing him to use [[Magic]], but it’s his bond with Sam that truly gives him strength.
 
 >[!bug]
->It hasn't been decided whether Sam actually has a [[SOUL]].
+>issue:: It hasn't been decided whether Sam actually has a [[SOUL]].
 
 ## Various Luke Characterizations
 >[!tldr]
@@ -28,9 +28,9 @@ His bond with [[Sam Ward|Sam]] is so strong that it allows him to track their SO
 >- Case is working against Luke to acquire THE ORB for The Emperoress (he's actually working *with* Luke)
 >
 >Unclear:
->- Does the player know Luke wants to eat the chocolate orange?
->- How many people are in Luke's party when they are in Rhapsody?
->- Why does Luke feel he has to hide the fact that he is a dogboy?
+>- [issue:: Does the player know Luke wants to eat the chocolate orange?]
+>- [issue:: How many people are in Luke's party when they are in Rhapsody?]
+>- [issue:: Why does Luke feel he has to hide the fact that he is a dogboy?]
 
 >[!success]+ Included
 >Main idea: Luke was fully aware [[CURSED AL'S CURSED ORB|the Orb]] was made of chocolate and wanted to eat it from the start
@@ -50,7 +50,7 @@ His bond with [[Sam Ward|Sam]] is so strong that it allows him to track their SO
 >- It may seem counterintuitive that his parents are helping him eat the semi-poisonous food. It turns out they do love him but they are simply also idiots and also went on the same quest when they were young. So now they want to help him too!
 
 >[!bug]+
->Luke's quest is not (primarily) about obtaining chocolate. He can disguise the fact that he's a dogboy, but perhaps he learned to do so for some other reason. As far as Luke's parents are aware, he is on a quest to save Sam, but they may still have taught him how to hide his dogness.
+>issue:: Luke's quest is not (primarily) about obtaining chocolate. He can disguise the fact that he's a dogboy, but perhaps he learned to do so for some other reason. As far as Luke's parents are aware, he is on a quest to save Sam, but they may still have taught him how to hide his dogness.
 
 >[!success]+ Included
 >- For some reason he gets asked to help on the quest to recover the cursed orb. Somehow he also knows that it’s made of chocolate (there’s also some really good lore reason for the orb to be made of chocolate)
@@ -86,6 +86,7 @@ His bond with [[Sam Ward|Sam]] is so strong that it allows him to track their SO
 ## Other Notes
 >[!bug]
 >sudoMajor:: If Luke is a pacifist crybaby like Vash, wouldn't that make the game too similar to Undertale? #majorChange #unseenByLun 
+>%% [issue:: If Luke is a pacifist crybaby like Vash, wouldn't that make the game too similar to Undertale?] %%
 - Imagine if Vash the Stampede were a short king. And a dogboy. #Cite/TV/Trigun98 [tvRefType:: Trigun/Character]
 	- Goofy ~~blond~~ guy that doesn't look like he could easily fuck you up, but he can. He just chooses not to.
 	- Tragic backstory?
@@ -172,4 +173,4 @@ Sudo:
 >Correct. 1) It's not that kind of game. 2) I wouldn't be comfortable writing that regardless of the characters' ages. I guess I'll change everyone's ages again?
 
 
-#general #luke-campbell #talk 
+#general #luke-campbell #Talk/Character #issues
