@@ -1,15 +1,14 @@
 [[James Redawić|Article]]
 # Open Issues
+
+# Closed Issues
 ## Why does James want the Artifacts?
 >[!tldr]
->Status: Pending approval
+>Status: Resolved
 >
->[question:: We've established why James can't get the Artifacts himself, but what does he intend to do when Luke brings them to him?] This might be easier to answer once we've figured out what the Artifacts do.
+>aq:: We've established why James can't get the Artifacts himself, but what does he intend to do when Luke brings them to him?
 >
->Maybe he needs the [[BFS 10000]] to be able to cast [[Wizard Divorce]].
-
-sudoMajor:: We've established why James can't get the Artifacts himself, but what does he intend to do when Luke brings them to him?
-#majorChange #unseenByLun 
+>He needs the [[BFS 10000]] to be able to cast [[Wizard Divorce]]. And then he's going to kill AL and probably a bunch of other people, too.
 
 Not "What does he tell Luke to convince him to get the Artifacts?" That's pretty easy. ("You need to get the Artifacts to defeat CURSED AL and save your friend.") But what's *his* goal here? What is he going to do when he gets them?
 
@@ -17,7 +16,6 @@ Obviously, he wants revenge on AL. How does acquiring the Artifacts help with th
 
 ~~Alternatively: What if James *wants* to die? He doesn't even want revenge. He wants to build his own BFS 10K because he *can't* die otherwise. (Either he doesn't know that *Longevity* didn't work, or it actually did work)~~ Not doing this one.
 
-# Closed Issues
 ## James's Excuse
 >[!tldr]+
 >Status: Resolved

@@ -1192,4 +1192,103 @@ S:
 L:
 >not sure you can even contain bees in one of those
 
+S:
+>Shhh... magic
+
+L:
+>of course
+
+S:
+>![[dr-bees-bee.gif]]
+>Oh wow there was actually a gif of that
+>Fuckin tiny gif but still
+
+L:
+>![[bees-annoying.gif]]
+>this is also a good one
+
+S:
+>I forgot about that one
+
+L:
+[^Re: Idk how that works actually. I guess AL gets to the BEE first?]
+>reminds me of responding to this
+>luke will actually do it, he's just screaming at you for the entirety of the mission?
+
+S:
+>![[briefcase.gif]]
+>Man, idk which one is funnier
+>Briefcase or just a fucking jar
+
+L:
+>jar inside of a briefcase?
+
+S:
+>It's several jars inside a briefcase
+>I'm sure there's a picture of that but I couldn't find one
+
+S:
+[^Re: luke will actually do it, he's just screaming at you for the entirety of the mission?]
+>Idk, I feel like it should have actual consequences
+>I don't know what to search to find the kind of picture I'm looking for
+
+L:
+>jars inside of a briefcase?...
+>your "AL gets to it first" line is fine then i think
+>which reminds me, is he getting them himself now?
+>case used to be his minion until we turned him into a magic institution thing guy
+
+S:
+>Not exactly what I was thinking of, but close enough
+>![[briefcase.jpg]]
+
+L:
+>(you open the briefcase)
+>(there's various sorts of containers, all holding numerous BEES)
+
+S:
+>You get it
+
+S:
+[^Re: which reminds me, is he getting them himself now?]
+>![[uhhh.jpg]]
+
+L:
+>maybe Case does it, in which case he sends it to the IMS (is that what it was called?), which is how AL gets it
+
+S:
+>I mean, I was kinda thinking in at least one timeline, AL already has most of the Artifacts
+>Because what else would he have been doing for the last 23 years?
+
+L:
+>working out how to do the whole living vessel thing, i suppose?
+
+\[...\]
+
+L:
+>to go back to MONO real quick
+>i had a small idea
+>what if the story changes in the second loop because James remembers everything because he / his SOUL is the one that cast Reverse Fate
+
+S:
+>Ooh, interesting
+>So maybe the second loop is the one where he doesn't die
+
+L:
+>exactly
+>which does mean you dont get to learn a lot of magic in the first loop
+>at least not high level
+>but AL is supposed to wipe the floor with you anyways
+
+S:
+>That's exactly what I was about to say
+
+L:
+>and keeping some spells for the second loop can unlock new areas etc
+
+S:
+>You're going into the fight woefully unprepared
+>So it's kinda like a Metroidvania but with a time loop?
+
+
 #general #plot-ideas #character-ideas #place-ideas 
