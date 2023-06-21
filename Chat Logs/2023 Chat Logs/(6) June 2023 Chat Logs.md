@@ -533,7 +533,7 @@ S:
 #Gameplay 
 gameplay:: There's a scripted game over against AL, and he takes any Artifacts in Luke's possession. ([[(6) June 2023 Chat Logs#^game-over|ref]])
 
-# 2023-06-19
+# 2023-06-18
 S:
 >Hey, so, one of the Artifacts is a BEE, right? What if:
 >![[not-the-bees.gif]]
@@ -744,5 +744,452 @@ S:
 L:
 >its a very rich story
 
+# 2023-06-19
+S:
+>Just realized something. If the prototype didn't use all of the Artifacts, then James (and by extension, Luke) should only know about *those* Artifacts.
+>(I'm messaging you this because I'm not sure what article it should go in yet.)
+>I guess "Legendary Artifacts" would be a good fit, lol
+>Actually, I'll put it in ~~BFS 10000#Prototype~~ [[(Talk) Legendary Artifacts#Why doesn't AL already have most of the Artifacts?]]
+
+S:
+>If we want to make the game really dark, I thought of a way we might be able to do that.
+>What if James *wants* to die?
+>What does that say about AL, that he's willing to kill others to save someone who doesn't even want to live?
+>And James doesn't even want revenge. He wants to build his own BFS 10K because he *can't* die otherwise. (Either he doesn't know that Longevity didn't work, or it actually did work)
+>Yeah, you know what, I don't think I want to do that. I was thinking what if it's a "right to die" situation. James is in a lot of pain/still hasn't gotten over suddenly being disabled after spending two centuries not being disabled, and then we go "But look! All these other disabled characters are thriving! You don't have to kill yourself!" and the true ending is "everybody lives", but I feel like that cheapens the situations of real people who are seeking assisted suicide. Plus, I'm not sure I could write it so that it comes across as "assisted suicide is okay" and not "if you're disabled you should just kys"
+>I mean, I probably could, but I'm also worried about willful misinterpretation. Perhaps it's better not to even open myself up to that. (Especially if my target audience is the "piss on the poor" reading comprehension website)
+>It's irrelevant anyway. Obviously, the TRUE true ending involves convincing Pauline that Edna is not going to eat her
+
+\[...\]
+
+L:
+>while i agree that making james suicidal would be an interesting angle for the story, i dont know if it would be fun to write
+
+\[...\]
+
+S:
+>Agree that "James wants to die" is too depressing. Like, I don't mind the story having some dark moments, but that's maybe a bit too much
+
+L:
+>Well, there is one way... [https://www.youtube.com/watch?v=LACbVhgtx9I](https://www.youtube.com/watch?v=LACbVhgtx9I)
+
+S:
+>Lol
+
+# 2023-06-20
+S:
+>Not sure if this really solves anything, but I was thinking it would be kind of a funny subversion if Luke straight up refused to do what you told him sometimes because not only is he a video game protagonist, but he's also a dog(boy), so he should be particularly inclined to follow orders
+
+L:
+>should be inclinced to follow orders or shouldn't be??
+>also, idea for repo organization: maybe just have one big working file with active discussions sorted by file (with headers so you can easily navigate) and when we figure something out we update the file itself? and maybe archive the discussions somewhere at the bottom of the file?
+>so pretty much all updates/replies happen there and you just browse that file because either that person replied (discussion ongoing) or updated the file itself (peer review completed)
+>possible problems:
+>- file becomes way too big
+>- not easy when you just wanna add something to a file but its not really for discussion? (like a new song or age of a character of whatever)
+>- what when you just make a new file
+>i guess it can work in tandem with the current system?
+
+S:
+>Should be, but isn't. Perhaps he's not very well trained
+>That's kinda what I'm doing with the Talk folder? At least, moving finished discussions there and keeping ongoing ones in the current files, but, yeah, one file for all discussions could end up rather large
+>Maybe we should tag the ones that are actively being worked on/have issues that still need to be addressed? Which is also kinda what I was trying to do with the Focus tags
+>Though in at least one case, I actually started a new discussion in the talk page for James
+>We still need to figure out what _he_ wants to do with the Artifacts, but maybe that will be easier to solve when we figure out what the Artifacts are actually capable of
+
+L:
+>oh ok, somehow missed the "subversion" part
+>some dogs are like that though
+>a fair number of them id dare say
+
+S:
+>This is true
+>Maybe that's a bit of a mischaracterization, actually. I feel like "willfully disobeying commands" is a trait more commonly associated with smarter dogs, but I guess it also depends on how you define dog intelligence
+
+L:
+>with the chocolate orb scene in rhapsody we _have_ already established that he's a whats-that-in-your-mouth-(pause)-NO! kinda dogboy
+
+S:
+>Lol
+>There is one other problem, though: having him refuse to follow the player's commands might potentially conflict with the idea that he's supposed to be naïve/overly trusting, unless it's something that only happens later in the game. Maybe after he finds out that James lied to him? All this assumes that we're even acknowledging the player as a separate entity, which is still yet to be decided
+
+S:
+>Hmmm, maybe the player isn't directly acknowledged (at least at first), and Luke instead refers to them as "\[his\] instincts" or "this voice inside \[his\] head that tells \[him\] what to do"
+>And maybe whenever there's a choice, one of the options represents Luke's choice? Might not even be explicitly called such—could just be the default option  
+>Importantly, it's not necessarily the correct choice
+>But it could be something the game keeps track of: how many times your choice aligned with what Luke would have chosen
+>If timesPlayerDisagreedWithLuke > x AND timesPlayerMadeObjectivelyBadChoices > y then Luke might stop listening to you
+>But if Luke is the one making the bad choices (or thinks that he is), then...
+>Idk
+>He gets depressed?
+>I feel like either way he's going to have some sort of existential crisis
+
+S:
+[^Re: also, idea for repo organization: maybe just have one big working file with active discussions sorted by file (with headers so you can easily navigate) and when we figure something out we update the file itself? and maybe arch]
+>Oh, I think I might have misunderstood that at first. So, the notes themselves are basically canon, and the discussions are held in a separate document until we decide the discussion is closed
+>Uh... might be able to do that
+>Almost feels like it might be easier to just create a second vault?
+>Maybe not. Not sure you can link files across multiple vaults
+
+\[2.5 hours later\]
+
+S:
+>oh my god cleaning up all the files to _only_ have canon stuff is so much work
+
+S:
+>Just had an idea for why James needs the Artifacts
+>The repeated failures to cast Longevity reduced James's tolerance of Mana, so he needs the BFS 10000 to be able to cast a really powerful spell
+>What spell?
+>Wizard Divorce
+>They weren't just gay married. They were gay wizard married. Gay evil wizard married, no less
+>There's no "'til death do us part" in those vows (especially since they weren't planning on dying)
+>Even though AL was declared dead in absentia, they're still technically married
+>James has to cast Wizard Divorce to sever their matrimonial bonds permanently
+>(It doesn't matter that he's also married to Grigori. We've already established that there are no laws against bigamy with the Mothers Campbell.)
+
+# 2023-06-21
+L:
+[^Re: Wizard Divorce]
+>my idea was that he needed the artefacts to kill AL but this is funnier
+>maybe both?
+>add injury to insult
+
+L:
+[^Re: oh my god cleaning up all the files to only have canon stuff is so much work]
+>you dont have to do that if its too much work, it was just a suggestion!
+
+S:
+>Divorce then kill
+>It's too late, I have already begun
+
+L:
+[^Re: Divorce then kill]
+>im honestly starting to feel bad for AL
+
+L:
+[^Re: It's too late, I have already begun]
+>sasuke...
+
+S:
+>Everyone loves sympathetic villains, right?
+
+L:
+>and i certainly love me a good "the guy you thought was cool is actually a bit of a bitch and the evil guy is actually kind of a cool guy"
+
+S:
+>And yet, I feel like we're still no closer to solving how the damn BFS 10000 works
+>How much does it actually need to be solved? Can we just say it's magic and leave it at that?
+>No, I won't be satisfied with that
+>Nvm
+
+L:
+>I think we have the main lines at least
+>
+>- GOAL: Make big ol' SOUL to cast big ol' spells
+>- METHOD:
+>    - Steal some SOULs (requires: SWORD)
+>    - Store SOULs (requires: ORB)
+>    - Fuse SOULs / Make them work in parallel (requires: ? part of ORB?)
+>    - Stabilise SOUL(s) (requires: BEE?)
+>    - Connect to SOUL(s) (requires: Stick?)
+>    - Success!
+
+S:
+>I kinda like the idea that Sam doesn't have a SOUL, but I also like the idea that AL just randomly showed up in their house
+
+\[...\]
+
+S:
+>Okay, so the main thing we need to figure out is [[CHALICE OF SUDMORANTH|THE CHALICE]]?
+>![[Table of Artifacts.png]]
+>I'm thinking maybe it's just not a chalice
+>Like I said, I only chose that because it seems like an archetypal artifact
+>Maybe it requires a shrubbery instead?
+
+L:
+>ni!
+
+S:
+>Oh, wait, I've got it
+>Briefcase
+>The briefcase and the BEE are separate artifacts
+>They must be combined into the BRIEFCASE FULL OF BEES
+>Or I guess it could be a CHALICE FULL OF BEES
+
+L:
+>A chalice full of bees you say...
+
+S:
+>What's this? A SOUL stealing device without any BEES? My CHALICE FULL OF BEES should put an end to that!
+>Sam: Ah! The situation has only been made worse by the addition of yet more bees!
+
+L:
+>do the bees simply chill in the chalice until asked to leave?
+
+S:
+>Only if the chalice is filled with bee calming smoke
+>Not an easy task given smoke's tendency to spread out
+
+L:
+>i feel like the original intention for the LEGENDARY ARTIFACTS should be related to the BEES
+
+S:
+>AL thinks it will let him steal peoples SOULS, but it's actually a summoning ritual for BEES
+>It's the BEE FS 10000
+>That's the problem with working off 800 year old manuscripts
+>Some things get lost in translation
+>That or The Emperoress is just a massive troll
+
+L:
+>the emperoress is a beekeeper
+
+S:
+>[^Re: Okay, so the main thing we need to figure out is THE CHALICE?]
+>I feel like I need to make all of the descriptions memey or all of them serious
+
+L:
+>![[how-bout-both-both-is-good.gif]]
+
+S:
+>Two of these are going to be easy for Luke. The hard part will be convincing him to relinquish them
+>He comes back with THE ORB or THE STAFF and James has to be like, "DROP IT"
+>Luke "No Take Only Throw" Campbell
+>Pffft, THE CHALICE actually holds, like, heartworm medication or something
+>Luke: I don't want THE CHALICE Case: But there's a treat in there! Luke: A treat, you say?
+
+L:
+>you get an achievement if you specifically keep these 2 artifacts
+>TRUE DOGBOY
+
+S:
+>![[truly excellent.jpg]]
+>So, we got:
+>
+    - Ball
+    - Sharp stick
+    - Stick
+    - Cup of treats?
+    - Rock (kinda like a ball?)
+    - Bee (bad)
+    - Skinny sharp stick
+>Luke: Idk what I was worried about, this quest shit easy
+
+L:
+>I tried to make Sam's role a bit clearer in this thing
+>
+>- GOAL: Make big ol' SOUL to cast big ol' spells
+>
+>- ATTEMPT #1:
+    - Steal some SOULs (requires: SWORD)
+    - Store SOULs (requires: ORB)
+    - Fuse SOULs (requires: ARTIFICIAL SOUL (inside ORB?))
+    - Connect to SOUL(s) (requires: Stick?)
+    - Uh oh, this thing is kinda unstable!
+>
+>- ATTEMPT #2:
+    - Steal some SOULs (requires: SWORD)
+    - Store SOULs (requires: ORB)
+    - Fuse SOULs (requires: ARTIFICIAL SOUL (inside ORB?))
+    - Prepare LIVING VESSEL (requires: BEE (POISON), CHALICE?, SMOKE?!)
+    - Transfer SOUL to LIVING VESSEL (requires: NEEDLE)
+    - Connect SOUL back to ORB (without it entirely leaving the vessel somehow idk) (requires: CRYSTAL)
+    - Connect to SOUL (requires: Stick?)
+    - Success!
+>hold on
+>better
+>the only part that doesnt make that much sense yet to me is "Connect SOUL back to ORB"
+
+L:
+>[^Re: Luke: Idk what I was worried about, this quest shit easy]
+>truly the bees will be luke's undoing
+>how do they convince him to get those
+
+S:
+>Maybe that's the part where you have to have Luke's trust
+>Like, if you've been taking advantage of him being an idiot the whole game, that's going to come back and bite you in the ass
+>Er, sting you in the ass
+
+S:
+>[^Re: the only part that doesnt make that much sense yet to me is "Connect SOUL back to ORB"]
+>Yeah, I mean, I guess your explanation about the SOUL being like a big ball of yarn works? (Also reminds me we don't really have any cats in this game)
+>But I also kinda like "AL doesn't know Sam doesn't have a SOUL and just expects them to be dead" and then they go
+>![[surprise-mf.gif]]
+>But then that leads back to your question: how do they know how to cast Reverse Fate?
+>And he keeps them alive until he's ready to do the SOUL fusion because he needs to have everything else ready first
+>The fused SOULS still aren't very stable
+
+S:
+[^Re: Er, sting you in the ass]
+>He just won't do it if he doesn't trust you, so it's gg
+>Idk how that works actually. I guess AL gets to the BEE first?
+
+L:
+[^Re: suprise-mf.gif]
+>elaboration on that: Typically, having your SOUL absorbed by the ARTIFICIAL SOUL (we need a catchier name for this) will kill your mind / have you in a plant-like state so you pretty much cant do anything anymore. Since Sam is actually used to living without a SOUL, they slowly wake up from the poison and are like "well this is new", but still can't really escape or do much because of the poison. Then when Luke calls out to Sam they can actually hear him (since AL has most of Sam's SOUL and Luke somehow talked directly to the SOUL?). Then Sam is able to cast Reverse Fate because one of the fused SOULs knew how to (???)
+>Also when AL is like "foolish child, your friend's SOUL has already been absorbed by the ARTIFICIAL SOUL i put inside them", Luke goes "you gave THEM A SOUL?!" (AL starts SWEATING)
+
+S:
+>>Sam is actually used to living without a SOUL
+>>AL has most of Sam's SOUL
+>What
+
+L:
+>AL has most of the SOUL he just gave to Sam
+>it's his now
+>theirs
+
+S:
+>Oh, so they're like a hivemind kinda thing?
+>They're sharing the SOUL?
+>Unintentionally
+
+L:
+>well its mostly in the ORB at that point
+
+S:
+>But somehow still connected to Sam?
+
+L:
+>they still have enough in them to keep the SOUL stable
+>its a bit complicated atm
+
+S:
+>Hmmm, I think that actually makes sense. The SOULMALGAMATION (no, that's not a great name, either) can't exist if it's not connected to a living vessel, but you can't use it if it's still in someone
+
+L:
+>unless we go with the cloud computer line and the SOUL is entirely inside Sam, AL is just able to send Mana into it
+
+S:
+>>Then Sam is able to cast Reverse Fate because one of the fused SOULs knew how to (???)
+>What if one of the SOULS belonged to James?
+
+L:
+>oh shiiiiiiiiiiiiiit
+
+S:
+[^Re: unless we go with the cloud computer line and the SOUL is entirely inside Sam, AL is just able to send Mana into it]
+>That could work too
+>He is supposed to already be dead
+>Wait, then how did AL get his SOUL?
+>"I'm going to kill you so I can bring you back to life and prevent you from dying"?
+
+L:
+>get who's SOUL?
+
+S:
+>James's
+
+L:
+>yeah that is a problem
+
+S:
+>Maybe Luke accidentally kills him with THE GAY BLADE
+
+L:
+>zoinks!
+>i was just going to write that
+
+S:
+>jinkies
+
+L:
+>but then how does it get into the SOULSLURPER?
+>(artificial soul, im workshopping here)
+>unless Luke also has the ORB at that point
+>it could get stored in there and AL doesnt even know it
+
+S:
+>Uh... it gets sucked into THE BLADE? And you need the NEEDLE to get it out?
+
+L:
+>the sword is also a soul container now?!
+
+S:
+>It only holds one SOUL at a time
+
+L:
+>but then how does it get into the SOUL2.0
+
+S:
+>You kill someone with the sword and their SOUL goes ZORP and it gets sucked in
+
+L:
+>ohhh
+
+S:
+>Then you use the NEEDLE to get it out
+
+L:
+>yeah that makes sense
+>how do you use a needle on a sword though...
+>in any case, when AL starts collecting SOULs into the ORB he's then like "oh theres one already in here, how convenient" and slaps it in
+
+S:
+>The SOUL goes ZORP and it gets sucked into the NEEDLE?
+>Idk, fuckin capillary action or something
+
+L:
+>capillary action is always the answer
+
+S:
+>You just hold the NEEDLE near the ENSOULED SWORD and it goes SCHLOOP
+>Which is distinct from going ZORP
+>The CHALICE is important because the BFS 10000 requires liquid cooling
+>And that makes yet another onomatopoeia
+>ZHRRRR?
+>ZHOOSH?
+
+L:
+>FWSHFWSHFWSHFWSH
+
+S:
+>All of the above
+>Wait, no
+>![[wharrgarbl.jpg]]
+
+L:
+>for sure
+
+S:
+>AL just like, periodically dumps it out on Sam's body
+
+L:
+>what if the NEEDLE is actually a pipette, these wizards have just never been inside a wetlab
+
+S:
+>Of course!
+
+L:
+>and the CHALICE is actually the GARDEN HOSE?
+>or an actual bucket
+
+S:
+>Trying to decide if it's a retort or maybe it's just a Klein bottle
+>If it's a retort, that would imply the liquid is being heated, no?
+>And that seems anithetical to it being used for cooling
+>Plus, like, wouldn't AL already have a retort? What's special about this one?
+>Once again, I feel the solution is BEES
+>It's a Klein bottle full of BEES
+>You need to get it first, then you have to get the BEES in it somehow
+>Not used for cooling in that case, obviously
+
+L:
+>then what _is_ it used for in that case
+
+S:
+>Holding the BEES
+>I just said that
+
+L:
+>what about the briefcase then?!
+
+S:
+>It's now a Klein bottle
+>Or even just a regular jar
+>But. Klein bottle
+>Cooler
+
+L:
+>not sure you can even contain bees in one of those
 
 #general #plot-ideas #character-ideas #place-ideas 
