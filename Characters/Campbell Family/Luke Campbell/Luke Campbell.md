@@ -17,64 +17,39 @@ SortOrder: 1
 ---
 [[(Talk) Luke Campbell|Talk]]
 
+sudoMajor:: Moved everything that's not canon into [[(Talk) Luke Campbell]]
+#majorChange #unseenByLun 
+
 #Cite/Movie/Star-Wars [movieRefType:: Star Wars/Character Name]
-
-sudoMinor:: Made Luke 17 so that Case can still be old enough to have a job but it's less weird for him to have a relationship with Luke. Also realized if Case just graduated high school, he should be 18, not 19 (unless he got held back).
-
-sudoMinor:: Changed Luke's birthday to 22 October, the day I first started writing MONO.
-#minorChange #unseenByLun 
-
 # Luke, THE RELUCTANT HERO
-His bond with [[Sam Ward|Sam]] is so strong that it allows him to track their SOUL to [[CURSED AL]]. Luke’s SOUL is also quite powerful itself, allowing him to use [[Magic]], but it’s his bond with Sam that truly gives him strength.
+%%
+Paragraph 1 moved to [[(Talk) Luke Campbell]].
 
-**Plot:** Luke awakens in his house. He is a young man of average height, perhaps somewhat on the short side, and a bit scrawny. He’s not malnourished, per se, but he isn’t exactly musclebound, either. He gets dressed, heads outside, and picks some tulips from the garden. It’s a beautiful day outside. He goes to the neighboring house, knocks on the door, and asks for Sam.
+Paragraph 2 deleted. Outdated, plus plot should probably go in the relevant Plot article.
+%%
 
 Luke is 17. He runs cross-country because Sam does, and only because Sam does. He doesn't care much for sports, and he hates running. He helps [[The Mothers Campbell|his parents]] on the farm, but he can't wait to leave [[Genton]] where he can finally be himself. Maybe he (naively) wants to move to [[Rhapsody]]? This possibly contradicts my earlier characterization of Rhapsody, but he's also going there under different circumstances than he imagined. (Also a little bit of [Paris syndrome](https://en.wikipedia.org/wiki/Paris_syndrome).)
 
 ## Various Luke Characterizations
-Main idea: Luke was fully aware [[CURSED AL'S CURSED ORB|the Orb]] was made of chocolate and wanted to eat it from the start
+%%
+Cf: [[(Talk) Luke Campbell#Various Luke Characterizations]]
 
-- As the middle way between dogs and humans, dog people are very intolerant to chocolate, but don’t die from it (unless they eat a ton maybe). 
-- Because of this, some more reckless dog people (deople?) want to eat chocolate even more as it is the forbidden snack
-- This is a commonly known fact, and as such other species will usually do their best to prevent deople from getting access to any chocolate
+Here's what we've definitely agreed on:
+%%
 
-You know how you can broadly divide dog races into the group that got bred to do a few simple tasks (e.g. retrieving game for a hunter) who are great at listening to orders but have a DVD logo bouncing around in their heads at all times vs the ones that got bred to Handle Things on their own (e.g. herding sheep) and are the smart bois? Luke is a race of the former group and as a pureblood idiot wants nothing more than to consume the chocc
-
-- On his quest to acquire chocolate, he learned to disguise the fact that he’s a derson (dog person) by hiding his ears and tail like this (hey look it’s the idea that led to this whole google doc!):![[tumblr_a95290422c786493948da1b76d44e38c_e848edc9_1280.png]]
-- This is nothing new for deople to do, Luke is just better at it than most because his parents helped him
-- It may seem counterintuitive that his parents are helping him eat the semi-poisonous food. It turns out they do love him but they are simply also idiots and also went on the same quest when they were young. So now they want to help him too!
-- For some reason he gets asked to help on the quest to recover the cursed orb. Somehow he also knows that it’s made of chocolate (there’s also some really good lore reason for the orb to be made of chocolate)
-- Maybe on his quest to acquire chocolate he’s helping everyone he encounters who needs it (because next to an idiot he’s also a very good boy) and his skill in combat is noticed?
--  He accepts the quest seemingly because he just wants to help get rid of the cursed object. While this is partially true, he really just wants to eat it.
-- The fact that he wants to eat it is unknown to both the player, who only gets to see Luke’s dialogue and not his thoughts, and his party members, who are all various flavors of idiot and don’t see through Luke’s poorly disguised intentions.
-- The first person to notice his true intentions is [[Case Weston|the other person trying to acquire the orb]] in [[Rhapsody]] city ^cd5bb3
-- Despite being one of the first people in the story with more than two brain cells functioning at any given time, Luke ends up saving him in Rhapsody city from something really spooky or whatever. And then he bails with the orb (but feels bad about not giving it to the other guy).
-- Regrettably for him, he gets feelings for Luke after being saved by him, therefore becoming the (main?) love interest (enemies to lovers anyone?)
-- While he was initially trying to get the orb because he was ordered to do so by [[Other Ideas from Lunathrix|the big bad]], he gradually ends up trying to take the orb from Luke to prevent him from poisoning himself, thereby fulfilling the “What’s that in your mouth? SPIT THAT OUT!” role
-
->[!idea]
->Or maybe he just has [[LukeVISION (TM)]] and grabs the [[chocolate orange]] by mistake? But once he realizes it's not actually THE ORB, he still wants to eat it. Maybe this can be a recurring thing throughout the story, and it also ties into Luke hiding the fact that he's a dogboy. (Maybe deople (dog-people) are discriminated against for some reason?) Pretty much everyone knows that deople (dog-people) are colorblind, but not everyone knows that Luke is a dogboy. (And maybe Luke is so much of an idiot that he's not even aware he's colorblind.)
-
-## Other Notes
-- Imagine if Vash the Stampede were a short king. And a dogboy. #Cite/TV/Trigun98 [tvRefType:: Trigun/Character]
-	- Goofy ~~blond~~ guy that doesn't look like he could easily fuck you up, but he can. He just chooses not to.
-	- Tragic backstory?
-	- Also has a tendency to be put into Situations (TM)
-
-sudoMajor:: If Luke is a pacifist crybaby like Vash, wouldn't that make the game too similar to Undertale?
-#majorChange #unseenByLun 
->[!note]
->For as much as the game is a love letter to Undertale and my other favorite games, I feel like basing the main character on Vash the Stampede (a guy who *really* doesn't want to kill anyone) might make it a bit *too* similar to Undertale.
->
->We could have him actively refuse to kill people. This would make the combat similar to Deltarune where the enemies just run away when their HP is too low. In this case, however, it's made obvious that it's Luke's choice to end the battle, not the enemies'. (He could also be like Niko OneShot and straight up tell the player when he doesn't want to do something.)
->
->Also, if he ever does kill someone (*cough cough* James), he feels really bad about it. *Really* bad. Like, physically sick. Even if they're a terrible person like James. Then he's less like a video game protagonist and more like a real person. I'm not speaking from personal experience here or anything, but I've been led to believe that killing someone has a tendency to really fuck you up in the head. #Gameplay 
-^ptsd
-
-gameplay:: Luke does NOT want to kill anyone, and he'll have a Very Bad Time (TM) if he does. ([[Luke Campbell#^ptsd|ref]])
+- Luke is a dogboy and should not eat chocolate
+- Luke wants to eat the chocolate anyway
+- Other characters may try to prevent this
+- Luke is an idiot
+- Luke can disguise the fact that he is a dogboy: ![[tumblr_a95290422c786493948da1b76d44e38c_e848edc9_1280.png]]
+- Luke helps various other people on his quest
+- Luke saves Case's ass, and Case catches feelings for Luke
+- Luke is colorblind
 
 ## LukeVISION (TM)
-As a dogboy, Luke suffers from protanopia, or red-green colorblindness. Among other things, this causes him to mistake [[CURSED AL'S CURSED ORB]] for an ordinary [[chocolate orange]]. I mean, it's also because he's an idiot, but being colorblind isn't doing him any favors either. (A Legendary Artifact has some distinct vibes it gives off that Luke totally failed to pick up on.)
+Luke suffers from protanopia, or red-green colorblindness. Among other things, this causes him to mistake [[CURSED AL'S CURSED ORB]] for an ordinary [[chocolate orange]]. I mean, it's also because he's an idiot, but being colorblind isn't doing him any favors either. (A Legendary Artifact has some distinct vibes it gives off that Luke totally failed to pick up on.)
+
+(He's joking, actually, but they *do* appear to be roughly the same color to him.) 
 
 This isn't directly revealed to the player (unless they're also colorblind, I guess). Like, the game is still colored normally. They just have to figure out that Luke is colorblind when he's told to pick up a blood-red ORB and grabs something orange instead. #Gameplay 
 ^lukevision
@@ -82,14 +57,6 @@ This isn't directly revealed to the player (unless they're also colorblind, I gu
 gameplay:: Show, don't tell when it comes to Luke's protanopia. ([[Luke Campbell#^lukevision|ref]])
 
 We can use [this site](https://www.color-blindness.com/coblis-color-blindness-simulator/) to simulate how Luke might see an object. (Put the pictures in the relevant article, not this one.)
-
->[!note]
->Most mammals have protanopia, actually. So maybe this is just unique to Luke and not all deople (dog people). We follow real-world logic, but only when it's funny.
-
-%% 
-sudoMinor:: Maybe only Luke is colorblind and not all deople.
-#minorChange #unseenByLun 
-%%
 
 ## Lucas Progresso
 
