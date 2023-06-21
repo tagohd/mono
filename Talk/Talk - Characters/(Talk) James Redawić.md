@@ -1,14 +1,15 @@
 [[James Redawić|Article]]
+# Open Issues
+## Why does James want the Artifacts?
+>[!tldr]
+>Status: Pending approval
+>
+>[question:: We've established why James can't get the Artifacts himself, but what does he intend to do when Luke brings them to him?] This might be easier to answer once we've figured out what the Artifacts do.
+>
+>Maybe he needs the [[BFS 10000]] to be able to cast [[Wizard Divorce]].
 
-# Why does James want the Artifacts?
 sudoMajor:: We've established why James can't get the Artifacts himself, but what does he intend to do when Luke brings them to him?
 #majorChange #unseenByLun 
->[!tldr]
->Status: Open
->
->We've established why James can't get the Artifacts himself, but what does he intend to do when Luke brings them to him? This might be easier to answer once we've figured out what the Artifacts do.
->
->%%[question:: We've established why James can't get the Artifacts himself, but what does he intend to do when Luke brings them to him?]%%
 
 Not "What does he tell Luke to convince him to get the Artifacts?" That's pretty easy. ("You need to get the Artifacts to defeat CURSED AL and save your friend.") But what's *his* goal here? What is he going to do when he gets them?
 
@@ -16,8 +17,8 @@ Obviously, he wants revenge on AL. How does acquiring the Artifacts help with th
 
 ~~Alternatively: What if James *wants* to die? He doesn't even want revenge. He wants to build his own BFS 10K because he *can't* die otherwise. (Either he doesn't know that *Longevity* didn't work, or it actually did work)~~ Not doing this one.
 
-
-# James's Excuse
+# Closed Issues
+## James's Excuse
 >[!tldr]+
 >Status: Resolved
 >
@@ -32,7 +33,20 @@ Obviously, he wants revenge on AL. How does acquiring the Artifacts help with th
 > - **He's in a wheelchair, and magic can't/shouldn't be used to heal him**
 > - He knows he's going to die, so he has to get Luke (or someone, but Luke is convenient) to do it for him
 > - He tells Luke that collecting the artifacts is a hazing ritual for new members of [[Institute for the Magical Arts & Sciences|The Wizard Club (TM)]] (See: [[Destroy Legendary Artifact]]) (that's not really a motivation, though)
-# Why doesn't James just get the Artifacts himself?
+
+### The Enemy of My Enemy Is Not My Friend
+Or maybe CURSED AL is manipulating James into manipulating Luke? James knows where the [[Legendary Artifacts]] are because AL told him. James gives this information to Luke so that he can stop AL from making the [[BFS 10000]] (James does not want to live forever, especially if it means the destruction of the universe), but this does mean that Luke ends up making AL's job easier.
+
+[Lun]: Having someone collect all parts of some cursed machine to stop someone else from collecting them seems to indeed be quite the idiot move. [question:: Is James also dumb?  Or did Luke just misinterpret whatever James said and was then unable to get corrected after James fucking Died™]
+[Sudo]: This might be a case of "The author is also an idiot." Maybe the plan *was* for the artifacts to be destroyed, but James was like, "You're still a novice. You won't be able to handle the mana needed to cast [[Destroy Legendary Artifact]], so just bring them back to me, and I'll take care of that." But then, because they're cursed artifacts, James becomes unwilling to destroy them.
+[Sudo]: "Oh, pwease don't destwoy us, Mr. Wizard! Think about all the weally cool spells you could cast with us!"
+[Sudo]: And James is like, "Hmmm, that's a good point."
+
+[Lun]: I do like the idea of James being a little evil. Corrupt that old man! Also, see what I answered on [[(Talk) James Redawić]]
+
+#Cite/Lit/LOTR [litRefType:: LOTR/Items] (??? Only in the sense that the Artifacts have a corrupting influence over their possessor. Imagine if The One Ring talked to its bearer like that lol.)
+
+### Why doesn't James just get the Artifacts himself?
 ![[uhhh.jpg]]
 
 >[!idea] What if he's paraplegic?
@@ -100,7 +114,7 @@ gameplay:: You can't teleport, but you can wavedash. See [[Evasion]]. ([[(Talk) 
 
 [Sudo]: I was thinking, "Okay, maybe we go with the first idea. James can't do it because he's in a wheelchair." And then I had the image of him, like, getting into a wheelchair van, but I thought, "Wouldn't there be a better, more magical solution?" But maybe the answer is, "No, magic doesn't actually affect the world that much if most people don't know about it."
 
-## An answer trying to tie everything above together: James is the evil one
+### An answer trying to tie everything above together: James is the evil one
 
 So here's the main idea: [[James Redawić|James]] actually wants [[CURSED AL]] to collect all of the [[Legendary Artifacts]] and assemble the [[BFS 10000]]. He is sending [[Luke Campbell|Luke]] on a quest to collect all of them under the pretense that he's trying to stop AL, but actually wants to use it for himself to both save his own life and kill AL. And then maybe do some other messed up shit, because oh no: turns out he's actually even more fucked up than AL.
 
