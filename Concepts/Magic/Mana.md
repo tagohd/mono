@@ -12,19 +12,19 @@ To the inexperienced, bringing Mana into your SOUL can be rather uncomfortable. 
 Chinwe Ejiofor was a prominent researcher into the effects of Mana on living tissue, and her work was foundational to SOUL fusion research, such as Project Dorian. The Ejiofor (symbol: Ej), the unit of Mana concentration, was named in her honor.
 
 ## Mana Toxicity
-The average person can tolerate around 50 Ej of Mana without significant reaction.
+The average person can tolerate around 150 Ej of Mana without significant reaction.
 
-| Spell Level      | Mana Cost      | Typical Symptoms (for Novices)                               |
-|------------------|----------------|--------------------------------------------------------------|
-| 0 (Cantrip)      | <100 Ej        | None                                                         |
-| 1 (Minor)        | <272 Ej        | Sweating, shortness of breath                                |
-| 2 (Minor)        | <739 Ej        | Vomiting, mild headache                                      |
-| 3 (Minor)        | <2.00 KEj      | Low-grade fever, fatigue, mild diarrhea                      |
-| 4 (Intermediate) | <5.46 KEj      | Leukopenia, moderate headache, purpura, cognitive impairment |
-| 5 (Intermediate) | <14.84 KEj     | High fever, moderate diarrhea and vomiting, hypotension      |
-| 6 (Intermediate) | <40.34 KEj     |
-| 7 (Major)        | <109.66 KEj    |
-| 8 (Major)        | <298.10 KEj    |
-| 9 (Major)        | 810
+| Spell Level      | Mana Cost      | Typical Symptoms (experienced by >50% of novices)                   |
+|------------------|----------------|---------------------------------------------------------------------|
+| 0 (Cantrip)      | <157.58 Ej     | Slight tingling sensation in extremities, metallic taste in mouth   |
+| 1 (Minor)        | <3.17 KEj      | Slight headache, nausea, cramps, fatigue                            |
+| 2 (Minor)        | <63.57 KEj     | Burns at exposure site, visual hallucinations, mild fever, vomiting |
+| 3 (Minor)        | <1.28 MEj      | Loss of appetite, aphasia, tremors, emotional lability              |
+| 4 (Intermediate) | <25.65 MEj     | Body-wide pain, incontinence, auditory hallucinations               |
+| 5 (Intermediate) | <515.14 MEj    | Overwhelming sense of guilt, high fever, moderate diarrhea          |
+| 6 (Intermediate) | <10.35 GEj     |
+| 7 (Major)        | <207.82 GEj    |
+| 8 (Major)        | <4.17 TEj      | 
+| 9 (Major)        | <83.84 TEj     |
 
 #general #concepts #mana #magic #stub 
