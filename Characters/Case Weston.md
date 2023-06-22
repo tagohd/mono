@@ -32,4 +32,4 @@ He works at [[The Old Silver Mine]] for [[James Redawić|James]]. He's actually 
 # The Things He Does For Love
 Maybe [[Luke Campbell|Luke]] fights [[CURSED AL]] for the first time and is woefully unprepared, and Case steps in to help Luke out. Then when Luke fights AL for the last time, Case ends up sacrificing himself. (Cf: [[(6) June 2023 Chat Logs]] and [[Repo organization]]) #Cite/Game/Mega-Man-X [gameRefType:: MMX/Plot]
 
-#character #case-weston 
+#Character/Case-Weston 

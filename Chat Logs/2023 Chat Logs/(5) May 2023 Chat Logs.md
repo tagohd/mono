@@ -548,4 +548,4 @@ S:
 L:
 >im glad i have transferred t his idea
 
-#general #Character/CURSED-AL #Item/Legendary-Artifact/The-Orb #Character/Steve #Character/Boring-Straight-Greg #Character/Luke-Campbell #Character/Pauline #Character/Edna #the-emperoress #Ideas/Plot #Ideas/Character 
+#general #Character/CURSED-AL #Item/Legendary-Artifact/The-Orb #Character/Steve #Character/Boring-Straight-Greg #Character/Luke-Campbell #Character/Pauline #Character/Edna #Character/The-Emperoress #Ideas/Plot #Ideas/Character 

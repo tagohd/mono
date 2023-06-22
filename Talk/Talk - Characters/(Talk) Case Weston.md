@@ -59,4 +59,4 @@ Sudo: Also, Case Weston sounds a little too similar to Case Western, as in Case 
 
 gameplay:: "Case heroically sacrifices himself in the final battle against AL, which includes yet another scripted game over. ([[(Talk) Case Weston#The Things He Does For Love|ref]])", "Different endings, most of which boil down to &quot;Just Monika&quot;", "The game display changes to reflect Luke's protanopia after that fact is revealed. (Maybe this only makes sense if the game is in first-person.)"
 
-#general #case-weston #Talk/Character #issues 
+#general #Character/Case-Weston #Talk/Character #issues 

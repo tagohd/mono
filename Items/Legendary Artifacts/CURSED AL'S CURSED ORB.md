@@ -31,4 +31,4 @@ songTitle:: Power (1)
 songRemarks:: Maybe more instruments get added as you acquire more Artifacts
 %%
 
-#items #the-orb #luke-campbell #cursed-al #case-weston #answered-questions #legendary-artifact #contains-music 
+#Item/Legendary-Artifact/The-Orb #Character/Luke-Campbell #Character/CURSED-AL #Character/Case-Weston #answered-questions #legendary-artifact #contains-music #Music/POWER

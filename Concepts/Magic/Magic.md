@@ -167,4 +167,4 @@ gameplay:: You can heal yourself, but only to an extent. If you get hurt too bad
 
 gameplay:: See [[Evasion]]. ([[Magic#You can't teleport, but you CAN wavedash|ref]])
 
-#general #concepts #magic #unanswered-questions 
+#general #Concept/Magic #unanswered-questions 

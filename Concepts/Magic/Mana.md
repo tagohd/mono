@@ -37,4 +37,4 @@ In universe, this is probably calculated the other way around, i.e. spell level 
 
 Of course, as tolerance builds, a mage will experience fewer of these symptoms. For instance, a mage accustomed to casting Level 5 spells who attempts to cast a Level 7 spell may have a similar experience to a complete novice attempting to cast a Level 2 spell.
 
-#general #concepts #mana #magic #stub 
+#general #Concept/Magic/Mana #stub 

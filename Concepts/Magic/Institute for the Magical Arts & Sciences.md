@@ -26,4 +26,4 @@ This was in [[1. Plot Overview]], so I'm marking it as read.
 %%
 
 
-#general #concepts #imas #unanswered-questions 
+#general #Concept/Magic/IMAS #unanswered-questions 

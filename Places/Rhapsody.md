@@ -29,4 +29,4 @@ Fairly self-explanatory. Presumably, the previous owner of the MacGuffin wasn't 
 ### E - Elegy
 With some more distance between him and the city, Luke has a bittersweet moment of empathy as he realizes the person(s) after him must have been in a similarly desperate situation to so badly need the MacGuffin. They were willing to kill him for it. What did *he* have to do to obtain it?
 
-#places #rhapsody #rhapsody-for-a-dying-city #luke-campbell #the-orb #case-weston #contains-music 
+#Places/Rhapsody #Music/Rhapsody-for-a-Dying-City #Character/Luke-Campbell #Item/Legendary-Artifact/The-Orb #Character/Case-Weston #contains-music 

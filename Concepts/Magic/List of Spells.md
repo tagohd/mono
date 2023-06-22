@@ -85,4 +85,4 @@ FROM #Spells AND -#refdoc
 SORT isTheoretical, spellLevel, spellName
 ```
 
-#refdoc #concepts #magic #Spells 
+#refdoc #Concept/Magic #Spells 
