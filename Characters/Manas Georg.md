@@ -18,8 +18,8 @@ SortOrder: 15
 Actually just one of [[Ednathrallor Verdensmorder|Edna's]] garden gnomes. He was an outlier adn should not have been counted.
 
 What if he's [[Sam Ward|Sam's]] father? He jumped in front of Sam to protect them from [[CURSED AL]] and got turned into a gnome. Then AL brought him to Edna because he knows how much she loves gnomes. (See: [[BFS 10000#^c9847f]])
+> L: Hold on, when did this happen? When AL abducted Sam? #lun [lunR::13]
 
 sudoMajor:: New character, but read [[BFS 10000#Idea]] first.
-#majorChange #unseenByLun 
 
 #character #manas-georg #stub 

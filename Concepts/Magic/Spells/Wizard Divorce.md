@@ -21,6 +21,5 @@ spellComponents: VSM
 Terminates a wizard marriage. The wizard divorce is effective immediately and permanently across all timelines and all planes of existence.
 
 sudoMajor:: A new spell that explains why [[James Redawić|James]] needs the [[Legendary Artifacts]].
-#majorChange #unseenByLun 
 
 #Spells/Major 

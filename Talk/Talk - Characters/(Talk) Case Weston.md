@@ -13,7 +13,7 @@ OOOH! Maybe he's an [[Institute for the Magical Arts & Sciences|IMAS]] auditor s
 
 ## Species
 >[!bug]
->sudoMajor:: I thought I knew what species Case was, but now I'm not sure. #majorChange #unseenByLun 
+>sudoMajor:: I thought I knew what species Case was, but now I'm not sure.
 
 >[!question] [issue:: What species is Case?]
 >I said he's a wolverine, but is he, though? I'm not sure if that really fits him.
@@ -25,6 +25,8 @@ I don't know why I'm not sure it fits him. Here's what [Wikipedia](https://en.wi
 >Wolverines are considered to be primarily scavengers. A majority of the wolverine's sustenance is derived from carrion, on which it depends almost exclusively in winter and early spring. Wolverines may find carrion themselves, feed on it after the predator (often, a pack of wolves), has finished, or simply take it from another predator. Wolverines are also known to follow wolf and lynx trails, purportedly with the intent of scavenging the remains of their kills. Whether eating live prey or carrion, the wolverine's feeding style appears voracious, leading to the nickname of "glutton" (also the basis of the scientific name). However, this feeding style is believed to be an adaptation to food scarcity, especially in winter.
 
 Growing up food insecure could be a good backstory for him. It could also enhance the Wolfwood parallels, since Wolfwood grew up an orphan.
+
+> L: I'll see if I can make that work with his design! #lun [lunR::11]
 
 # Closed Issues
 ## Old Notes

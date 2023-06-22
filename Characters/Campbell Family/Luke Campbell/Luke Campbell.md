@@ -18,7 +18,6 @@ SortOrder: 1
 [[(Talk) Luke Campbell|Talk]]
 
 sudoMajor:: Moved everything that's not canon into [[(Talk) Luke Campbell]]
-#majorChange #unseenByLun 
 
 #Cite/Movie/Star-Wars [movieRefType:: Star Wars/Character Name]
 # Luke, THE RELUCTANT HERO

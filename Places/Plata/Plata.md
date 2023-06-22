@@ -24,7 +24,7 @@ sudoMajor:: Maybe [[Institute for the Magical Arts & Sciences|IMAS]] has a regio
 
 sudoMajor:: 1 Perhaps the veil between the Material Plane and the [[Mana Plane]] is exceptionally thin here because it's in the mountains or because of the (formerly) high presence of silver. Or maybe wizards just tend to like being in quaint little mountain villages?
 
-#majorChange #unseenByLun 
+> L: Is there some special interaction between Mana and silver? Could be fun! Maybe the Mana plane is actually a vampire #lun [lunR::13]
 
 ## Snowy Village
 ![[Snowy Village.mp3]]

@@ -67,7 +67,6 @@ question:: Fuckin' magic, how does it work?
 
 %%
 sudoMajor:: Okay, maybe magic is "recent" in the sense that electricity is recent. But you're right, it shouldn't be secret. And also a lot of people don't really have a need for, e.g. Maxwell's equations in their daily life.
-#majorChange #unseenByLun 
 %%
 
 
@@ -88,7 +87,6 @@ Maybe there are some in-game consequences, too. You've played OneShot, right? Ma
 
 %%
 sudoMajor:: Perhaps there's some sort of in-universe disincentive to using magic? Beyond the risk of universal destruction, that is. Like, it's kinda hard or it's not that useful most of the time?
-#majorChange #unseenByLun 
 %%
 
 Probably wouldn't be as fourth-wall-breaking as OneShot, but it could still be a little meta. Maybe characters don't comment on it at first, so you think it really was just a glitch, but as it progresses, they'll be like, "Hey, this has been going for a while, hasn't it? I just didn't say anything at first because I thought my eyes were playing tricks on me," revealing that it's been diegetic the whole time.
@@ -132,7 +130,6 @@ tvRefType:: FMAB/General
 [Lun]: You really want magic to be classified huh. Fine, fine! Baka...
 
 sudoMajor:: Oh, that's old, actually. I just haven't updated it with the newer ideas in [[(Talk) James Redawić]], i.e. magic not being a secret and being more like electricity.
-#majorChange #unseenByLun 
 
 ## WINDMILLS DO NOT WORK THAT WAY! GOOD NIGHT!
 ### More effective than placebo, at least

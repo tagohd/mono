@@ -25,7 +25,6 @@ Cf: [[Wish]]
 
 %%
 sudoMajor:: Help, I can't stop plagiarizing Undertale. (jk but not really)
-#majorChange #unseenByLun 
 %%
 
 #Spells/Major 

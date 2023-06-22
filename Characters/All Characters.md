@@ -1,7 +1,8 @@
 %%
 Priority:: 2
 sudoMajor:: Wanted to make sure you've seen that I've added species and other information for all characters.
-#majorChange #unseenByLun 
+Lunsays::It's beautiful
+#lun
 %%
 
 # General Notes

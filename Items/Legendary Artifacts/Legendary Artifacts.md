@@ -23,7 +23,7 @@ movieRefType:: MCU/Items
 |Name | Motivation |
 |-------|--------------|
 | CURSED AL | AL intends to use the [[BFS 10000]] to cast [[Reverse Fate]] and save [[James Redawić\|James's]] life, even though he's not necessarily dead yet. |
-| James | James wants to use the [[BFS 10000]] to cast [[Wizard Divorce]] so he can dump AL's ass |
+| James | James wants to use the [[BFS 10000]] to cast [[Wizard Divorce]] so he can dump AL's ass (L: AND kill him!!!) |
 | [[Institute for the Magical Arts & Sciences\|IMAS]] | ![[neat.jpg]] |
 
 
@@ -31,7 +31,8 @@ movieRefType:: MCU/Items
 %%
 Priority:: 3
 sudoMajor:: Just making sure you've seen that there is a table.
-#majorChange #unseenByLun 
+Lunsays:: You are so so right
+#lun
 %%
 ```dataview
 TABLE WITHOUT ID

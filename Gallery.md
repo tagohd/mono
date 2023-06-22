@@ -2,8 +2,6 @@
 number headings: auto, first-level 1, max 6, 1.1, contents ^toc
 ---
 sudoMajor:: A place for all the "photos", especially references.
-Priority:: 5
-#majorChange #unseenByLun 
 
 >[!question] Is this Dataviewable?
 
@@ -180,6 +178,7 @@ Top Right: Steve, Others: [[Luke Campbell|Luke]] in [[Rhapsody]]
 ### 2.15.1 Reference Images
 ![[Gnome Chompski.png]]
 Gnome Chompski
+> L: Thanks I hate him #lun [lunR::8]
 
 # 3 Places
 ## 3.1 Genton
