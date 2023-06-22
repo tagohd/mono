@@ -91,10 +91,10 @@ Oh! Here's a thought (or 12):
 	1. If it really acts like a capacitor, you could theoretically collect the mana in advance. There would have to be some limits to this, though. Maybe Mana decays over time, or storing it in your SOUL without using it is really uncomfortable.
 		1. This could be represented by the player having to hold down a button to charge their mana. You can maintain your charge for as long as you can hold \[Y\], but it's going to make pressing other buttons awkward, especially if there's a platforming section or something. Or maybe it's like a weapon with an overcharge. The mana is coming out whether you want it to or not, so you'd better have a spell ready unless you want to take damage.
 		2. Higher spellcasting level = higher tolerance to Mana = can hold charge longer #Gameplay 
-		3. "average person can tolerate 3,000 M⋅C[^1] of mana" factoid actually just statistical error. average person can tolerate 0 M⋅C. [[Manas Georg]], who lives in cave & can tolerate over 10,000,000 M⋅C, is an outlier adn should not have been counted. #Cite/Meme/Spiders-Georg [memeRefType:: Spiders Georg/Character]
+		3. "average person can tolerate 3,000 T[^1] of mana" factoid actually just statistical error. average person can tolerate 0 M⋅C. [[Manas Georg]], who lives in cave & can tolerate over 10 MT, is an outlier adn should not have been counted. #Cite/Meme/Spiders-Georg [memeRefType:: Spiders Georg/Character]
 3. It is generally not possible for multiple mages to cast the same spell in parallel. ^parallel-casting
-	1. Example: A spell requires 500 M⋅C of Mana to cast. [[Luke Campbell|Luke]] can tolerate 200 M⋅C. [[Case Weston|Case]] can tolerate 300 M⋅C. They cannot pool their mana together to cast the spell.
-	2. Example: Let's say it costs 150 M⋅C to cast [[Magic Missile]] at the first level and 50 additional M⋅C per higher level. Case cannot lend Luke 50 M⋅C so that Luke can cast it at the second level.
+	1. Example: A spell requires 500 T of Mana to cast. [[Luke Campbell|Luke]] can tolerate 200 T. [[Case Weston|Case]] can tolerate 300 T. They cannot pool their mana together to cast the spell.
+	2. Example: Let's say it costs 150 T to cast [[Magic Missile]] at the first level and 50 additional T per higher level. Case cannot lend Luke 50 T so that Luke can cast it at the second level.
 4. [[Reverse Fate]] (which is basically just a modified version of [[Wish]]) requires *obscene* amounts of mana to cast. More than even Manas Georg could tolerate.
 5. The SOUL AMPLIFIER allows for parallel casting, thus making it possible to cast absurdly powerful spells like Reverse Fate. It works by unifying multiple SOULS into one body. It's still a work in progress, so AL wants to test it on Sam first before using it on himself.
 	1. AL built a similar device when casting [[Longevity (Spell)|Longevity]], but maybe it broke when he tried to cast it on James. This time around, he's had a few hundred additional years to perfect the design.
@@ -117,7 +117,7 @@ Oh! Here's a thought (or 12):
 
 #Cite/Other/Skies-Forever-Blue [otherRefType:: Skies Forever Blue/Plot ?]
 
-[^1]: Mana-Coulombs? Magic Charges?
+[^1]: Toverkracht
 #Gameplay 
 
 gameplay:: Time-loops, baby! ([[(Talk) BFS 10000#^c9847f|ref]])
