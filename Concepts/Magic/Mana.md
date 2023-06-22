@@ -9,4 +9,7 @@ It exists in a separate plane to reality. [[Magic]] users pierce the veil betwee
 # Mana Toxicity
 Exposure to free Mana can have unpredictable effects.
 
+Chinwe Ejiofor was a prominent researcher into the effects of Mana on living tissue, and her work was foundational to SOUL fusion research, such as Project Dorian. The Ejiofor (symbol: Ej), the unit of Mana concentration, was named in her honor.
+
+
 #general #concepts #mana #magic #stub 

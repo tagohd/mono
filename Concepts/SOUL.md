@@ -3,6 +3,9 @@ alias: SOULS
 ---
 A heart-shaped object that represents the very culmination of your being.
 
-gameRefType:: Undertale/General
+#Cite/Game/Undertale [gameRefType:: Undertale/General]
 
-#general #stub #concepts #soul #Cite/Game/Undertale 
+# Use in Magic
+The SOUL acts like a capacitor for [[Mana]].
+
+#general #stub #concepts #soul 
