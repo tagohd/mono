@@ -178,7 +178,7 @@ Top Right: Steve, Others: [[Luke Campbell|Luke]] in [[Rhapsody]]
 ### 2.15.1 Reference Images
 ![[Gnome Chompski.png]]
 Gnome Chompski
-> L: Thanks I hate him #lun [lunR::8]
+> L: Thanks I hate him
 
 # 3 Places
 ## 3.1 Genton

@@ -28,12 +28,7 @@ movieRefType:: MCU/Items
 
 
 # List of Legendary Artifacts
-%%
-Priority:: 3
-sudoMajor:: Just making sure you've seen that there is a table.
-Lunsays:: You are so so right
-#lun
-%%
+
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Artifact", Description, Location, Purpose

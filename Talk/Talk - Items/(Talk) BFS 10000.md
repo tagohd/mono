@@ -77,7 +77,7 @@ Oh and yes the final step where you put the SOUL in the orb but it's still conne
 Basically, it just seems like Sam is kinda redundant in this capacity. Why can't AL just put the SOULS in his own body? What's the significance of Sam not having a SOUL of their own?
 
 Lun:
->The answer to both of those questions is that you need a person without a SOUL to house other people's SOULs. Also this [[BFS 10000#^fa90fa]].
+>The answer to both of those questions is that you need a person without a SOUL to house other people's SOULs. Also this [[(Talk) BFS 10000#^fa90fa]].
 >Though I guess there is no explanation for why you can fuse SOULs inside a person with no SOUL to begin with, and you can't just fuse more SOULs onto your own SOUL (of you, a SOUL-haver). Except for the excruciating pain thing, which may suffice. Or maybe a person holding multiple SOULs just can't really function in a normal way (pretty much only works as a SOUL-bag at that point), which is why you need to use another person. But then you run into the problem again why that person can't start out with a SOUL...
 >OH, got an idea. What if one of the [[Legendary Artifacts]] is actually an artificial SOUL with the power to absorb other SOULs, which is what AL puts into Sam. He needs someone without a SOUL, because you can't have multiple SOULs in one person. As soon as this SOUL is in Sam, any further SOULs he feeds to Sam are absorbed into the Artifact SOUL, thereby they still only have one. AL also couldn't put this Artifact SOUL into himself because his own SOUL would be absorbed, which would probably be bad.
 

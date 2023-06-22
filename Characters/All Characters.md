@@ -1,10 +1,3 @@
-%%
-Priority:: 2
-sudoMajor:: Wanted to make sure you've seen that I've added species and other information for all characters.
-Lunsays::It's beautiful
-#lun
-%%
-
 # General Notes
 - Every character is queer (except for [[All Characters#Boring Straight Greg|Boring Straight Greg]]) and some sort of furry
 

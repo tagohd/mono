@@ -28,7 +28,7 @@ The average person can tolerate around 150 Ej of Mana without significant reacti
 | 8 (Major)        | >4.17 TEj      | Multiple organ failure, organ rupture, toxic epidermal necrolysis              |
 | 9 (Major)        | >83.84 TEj     | Intense euphoria, followed shortly by an extremely agonizing death (100%)      |
 
-Mana Cost for a spell can be calculated according to the following formula: $$\frac{e^{3l}}{E}*1000$$
+Mana Cost for a spell can be calculated according to the following formula: $$m=\frac{e^{3l}}{E}*1000$$
 where $e$ is Euler's number, $l$ is the Spell Level, and $E$ is Ejiofor's constant, 6.3459269958.
 
 %%

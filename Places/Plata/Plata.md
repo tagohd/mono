@@ -20,11 +20,11 @@
 # About
 High in the mountains, Plata is the home of a former silver mine ("Plata" being Spanish for "silver"). The mine ran dry a long time ago, but there's a small [[The Old Silver Mine|museum]] dedicated to it. The museum's [[James Redawić|curator]] is so knowledgeable it's almost like he was personally there 150 years ago...
 
-sudoMajor:: Maybe [[Institute for the Magical Arts & Sciences|IMAS]] has a regional office here, and that's why [[Luke Campbell|Luke]] suspects [[Sam Ward|Sam]] is here.[^1] (Also, it's relatively close to [[Genton]].)
+Maybe [[Institute for the Magical Arts & Sciences|IMAS]] has a regional office here, and that's why [[Luke Campbell|Luke]] suspects [[Sam Ward|Sam]] is here.[^1] (Also, it's relatively close to [[Genton]].)
 
-sudoMajor:: 1 Perhaps the veil between the Material Plane and the [[Mana Plane]] is exceptionally thin here because it's in the mountains or because of the (formerly) high presence of silver. Or maybe wizards just tend to like being in quaint little mountain villages?
+[^1]: Perhaps the veil between the Material Plane and the [[Mana Plane]] is exceptionally thin here because it's in the mountains or because of the (formerly) high presence of silver. Or maybe wizards just tend to like being in quaint little mountain villages?
 
-> L: Is there some special interaction between Mana and silver? Could be fun! Maybe the Mana plane is actually a vampire #lun [lunR::13]
+> L: Is there some special interaction between Mana and silver? Could be fun! Maybe the Mana plane is actually a vampire
 
 ## Snowy Village
 ![[Snowy Village.mp3]]

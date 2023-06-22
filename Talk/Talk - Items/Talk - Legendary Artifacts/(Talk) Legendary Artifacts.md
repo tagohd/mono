@@ -32,14 +32,14 @@ L: Thinking about the mechanism of the [[BFS 10000]] again... A difficult nut to
 
 sudo:: Indeed. And yet, it seems like the most important nut right now since a lot of other questions hinge on answering this one. ([[(Talk) Legendary Artifacts#^r10|ref]])
 
-> L: Well, we seem to have it mostly down now! #lun [lunR::9]
+> L: Well, we seem to have it mostly down now!
 
 L:
 >Third and last artefact related point: What if AL made all of them? At the start he only had a few, but then to save James he goes into another realm to create the others? Just an idea I had because a bunch of the artefacts have a use case _very_ specific to the [[BFS 10000]]. I'd say, either that or we go with the option that the artefacts had been created earlier with the specific purpose of creating the [[BFS 10000]], but then who did that and why did the knowledge on how to make it get lost. And how did AL get them all eventually? ^r9
 
 sudo:: Similar to my reply above, I see no reason why the Artifacts can't have more than one purpose. Actually, I just realized that the CRYSTAL may have at least 3 use cases. In the [[BFS 10000]], it initializes the SOUL fusion reaction in the vessel, but since AL was able to cast *Longevity* without a complete [[BFS 10000]], it might serve a different role there. And, as mentioned, it's also used in a summoning ritual. Maybe its true purpose is just that it's some kind of magical catalyst? Also, how does one make a BEE? ([[(Talk) Legendary Artifacts#^r9|ref]])
 
-> L: I think coming up with different purposes of the artefacts is a good idea. Most of them probably weren't created with the [[BFS 10000]] in mind. #lun [lunR::10]
+> L: I think coming up with different purposes of the artefacts is a good idea. Most of them probably weren't created with the [[BFS 10000]] in mind.
 
 ---
 Yeah, okay, I think I'm going with the idea that they form the [[BFS 10000]] for now. Of course, now I need to figure out what *that* does. But CURSED AL is trying to build one for... reasons. (If CURSED AL isn't the real Big Bad, then it may be likely that his reasons are inscrutable to mere mortals. He's merely carrying out the wishes of some eldritch being, and we all know eldritch beings love acting in ways humans can't even hope to comprehend.) Whatever his reasons, it's going to be very bad if he's successful.

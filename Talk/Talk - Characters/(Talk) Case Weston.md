@@ -26,7 +26,7 @@ I don't know why I'm not sure it fits him. Here's what [Wikipedia](https://en.wi
 
 Growing up food insecure could be a good backstory for him. It could also enhance the Wolfwood parallels, since Wolfwood grew up an orphan.
 
-> L: I'll see if I can make that work with his design! #lun [lunR::11]
+> L: I'll see if I can make that work with his design!
 
 # Closed Issues
 ## Old Notes
