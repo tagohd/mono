@@ -1,6 +1,8 @@
 ---
 alias: mana
 ---
+sudoMajor:: Mana units, feat. a table and some math
+#majorChange #unseenByLun 
 # About
 It's kinda like The Force, except somehow way nerdier. And no midichlorians. Wait. Music pun. Uh... MIDIdorians. It has MIDIdorians instead. #Cite/Movie/Star-Wars [movieRefType:: Star Wars/Concepts]
 
@@ -9,7 +11,7 @@ It exists in a separate plane to reality. [[Magic]] users pierce the veil betwee
 # Exposure to Mana
 To the inexperienced, bringing Mana into your SOUL can be rather uncomfortable. First-time mages often report an experience similar to an electrical shock. Muscle cramps, tremors, and vomiting are common reactions. However, one can build up one's tolerance of Mana.
 
-Chinwe Ejiofor was a prominent researcher into the effects of Mana on living tissue, and her work was foundational to SOUL fusion research, such as Project Dorian. The Ejiofor (symbol: Ej), the unit of Mana concentration, was named in her honor.
+Chinwe Ejiofor was a prominent researcher into the effects of Mana on living tissue, and her work was foundational to SOUL fusion research, such as [[2. Timeline#^dorian|Project Dorian]]. The Ejiofor (symbol: Ej), the unit of Mana concentration, was named in her honor.
 
 ## Mana Toxicity
 The average person can tolerate around 150 Ej of Mana without significant reaction.
