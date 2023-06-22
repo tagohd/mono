@@ -31,13 +31,15 @@ L:
 L: Thinking about the mechanism of the [[BFS 10000]] again... A difficult nut to crack ^r10
 
 sudo:: Indeed. And yet, it seems like the most important nut right now since a lot of other questions hinge on answering this one. ([[(Talk) Legendary Artifacts#^r10|ref]])
-#reply [R:: 10]
+
+> L: Well, we seem to have it mostly down now! #lun [lunR::9]
 
 L:
 >Third and last artefact related point: What if AL made all of them? At the start he only had a few, but then to save James he goes into another realm to create the others? Just an idea I had because a bunch of the artefacts have a use case _very_ specific to the [[BFS 10000]]. I'd say, either that or we go with the option that the artefacts had been created earlier with the specific purpose of creating the [[BFS 10000]], but then who did that and why did the knowledge on how to make it get lost. And how did AL get them all eventually? ^r9
 
 sudo:: Similar to my reply above, I see no reason why the Artifacts can't have more than one purpose. Actually, I just realized that the CRYSTAL may have at least 3 use cases. In the [[BFS 10000]], it initializes the SOUL fusion reaction in the vessel, but since AL was able to cast *Longevity* without a complete [[BFS 10000]], it might serve a different role there. And, as mentioned, it's also used in a summoning ritual. Maybe its true purpose is just that it's some kind of magical catalyst? Also, how does one make a BEE? ([[(Talk) Legendary Artifacts#^r9|ref]])
-#reply [R:: 1]
+
+> L: I think coming up with different purposes of the artefacts is a good idea. Most of them probably weren't created with the [[BFS 10000]] in mind. #lun [lunR::10]
 
 ---
 Yeah, okay, I think I'm going with the idea that they form the [[BFS 10000]] for now. Of course, now I need to figure out what *that* does. But CURSED AL is trying to build one for... reasons. (If CURSED AL isn't the real Big Bad, then it may be likely that his reasons are inscrutable to mere mortals. He's merely carrying out the wishes of some eldritch being, and we all know eldritch beings love acting in ways humans can't even hope to comprehend.) Whatever his reasons, it's going to be very bad if he's successful.
@@ -55,12 +57,12 @@ For [[Luke Campbell|Luke]], collecting them might just expand his spell options,
 >2. After the accident that paralyzed James [citation needed], The Artifacts were magically scattered everywhere. No one knows for sure where they all are.
 
 sudoMajor:: Just realized something: If the prototype didn't use all of the Artifacts, then [[James Redawić|James]] (and by extension, [[Luke Campbell|Luke]]) should only know about *those* Artifacts, viz. [[BLADE OF POWER|THE BLADE]], [[STAFF OF RULKOHIM|THE STAFF]], [[CRYSTAL OF GRELLNATH|THE CRYSTAL]], and [[CURSED AL'S CURSED ORB|THE ORB]].
-#majorChange #unseenByLun 
 
 Anyway, possible solutions:
 
 ### CURSED AL
 [[CURSED AL]] already has the other Artifacts ([[CHALICE OF SUDMORANTH|THE CHALICE]], [[NEEDLE OF CALAGASH|THE NEEDLE]], and [[BEE|THE BEE]]). This makes sense if he invented them/that's what he's been doing for the past ~20 years, and I feel it adds a lot of weight to the [[(6) June 2023 Chat Logs#^game-over|scripted game over idea]], especially if that's how AL acquires the other four.
+> L: Maybe this is the information [[James Redawić|James]] acquires in the first loop (while a [[SOUL]]) that allows him to change the game in the second loop?
 
 Maybe Luke feels like it's his fault for not being strong enough. Is he wrong? In one sense, it's really *my* fault for writing the story this way. (Ties in with theme of fate.)
 

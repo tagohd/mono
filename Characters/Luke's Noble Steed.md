@@ -27,7 +27,11 @@ A bay mare named Pauline. A good, reliable horse, but just a normal horse noneth
 [[Ednathrallor Verdensmorder|Edna]] is in love with her, but she can't reciprocate because she's a horse.
 
 sudoMajor:: The horse pines for another mare, and the dragon pines for a horse. The horse also pines to be nowhere near dragons. This, too, is yuri.
-#majorChange #unseenByLun 
-Priority:: 1
+
+<div style="background: #000000; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;color: #FF48D3"><table><tr><td></td><td><pre style="margin: 0; line-height: 125%">The horse pines for another mare, and the dragon pines for a horse. 
+The horse also pines to be nowhere near dragons. This, too, is yuri.</span></td></tr></table></div>
+
+#lun [lunR::6] [Lunsays:: This is necessary]
+
 
 #character #the-horse #ma-and-pa-campbell #luke-campbell #the-dragon #answered-questions 

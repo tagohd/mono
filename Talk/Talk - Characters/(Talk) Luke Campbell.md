@@ -85,8 +85,11 @@ His bond with [[Sam Ward|Sam]] is so strong that it allows him to track their SO
 
 ## Other Notes
 >[!bug]
->sudoMajor:: If Luke is a pacifist crybaby like Vash, wouldn't that make the game too similar to Undertale? #majorChange #unseenByLun 
+>sudoMajor:: If Luke is a pacifist crybaby like Vash, wouldn't that make the game too similar to Undertale?
 >%% [issue:: If Luke is a pacifist crybaby like Vash, wouldn't that make the game too similar to Undertale?] %%
+
+> L: Maybe he's strongly against killing but doesn't mind incredible violence? 
+
 - Imagine if Vash the Stampede were a short king. And a dogboy. #Cite/TV/Trigun98 [tvRefType:: Trigun/Character]
 	- Goofy ~~blond~~ guy that doesn't look like he could easily fuck you up, but he can. He just chooses not to.
 	- Tragic backstory?

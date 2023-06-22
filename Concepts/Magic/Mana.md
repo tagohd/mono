@@ -2,7 +2,6 @@
 alias: mana
 ---
 sudoMajor:: Mana units, feat. a table and some math
-#majorChange #unseenByLun 
 # About
 It's kinda like The Force, except somehow way nerdier. And no midichlorians. Wait. Music pun. Uh... MIDIdorians. It has MIDIdorians instead. #Cite/Movie/Star-Wars [movieRefType:: Star Wars/Concepts]
 

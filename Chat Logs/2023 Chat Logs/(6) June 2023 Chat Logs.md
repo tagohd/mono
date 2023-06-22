@@ -527,7 +527,6 @@ L:
 
 S:
 > sudo:: Maybe that could be combined with the scripted loss? AL wipes the floor with Luke AND takes the Artifacts from him. I'll also expand on this in the part where I mentioned the choices the player has with the Artifacts (I don't remember which article that was right now). ([[(6) June 2023 Chat Logs#^game-over|ref]])
-#reply [R:: 3]
 ^game-over
 
 #Gameplay 

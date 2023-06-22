@@ -19,6 +19,8 @@ Unlike most journeys hero, I think it's important that Luke's parents actually s
 #Gameplay 
 
 gameplay:: Luke's mothers act like real mothers and actually worry about him while he's on his quest to save the world. They might even try to help him from time to time. (Whether or not Luke wants them to is a different matter.)
+gameplay:: Luke's mothers keep getting in scenario's that seem to lead up to their death (maybe one of them even has the dead anime mom hairstyle), but it never happens. 
+> L: Just thought this would be a fun way to fuck with players #lun [lunR::7]
 
 >[!question] [aq:: What does Luke call each of them?]
 >- Louise: Ma
