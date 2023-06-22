@@ -3,4 +3,4 @@
 - As a lot of characters in this story are already dumb of ass and kind of heart, it’s only natural someone completes the prophecy and is also swole of body, thereby attaining the title of himbo.
 - There’s already a few good male himbo’s (Kronk, Johnny Bravo), so how about a female himbo? A herbo?
 - Not sure what her role is in the story, perhaps lackey/partner of the emperoress?
-#general #the-emperoress #character-ideas 
+#general #the-emperoress #Ideas/Character  

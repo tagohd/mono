@@ -548,4 +548,4 @@ S:
 L:
 >im glad i have transferred t his idea
 
-#general #cursed-al #the-orb #strfs #boring-straight-greg #luke-campbell #the-horse #the-dragon #the-emperoress #plot-ideas #character-ideas 
+#general #Character/CURSED-AL #Item/Legendary-Artifact/The-Orb #Character/Steve #Character/Boring-Straight-Greg #Character/Luke-Campbell #Character/Pauline #Character/Edna #the-emperoress #Ideas/Plot #Ideas/Character 

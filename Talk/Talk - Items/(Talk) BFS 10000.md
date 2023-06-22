@@ -175,4 +175,4 @@ question:: What is Sam's role in this?
 sudo:: Oh, right, you wanted to make James the final boss. I forgor. Okay, so maybe James dies in every timeline? And Case teaches Luke new spells? Or Luke learns new spells some other way? Or Luke never learns any other spells after James dies? ([[(Talk) BFS 10000#^r8|ref]])
 #reply [R:: 8]
 
-#general #Talk/Item #bfs10k #contains-music 
+#general #Talk/Item #Item/Legendary-Artifact/BFS10K  #contains-music 

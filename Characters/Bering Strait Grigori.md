@@ -23,4 +23,4 @@ SortOrder: 12
 >%%
 >They've been together a long time. James is pretty good at keeping secrets, but he's not *that* good.
 
-#character #bering-strait-grigori #answered-questions 
+#Character/Bering-Strait-Grigori #answered-questions 

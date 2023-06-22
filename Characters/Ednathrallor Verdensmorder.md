@@ -36,4 +36,4 @@ This leads to one of the more tragic moments in the game: the horse, scared shit
 - Tragically in love with Pauline, the horse #Cite/Movie/Shrek [movieRefType:: Shrek/Character]
 - Last name is Norwegian for "World killer", but again, she's super chill. Not a case of nominative determinism at all. Plus it sounds funny.
 
-#character #the-dragon #the-horse #luke-campbell #plot-ideas 
+#character #the-dragon #the-horse #luke-campbell #Ideas/Plot  

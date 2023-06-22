@@ -1290,4 +1290,4 @@ S:
 >So it's kinda like a Metroidvania but with a time loop?
 
 
-#general #plot-ideas #character-ideas #place-ideas 
+#general #Ideas/Plot #Ideas/Character #Ideas/Place

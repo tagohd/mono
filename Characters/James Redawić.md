@@ -55,4 +55,4 @@ songRemarks:: Same version that's on ALP
 See: [[(2) February 2023 Chat Logs#The Most Important Change I've Made|The Most Important Change I've Made]]
 
 
-#character #james-redawic #james-still-remembers-you #bering-strait-grigori #plata #answered-questions #contains-music  #unanswered-questions 
+#Character/James-Redawic #james-still-remembers-you #Character/Bering-Strait-Grigori #Places/Plata #answered-questions #contains-music  #unanswered-questions 

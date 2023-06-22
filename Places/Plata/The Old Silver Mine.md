@@ -20,4 +20,4 @@ I'm not very good at getting the melody out of my head and onto the staff, but t
 
 There was another, much more obvious reference that I thought of yesterday (2023-06-12), but now I can't remember what it was. #Cite/Unknown [uRefType:: Music]
 
-#places #Plata/The-Old-Mine #james-redawic #bering-strait-grigori #contains-music 
+#Places/Plata/The-Old-Mine #Character/James-Redawic  #Character/Bering-Strait-Grigori #contains-music 

@@ -105,6 +105,12 @@ His bond with [[Sam Ward|Sam]] is so strong that it allows him to track their SO
 
 gameplay:: Luke does NOT want to kill anyone, and he'll have a Very Bad Time (TM) if he does. ([[(Talk) Luke Campbell#^ptsd|ref]])
 
+ideaWithDependencies:: Luke kills James with the BLADE OF POWER after AL reveals that James manipulated him.
+
+dependencies:: "[[BLADE OF POWER]] - Potentially affects order of acquisition", "[[2. Timeline]] - Needs to be added", "[[2.4 Atonement with the Father]] - Probably should go here"
+
+#Ideas/Plot 
+
 # Closed Issues
 ## Age
 >[!tldr]+
