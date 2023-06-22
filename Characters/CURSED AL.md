@@ -197,4 +197,4 @@ sudo:: Eh, I'm not sure they really have a copyright on that and/or the SRD is u
 
 ---
 
-#character #cursed-al #the-cursed-one #unanswered-questions #contains-music #answered-questions 
+#Character/CURSED-AL #Music/The-Cursed-One #unanswered-questions #contains-music #answered-questions 

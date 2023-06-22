@@ -6,4 +6,4 @@ And here's a picture of how it looks to someone with [[LukeVISION (TM)|protanopi
 
 (I just wanted to have *something* in the "Items" folder that wasn't a [[Legendary Artifacts|Legendary Artifact]], okay?)
 
-#items #the-orange #stub 
+#stub #Item/Chocolate-Orange

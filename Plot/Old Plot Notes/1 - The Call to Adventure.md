@@ -15,4 +15,4 @@ Al promises eternal life, but it’s really eternal damnation. He will steal you
 
 See also: [[The Beginning]], [[1.1 The Call to Adventure]]
 
-#general #act-1 #luke-campbell #sam-ward #cursed-al #plot-outline #answered-questions 
+#general #act-1 #Character/Luke-Campbell #Character/Sam-Ward #Character/CURSED-AL #plot-outline #answered-questions 

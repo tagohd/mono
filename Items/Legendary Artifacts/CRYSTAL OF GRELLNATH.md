@@ -9,4 +9,4 @@ IncludeInTable: True
 
 Is the cave on the Big Rock Candy Mountain?
 
-#items  #legendary-artifact #the-crystal #stub 
+#stub #Item/Legendary-Artifact/Crystal-of-Grellnath  

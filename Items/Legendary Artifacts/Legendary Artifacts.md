@@ -38,4 +38,4 @@ SORT OrderAcquired
 
 
 
-#items #legendary-artifact #the-orb #soul-amplifier #soul #luke-campbell #cursed-al #answered-questions #rhapsody 
+#Item/Legendary-Artifact/BFS10K #Concept/Soul #Character/Luke-Campbell #Character/CURSED-AL #answered-questions #Concept/Magic/Mana 

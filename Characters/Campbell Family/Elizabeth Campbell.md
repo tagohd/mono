@@ -16,4 +16,4 @@ OtherNotes: Does *not* want to be called Liz. Ever.
 SortOrder: 11
 ---
 
-#character #elizabeth-campbell
+#Character/The-Mothers-Campbell/Elizabeth-Campbell #stub 

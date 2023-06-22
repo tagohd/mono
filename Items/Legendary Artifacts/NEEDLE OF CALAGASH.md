@@ -9,4 +9,4 @@ IncludeInTable: True
 
 The hay is actually on [[Campbell Farms]].
 
-#items #legendary-artifact #the-needle #stub 
+#stub #Item/Legendary-Artifact/Needle-of-Calagash  

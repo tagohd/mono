@@ -13,4 +13,4 @@ It doesn't matter what Huey Lewis says. It is *not* hip to fuck this bee.
 
 Maybe it's actually a briefcase of bees.
 
-#items #legendary-artifact #the-bee #stub 
+#stub #Item/Legendary-Artifact/Calamitous-Bee 

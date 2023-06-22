@@ -13,4 +13,4 @@ IncludeInTable: True
 
 Oh, wait, it's a stick. And [[Luke Campbell|Luke]] is a dogboy. This might not end well.
 
-#items #legendary-artifact #the-staff #stub 
+#stub #Item/Legendary-Artifact/Staff-of-Rulkohim 

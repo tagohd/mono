@@ -12,4 +12,4 @@ What the hell kind of RPG doesn't have a sword? Not this one, that's for sure.
 ![[zoinks it's the gay blade.jpg]]
 (Based on the colors in the background, wouldn't it be the bi blade? Not to be confused with the Beyblade.)
 
-#items #legendary-artifact #the-blade #stub 
+#stub #Item/Legendary-Artifact/Blade-of-Power 

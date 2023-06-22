@@ -26,7 +26,7 @@ For the sake of birthdates, I'm just going to pretend the game takes place in 20
 # All
 ```dataview
 TABLE WITHOUT ID Category, link(file.link,Name) AS "Name", round((date(2020-10-22) - DOB).years, 1) AS "Age", Gender, Species, Role
-FROM #character 
+FROM "Characters" WHERE Name
 SORT SortOrder
 ```
 

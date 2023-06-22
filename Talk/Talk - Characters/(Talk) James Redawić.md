@@ -152,4 +152,4 @@ gameplay:: The player can choose to use the [[BFS 10000]] to get the "true endin
 
 [Lun]: That seems like a good reason for AL's obsession with the whole saving thing, and this may also be a good start for their individual backstories. Why where they evil in the first place? Maybe they used [[Longevity (Spell)|some fucked up magic to gain functional immortality (i.e. not aging)]] and had to sacrifice some innocents to accomplish that. Maybe they used like a prototype-BFS 10000 and AL was able to perfect it to the real deal during his stasis?
 
-#general #james-redawic #answered-questions #Talk/Character #unanswered-questions 
+#general #Character/James-Redawic #answered-questions #Talk/Character #unanswered-questions 

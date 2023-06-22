@@ -1,4 +1,4 @@
-#general #plot-outline #act-1 #luke-campbell #sam-ward #james-redawic #cursed-al #the-orb #the-horse #the-dragon #the-old-mine #genton #ma-and-pa-campbell #rhapsody 
+#general #plot-outline #act-1 #Character/Luke-Campbell #Character/Sam-Ward #Character/James-Redawic #Character/CURSED-AL #Item/Legendary-Artifact/The-Orb #Character/Pauline #Character/Edna #Places/Plata/The-Old-Mine #Places/Genton #Character/The-Mothers-Campbell #Places/Rhapsody 
 
 # Act I
 ## [[1.1 The Call to Adventure]]

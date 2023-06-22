@@ -15,4 +15,4 @@ IncludeInTable: True
 # About
 Communion wine? Nah, SOUL JUICE. (Wait, aren't those kinda the same thing?)
 
-#items #legendary-artifact #the-chalice #stub 
+#stub #Item/Legendary-Artifact/Chalice-of-Sudmoranth 

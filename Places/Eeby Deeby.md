@@ -2,6 +2,6 @@ The true domain of [[Ednathrallor Verdensmorder|Edna]]. Only accessible by broke
 
 ![[eeby deeby.jpg]]
 
-#places #eeby-deeby #stub #the-dragon #Cite/Meme/Eeby-Deeby
+#Places/Eeby-Deeby #stub #Character/Edna #Cite/Meme/Eeby-Deeby
 
 memeRefType:: Eeby Deeby/Location
