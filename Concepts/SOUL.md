@@ -1,8 +1,9 @@
 ---
 alias: SOULS
 ---
-sudoMinor:: Updated to reflect capacitor analogy, and include the Undertale GIF.
-#minorChange #unseenByLun 
+sudoChange:: Updated to reflect capacitor analogy, and include the Undertale GIF.
+Priority:: 99
+#sudoChange #unseenByLun 
 
 A heart-shaped object that represents the very culmination of your being.
 

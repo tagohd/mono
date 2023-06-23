@@ -74,10 +74,17 @@
         },
         {
           "type": "file",
-          "ctime": 1686627550858,
+          "ctime": 1687478891582,
           "path": "0. File overview.md",
-          "subpath": "#3.1.2 Changes Lun Should Really Look At (Major Changes)",
-          "title": "Changes Lun Should Really Look At"
+          "subpath": "#2 Focus",
+          "title": "Focus"
+        },
+        {
+          "type": "file",
+          "ctime": 1687478867153,
+          "path": "0. File overview.md",
+          "subpath": "#3.1.2 Sudo's Changes",
+          "title": "Sudo's Changes"
         },
         {
           "type": "file",
@@ -85,13 +92,6 @@
           "path": "0. File overview.md",
           "subpath": "#3.1.3 Replies",
           "title": "Sudo's Replies"
-        },
-        {
-          "type": "file",
-          "ctime": 1686604402555,
-          "path": "0. File overview.md",
-          "subpath": "#3.1.4 Changes Lun Should Probably Look At (Minor Changes)",
-          "title": "Changes Lun Should Probably Look At"
         },
         {
           "type": "file",
@@ -116,10 +116,38 @@
         },
         {
           "type": "file",
+          "ctime": 1687478965719,
+          "path": "0. File overview.md",
+          "subpath": "#5.1 Unresolved Issues",
+          "title": "Unresolved Issues"
+        },
+        {
+          "type": "file",
           "ctime": 1686601011396,
           "path": "0. File overview.md",
           "subpath": "#6 Answered Questions",
           "title": "Answered Questions"
+        },
+        {
+          "type": "file",
+          "ctime": 1687478922399,
+          "path": "0. File overview.md",
+          "subpath": "#7 Ideas with Dependencies",
+          "title": "Ideas with Dependencies"
+        },
+        {
+          "type": "file",
+          "ctime": 1687478982260,
+          "path": "0. File overview.md",
+          "subpath": "#8 Stubs",
+          "title": "Stubs"
+        },
+        {
+          "type": "file",
+          "ctime": 1687478997313,
+          "path": "0. File overview.md",
+          "subpath": "#9 All",
+          "title": "All Files"
         }
       ],
       "title": "File Overview"
@@ -140,6 +168,16 @@
       "ctime": 1687467910092,
       "path": "2. Timeline.md",
       "title": "Timeline"
+    },
+    {
+      "type": "file",
+      "ctime": 1687479048163,
+      "path": "Gallery.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1687479059888,
+      "path": "Gameplay Notes.md"
     }
   ]
 }

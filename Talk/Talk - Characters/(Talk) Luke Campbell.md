@@ -107,7 +107,7 @@ gameplay:: Luke does NOT want to kill anyone, and he'll have a Very Bad Time (TM
 
 ideaWithDependencies:: Luke kills James with the BLADE OF POWER after AL reveals that James manipulated him.
 
-dependencies:: "[[BLADE OF POWER]] - Potentially affects order of acquisition", "[[2. Timeline]] - Needs to be added", "[[2.4 Atonement with the Father]] - Probably should go here"
+Dependencies:: "[[BLADE OF POWER]] - Potentially affects order of acquisition", "[[2. Timeline]] - Needs to be added", "[[2.4 Atonement with the Father]] - Probably should go here"
 
 #Ideas/Plot 
 
