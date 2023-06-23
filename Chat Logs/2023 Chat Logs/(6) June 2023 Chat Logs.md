@@ -1537,6 +1537,7 @@ S:
 >I'll just randomly generate a last name and say they were the ones who discovered it
 
 # 2023-06-22
+## CHANNEL active-ideas
 L:
 [^Re: Its only purpose is to attract BEES]
 >very bee-centric story we're going towards
@@ -1675,7 +1676,7 @@ S:
 
 \[...\]
 
-## Sorry to interrupt, but: BFS thread jumpscare
+### THREAD "Sorry to interrupt, but: BFS thread jumpscare"
 L:
 > Sorry to interrupt, but: BFS thread jumpscare
 >>Even though ÜBERSOULS formed in living vessels are more stable, they aren't usable while still in the vessel's body. You will need to use [[NEEDLE OF CALAGASH|THE NEEDLE]] to transfer the ÜBERSOUL into a more appropriate container, such as [[CURSED AL'S CURSED ORB|THE ORB]].
@@ -1767,5 +1768,147 @@ L:
 > since it kinda fits on this thread, here's another question
 > where did the legendary artefacts come from
 > do we even come up with a creation story
+
+S:
+> A wizard did it
+
+L:
+> exactly
+> maybe different wizards
+> magic has been around for a while
+
+S:
+> Couldn't find a gif, so have a youtube: https://www.youtube.com/watch?v=W9b_63G3iZU
+> ![[magic.gif]]
+> That also works
+
+L:
+>![[lena-hall-friendship.gif]]
+
+S:
+> I feel like if that's the case, the BEE isn't really an artifact then, is it
+> Unless a wizard bred them
+
+L:
+> AL decided it was important enough to be called that way
+> what if the BEE was a normal BEE until some bastard wizard injected a SOUL into it with the NEEDLE
+
+S:
+> The BEE isn't the artifact. The briefcase that contains the BEE(S) is the artifact 
+> Or that
+
+L:
+> half of the bosses are upset haunted animals/objects
+
+S:
+> I mean, if they're all furries...
+
+L:
+> the bastard that keeps injecting SOULs into everything is the secret boss
+
+S:
+> Alphys?!
+
+L:
+>but are they all _haunted_ furries?
+>oh no
+>it all leads back to ut/dr
+
+S:
+>![[ohio.jpg]]
+
+L:
+> its only fair
+
+S:
+>Aw, man, that reminds me: I thought of some sort of connection to Omori the other day, but now I can't remember what it was
+
+L:
+>flower boy character thats a little fucked up actually?
+
+S:
+> Luke?
+> Or did you mean someone else?
+> I don't think that was it, either way
+> More on a thematic level
+
+L:
+> i bet it has to do with suicide you're really trying to get James to kick his own bucket
+
+S:
+> Lol, maybe
+> I feel like it was before I thought of that, but you might be right
+> Oh! Maybe it was the whole "Luke accidentally kills James and it really fucks him up inside" thing
+> That's kinda like Omori, right?
+> Except I don't think Luke is going to go hang out in his bedroom for 4 years after that happens
+
+L:
+> maybe he does get a depression-sona
+> its just mentioned in an extremely off-handed manner
+
+S:
+> Luke
+> The ~~Cooler~~ Depressed Luke
+
+L:
+> "Oh yeah, the shadow version of myself I see in my dreams is not gonna shut up about this!"
+> "The what?"
+> "Hm?"
+> "Nevermind"
+
+S:
+>![[hatman.jpg]]
+
+L:
+> lol
+> exactly
+
+S:
+>![[Screenshot 2023-06-22 150536.png]]
+
+L:
+> now thats more like it
+> lvl 8 spells upon being cast:
+> ![[liver privilege.png]]
+
+S:
+> Seeing the picture before I saw the message was very threatening for a moment
+
+### THREAD "MATH"
+S:
+>Feel like the formulae should be their own thread
+>Okay, so here's what I have so far:
+> - Ejiofor's constant ($E$): 6.3459269958 - A number I made up to make the mana costs be less big
+> - Stokoff's constant ($S$): 39.810686024 - Another number I made up just for the fuck of it
+> - Ejiofor's limit ($L_E$): 1.21 PEj ($1.21 \times 10^{15}$ Ej) - The amount of mana a SOUL can take in one dose before it just straight up explodes or something, independent of the user's tolerance
+> - Gustav's number ($G$): 19.4646 ZEj ($19.4646 \times 10^{21}$ Ej) - The amount of free mana that can be in the atmosphere before Really Bad Things (TM) happen
+> - Avogadro's number ($N_A$): $6.02214076 \times 10^{23}$ - Idk, just felt like it should be involved somehow
+> - Euler's number ($e$): 2.718281828...
+
+%% That's kinda hard to read, so I'm rewriting it as a table %%
+
+| Name | Symbol | Quantity | Purpose |
+|------|--------|----------|---------|
+| Ejiofor's constant | $E$ | 6.3459269958 | A number I made up to make the mana costs be less big |
+| Stokoff's constant | $S$ | 39.810686024 | Another number I made up just for the fuck of it |
+| Ejiofor's limit | $L_E$ | 1.21 PEj ($1.21 \times 10^{15}$ Ej) | The amount of mana a SOUL can take in one dose before it just straight up explodes or something, independent of the user's tolerance |
+| Gustav's number | $G$ | 19.4646 ZEj ($19.4646 \times 10^{21}$ Ej) | The amount of free mana that can be in the atmosphere before Really Bad Things (TM) happen
+| Avogadro's number | $N_A$ | $6.02214076 \times 10^{23}$ | Idk, just felt like it should be involved somehow |
+| Euler's number | $e$ | 2.718281828 | |
+
+S:
+> Oh, and the Stokoff maximum, the theory that an ÜBERSOUL can't contain more than 13 SOULS or it will implode
+> Which would also cause Really Bad Things (TM) to happen
+> And then there's the formula for calculating the minimum mana cost of a given spell of known level
+> $$m = \frac{e^{3l}}{E} \times 1000$$
+> That's strictly more than 13, btw. It can contain exactly 13 SOULS and be fine
+
+## CHANNEL new-ideas
+S:
+> New channel just in case I get an idea that's not related to anything but makes me go "Heh, I should put that in MONO"
+> Like this:
+> Sometimes a found family is just 5 dads. That's it. 5 dads, no kids
+> Except they do have one kid. It's a houseplant
+> They can be, like, random NPCs, I guess
 
 #general #Ideas/Plot #Ideas/Character #Ideas/Place
