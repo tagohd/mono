@@ -33,11 +33,11 @@ Calculating $M_I$ involves the following variables:
 	- Depends on $n$
 - For inanimate vessels:
 	- $F_V$, the force of attraction between the ÜBERSOUL and the vessel
-		- Inversely proportional to $n$
+		- Proportional to $n$
 		- Inversely proportional to $V_C$, the volume of the container
 - For living vessels:
 	- $F_C$, the force of attraction between the BÜBERSOUL and the container
-		- Inversely proportional to $n$
+		- Proportional to $n$
 		- Inversely proportional to $V_C$, the volume of the container
 	- $F_H$, the force of attraction between the BÜBERSOUL and the host
 		- Inversely proportional to $d^2$, the distance between the container and the host
@@ -47,6 +47,9 @@ and the following constants:
 - $L_E$, the Ejiofor limit
 - $k_E$, Ejiofor's constant
 - $e$, Euler's number
+- $\pi$
+- $\epsilon_0$, the permittivity of free space
+- $c$, the speed of light
 
 $M_C$ is similar, but additionally involves:
 - $\sum m_i$, the initial Mana added to each SOUL
@@ -57,8 +60,25 @@ and does not depend on $L_E$.
 
 For inanimate vessels:
 $$
-M_I = \frac{L_E}{2} F_S F_V
+F_S = \frac{e^{3n}}{k_E}
 $$
 $$
-F_S = 
+F_V = \frac{n}{V_C}
+$$
+$$
+M_I = \frac{n \cdot L_E}{2} F_S F_V = \frac{n^2e^{3n}L_E}{2k_e V_c}
+$$
+
+For living vessels:
+$$
+F_S = \frac{e^{3n}}{k_E}
+$$
+$$
+F_V = F_C \cdot F_H
+$$
+$$
+F_C = \frac{n}{V_C}
+$$
+$$
+F_H = \frac{n}{2\pi \epsilon_0 c r} \frac{\cos(\frac{\pi}{2}\cos\theta)}{\sin\theta}e^n
 $$
