@@ -1,12 +1,19 @@
 - **SOUL Fusion** is the process by which two or more [[SOUL|SOULS]] are fused into a single unit, known as an ÜBERSOUL.
 - An individual SOUL begins to lose integrity at [[Mana]] concentrations in excess of 121 TEj.
-	- This is known as the Ejiofor limit
+	- This is known as the Ejiofor limit, $L_E$
 	- Some extremely powerful spells require more than 121 TEj of Mana
 - An ÜBERSOUL can, of course, handle much more Mana than a typical SOUL
 - However, unlike normal SOULS, there is a limit to how much Mana an ÜBERSOUL can withstand in its lifetime
 	- This is proportional to the initial Mana cost of creating an ÜBERSOUL
 		- What, you didn't think you could just do this for *free* did you?
 		- Obviously, it requires less than 121 TEj. Otherwise, there would be no point.
+		- Let's say the [[BLADE OF POWER]] does this for you (that's where the POWER comes from), but you can choose to add more Mana if you know what you're doing.
 		- You also can't put in too much mana, or the SOUL you're attempting to add will just ![[Determination.gif]]
-		- I'm going to say this is where the Stokoff constant comes in
-	- Normally, Mana is filtered through the body before coming into contact with the SOUL. This is partially why an ÜBERSOUL formed in a living vessel is more stable. It's also why the [[STAFF OF RULKOHIM]] is integral to the [[BFS 10000]].
+		- I'm going to say this is where the Stokoff constant, $k_S$, comes in
+	- Normally, Mana is filtered through the body before coming into contact with the SOUL. This is partially why an ÜBERSOUL formed in a living vessel is more stable. It's also why the [[STAFF OF RULKOHIM]] is integral to the [[BFS 10000]]. ![[DIE ÜBERSEELE.png]]
+- Both the instantaneous Mana maximum, $M_I$, and the cumulative Mana maximum, $M_C$, depend on the number of SOULS, $n$, comprising the ÜBERSOUL
+	- More SOULS = stronger bonds = stronger ÜBERSOUL
+	- This is known as the Power of Friendship ![[The Power of Friendship.png]]
+		- It's actually named after the scientist who first observed it, Paul Friendship. Ironically, he was a bitter old cunt, and he died alone.
+- $M_I$ and $M_C$ also depend on whether the ÜBERSOUL was formed in a living vessel or an inanimate one.
+	- Living vessel: Higher $M_I$, significantly higher $M_C$,
