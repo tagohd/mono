@@ -39,4 +39,11 @@ $$l = \frac{1}{3} \ln{(Em)}$$
 
 Of course, as tolerance builds, a mage will experience fewer of these symptoms. For instance, a mage accustomed to casting Level 5 spells who attempts to cast a Level 7 spell may have a similar experience to a complete novice attempting to cast a Level 2 spell.
 
+# Mana Costs
+Prior to the research conducted by Dr Ejiofor, et al., mages did not know how much Mana a spell cost. They only had an intuitive sense for how difficult certain spells were to cast.
+
+sudoChange:: Do mages know how much Mana a spell requires before casting it? Not really, no. Since each spell level represents a range of Mana costs, that would be really inconvenient. And how are you going to measure out exactly how much Mana is coming through the rift? No, you kinda just develop a feel for it, you know?
+Priority:: 40
+#sudoChange #unseenByLun 
+
 #general #Concept/Magic/Mana #stub 

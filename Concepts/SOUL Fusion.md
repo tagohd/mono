@@ -1,3 +1,12 @@
-SOUL fusion is the process by which two or more [[SOUL|SOULS]] are fused into one unit, known as an ÜBERSOUL. The ÜBERSOUL is able to handle [[Mana]] in concentrations far beyond the limits of typical SOULS. Most SOULS begin to lose integrity at concentrations above 121 TEj—this is known as the Ejiofor limit. However, some spells have been calculated to have a Mana cost that exceeds this limit; these spells are theoretical, of course.
-
-SOUL fusion is 
+- **SOUL Fusion** is the process by which two or more [[SOUL|SOULS]] are fused into a single unit, known as an ÜBERSOUL.
+- An individual SOUL begins to lose integrity at [[Mana]] concentrations in excess of 121 TEj.
+	- This is known as the Ejiofor limit
+	- Some extremely powerful spells require more than 121 TEj of Mana
+- An ÜBERSOUL can, of course, handle much more Mana than a typical SOUL
+- However, unlike normal SOULS, there is a limit to how much Mana an ÜBERSOUL can withstand in its lifetime
+	- This is proportional to the initial Mana cost of creating an ÜBERSOUL
+		- What, you didn't think you could just do this for *free* did you?
+		- Obviously, it requires less than 121 TEj. Otherwise, there would be no point.
+		- You also can't put in too much mana, or the SOUL you're attempting to add will just ![[Determination.gif]]
+		- I'm going to say this is where the Stokoff constant comes in
+	- Normally, Mana is filtered through the body before coming into contact with the SOUL. This is partially why an ÜBERSOUL formed in a living vessel is more stable. It's also why the [[STAFF OF RULKOHIM]] is integral to the [[BFS 10000]].
