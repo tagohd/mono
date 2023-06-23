@@ -28,11 +28,13 @@ The average person can tolerate around 150 Ej of Mana without significant reacti
 | 8 (Major)        | >4.17 TEj      | Multiple organ failure, organ rupture, toxic epidermal necrolysis              |
 | 9 (Major)        | >83.84 TEj     | Intense euphoria, followed shortly by an extremely agonizing death (100%)      |
 
-Mana Cost, $m$, for a spell can be calculated according to the following formula: $$m=\frac{e^{3l}}{E}\times1000$$
-where $e$ is Euler's number, $l$ is the Spell Level, and $E$ is Ejiofor's constant, 6.3459269958.
+Mana Cost, $m$, for a spell can be calculated according to the following formula: $$m=\frac{e^{3l}}{E}$$
+where $e$ is Euler's number, $l$ is the Spell Level, and $E$ is Ejiofor's constant, $6.3459269958\times10^{-3}$.
 
 %%
 In universe, this is probably calculated the other way around, i.e. spell level is derived from mana cost.
+
+$$l = \frac{1}{3} \ln{(Em)}$$
 %%
 
 Of course, as tolerance builds, a mage will experience fewer of these symptoms. For instance, a mage accustomed to casting Level 5 spells who attempts to cast a Level 7 spell may have a similar experience to a complete novice attempting to cast a Level 2 spell.

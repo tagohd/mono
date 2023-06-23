@@ -1,0 +1,3 @@
+SOUL fusion is the process by which two or more [[SOUL|SOULS]] are fused into one unit, known as an ÜBERSOUL. The ÜBERSOUL is able to handle [[Mana]] in concentrations far beyond the limits of typical SOULS. Most SOULS begin to lose integrity at concentrations above 121 TEj—this is known as the Ejiofor limit. However, some spells have been calculated to have a Mana cost that exceeds this limit; these spells are theoretical, of course.
+
+SOUL fusion is 
