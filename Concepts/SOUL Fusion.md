@@ -1,3 +1,7 @@
+sudoChange:: MATH! And also lots of words.
+Priority:: 1
+#sudoChange #unseenByLun 
+
 - **SOUL Fusion** is the process by which two or more [[SOUL|SOULS]] are fused into a single unit, known as an ÜBERSOUL.
 - An individual SOUL begins to lose integrity at [[Mana]] concentrations in excess of 121 TEj.
 	- This is known as the Ejiofor limit, $L_E$
@@ -40,7 +44,7 @@ Calculating $M_I$ involves the following variables:
 		- Proportional to $n$
 		- Inversely proportional to $V_C$, the volume of the container
 	- $F_H$, the force of attraction between the BÜBERSOUL and the host
-		- Inversely proportional to $d^2$, the distance between the container and the host
+		- Inversely proportional to $d^2$, the distance between the container and the host squared
 		- Proportional to $n$
 
 and the following constants:
@@ -66,7 +70,7 @@ $$
 F_V = \frac{n}{V_C}
 $$
 $$
-M_I = \frac{n \cdot L_E}{2} F_S F_V = \frac{n^2e^{3n}L_E}{2k_e V_c}
+M_I = \frac{n \cdot L_E}{2} F_S F_V = \frac{n^2e^{3n}L_E}{2k_e V_C}
 $$
 
 For living vessels:
@@ -82,3 +86,8 @@ $$
 $$
 F_H = \frac{n}{2\pi \epsilon_0 c r} \frac{\cos(\frac{\pi}{2}\cos\theta)}{\sin\theta}e^n
 $$
+$$
+M_I = \frac{n^3 e^{4n} L_E \cos(\frac{\pi}{2}\cos\theta)}{4 k_E V_C \pi \epsilon_0 c r \sin \theta}
+$$
+
+#Concept/Soul/Soul-Fusion 
