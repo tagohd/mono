@@ -35,7 +35,7 @@ question:: Do they have a SOUL or not?
 %%
 gameplay:: Perhaps it will be a recurring theme that Luke will find something that reminds him of Sam. ([[Sam Ward#^reminders-of-sam|ref]])
 
-gameplay:: Scrapbook where Luke puts things he wants to show Sam. Or maybe there are opportunities to have your photo taken, like Earthbound.
+gameplay:: Scrapbook where Luke puts things he wants to show Sam. Or maybe there are opportunities to have your photo taken, like Earthbound. The player can choose not to do this, and it doesn't really affect anything. They just miss out on something cute/maybe you get an achievement if you get all of them. It might count as "ignoring what Luke wants to do", though. ([[Sam Ward#^reminders-of-sam|ref]])
 %%
 
 [question:: What are some things that would remind Luke of Sam?] And are they directly connected to Sam (i.e. something they actually owned), or is it just like, "These are Sam's favorite flowers"? Maybe Sam is also very fond of [[CURSED AL'S CURSED ORB|chocolate oranges]]?

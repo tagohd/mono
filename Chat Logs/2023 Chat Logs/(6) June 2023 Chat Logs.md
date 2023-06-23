@@ -822,6 +822,10 @@ S:
 >Idk
 >He gets depressed?
 >I feel like either way he's going to have some sort of existential crisis
+^work-with-luke
+
+#Gameplay 
+gameplay:: The game tracks how often you make the same choice Luke would have made. However, Luke is an idiot, so the choices he would make aren't necessarily the right ones, so the game also tracks that. If both variables are too high, Luke may stop listening to the player. ([[(6) June 2023 Chat Logs#^work-with-luke|ref]])
 
 S:
 [^Re: also, idea for repo organization: maybe just have one big working file with active discussions sorted by file (with headers so you can easily navigate) and when we figure something out we update the file itself? and maybe arch]
@@ -959,6 +963,10 @@ S:
 L:
 >you get an achievement if you specifically keep these 2 artifacts
 >TRUE DOGBOY
+^achievement-unlocked
+
+#Gameplay 
+gameplay:: You get an achievement for if you keep [[CURSED AL'S CURSED ORB|THE ORB]] and [[STAFF OF RULKOHIM|THE STAFF]] in your inventory for the whole game. The achievement is called either "No Take Only Throw" or "TRUE DOGBOY". ([[(6) June 2023 Chat Logs#^achievement-unlocked|ref]])
 
 S:
 >![[truly excellent.jpg]]
@@ -1289,5 +1297,475 @@ S:
 >You're going into the fight woefully unprepared
 >So it's kinda like a Metroidvania but with a time loop?
 
+\[...\]
+
+S:
+>So, we're in agreement that James's motivation is "Wizard Divorce"?
+
+L:
+>and homicide
+>i think thats a pretty big part of it too
+
+S:
+>1. Wizard Divorce
+>2. Kill AL
+>3. Kill IMAS
+>4. ???
+>5. Profit
+
+L:
+>oh he's killing them too now?
+
+S:
+>They kicked him out of the club that he founded
+>He's a little salty about that
+
+L:
+>thats fair, get em out
+
+S:
+>So, I'll mark [[(Talk) James Redawić#Why does James want the Artifacts?|this]] as closed then
+
+L:
+>did you write the conclusion somewhere on that file?
+>is it just the wizard divorce line?
+
+S:
+>wdym
+>About James being the one that casts Reverse Fate the first time?
+>No
+>I did copy it into the chat log
+>I'll find a more appropriate place for it
+
+L:
+>what? no James' motivation
+>how did you just jump to reverse fate
+
+S:
+>Wasn't sure what you meant by conclusion
+> Like conclusion of the story or something?
+
+L:
+> like the final answer to the question
+> what we concluded
+> is that not an appropriate use of the word
+
+S:
+>It is, I'm just silly
+> Yes, I changed it to definitively say that he needs the Artifacts to cast Wizard Divorce
+
+L:
+>and the HOMICIDE
+> its important to me!!!
+
+S:
+>Right, the homicide
+
+L:
+> he wants to kill that man!
+
+S:
+> I will add that too
+
+L:
+> ty
+> so i didnt look at the repo again but i am making a MONO gag comic
+> which im spoiling because i wanted to ask you what hairstyle you think [[Case Weston|Case]] has
+
+S:
+>![[2023-06-21 (2).png]]
+>My brother in christ, I don't even know what species Case is
+
+L:
+> i guess he's a difficult case...
+
+S:
+>lol
+> He might be a wolverine?
+
+L:
+> FROM X-MEN?!
+
+S:
+> No, from the remote reaches of the Northern boreal forests and subarctic and alpine tundra of the Northern Hemisphere
+> ![[Gulo_gulo_2.jpg]]
+
+L:
+> omg its wolverine from x-men
+
+S:
+>Actually, yeah, sure
+> Jackman, at 1.90 m (6 ft 3 in)\[36\]\[37\] stands 30 cm taller than Wolverine, who is said in the original comic book to be 5 feet 3 inches (1.60 m).
+> That's maybe how tall Case is
+> He and Luke are both short kings
+> Ah, jeez, I should probably figure out how tall all these people are, huh
+> That would probably make it easier for you to draw them wouldn't it
+> Oh, wait, hairstyle
+
+L:
+> its alright i already made him sexy
+
+S:
+>This?
+>![[case_weston.jpg]]
+>idfk
+
+L:
+>thats  two people sudo
+
+S:
+> The guy in front
+> Not the blonde one
+
+L:
+>im not recreating the Trigun manga
+
+S:
+>aw
+
+L:
+>but i do agree on the big fucking gun
+
+S:
+>"I'm not very good at magic yet, but I make up for it with my big fucking gun"
+
+L:
+> we will triumph where harry potter failed
+> bring a gun to a magic battle
+
+S:
+>This is also Case
+>![[this is also case.jpg]]
+
+L:
+>he's a goat, got it
+
+S:
+>Yeah, okay
+> He's not very Ralsei like in personality, I think
+
+L:
+> no he's the serious boi
+
+S:
+[^Re: bring a gun to a magic battle]
+>![[even more case.jpg]]
+>I guess that's his hairstyle now?
+> Somewhere between Wolfwood and Radcliffe?
+> He's got guns, so of course he has bangs
+> I feel like at least one of the characters looks like this, too
+> ![[Real_Kel.png]]
+> Idk who yet
+
+L:
+> i was going to suggest one of those long anime ponytails like this but have realized i already given luke a ponytail
+> ![[anime_ponytail.png]]
+
+S:
+>We already have a design for Luke
+
+L:
+> the singular design we have
+> and a possible one for AL
+
+S:
+>Sorry, AL's an elk now
+> RIP to your fucked up bird
+> Luke can be Kel in personality if not appearance
+> Can Case be Kel?
+> If he's not too busy being Wolfwood? 
+> Daniel Kel Wolfwood
+
+L:
+> danikel huh
+> ill see what i can do tomorrow
+> gonna sleep now
+> at a reasonable hour for once!
+> maybe this will fix me
+
+S:
+> Case is maybe more jacked than Kel anyway
+> Good night!
+
+L:
+> good afternoon!
+
+S:
+> If he's also Wolverine X-Men
+
+L:
+> they're all X-men thats the secret
+
+S:
+>James = Professor X
+> AL = Magneto
+
+S:
+>[[BFS 10000#Purpose/Function]]
+>Damn flowchart too big
+>Hmmm, what if THE CHALICE doesn't actually have a role in the BFS 10000?
+>Its only purpose is to attract BEES
+
+S:
+> Oh, here's a different thought: what if getting killed by Luke was James's plan all along?
+> Since he knew his SOUL would be absorbed by the BLADE?
+> 1. Luke kills James
+> 2. James's SOUL goes ZORP
+> 3. Luke's like, "I don't want this BLADE anymore, please. It haunts me." So he gives it to IMAS.
+> 4. AL steals the BLADE from IMAS somehow.
+> 5. James gets to fuck with the BFS 10000
+
+S:
+>Oh! Maybe THE CHALICE holds the SOULS until you're ready to put them in the vessel (either THE ORB or THE SAM)
+>Kinda like this
+>![[chalice maybe.png]]
+>Wait, no
+>That's what THE ORB is for
+>Fucking hate this CHALICE man
+>Truly the most cursed of the Artifacts
+
+S:
+>Not sure if this will ever come up in the game, but I have decided on a new unit for measuring Mana instead of Mana-Coulombs
+>Toverkracht
+>Abbreviated T
+>Maybe it's like magical flux?
+>Magnets, magic
+>Same thing
+>Wait. The SOUL is like a mana capacitor
+>Why don't we just say fuck it and straight up use Farads as the unit
+>Nah, I'm going to stick with a made-up unit
+>I'll just randomly generate a last name and say they were the ones who discovered it
+
+# 2023-06-22
+L:
+[^Re: Its only purpose is to attract BEES]
+>very bee-centric story we're going towards
+>i am pro
+
+L:
+[^Re: Oh, here's a different thought: what if getting killed by Luke was James's plan all along?]
+> but then he undoes the whole thing casting Reverse Fate
+> so all he really got from that was some intel at most?
+
+S:
+>His first goal is to fuck over AL, after all
+
+L:
+> why not just steal the BFS and fuck him over Big Time from the start?
+> i think it makes more sense as a happy little accident
+
+S:
+>Yeah, you're probably right
+
+L:
+>but if you really want to make james want to die i wont stop you
+
+S:
+> I think in that case, it wouldn't be so much that he wants to die, but that he sees it as the only way to accomplish his goals
+> Especially since he knows he'll be brought back to life
+
+L:
+> maybe his impending death is like really soon and he has no idea how to steal the BFS?
+> but then by seeing everything play out in loop 1 he knows enough to steal the thing in loop 2
+
+S:
+> He's going to make AL do all the work of building it for him
+
+L:
+> well thats gonna be the case either way right
+> also, could he resurrect himself from the orb instead of casting reverse fate, given that he can cast a spell like reverse fate?
+> why go all the way reversing fate if you can just ress yourself and kill AL right there and then?
+> and cast WIZARD DIVORCE, of course
+
+S:
+> Hmmm, well, the way I've written it now, maybe it's not so much that Sam doesn't know how to cast Reverse Fate, just that ordinarily it requires so much mana that it's impossible to cast without your SOUL exploding
+> Disregarding the fact that they don't have a SOUL to explode
+
+L:
+> oh i was talking about James
+
+S:
+> Yeah, I was just thinking maybe we don't need to have James in the ÜBERSOUL after all
+
+L:
+>so anyone can cast any spell given enough mana?
+
+S:
+>![[I GUESS.png]]
+>I mean, that kinda fits with what I wrote about Luke not being THE CHOSEN ONE
+>It's just that more powerful spells require mana in amounts that are liable to fry your SOUL
+
+L:
+> but then the whole idea of Luke learning spells from James is also gone
+> all he needs is a bigger SOUL?
+
+S:
+>Shit
+
+L:
+> how do you even get better at magic if that's the system
+> i think this introduces a lot more problems than having James in the ÜBERSOUL
+
+S:
+> Yeah
+> But, there's nothing inherent to Luke that makes him THE CHOSEN ONE
+> Anyone can cast any spell, but I guess you still have to know how
+
+L:
+> yeah, and its sam casting the spell anyway
+
+S:
+> This is true
+
+L:
+>james is just the ps5 in his head telling him how to
+>i guess he could also ask sam to ressurect him, but it would be more difficult to convince them
+
+L:
+[^Re: also, could he resurrect himself from the orb instead of casting reverse fate, given that he can cast a spell like reverse fate?]
+> so if its actually sam casting the spell this problem is gone
+
+S:
+> Maybe they're not directly communicating with James. It's just by virtue of him being in there that they have access to his knowledge, including how to cast Reverse Fate
+> James doesn't get a say in how they use that knowledge
+
+L:
+> ok but what if all they can hear ALL the SOULs and its driving them a bit crazy
+> which is another big reason you dont want to put the UBERSOUL into yourself, but have a vessel
+
+S:
+> Maybe that's why they end up erasing themself from the timeline
+> Wasn't intentional
+
+L:
+>_im done with this shit bro_
+
+S:
+>Or that
+
+L:
+> so is sam like gone gone from the story then
+
+S:
+> I cast STFU
+> No, but I have no idea how they're coming back
+> I mean, if Luke still kinda remembers them, then they obviously didn't erase themself completely
+
+L:
+> i think we can do some real time loop fuckery with making the reason Sam doesnt have a SOUL in the first loop is because they erased themselves incompletely and luke could only bring them back without a SOUL
+
+S:
+> Ooooh
+
+L:
+> which currently makes no sense, and maybe never will. but that time loop fuckery for you
+> not sure if you want to go that far, probably easier fixes
+> but if can be a big wowie! moment
+
+S:
+> Wait, but the only reason they're able to go "Surprise muthafucka" on AL is because they don't have a SOUL
+> But I guess: time loop
+
+L:
+> having lunch now, have fun thinking about that
+> its a big mess
+
+S:
+> I'm going to go back to coming up with overly complicated formulas to explain how much Mana a given ÜBERSOUL can handle
+
+\[...\]
+
+## Sorry to interrupt, but: BFS thread jumpscare
+L:
+> Sorry to interrupt, but: BFS thread jumpscare
+>>Even though ÜBERSOULS formed in living vessels are more stable, they aren't usable while still in the vessel's body. You will need to use [[NEEDLE OF CALAGASH|THE NEEDLE]] to transfer the ÜBERSOUL into a more appropriate container, such as [[CURSED AL'S CURSED ORB|THE ORB]].
+>so is the ubersoul completely taken out of the vessel?
+
+S:
+> Oh, I meant to include that it's still (loosely) attached to the vessel
+> But I got distracted trying to invent formulae
+
+L:
+> thats fair
+> so is it mostly in the vessel or mostly in the orb?
+> i.e. are we doing cloud computing or no
+> it could also be a nice clean 50/50 split
+> maybe you can make another formula for how much of the soul needs to be in the vessel in function of the soul size
+
+S:
+> Please, no
+> I mean, I could
+> But no
+> Don't tempt me
+
+L:
+> hehe
+> alright back to the original question sans the formula
+
+S:
+>![[uhhh.jpg]]
+>I was thinking he could, like, move around the room, but he can't go too far or the connection would be severed
+> Actually, I bet there probably is some sort of formula for that already
+> Idk what it would be called
+> Probably something to do with waves or some shit
+> I would never have expected this to be one of the reasons I regret not studying electrical engineering
+> Plenty of other reasons, just never would have thought this would be one of them
+
+L:
+> just read a book on electrical engineering
+> easy fix
+
+S:
+[^Re: Lun sent a message in the wrong thread]
+> All is forgiven
+
+L:
+> AL is forgiven?!
+> what a nice ending to the story
+
+S:
+> That comes later
+> I mean...
+> ![[2023-06-22.png]]
+
+S:
+[^Re: just read a book on electrical engineering]
+> Ah, excellent, this is exactly the kind of complicated looking formula I was hoping for
+> ![[Screenshot 2023-06-22 141550.png]]
+
+L:
+>![[its-perfect-david-rose.gif]]
+
+S:
+>> though the exponential growth of mana cost might be a little extreme
+>> currently you have "vomiting" from 65 * 10^3 Ej and "severe diarrhea and vomiting" from 4 * 10^12 Ej, which doesnt seem very proportionate
+> Yeah, that was mostly from trying to make it fit what I had already written
+> I said a novice can tolerate 150 Ej with little problem and even experienced mages had minor symptoms from concentrations > 1 TEj, so I figured an exponential function would fit the best
+
+L:
+> thats fair, i think you can fix it simply by changing the symptoms then
+> since they are written for novices if i got that right
+> an 8th level spell would probably kill them as well i imagine
+> or rupture a few organs at least
+
+S:
+> It's assumed that they're experiencing the symptoms of the lower levels, too
+> I guess I should have made that clear
+> Like, if a Level 7 spell kills 50% of novices, a Level 8 would, too
+> It would probably kill more than 50% tbh
+> But the LD50 for mana is apparently at least 207.82 GEj
+
+L:
+> thats a lot less than the 4 Tej an 8th level rocks
+
+S:
+> Yeah, so I should probably rewrite the symptoms, like you said
+
+L:
+> only of the last levels i think
+> rest seemed fine
+> since it kinda fits on this thread, here's another question
+> where did the legendary artefacts come from
+> do we even come up with a creation story
 
 #general #Ideas/Plot #Ideas/Character #Ideas/Place
