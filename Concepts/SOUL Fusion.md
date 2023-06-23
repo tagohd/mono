@@ -28,6 +28,37 @@
 So, let's try and put all this together:
 
 Calculating $M_I$ involves the following variables:
-- $n$
-- $F_S$
-- $F_V$ or $F_C$ and $F_H$
+- $n$, the number of SOULS
+- $F_S$, the force of attraction between SOULS
+	- Depends on $n$
+- For inanimate vessels:
+	- $F_V$, the force of attraction between the ÜBERSOUL and the vessel
+		- Inversely proportional to $n$
+		- Inversely proportional to $V_C$, the volume of the container
+- For living vessels:
+	- $F_C$, the force of attraction between the BÜBERSOUL and the container
+		- Inversely proportional to $n$
+		- Inversely proportional to $V_C$, the volume of the container
+	- $F_H$, the force of attraction between the BÜBERSOUL and the host
+		- Inversely proportional to $d^2$, the distance between the container and the host
+		- Proportional to $n$
+
+and the following constants:
+- $L_E$, the Ejiofor limit
+- $k_E$, Ejiofor's constant
+- $e$, Euler's number
+
+$M_C$ is similar, but additionally involves:
+- $\sum m_i$, the initial Mana added to each SOUL
+	- Depends on $n$
+- $k_S$, Stokoff's constant
+
+and does not depend on $L_E$.
+
+For inanimate vessels:
+$$
+M_I = \frac{L_E}{2} F_S F_V
+$$
+$$
+F_S = 
+$$
