@@ -14,6 +14,7 @@ Priority:: 1
 		- Let's say the [[BLADE OF POWER]] does this for you (that's where the POWER comes from), but you can choose to add more Mana if you know what you're doing.
 		- You also can't put in too much mana, or the SOUL you're attempting to add will just ![[Determination.gif]]
 		- I'm going to say this is where the Stokoff constant, $k_S$, comes in
+		- The amount of 
 	- Normally, Mana is filtered through the body before coming into contact with the SOUL. This is partially why an ÜBERSOUL formed in a living vessel (also known as a Biologic ÜBERSOUL, or BÜBERSOUL) is more stable. It's also why the [[STAFF OF RULKOHIM]] is integral to the [[BFS 10000]]. ![[DIE ÜBERSEELE.png]]
 - Both the instantaneous Mana maximum, $M_I$, and the cumulative Mana maximum, $M_C$, depend on the number of SOULS, $n$, comprising the ÜBERSOUL
 	- More SOULS = stronger bonds = stronger ÜBERSOUL
@@ -100,9 +101,10 @@ $M_C$ involves the following variables:
 		- Inversely proportional to $d^2$, the distance between the container and the host squared
 		- Proportional to $n$
 		- Also depends on $\theta$, the angle between the BÜBERSOUL and the host
+	- Possibly involves some other variable, $x$, that explains why $M_C$ is higher for living vessels
 - $\sum m_i$, the initial Mana added to each SOUL
 	- Depends on $n$
-- $C$, the Mana cost of performing SOUL fusion (distinct from )
+- $C$, the Mana cost of performing SOUL fusion (distinct from above)
 
 And the following constants:
 - $k_S$, Stokoff's constant
