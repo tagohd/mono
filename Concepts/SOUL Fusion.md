@@ -62,6 +62,8 @@ $M_C$ is similar, but additionally involves:
 
 and does not depend on $L_E$.
 
+%
+
 For inanimate vessels:
 $$
 F_S = \frac{e^{3n}}{k_E}
