@@ -12,9 +12,10 @@ Priority:: 1
 		- What, you didn't think you could just do this for *free* did you?
 		- Obviously, it requires less than 121 TEj. Otherwise, there would be no point.
 		- Let's say the [[BLADE OF POWER]] does this for you (that's where the POWER comes from), but you can choose to add more Mana if you know what you're doing.
+			- I'm going to say it adds 30 MEj, so around a 4th level spell.
 		- You also can't put in too much mana, or the SOUL you're attempting to add will just ![[Determination.gif]]
 		- I'm going to say this is where the Stokoff constant, $k_S$, comes in
-		- The amount of 
+		- The amount of Mana an exposed SOUL can withstand is significantly less than $L_E$. This limit was calculated by Rochelle Kohlenberg to be 19.389 GEj. Its symbol is $L_K$.
 	- Normally, Mana is filtered through the body before coming into contact with the SOUL. This is partially why an ÜBERSOUL formed in a living vessel (also known as a Biologic ÜBERSOUL, or BÜBERSOUL) is more stable. It's also why the [[STAFF OF RULKOHIM]] is integral to the [[BFS 10000]]. ![[DIE ÜBERSEELE.png]]
 - Both the instantaneous Mana maximum, $M_I$, and the cumulative Mana maximum, $M_C$, depend on the number of SOULS, $n$, comprising the ÜBERSOUL
 	- More SOULS = stronger bonds = stronger ÜBERSOUL
@@ -113,6 +114,8 @@ and does not depend on $L_E$.
 
 %%
 If "You also can't put in too much mana, or the SOUL you're attempting to add will just Determination.gif", then shouldn't $L_E$ be involved somehow? Maybe $L_E$ only applies when the SOUL is in the body, and there's a different, lower limit when the SOUL isn't contained somehow.
+
+Heck, maybe $M_C$ is just $\ln(k_S - n) M_I
 %%
 
 #Concept/Soul/Soul-Fusion 
