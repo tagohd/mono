@@ -46,6 +46,7 @@ Calculating $M_I$ involves the following variables:
 	- $F_H$, the force of attraction between the BÜBERSOUL and the host
 		- Inversely proportional to $d^2$, the distance between the container and the host squared
 		- Proportional to $n$
+		- Also depends on $\theta$, the angle between the BÜBERSOUL and the host
 
 and the following constants:
 - $L_E$, the Ejiofor limit
@@ -54,15 +55,6 @@ and the following constants:
 - $\pi$
 - $\epsilon_0$, the permittivity of free space
 - $c$, the speed of light
-
-$M_C$ is similar, but additionally involves:
-- $\sum m_i$, the initial Mana added to each SOUL
-	- Depends on $n$
-- $k_S$, Stokoff's constant
-
-and does not depend on $L_E$.
-
-%
 
 For inanimate vessels:
 $$
@@ -91,5 +83,34 @@ $$
 $$
 M_I = \frac{n^3 e^{4n} L_E \cos(\frac{\pi}{2}\cos\theta)}{4 k_E V_C \pi \epsilon_0 c r \sin \theta}
 $$
+
+$M_C$ involves the following variables:
+- $n$, the number of SOULS being added
+- $F_S$, the force of attraction between SOULS
+	- Depends on $n$
+- For inanimate vessels:
+	- $F_V$, the force of attraction between the ÜBERSOUL and the vessel
+		- Proportional to $n$
+		- Inversely proportional to $V_C$, the volume of the container
+- For living vessels:
+	- $F_C$, the force of attraction between the BÜBERSOUL and the container
+		- Proportional to $n$
+		- Inversely proportional to $V_C$, the volume of the container
+	- $F_H$, the force of attraction between the BÜBERSOUL and the host
+		- Inversely proportional to $d^2$, the distance between the container and the host squared
+		- Proportional to $n$
+		- Also depends on $\theta$, the angle between the BÜBERSOUL and the host
+- $\sum m_i$, the initial Mana added to each SOUL
+	- Depends on $n$
+- $C$, the Mana cost of performing SOUL fusion (distinct from )
+
+And the following constants:
+- $k_S$, Stokoff's constant
+
+and does not depend on $L_E$.
+
+%%
+If "You also can't put in too much mana, or the SOUL you're attempting to add will just Determination.gif", then shouldn't $L_E$ be involved somehow? Maybe $L_E$ only applies when the SOUL is in the body, and there's a different, lower limit when the SOUL isn't contained somehow.
+%%
 
 #Concept/Soul/Soul-Fusion 
