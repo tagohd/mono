@@ -115,7 +115,7 @@ and does not depend on $L_E$.
 %%
 If "You also can't put in too much mana, or the SOUL you're attempting to add will just Determination.gif", then shouldn't $L_E$ be involved somehow? Maybe $L_E$ only applies when the SOUL is in the body, and there's a different, lower limit when the SOUL isn't contained somehow.
 
-Heck, maybe $M_C$ is just $\ln(k_S - n) M_I
+Heck, maybe $M_C$ is just $\ln(k_S - n) M_I$.
 %%
 
 #Concept/Soul/Soul-Fusion 
