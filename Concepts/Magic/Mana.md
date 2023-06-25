@@ -10,7 +10,7 @@ It exists in a separate plane to reality. [[Magic]] users pierce the veil betwee
 # Exposure to Mana
 To the inexperienced, bringing Mana into your SOUL can be rather uncomfortable. First-time mages often report an experience similar to an electrical shock. Muscle cramps, tremors, and vomiting are common reactions. However, one can build up one's tolerance of Mana.
 
-Chinwe Ejiofor was a prominent researcher into the effects of Mana on living tissue, and her work was foundational to SOUL fusion research, such as [[2. Timeline#^dorian|Project Dorian]]. The Ejiofor (symbol: Ej), the unit of Mana concentration, was named in her honor.
+Chinwe Ejiofor was a prominent researcher into the effects of Mana on living tissue, and her work was foundational to SOUL fusion research, such as [[2.1 Timeline#^dorian|Project Dorian]]. The Ejiofor (symbol: Ej), the unit of Mana concentration, was named in her honor.
 
 ## Mana Toxicity
 The average person can tolerate around 150 Ej of Mana without significant reaction.

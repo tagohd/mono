@@ -1,0 +1,21 @@
+To be combined with [[2.1 Timeline]]. Let's use Vogler's outline of the Hero's Journey for now since it's simpler.
+
+1. Ordinary World
+	1. [[Luke Campbell|Luke]] lives a boring life in a boring town called ~~Boringsville~~ [[Genton]]. %%Aside: My 10th grade English teacher hated the word "boring". We were forbidden from using it; we could use any other word, just not that. Sorry, Mr. Pool.%%
+2. Call to Adventure
+	1. [[Sam Ward|Sam]] goes missing.
+	2. Luke goes to look for them at the [[Plata Fairgrounds|Renaissance Faire]].
+	3. Luke does not find Sam, but he does hear a rumor about the return of [[CURSED AL]], an evil wizard who disappeared over 20 years ago. Luke has an active imagination, but he's pretty sure this wizard isn't involved in Sam's disappearance. (Spoiler: he is.)
+	4. [[Ednathrallor Verdensmorder|Edna]] shows up at the Faire. She doesn't do anything, but everyone freaks the fuck out when an actual dragon shows up. Luke's horse, [[Luke's Noble Steed|Pauline]], is so terrified that she runs right off a cliff. The whole experience is kinda traumatic for Luke (and everyone else, but Luke is the main character).
+		1. Even though they live in a world where magic is real and about as commonplace as electricity, most people think dragons are just the stuff of fantasy. This is because dragons tend to be fairly reclusive, and, consequently, very few people have ever seen one. But they're reclusive because whenever they *do* show up, *that* happens. Just like people, dragons run the gamut in terms of personality, but overall, they tend to be fairly chill. Most dragons don't want to attack anybody. They *are* very large, though, and the w
+	5. [[Case Weston|Case]] shows up to help with the disaster response and spots Luke, who is looking rather shellshocked. He checks to see if Luke is alright. Luke tells Case everything that happened, including the rumor about CURSED AL. Case tells Luke about the Weird Old Guy (TM) he met at work who introduced himself as Alain, and jokingly suggests
+3. Refusal of the Call
+4. Meeting with the Mentor
+5. Crossing the First Threshold
+6. Tests, allies, and enemies
+7. Approach to the inmost cave
+8. The Ordeal
+9. Reward
+10. The Road Back
+11. The Resurrection
+12. Return with the Elixir
