@@ -525,9 +525,10 @@ S:
 L:
 > Luke keeps them in his inventory like an idiot and AL just kinda snatches them? Maybe he pulls some cheap trick on Luke and he, of course, falls for it. Or he sends someone to take it from him. In the loop where James doesn't get killed (if were doing that), James could set it up so Luke loses the artefacts to AL, but if James is dead I imagine it's just some good old Luke Stupidity at work
 
-S:
+S: [R:: 3]
 > sudo:: Maybe that could be combined with the scripted loss? AL wipes the floor with Luke AND takes the Artifacts from him. I'll also expand on this in the part where I mentioned the choices the player has with the Artifacts (I don't remember which article that was right now). ([[(6) June 2023 Chat Logs#^game-over|ref]])
 ^game-over
+
 
 #Gameplay 
 vnViable:: There's a scripted game over against AL, and he takes any Artifacts in Luke's possession. ([[(6) June 2023 Chat Logs#^game-over|ref]])
