@@ -69,7 +69,7 @@ L:
 >i did already make one (1) platformer game so im semi-aware of how much work making a game is
 
 S:
->And also maybe it's not something I need to worry about right now. But I feel like it would be better if there was actually a story I was trying to tell. Or, to paraphrase [[Big Ideas and Big Questions|the most recent note]], if I knew what it was about. Not what the plot is, but what it's *about*, ya dig?
+>And also maybe it's not something I need to worry about right now. But I feel like it would be better if there was actually a story I was trying to tell. Or, to paraphrase [[Themes and Motifs|the most recent note]], if I knew what it was about. Not what the plot is, but what it's *about*, ya dig?
 
 L:
 >easy, its about friendship

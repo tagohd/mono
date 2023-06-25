@@ -38,4 +38,4 @@ SORT OrderAcquired
 
 
 
-#Item/Legendary-Artifact/BFS10K #Concept/Soul #Character/Luke-Campbell #Character/CURSED-AL #answered-questions #Concept/Magic/Mana 
+#Item/Legendary-Artifact/BFS10K #Concept/Soul #Character/Luke-Campbell #Character/CURSED-AL #answered-questions #Concept/Magic/Mana #refdoc 

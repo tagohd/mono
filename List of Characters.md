@@ -1,5 +1,5 @@
 # General Notes
-- Every character is queer (except for [[All Characters#Boring Straight Greg|Boring Straight Greg]]) and some sort of furry
+- Every character is queer (except for [[List of Characters#Boring Straight Greg|Boring Straight Greg]]) and some sort of furry
 
 Hey, maybe I could use Dataview here, too. Use this metadata:
 
