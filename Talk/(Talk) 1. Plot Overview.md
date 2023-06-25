@@ -1,4 +1,4 @@
-This is an example Talk page for [[1. Plot Overview (Cleaned Up)]]. I am formatting similarly to how I format the chat logs.
+[[1. Plot Overview|Article]]
 
 # [[1. Plot Overview#Before the Story|Before the Story]]
 ## [[1. Plot Overview#19th Century|19th Century]]
@@ -41,17 +41,25 @@ This is an example Talk page for [[1. Plot Overview (Cleaned Up)]]. I am formatt
 **Sudo:**
 >There's a reason for this. There wasn't when I wrote that, but there is now: Luke has mild hip dysplasia. He doesn't know it, though. Running is just supposed to be kinda painful, right? (See: [[1.1 The Call to Adventure#^5d7e02]])
 
-**Lun:**
->So in game you travel at a brisk walking pace and when you dash around the screen too much you start taking DoT? :V
+Lun:
+> So in game you travel at a brisk walking pace and when you dash around the screen too much you start taking DoT? :V
 
-**Sudo:**
->DoT? Oh, damage over time. Maybe? It's non-fatal damage, though, so I'm not sure how you would represent that in-game. Maybe your overall move speed is reduced for a bit if you dash too much (Luke is sore), or you become more likely to miss (Luke's couldn't focus on aiming because he's in pain). I don't think it would directly impact your HP, though.
+Sudo:
+> DoT? Oh, damage over time. Maybe? It's non-fatal damage, though, so I'm not sure how you would represent that in-game. Maybe your overall move speed is reduced for a bit if you dash too much (Luke is sore), or you become more likely to miss (Luke's couldn't focus on aiming because he's in pain). I don't think it would directly impact your HP, though.
 
-**Lun:**
->Me: If I make a game I want it to be with a lot of mobility and dashing! Sudo: The protagonist has the hips of a grandma. He _will_ die if you dash over twice in a row. (\* only slightly exaggerated)
+Lun: 
+> Me: If I make a game I want it to be with a lot of mobility and dashing! Sudo: The protagonist has the hips of a grandma. He _will_ die if you dash over twice in a row. (\* only slightly exaggerated) ^b2b21c
 
-**Sudo:**
->Only slightly
+Sudo: 
+> Only slightly
+
+gameplay:: Move speed is occasionally limited by Luke's hip dysplasia. Is this inconvenient? Yes, but so are actual disabilities. ([[(Talk) 1. Plot Overview#^b2b21c|ref]])
+
+Lun: 
+> I guess you could have a cooldown after dashing multiple times, that can work gameplay-wise. ^r5
+
+sudo:: Yeah, that makes sense. Plus, as a cross country runner, Luke is more geared towards long distance anyway, rather than short sprints. That's the extent of my knowledge about cross country, at least. Also, please don't delete the ref links from the Gameplay notes. ([[(Talk) 1. Plot Overview#^r5|ref]])
+#reply [R:: 5]
 
 ### [[1. Plot Overview#2019|2019]]
 **Lun:**
@@ -74,8 +82,10 @@ This is an example Talk page for [[1. Plot Overview (Cleaned Up)]]. I am formatt
 >Yeah, this is gonna be a difficult scene to write :v
 
 **Sudo:**
->I found a solution: [[2. Plot Overview (Again)#^not-writing-it\|not writing it]]!
+>I found a solution: [[2.1 Timeline#^not-writing-it\|not writing it]]!
 
+Lun:
+>Sometimes the optimal solution is avoiding the problem - Einstein
 
 ### [[1. Plot Overview#2020|2020]]
 **Lun:**
@@ -101,9 +111,12 @@ This is an example Talk page for [[1. Plot Overview (Cleaned Up)]]. I am formatt
 >	3. [[(6) June 2023 Chat Logs#^sell-the-artifacts|Sell them for a LOT of money]] (this negatively affects your relationships with both Case and James[^James])
 >	4. Keep them for yourself (they're Cursed Artifacts, so this probably isn't a great idea; this also negatively affects your relationships with Case and James)
 >	5. ~~Speedrun strat: Give them to CURSED AL directly~~
->
+
 [^James]: Not that you can date James, but maybe this limits the spells he teaches you?
->
+#Gameplay ^artifact-shenanigans
+
+vnViable:: "What you do with the Artifacts (viz. sell, give to James, give to IMAS, or keep) affects your relationships with the other characters.", "Luke may have some agency re: keeping the Artifacts/keeping the Artifacts has adverse effects, but also unlocks evil dialogue options. ([[(Talk) 1. Plot Overview#^artifact-shenanigans|ref]])"
+
 >Possible effects of keeping the Legendary Artifacts
 >	- Maybe the [[BLADE OF POWER]] gives you +10 ATK but reduces your max HP, the [[STAFF OF RULKOHIM]] increases your Mana but lowers your DEF, the [[BEE]] attacks anyone around (including you), etc.
 >	- Random attacks from AL's henchmen become more common
@@ -132,7 +145,10 @@ This is an example Talk page for [[1. Plot Overview (Cleaned Up)]]. I am formatt
 >**Re: Should we try to decide on the fourth wall thing?**
 >>Yes, we *should* try to decide on that :P
 >>
->>Here's my problem with it: on the one hand, MONO is supposed to be something of a tribute/homage/love letter to my favorite games, and my favorite games tend to do... that. But it's hard to shake the feeling that I might be crossing a line into outright plagiarism/that MONO will end up being too derivative. At the very least, I can see the imaginary critiques of my imaginary game deriding it as "yet another postmodern, self-aware indie game that leans too heavily on its predecessors, namely, *Undertale*, *Deltarune*, and *OneShot*". Of course, I could also imagine reviews saying, "Hey, if you love *Undertale*, *Deltarune*, and *OneShot*, you NEED to check out *MONO*", so you can see how this is a bit of a dilemma.
+>>Here's my problem with it: on the one hand, MONO is supposed to be something of a tribute/homage/love letter to my favorite games, and my favorite games tend to do... that. But it's hard to shake the feeling that I might be crossing a line into outright plagiarism/that MONO will end up being too derivative. At the very least, I can see the imaginary critiques of my imaginary game deriding it as "yet another postmodern, self-aware indie game that leans too heavily on its predecessors, namely, *Undertale*, *Deltarune*, and *OneShot*". Of course, I could also imagine reviews saying, "Hey, if you love *Undertale*, *Deltarune*, and *OneShot*, you NEED to check out *MONO*", so you can see how this is a bit of a dilemma. ^fourth-wall
+
+#Gameplay 
+vnViable:: Breaking the fourth wall, especially re: acknowledging the player as an entity. ([[(Talk) 1. Plot Overview#^fourth-wall|ref]])
 
 # [[1. Plot Overview#The Story|The Story]]
 **Sudo:**
@@ -140,3 +156,4 @@ This is an example Talk page for [[1. Plot Overview (Cleaned Up)]]. I am formatt
 >
 > Lol, what if there's actually a train or something connecting Plata and Genton? Luke didn't need to take Pauline at all, and he's not actually stranded. (Or maybe he just can't afford the fare?)
 
+#general #Talk/Plot

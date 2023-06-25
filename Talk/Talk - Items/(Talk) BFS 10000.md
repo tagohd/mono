@@ -157,7 +157,7 @@ After the reset, [[Luke Campbell|Luke]] wakes up in his bed. He is no longer get
 
 Somehow, they learn they have to go to [[Eeby Deeby]] and defeat [[Emperoress, The|The Emperoress]]. (So, The Emperoress is The Radiance, not [[CURSED AL]].) And then they're able to restore the timeline? Idk, that's all I have right now.
 
-Oh! I remembered another idea I had. I had mentioned in [[1. Plot Overview#^e55ca3]] that maybe [[James Redawić|James]] shouldn't die too soon since he can teach Luke more spells. So, what if he lives in the first timeline, but Luke accidentally kills him in *this* timeline?
+Oh! I remembered another idea I had. I had mentioned in [[(Talk) 1. Plot Overview#^3d7c01]] that maybe [[James Redawić|James]] shouldn't die too soon since he can teach Luke more spells. So, what if he lives in the first timeline, but Luke accidentally kills him in *this* timeline?
 
 [James]: How familiar are you with spells, young one?
 [Luke]: I think I know [[Magic Missile]]?
