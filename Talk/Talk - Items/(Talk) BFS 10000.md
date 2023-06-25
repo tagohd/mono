@@ -173,7 +173,7 @@ question:: What is Sam's role in this?
 
 sudo:: Oh, right, you wanted to make James the final boss. I forgor. Okay, so maybe James dies in every timeline? And Case teaches Luke new spells? Or Luke learns new spells some other way? Or Luke never learns any other spells after James dies? ([[(Talk) BFS 10000#^r8|ref]])
 
-#lun [lunR::6]
+
 L: Not sure if you wrote this before or after the discord discussion. I think the idea there was (with some additions of myself I just came up with):
 - Loop 1: [[James Redawić|James]] dies by the [[BLADE OF POWER]], gets his SOUL slurped, and AL ends up adding it to the BUBERSOUL unknowingly. This allows Sam to learn and cast [[Reverse Fate]] during the final battle with AL
 - Loop 2: [[Sam Ward|Sam]] has been erased from existence. James is the only one who remembers everything, by virtue of having helped in the casting of Reverse Fate. Luke only has a deep-rooted feeling that something is off, due to his strong connection to Sam (are they SOULmates? :P). James fetches Luke and gets him on his side by telling him part of what happened. Luke believes him because James knows too much about Luke for them to never have met, in addition to his newfound anxiety. James now knows exactly what AL is trying to accomplish, and tricks Luke into helping AL so that he can take the [[BFS 10000]] for himself.

@@ -60,7 +60,7 @@ Lun:
 
 sudo:: Yeah, that makes sense. Plus, as a cross country runner, Luke is more geared towards long distance anyway, rather than short sprints. That's the extent of my knowledge about cross country, at least. Also, please don't delete the ref links from the Gameplay notes. ([[(Talk) 1. Plot Overview#^r5|ref]])
 
-#lun [lunR::5]
+
 L: My destructive power... not even I can contain it...
 
 ### [[1. Plot Overview#2019|2019]]

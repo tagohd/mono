@@ -177,7 +177,6 @@ Some more thoughts in a list:
 
 sudo:: Eh, I'm not sure they really have a copyright on that and/or the SRD is under an open license. And I don't know. I think we have at least 3 so far. We've got the Material Plane, the Mana Plane, Eeby Deeby, wherever THE NEEDLE is, and wherever the THE BEE is, but some of those could be the same plane. ([[CURSED AL#^r6|ref]])
 
-#lun [lunR::6]
 L: I propose the BEE plane. They're both in there. AL had such a bad time getting those two.
 
 - Alternate idea: The stasis dimension isn't in the physical plane, or in the mana plane, but somewhere in between. This means that he could more freely experiment with mana, but was constantly exposed to a low dose of free mana effects, eventually changing him quite dramatically.
