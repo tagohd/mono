@@ -45,7 +45,6 @@ Prior to the research conducted by Dr Ejiofor, et al., mages did not know how mu
 sudoChange:: Do mages know how much Mana a spell requires before casting it? Not really, no. Since each spell level represents a range of Mana costs, that would be really inconvenient. And how are you going to measure out exactly how much Mana is coming through the rift? No, you kinda just develop a feel for it, you know?
 Priority:: 40
 
-#lun [lunR::3]
 > L: Makes sense. So then Ejiofor invented measuring devices for Mana?
 
 

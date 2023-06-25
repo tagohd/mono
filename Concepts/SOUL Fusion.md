@@ -30,7 +30,6 @@ Priority:: 1
 	- Because a BÜBERSOUL must remain near its originating reactor (host), $F_V$ encompasses the attraction between the BÜBERSOUL and its container, $F_C$, as well as the attraction between the BÜBERSOUL and its host, $F_H$. $$F_{H} \propto \frac{1}{d^2}$$ where $d$ is distance between the BÜBERSOUL and the host.
 		- (In our case, the host is [[Sam Ward|Sam]], and the container is [[CURSED AL'S CURSED ORB|THE ORB]].)
 
-#lun [lunR::2]
 > L: What practical consequences do the attraction forces have? What happens when those forces are too low? Does a BUBERSOUL need a minimal attraction force to its vessel to remain stable?
 
 So, let's try and put all this together:
