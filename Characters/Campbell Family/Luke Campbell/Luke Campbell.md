@@ -51,7 +51,7 @@ Luke suffers from protanopia, or red-green colorblindness. Among other things, t
 This isn't directly revealed to the player (unless they're also colorblind, I guess). Like, the game is still colored normally. They just have to figure out that Luke is colorblind when he's told to pick up a blood-red ORB and grabs something orange instead. #Gameplay 
 ^lukevision
 
-gameplay:: Show, don't tell when it comes to Luke's protanopia. ([[Luke Campbell#^lukevision|ref]])
+vnViable:: Show, don't tell when it comes to Luke's protanopia. ([[Luke Campbell#^lukevision|ref]])
 
 We can use [this site](https://www.color-blindness.com/coblis-color-blindness-simulator/) to simulate how Luke might see an object. (Put the pictures in the relevant article, not this one.)
 
@@ -82,7 +82,7 @@ And he's not even lying. Anyone can use any type of [[Magic#^03cfb6|magic]]. The
 ^tighten
 
 #Gameplay 
-gameplay:: There's a scripted game over against CURSED AL, and AL reveals that Luke was never THE CHOSEN ONE, and James has been manipulating him. ([[Luke Campbell#^tighten|ref]])
+vnViable:: There's a scripted game over against CURSED AL, and AL reveals that Luke was never THE CHOSEN ONE, and James has been manipulating him. ([[Luke Campbell#^tighten|ref]])
 
 I'm sure this represents *some* step on the Hero's Journey, but I'm not sure which one (probably "[[2.4 Atonement with the Father]]"). I just realized the *Star Wars* comparison I referenced in the [[README]] is only about *A New Hope* and not the entire trilogy; this is obviously more like *The Empire Strikes Back*.
 #Cite/Movie/Star-Wars 

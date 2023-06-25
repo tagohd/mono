@@ -103,7 +103,7 @@ His bond with [[Sam Ward|Sam]] is so strong that it allows him to track their SO
 >Also, if he ever does kill someone (*cough cough* James), he feels really bad about it. *Really* bad. Like, physically sick. Even if they're a terrible person like James. Then he's less like a video game protagonist and more like a real person. I'm not speaking from personal experience here or anything, but I've been led to believe that killing someone has a tendency to really fuck you up in the head. #Gameplay 
 ^ptsd
 
-gameplay:: Luke does NOT want to kill anyone, and he'll have a Very Bad Time (TM) if he does. ([[(Talk) Luke Campbell#^ptsd|ref]])
+vnViable:: Luke does NOT want to kill anyone, and he'll have a Very Bad Time (TM) if he does. ([[(Talk) Luke Campbell#^ptsd|ref]])
 
 ideaWithDependencies:: Luke kills James with the BLADE OF POWER after AL reveals that James manipulated him.
 

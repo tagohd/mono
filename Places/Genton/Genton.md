@@ -68,7 +68,7 @@ That's kinda what I was trying to represent by having the instruments change. Th
 
 #Gameplay ?
 
-gameplay:: Dynamic music that shifts from "chiptune" to sampled instruments as relationships develop. ([[Genton#^boring-become-real|ref]])
+vnViable:: Dynamic music that shifts from "chiptune" to sampled instruments as relationships develop. ([[Genton#^boring-become-real|ref]])
 
 # Boringsville at Night
 ![[Boringsville at Night.mp3]]

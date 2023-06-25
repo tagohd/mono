@@ -136,7 +136,7 @@ This of course raises some questions:
 	    James, on the contrary, is now acting purely out of hatred and is just an all-around evil guy. 
 ^true-ending
 
-gameplay:: The player can choose to use the [[BFS 10000]] to get the "true ending", or to resurrect a character of their choice. ([[(Talk) James Redawić#^true-ending|ref]])
+vnViable:: The player can choose to use the [[BFS 10000]] to get the "true ending", or to resurrect a character of their choice. ([[(Talk) James Redawić#^true-ending|ref]])
 
 [Sudo]: So, are we saying that using the [[BFS 10000]] *doesn't* actually destroy the universe and/or harm Sam?
 

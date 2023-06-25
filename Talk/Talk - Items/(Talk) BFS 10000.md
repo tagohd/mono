@@ -120,7 +120,7 @@ Oh! Here's a thought (or 12):
 [^1]: The Ejiofor, abbreviated Ej, is a unit of measurement named for Chinwe Ejiofor. She's like the Marie Curie of magic.
 #Gameplay 
 
-gameplay:: Time-loops, baby! ([[(Talk) BFS 10000#^c9847f|ref]])
+vnViable:: Time-loops, baby! ([[(Talk) BFS 10000#^c9847f|ref]])
 
 Lun:
 >Alright, so the whole parallel-casting thing pretty much comes down to the same as filling one vessel with a bunch of souls. Having to carry Sam around as the conduit rather than the orb does make it a bit more elegant (though also kinda funny).

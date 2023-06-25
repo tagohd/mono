@@ -313,7 +313,7 @@ L:
 >luke: mama! youre trying to ruin my fun again, let me be! >:(\
 
 #Gameplay 
-gameplay:: Luke refuses to ask for hints. ([[(6) June 2023 Chat Logs#^luke-plays-on-hard|ref]])
+vnViable:: Luke refuses to ask for hints. ([[(6) June 2023 Chat Logs#^luke-plays-on-hard|ref]])
 
 S:
 >Heh, what if that's a mechanic: you can try to call her to ask for a hint, but Luke will just be like, "I'm not doing that. I can figure this out on my own." ^luke-plays-on-hard
@@ -342,7 +342,7 @@ S:
 >Regardless (or especially) if he does not, in fact, got this
 >Or her "hints" are just stuff you can't actually do in the game. She tells you to brush your teeth or something ^bad-advice
 
-gameplay:: Luke's parents give hints that aren't actionable. ([[(6) June 2023 Chat Logs#^bad-advice|ref]])
+vnViable:: Luke's parents give hints that aren't actionable. ([[(6) June 2023 Chat Logs#^bad-advice|ref]])
 
 L:
 >that should be a hidden mechanic which influences your attempts at trying to romance love interests
@@ -354,7 +354,7 @@ S:
 L:
 >finally listening to the "brush your teeth" advice gets luke a bf and becomes a major turning point in his character development ^minty-fresh
 
-gameplay:: Relationships are affected by Luke's oral hygiene ([[(6) June 2023 Chat Logs#^minty-fresh|ref]])
+vnViable:: Relationships are affected by Luke's oral hygiene ([[(6) June 2023 Chat Logs#^minty-fresh|ref]])
 
 S:
 >You do get to talk to her, but not when she could give you an actual hint
@@ -377,7 +377,7 @@ S:
 L:
 >luke is both dumb and unlucky. poor guy
 
-gameplay:: Luke will never be able to talk to the mother that can actually give him useful advice. Which mother he *does* talk to is decided randomly. ([[(6) June 2023 Chat Logs#^truth-is|ref]] )
+vnViable:: Luke will never be able to talk to the mother that can actually give him useful advice. Which mother he *does* talk to is decided randomly. ([[(6) June 2023 Chat Logs#^truth-is|ref]] )
 
 \[...\]
 
@@ -470,7 +470,7 @@ S:
 
 #Gameplay 
 
-gameplay:: "The player is made to feel like they're taking advantage of Luke's idiocy/naïveté.", "The player can choose to sell the Artifacts, but this has consequences. ([[(6) June 2023 Chat Logs#^sell-the-artifacts|ref]])"
+vnViable:: "The player is made to feel like they're taking advantage of Luke's idiocy/naïveté.", "The player can choose to sell the Artifacts, but this has consequences. ([[(6) June 2023 Chat Logs#^sell-the-artifacts|ref]])"
 
 L:
 > I like the idea of AL going shopping at the black market (the owl house flavour) and just finding some of his cursed artifacts. This should be implemented.
@@ -515,7 +515,7 @@ S:
 #reply [R:: 2]
 
 #Gameplay 
-gameplay:: AL can occasionally be spotted in the background at shops and/or he runs his own shop. ([[(6) June 2023 Chat Logs#^al-ruru-wednesday|ref]])
+vnViable:: AL can occasionally be spotted in the background at shops and/or he runs his own shop. ([[(6) June 2023 Chat Logs#^al-ruru-wednesday|ref]])
 
 S:
 >> Jokes on Case as AL gets the artifacts in the end anyways. Luke is so big brain that none can understand his genious, especially not himself.
@@ -530,7 +530,7 @@ S:
 ^game-over
 
 #Gameplay 
-gameplay:: There's a scripted game over against AL, and he takes any Artifacts in Luke's possession. ([[(6) June 2023 Chat Logs#^game-over|ref]])
+vnViable:: There's a scripted game over against AL, and he takes any Artifacts in Luke's possession. ([[(6) June 2023 Chat Logs#^game-over|ref]])
 
 # 2023-06-18
 S:
@@ -825,7 +825,7 @@ S:
 ^work-with-luke
 
 #Gameplay 
-gameplay:: The game tracks how often you make the same choice Luke would have made. However, Luke is an idiot, so the choices he would make aren't necessarily the right ones, so the game also tracks that. If both variables are too high, Luke may stop listening to the player. ([[(6) June 2023 Chat Logs#^work-with-luke|ref]])
+vnViable:: The game tracks how often you make the same choice Luke would have made. However, Luke is an idiot, so the choices he would make aren't necessarily the right ones, so the game also tracks that. If both variables are too high, Luke may stop listening to the player. ([[(6) June 2023 Chat Logs#^work-with-luke|ref]])
 
 S:
 [^Re: also, idea for repo organization: maybe just have one big working file with active discussions sorted by file (with headers so you can easily navigate) and when we figure something out we update the file itself? and maybe arch]
@@ -966,7 +966,7 @@ L:
 ^achievement-unlocked
 
 #Gameplay 
-gameplay:: You get an achievement for if you keep [[CURSED AL'S CURSED ORB|THE ORB]] and [[STAFF OF RULKOHIM|THE STAFF]] in your inventory for the whole game. The achievement is called either "No Take Only Throw" or "TRUE DOGBOY". ([[(6) June 2023 Chat Logs#^achievement-unlocked|ref]])
+vnViable:: You get an achievement for if you keep [[CURSED AL'S CURSED ORB|THE ORB]] and [[STAFF OF RULKOHIM|THE STAFF]] in your inventory for the whole game. The achievement is called either "No Take Only Throw" or "TRUE DOGBOY". ([[(6) June 2023 Chat Logs#^achievement-unlocked|ref]])
 
 S:
 >![[truly excellent.jpg]]

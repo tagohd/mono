@@ -42,7 +42,7 @@ This isn't to say that only certain people can cast certain spells. It's just th
 [Sudo]: Oh! Maybe the "color" of your SOUL determines your spellcasting ability? Even though everyone is casting magic in the same fundamental way (channeling Mana from the Mana Plane, as opposed to, e.g., calling on the power of a god), maybe they manipulate the Mana in different ways depending on their spellcasting ability.
 #Gameplay ?
 
-gameplay:: "SOUL color determines spellcasting ability or vice versa. This seems unlikely to be implemented since we haven't decided that spellcasting abilities differ across mages. Furthermore, Luke's ability scores will probably be predetermined. Further-furthermore, will the SOUL even be shown?", "If the SOUL *is* shown, maybe there's a small chance that it's a different color than normal. Kinda like a FUN value event. Like, if your FUN value is 6, your SOUL is green, but for all other values, it's red. ([[Magic#^03cfb6|ref]])"
+vnViable:: "SOUL color determines spellcasting ability or vice versa. This seems unlikely to be implemented since we haven't decided that spellcasting abilities differ across mages. Furthermore, Luke's ability scores will probably be predetermined. Further-furthermore, will the SOUL even be shown?", "If the SOUL *is* shown, maybe there's a small chance that it's a different color than normal. Kinda like a FUN value event. Like, if your FUN value is 6, your SOUL is green, but for all other values, it's red. ([[Magic#^03cfb6|ref]])"
 
 %%
 #Cite/Game/Undertale #Cite/Game/Hollow-Knight 
@@ -98,7 +98,7 @@ gameRefType:: OneShot/General
 
 Wouldn't that be something? A game that punishes you for using its magic system... Maybe it only does this if you forget to close the rift or something. But maybe the game doesn't actively remind you to close the rifts; you have to keep on top of that yourself. And, of course, maybe there are occasionally incentives to **_not_** close the rifts. #Gameplay 
 
-gameplay:: Diegetic glitches resulting from forgetting to seal rifts after casting spells. Otherwise being punished for using magic. Possible incentives for NOT closing rifts. ([[Magic#^magic-not-even-once|ref]])
+vnViable:: Diegetic glitches resulting from forgetting to seal rifts after casting spells. Otherwise being punished for using magic. Possible incentives for NOT closing rifts. ([[Magic#^magic-not-even-once|ref]]) (Not sure how well this would work in a VN, actually.)
 
 Also, something something Law of Equivalent Exchange.
 %%
