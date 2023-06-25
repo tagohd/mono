@@ -512,7 +512,6 @@ L:
 
 S:
 > sudo:: spot the main character.jpg ([[(6) June 2023 Chat Logs#^al-ruru-wednesday|ref]])
-#reply [R:: 2]
 
 #Gameplay 
 vnViable:: AL can occasionally be spotted in the background at shops and/or he runs his own shop. ([[(6) June 2023 Chat Logs#^al-ruru-wednesday|ref]])

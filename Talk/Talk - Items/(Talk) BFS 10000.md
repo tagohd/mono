@@ -145,7 +145,6 @@ songTitle:: Undertale/Finale - Toby Fox
 songRemarks:: Inspiration for song that plays when Sam overrides Reverse Fate or whatever it is they do there.
 L: This is Finale Undertale?!
 sudo:: Yeah and? Is that not what it says? ([[(Talk) BFS 10000#^r9|ref]])
-#reply [R:: 9]
 %%
 
 #### Saving Sam (NG+)
@@ -173,6 +172,11 @@ question:: What is Sam's role in this?
 [Lun]: Ok that is a fun idea, but then how does AL become the final boss in the world where James doesn't get killed while James becomes the final boss when he does get killed? Maybe the only factor that decides whether James gets the [[BFS 10000]] is whether Sam casts [[Reverse Fate]] before he can get revived? (Assuming he dies later in the story in the original loop) ^r8
 
 sudo:: Oh, right, you wanted to make James the final boss. I forgor. Okay, so maybe James dies in every timeline? And Case teaches Luke new spells? Or Luke learns new spells some other way? Or Luke never learns any other spells after James dies? ([[(Talk) BFS 10000#^r8|ref]])
-#reply [R:: 8]
+
+#lun [lunR::6]
+L: Not sure if you wrote this before or after the discord discussion. I think the idea there was (with some additions of myself I just came up with):
+- Loop 1: [[James Redawić|James]] dies by the [[BLADE OF POWER]], gets his SOUL slurped, and AL ends up adding it to the BUBERSOUL unknowingly. This allows Sam to learn and cast [[Reverse Fate]] during the final battle with AL
+- Loop 2: [[Sam Ward|Sam]] has been erased from existence. James is the only one who remembers everything, by virtue of having helped in the casting of Reverse Fate. Luke only has a deep-rooted feeling that something is off, due to his strong connection to Sam (are they SOULmates? :P). James fetches Luke and gets him on his side by telling him part of what happened. Luke believes him because James knows too much about Luke for them to never have met, in addition to his newfound anxiety. James now knows exactly what AL is trying to accomplish, and tricks Luke into helping AL so that he can take the [[BFS 10000]] for himself.
+Also, here's a question: who does AL take as his vessel now that Sam is gone? Another one of Luke's neighbours? PAULINE?!
 
 #general #Talk/Item #Item/Legendary-Artifact/BFS10K  #contains-music 

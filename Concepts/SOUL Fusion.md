@@ -1,6 +1,5 @@
 sudoChange:: MATH! And also lots of words.
 Priority:: 1
-#sudoChange #unseenByLun 
 
 - **SOUL Fusion** is the process by which two or more [[SOUL|SOULS]] are fused into a single unit, known as an ÜBERSOUL.
 - An individual SOUL begins to lose integrity at [[Mana]] concentrations in excess of 121 TEj.
@@ -30,6 +29,9 @@ Priority:: 1
 - There is not only attraction between the constituent SOULS, $F_S$, but also between the ÜBERSOUL and its vessel, $F_V$.
 	- Because a BÜBERSOUL must remain near its originating reactor (host), $F_V$ encompasses the attraction between the BÜBERSOUL and its container, $F_C$, as well as the attraction between the BÜBERSOUL and its host, $F_H$. $$F_{H} \propto \frac{1}{d^2}$$ where $d$ is distance between the BÜBERSOUL and the host.
 		- (In our case, the host is [[Sam Ward|Sam]], and the container is [[CURSED AL'S CURSED ORB|THE ORB]].)
+
+#lun [lunR::2]
+> L: What practical consequences do the attraction forces have? What happens when those forces are too low? Does a BUBERSOUL need a minimal attraction force to its vessel to remain stable?
 
 So, let's try and put all this together:
 

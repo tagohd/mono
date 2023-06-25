@@ -176,7 +176,9 @@ Some more thoughts in a list:
 [Lun]: That is quite exactly how I envisioned the planes yes. And at this point you should assume your references will be lost on me, I have not seen many popular shows. Same for a lot of games. I will never leave this rock i live under. Also, just how many planes are there next to the mana and physical planes? Are we going full dnd on this? (Time to get sued by wizards of the coast as well) ^r6
 
 sudo:: Eh, I'm not sure they really have a copyright on that and/or the SRD is under an open license. And I don't know. I think we have at least 3 so far. We've got the Material Plane, the Mana Plane, Eeby Deeby, wherever THE NEEDLE is, and wherever the THE BEE is, but some of those could be the same plane. ([[CURSED AL#^r6|ref]])
-#reply [R:: 6]
+
+#lun [lunR::6]
+L: I propose the BEE plane. They're both in there. AL had such a bad time getting those two.
 
 - Alternate idea: The stasis dimension isn't in the physical plane, or in the mana plane, but somewhere in between. This means that he could more freely experiment with mana, but was constantly exposed to a low dose of free mana effects, eventually changing him quite dramatically.
 

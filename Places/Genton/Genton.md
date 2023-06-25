@@ -92,7 +92,6 @@ songRemarks:: I was originally going for "Song that plays when you come back lat
 L: I like that we now have boringsville, boringsville (more melancholic) and boringsville (so very  very melancholic). Maybe luke just gets progressively more nostalgic for his hometown after leaving it for like 3 days and having all his friends dying around him (im so sorry for calling this town boring can we please go back to boring please - luke, presumably) ^r7
 
 sudo:: Pretty much, yeah ([[Genton#^r7|ref]])
-#reply [R:: 7]
 %%
 
 #Places/Genton #contains-music #Music/Boringsville
