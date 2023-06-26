@@ -137,13 +137,13 @@ KS = 39.810686024 # Stokoff's constant
 
 # ÜBERSOUL M_I
 n = 2
-FS = e^(3*n) / KE
+FS = e^(2n) * KE
 FV = n / VC
 MI = (n * LE) / 2 * FS * FV
 MI / LE
 
 # BÜBERSOUL M_I
-FH = (n/2 pi epsilon c d^2) * (cos(pi/2 * cos(theta)) / sin(theta)) * e^n
+FH = (n e^n)/(2 pi epsilon c d^2)
 BMI = MI * FH
 BMI / LE
 ```
