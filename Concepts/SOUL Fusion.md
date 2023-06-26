@@ -126,13 +126,9 @@ Heck, maybe $M_C$ is just $\ln(k_S - n) M_I$.
 # Constants
 KE = 6.3459269958*10^-3 # Ejiofor's constant
 LE = 121*10^12 # Ejiofor's limit
-c = 299792458 # Speed of light in m/s
 r = 0.2 # The radius of THE ORB in m
 VC = (4 pi)/3 * r^3 # The volume of THE ORB
-d = 1 # The distance from the vessel in m
-theta = pi/2 # The angle between the wielder and the vessel
-mu = 1.256637062*10^-6 # Vacuum permeability
-epsilon = 1/(mu * c^2) # Permitivitty of free space
+d = 1 # The distance from the vessel in m^3
 KS = 39.810686024 # Stokoff's constant
 
 # ÜBERSOUL M_I
@@ -143,9 +139,28 @@ MI = (n * LE) / 2 * FS * FV
 MI / LE
 
 # BÜBERSOUL M_I
-FH = (n e^n)/(2 pi epsilon c d^2)
+FH = (n e^n)/(d^2)
 BMI = MI * FH
 BMI / LE
+
+# M_C
+log(KS - n) * MI
+log(KS - n) * BMI
 ```
+
+| $n$  | ÜBERSOUL($n$) $M_I$ | ÜBERSOUL($n$) $M_C$ | BÜBERSOUL($n$) $M_I$ | BÜBERSOUL($n$) $M_C$ |
+|----|-----------------|----------------|------------------|------------------|
+| 2  | 2.50 PEj        | 9.09 PEj       | 36.98 PEJ        | 134.32 PEJ       |
+| 3  | 41.60 PEJ       | 150.00 PEj     | 2.51 EEj         | 9.04 EEj         |
+| 4  | 546.45 PEj      | 1.96 EEj       | 119.34 EEj       | 427.03 EEj       |
+| 5  | 6.31 EEj        | 22.40 EEj      | 4.68 ZEj         | 16.62 ZEj        |
+| 6  | 67.13 EEj       | 235.35 EEj     | 162.49 ZEj       | 572.09 ZEj       |
+| 7  | 675.14 EEJ      | 2.36 ZEj       | 5.18 YEj         | 18.09 YEj        |
+| 8  | NaN             | NaN            | 155.39 YEj       | 537.60 YEj       |
+| 9  | NaN             | NaN            | 4.44 REj         | 15.23 REj        |
+| 10 | NaN             | NaN            | 122.44 REj       | 415.65 REj       |
+| 11 | NaN             | NaN            | 3.27 QEj         | 11.00 QEj        |
+| 12 | NaN             | NaN            | 85.35 QEj        | 283.83 QEj       |
+| 13 | NaN             | NaN            | 2180 QEj         | 7170 QEj         |
 
 #Concept/Soul/Soul-Fusion 
