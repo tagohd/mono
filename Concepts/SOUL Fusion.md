@@ -122,13 +122,13 @@ If "You also can't put in too much mana, or the SOUL you're attempting to add wi
 Heck, maybe $M_C$ is just $\ln(k_S - n) M_I$.
 %%
 
-```math
+```math-tex
 # Constants
 KE = 6.3459269958*10^-3 # Ejiofor's constant
 LE = 121*10^12 # Ejiofor's limit
 c = 299792458 # Speed of light in m/s
 r = 0.2 # The radius of THE ORB in m
-V = (4 pi)/3 * r^3 # The volume of THE ORB
+VC = (4 pi)/3 * r^3 # The volume of THE ORB
 d = 1 # The distance from the vessel in m
 theta = pi/2 # The angle between the wielder and the vessel
 mu = 1.256637062*10^-6 # Vacuum permeability
@@ -136,10 +136,16 @@ epsilon = 1/(mu * c^2) # Permitivitty of free space
 KS = 39.810686024 # Stokoff's constant
 
 # ÜBERSOUL M_I
-(2^2 * e^(3*2) * LE)/(2 * KE * V) # For n = 2
+n = 2
+FS = e^(3*n) / KE
+FV = n / VC
+MI = (n * LE) / 2 * FS * FV
+MI / LE
 
 # BÜBERSOUL M_I
-(2^3 * e^(4*2) * LE * cos(pi/2*cos(theta)))/(4 * KE * V * pi * epsilon * c * d^2 * sin(theta)) # For n = 2
+FH = (n/2 pi epsilon c d^2) * (cos(pi/2 * cos(theta)) / sin(theta)) * e^n
+BMI = MI * FH
+BMI / LE
 ```
 
 #Concept/Soul/Soul-Fusion 
