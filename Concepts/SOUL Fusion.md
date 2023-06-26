@@ -64,18 +64,18 @@ and the following constants:
 
 For inanimate vessels:
 $$
-F_S = \frac{e^{3n}}{k_E}
+F_S = e^{2n}K_E
 $$
 $$
 F_V = \frac{n}{V_C}
 $$
 $$
-M_I = \frac{n \cdot L_E}{2} F_S F_V = \frac{n^2e^{3n}L_E}{2k_E V_C}
+M_I = \frac{n \cdot L_E}{2} F_S F_V = \frac{ne^{2n}K_E}{2V_C}
 $$
 
 For living vessels:
 $$
-F_S = \frac{e^{3n}}{k_E}
+F_S = e^{2n}k_E
 $$
 $$
 F_V = F_C \cdot F_H
