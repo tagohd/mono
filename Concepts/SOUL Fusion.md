@@ -1,3 +1,6 @@
+---
+alias: ÜBERSOUL, BÜBERSOUL
+---
 sudoChange:: MATH! And also lots of words.
 Priority:: 1
 
@@ -30,7 +33,7 @@ Priority:: 1
 	- Because a BÜBERSOUL must remain near its originating reactor (host), $F_V$ encompasses the attraction between the BÜBERSOUL and its container, $F_C$, as well as the attraction between the BÜBERSOUL and its host, $F_H$. $$F_{H} \propto \frac{1}{d^2}$$ where $d$ is distance between the BÜBERSOUL and the host.
 		- (In our case, the host is [[Sam Ward|Sam]], and the container is [[CURSED AL'S CURSED ORB|THE ORB]].)
 
-> L: What practical consequences do the attraction forces have? What happens when those forces are too low? Does a BUBERSOUL need a minimal attraction force to its vessel to remain stable?
+> L: What practical consequences do the attraction forces have? What happens when those forces are too low? Does a BÜBERSOUL need a minimal attraction force to its vessel to remain stable?
 
 So, let's try and put all this together:
 
@@ -118,5 +121,15 @@ If "You also can't put in too much mana, or the SOUL you're attempting to add wi
 
 Heck, maybe $M_C$ is just $\ln(k_S - n) M_I$.
 %%
+
+```math-tex
+# Constants
+KE = 6.3459269958*10^-3
+LE = 121*10^12
+theta = pi/2
+c = speedOfLight
+V = (4 pi)/3 * 0.2 m^3
+r = 
+```
 
 #Concept/Soul/Soul-Fusion 
