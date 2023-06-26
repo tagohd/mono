@@ -52,15 +52,11 @@ Calculating $M_I$ involves the following variables:
 	- $F_H$, the force of attraction between the BÜBERSOUL and the host
 		- Inversely proportional to $d^2$, the distance between the container and the host squared
 		- Proportional to $n$
-		- Also depends on $\theta$, the angle between the BÜBERSOUL and the host
 
 and the following constants:
 - $L_E$, the Ejiofor limit
 - $k_E$, Ejiofor's constant
 - $e$, Euler's number
-- $\pi$
-- $\epsilon_0$, the permittivity of free space
-- $c$, the speed of light
 
 For inanimate vessels:
 $$
@@ -70,12 +66,12 @@ $$
 F_V = \frac{n}{V_C}
 $$
 $$
-M_I = \frac{n \cdot L_E}{2} F_S F_V = \frac{ne^{2n}K_E}{2V_C}
+M_I = \frac{n L_E}{2} F_S F_V = \frac{ne^{2n}K_E}{2V_C}
 $$
 
 For living vessels:
 $$
-F_S = e^{2n}k_E
+F_S = e^{2n}K_E
 $$
 $$
 F_V = F_C \cdot F_H
@@ -84,37 +80,13 @@ $$
 F_C = \frac{n}{V_C}
 $$
 $$
-F_H = \frac{n}{2\pi \epsilon_0 c d^2} \frac{\cos(\frac{\pi}{2}\cos\theta)}{\sin\theta}e^n
+F_H = \frac{ne^{n}}{d^2}
 $$
 $$
-M_I = \frac{n^3 e^{4n} L_E \cos(\frac{\pi}{2}\cos\theta)}{4 k_E V_C \pi \epsilon_0 c d^2 \sin \theta}
+M_I = \frac{nL_E}{2} F_S F_C F_H = \frac{n^2e^{3n}K_E}{2 d^2 V_C}
 $$
 
-$M_C$ involves the following variables:
-- $n$, the number of SOULS being added
-- $F_S$, the force of attraction between SOULS
-	- Depends on $n$
-- For inanimate vessels:
-	- $F_V$, the force of attraction between the ÜBERSOUL and the vessel
-		- Proportional to $n$
-		- Inversely proportional to $V_C$, the volume of the container
-- For living vessels:
-	- $F_C$, the force of attraction between the BÜBERSOUL and the container
-		- Proportional to $n$
-		- Inversely proportional to $V_C$, the volume of the container
-	- $F_H$, the force of attraction between the BÜBERSOUL and the host
-		- Inversely proportional to $d^2$, the distance between the container and the host squared
-		- Proportional to $n$
-		- Also depends on $\theta$, the angle between the BÜBERSOUL and the host
-	- Possibly involves some other variable, $x$, that explains why $M_C$ is higher for living vessels
-- $\sum m_i$, the initial Mana added to each SOUL
-	- Depends on $n$
-- $C$, the Mana cost of performing SOUL fusion (distinct from above)
-
-And the following constants:
-- $k_S$, Stokoff's constant
-
-and does not depend on $L_E$.
+For both: $$M_C = \ln(K_S - n) M_I$$
 
 %%
 If "You also can't put in too much mana, or the SOUL you're attempting to add will just Determination.gif", then shouldn't $L_E$ be involved somehow? Maybe $L_E$ only applies when the SOUL is in the body, and there's a different, lower limit when the SOUL isn't contained somehow.
