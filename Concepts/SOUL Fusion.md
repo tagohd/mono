@@ -150,17 +150,17 @@ log(KS - n) * BMI
 
 | $n$  | ÜBERSOUL($n$) $M_I$ | ÜBERSOUL($n$) $M_C$ | BÜBERSOUL($n$) $M_I$ | BÜBERSOUL($n$) $M_C$ |
 |----|-----------------|----------------|------------------|------------------|
-| 2  | 2.50 PEj        | 9.09 PEj       | 36.98 PEJ        | 134.32 PEJ       |
-| 3  | 41.60 PEJ       | 150.00 PEj     | 2.51 EEj         | 9.04 EEj         |
-| 4  | 546.45 PEj      | 1.96 EEj       | 119.34 EEj       | 427.03 EEj       |
-| 5  | 6.31 EEj        | 22.40 EEj      | 4.68 ZEj         | 16.62 ZEj        |
-| 6  | 67.13 EEj       | 235.35 EEj     | 162.49 ZEj       | 572.09 ZEj       |
-| 7  | 675.14 EEJ      | 2.36 ZEj       | 5.18 YEj         | 18.09 YEj        |
-| 8  | NaN             | NaN            | 155.39 YEj       | 537.60 YEj       |
-| 9  | NaN             | NaN            | 4.44 REj         | 15.23 REj        |
-| 10 | NaN             | NaN            | 122.44 REj       | 415.65 REj       |
-| 11 | NaN             | NaN            | 3.27 QEj         | 11.00 QEj        |
-| 12 | NaN             | NaN            | 85.35 QEj        | 283.83 QEj       |
-| 13 | NaN             | NaN            | 2180 QEj         | 7170 QEj         |
+| 2  | $2.50 \times 10^{15}$ Ej    | $9.09 \times 10^{15}$ Ej    | $36.98 \times 10^{15}$ Ej    | $134.32 \times 10^{15}$ Ej    |
+| 3  | $41.60 \times 10^{15}$ Ej   | $150.00 \times 10^{15}$ Ej  | $2.51 \times 10^{18}$ Ej     | $9.04 \times 10^{18}$ Ej      |
+| 4  | $546.45 \times 10^{15}$ Ej  | $1.96 \times 10^{18}$ Ej    | $119.34 \times 10^{18}$ Ej   | $427.03 \times 10^{18}$ Ej    |
+| 5  | $6.31 \times 10^{18}$ Ej    | $22.40 \times 10^{18}$ Ej   | $4.68 \times 10^{21}$ Ej     | $16.62 \times 10^{21}$ Ej     |
+| 6  | $67.13 \times 10^{18}$ Ej   | $235.35 \times 10^{18}$ Ej  | $162.49 \times 10^{21}$ Ej   | $572.09 \times 10^{21}$ Ej    |
+| 7  | $675.14 \times 10^{18}$ Ej  | $2.36 \times 10^{21}$ Ej    | $5.18 \times 10^{24}$ Ej     | $18.09 \times 10^{24}$ Ej     |
+| 8  | NaN             | NaN            | $155.39 \times 10^{24}$ Ej   | $537.60 \times 10^{24}$ Ej    |
+| 9  | NaN             | NaN            | $4.44 \times 10^{27}$ Ej     | $15.23 \times 10^{27}$ Ej     |
+| 10 | NaN             | NaN            | $122.44 \times 10^{27}$ Ej   | $415.65 \times 10^{27}$ Ej    |
+| 11 | NaN             | NaN            | $3.27 \times 10^{30}$ Ej     | $11.00 \times 10^{30}$ Ej     |
+| 12 | NaN             | NaN            | $85.35 \times 10^{30}$ Ej    | $283.83 \times 10^{30}$ Ej    |
+| 13 | NaN             | NaN            | $2.18 \times 10^{33}$ Ej     | $7.17 \times 10^{33}$ Ej      |
 
 #Concept/Soul/Soul-Fusion 
