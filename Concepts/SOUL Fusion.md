@@ -70,7 +70,7 @@ $$
 F_V = \frac{n}{V_C}
 $$
 $$
-M_I = \frac{n \cdot L_E}{2} F_S F_V = \frac{n^2e^{3n}L_E}{2k_e V_C}
+M_I = \frac{n \cdot L_E}{2} F_S F_V = \frac{n^2e^{3n}L_E}{2k_E V_C}
 $$
 
 For living vessels:
@@ -84,10 +84,10 @@ $$
 F_C = \frac{n}{V_C}
 $$
 $$
-F_H = \frac{n}{2\pi \epsilon_0 c r} \frac{\cos(\frac{\pi}{2}\cos\theta)}{\sin\theta}e^n
+F_H = \frac{n}{2\pi \epsilon_0 c d^2} \frac{\cos(\frac{\pi}{2}\cos\theta)}{\sin\theta}e^n
 $$
 $$
-M_I = \frac{n^3 e^{4n} L_E \cos(\frac{\pi}{2}\cos\theta)}{4 k_E V_C \pi \epsilon_0 c r \sin \theta}
+M_I = \frac{n^3 e^{4n} L_E \cos(\frac{\pi}{2}\cos\theta)}{4 k_E V_C \pi \epsilon_0 c d^2 \sin \theta}
 $$
 
 $M_C$ involves the following variables:
@@ -122,14 +122,24 @@ If "You also can't put in too much mana, or the SOUL you're attempting to add wi
 Heck, maybe $M_C$ is just $\ln(k_S - n) M_I$.
 %%
 
-```math-tex
+```math
 # Constants
-KE = 6.3459269958*10^-3
-LE = 121*10^12
-theta = pi/2
-c = speedOfLight
-V = (4 pi)/3 * 0.2 m^3
-r = 
+KE = 6.3459269958*10^-3 # Ejiofor's constant
+LE = 121*10^12 # Ejiofor's limit
+c = 299792458 # Speed of light in m/s
+r = 0.2 # The radius of THE ORB in m
+V = (4 pi)/3 * r^3 # The volume of THE ORB
+d = 1 # The distance from the vessel in m
+theta = pi/2 # The angle between the wielder and the vessel
+mu = 1.256637062*10^-6 # Vacuum permeability
+epsilon = 1/(mu * c^2) # Permitivitty of free space
+KS = 39.810686024 # Stokoff's constant
+
+# ÜBERSOUL M_I
+(2^2 * e^(3*2) * LE)/(2 * KE * V) # For n = 2
+
+# BÜBERSOUL M_I
+(2^3 * e^(4*2) * LE * cos(pi/2*cos(theta)))/(4 * KE * V * pi * epsilon * c * d^2 * sin(theta)) # For n = 2
 ```
 
 #Concept/Soul/Soul-Fusion 
