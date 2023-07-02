@@ -9,7 +9,7 @@ Not sure if I'll actually use these, but here are some maps from back when I int
 	- $\therefore$ Bear Crusaders.
 	- I don't really remember anything else, but that's the definitely the most important part.
 
-(Hmmm... I see a slight problem here, actually. If the story doesn't take place on Earth, we're going to have to change [[Bering Strait Grigori|Bering Strait Grigori's]] name, given that there is no Bering Strait. Also, he's still a bear, but I don't think he's Catholic.)
+(Hmmm... I see a slight problem here, actually. If the story doesn't take place on Earth, we're going to have to change [[Grigori Karstov|Bering Strait Grigori's]] name, given that there is no Bering Strait. Also, he's still a bear, but I don't think he's Catholic.)
 
 Anyway, maps:
 

@@ -15,7 +15,7 @@ AppearanceNotes: "Works a white collar office job. (Rat race, get it?)"
 OtherNotes: The only interesting thing about him is how exceptionally uninteresting he is.
 SortOrder: 13
 ---
->[!info] Not to be confused with [[Bering Strait Grigori]]
+>[!info] Not to be confused with [[Grigori Karstov|Bering Strait Grigori]]
 
 # About
 The token cishet. Gets his skeleton exploded off-screen.

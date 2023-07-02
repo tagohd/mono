@@ -1,5 +1,5 @@
 ---
-alias: Grigori, Grigori Karstov
+alias: Grigori, Grigori Karstov, Bering Strait Grigori
 Name: Grigori Mikhailovich Karstov
 Category: Side
 Role: Helps [[James Redawić|James]] run the [[The Old Silver Mine|museum]]
