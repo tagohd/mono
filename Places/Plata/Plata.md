@@ -5,7 +5,7 @@
 ## Notable Locations
 - [[The Old Silver Mine]]
 - [[Plata High School]]
-- [[Institute for the Magical Arts & Sciences]] [[IMAS International Headquarters|International Headquarters]]
+- [[Institute for the Magical Arts & Sciences]] [[IMAS Regional Office - Plata|Regional Office]]
 - [[Plata Fairgrounds]]
 
 ## Notable Residents

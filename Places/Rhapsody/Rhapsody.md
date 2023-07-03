@@ -1,3 +1,19 @@
+# At A Glance
+## Population
+- 563,023
+
+## Notable Locations
+- [[IMAS International Headquarters]]
+
+## Notable Residents
+- [[Case Weston]] (formerly)
+- [[James Redawić]] (formerly)
+- [[CURSED AL]] (formerly)
+
+## Legendary Artifacts
+- [[CURSED AL'S CURSED ORB]]
+
+# About the Music
 ![[Rhapsody for a Dying City.mp3]]
 %%
 songTitle:: Rhapsody for a Dying City
