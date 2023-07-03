@@ -1,0 +1,33 @@
+With Discord being a bit more accessible than Tumblr DMs I don't feel the need to maintain the chat logs as much, so I'm just going to put ideas here until I find a more appropriate place for them.
+
+Maybe it would still be a good idea to keep doing the logs. Might come across some ideas I forgot about. Plus, if I make sure to link things properly, I could make use of the graph view, which is honestly something I've underutilized. It looks cool, but I don't really *do* anything with it.
+
+- [ ] [[Institute for the Magical Arts & Sciences|IMAS]] is in [[Rhapsody]] now instead of [[Plata]]
+- [ ] [[Case Weston|Case]] is also from Rhapsody instead of Plata
+- [ ] Magic history lessons?
+- [ ] How many people work at [[The Old Silver Mine]]?
+- [ ] How many people work for IMAS?
+- [ ] Plata is for rich fucks
+- [ ] Every municipality has a grocery store, probably a couple restaurants, some gas stations, etc.
+- [ ] Polycule that is 5 dads and no kids
+- [ ] [[Pending Ideas#Time Loop Idea]]
+
+## Time Loop Idea
+> UNTIL YOU GET IT "RIGHT"
+> UNTIL YOU LEARN FROM YOUR "MISTAKES"
+> UNTIL EVERYONE "LIVES"
+> UNTIL EVERYONE GETS THEIR "HAPPY ENDING"
+> UNTIL YOU GET IT RIGHT
+
+Dots:
+- For some reason, Sam doesn't die when they get BUBERSOUL'd. We established this is because they don't have a SOUL in their body to get absorbed, so they're unaffected.
+- Somehow, Luke is able to vaguely remember something changed after the timeloop, despite not being involved in the casting process like Sam and AL.
+- Sam gets erased from the timeline after the ending of the first loop, and we have no idea how to get them back into the story
+- SOULs are able to exist outside of their owner if they're not too far apart
+- The NEEDLE OF CALAGASH, which can transfer SOULs, is located on Campbell farm
+- We wanted the player to be able to interact with Luke, but only if that was in a meaningful way.
+
+I've connected the dots (you didn't connect shit):
+- The player is actually taking the place of Sam's SOUL, which was transferred into Luke by accident when some weird magic shit happened years ago (idk James or AL did something I didnt figure this part out yet) causing the NEEDLE to briefly appear on the physical plane and stab both while they were on the farm. Both are not aware of this.
+- Luke knows something is off in the second loop because Sam's SOUL (the player) lets him know. The player remembering the events of previous loops is canon, since you're actually Sam's SOUL and they cast Reverse Fate
+- Something something Luke figures out he's carrying Sam's SOUL and is able to revive them for the perfect happy ending (or he's just content to have their SOUL with him, i feel like you would prefer a bittersweet ending like that based off your songs)
