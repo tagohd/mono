@@ -1,17 +1,28 @@
+sudoChange:: Added some information about Rhapsody itself and not just the song.
+Priority:: 40
+#sudoChange #unseenByLun 
+
 # At A Glance
 ## Population
 - 563,023
 
 ## Notable Locations
 - [[IMAS International Headquarters]]
+- [[Paul W. Friendship High School]]
 
 ## Notable Residents
 - [[Case Weston]] (formerly)
 - [[James Redawić]] (formerly)
 - [[CURSED AL]] (formerly)
+- Paul W. Friendship (historically—he's dead)
 
 ## Legendary Artifacts
 - [[CURSED AL'S CURSED ORB]]
+
+# About
+Once a cultural hub of $CountryName, Rhapsody has been on the decline for the past ~30 years.
+
+(I'm too tired to write much right now. It's basically Detroit, though.)
 
 # About the Music
 ![[Rhapsody for a Dying City.mp3]]
