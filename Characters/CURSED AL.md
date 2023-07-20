@@ -6,6 +6,8 @@ DOB: 1666-01-07
 Species: Elk (*Cervus canadensis*)
 Gender: "&quot;Gender is beneath me&quot; (he/they/it)"
 Pronouns: he/they/it
+Height: 181.6 cm (5'11.5")
+Weight: 72.6 kg (160 lbs)
 Orientation: Gay
 Personality: "Extremely devoted to [[James Redawić|James]], but not the best at showing it"
 MainGoal: Save [[James Redawić|James]]

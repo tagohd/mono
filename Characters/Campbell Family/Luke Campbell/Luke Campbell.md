@@ -7,6 +7,8 @@ DOB: 2003-10-22
 Species: Dogboy - Labrador Retriever (*Canis familiaris*)
 Gender: Male (he/him)
 Pronouns: he/him
+Height: 160.0 cm (5'3")
+Weight: 52.1 kg (115 lbs)
 Orientation: Asexual/Panromantic (Poly?)
 Personality: "Friendly, but stupid. Very in love with [[Sam Ward|Sam]]."
 MainGoal: Find [[Sam Ward|Sam]]

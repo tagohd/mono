@@ -7,6 +7,8 @@ DOB: 2002-07-15
 Species: "Maybe: Wolverine (*Gulo gulo*)"
 Gender: Male (Trans?) (he/they)
 Pronouns: he/they
+Height: 170.2 cm (5'7")
+Weight: 55.3 kg (122 lbs)
 Orientation: Gay
 Personality: Tsundere
 MainGoal: ["Investigate [[James Redawić|James]]", "Keep [[Luke Campbell|Luke]] safe"]
