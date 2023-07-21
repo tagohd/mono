@@ -7,8 +7,12 @@ DOB: 1973-03-05
 Species: Kodiak bear (*Ursus arctos middendorffi*)
 Gender: Male (he/him)
 Pronouns: he/him
-Height: 205.7 cm (6'9")
-Weight: 145.2 kg (320 lbs)
+Height: 205.7
+Weight: 145.2
+Chest: 129
+Waist: 120
+Hips: 127
+Inseam: 93
 Orientation: Homosexual aromantic
 Personality: "The 'face' of the museum. James deals with the big picture stuff, but Grigori handles the day-to-day."
 MainGoal:

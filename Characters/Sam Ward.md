@@ -7,8 +7,12 @@ DOB: 2003-12-05
 Species: Red fox (*Vulpes vulpes*)
 Gender: "&quot;No, thanks!&quot; (they/them)"
 Pronouns: they/them
-Height: 195.6 cm (6'5")
-Weight: 124.74 kg (275 lbs)
+Height: 190.5
+Weight: 78.9
+Chest: 95
+Waist: 79
+Hips: 106
+Inseam: 92
 Orientation: Queer (let's just leave it at that)
 Personality: Athletic and outgoing.
 MainGoal: ["Not be captured by [[CURSED AL]], I guess?", "They're just trying to get ready for college, man"]

@@ -7,6 +7,12 @@ DOB: 1966-09-13
 Species: Dog (*Canis familiaris*)
 Gender: "Genderfluid, but mostly on the girl end of the spectrum (she/they)"
 Pronouns: she/they
+Height: 165.1
+Weight: 63.0
+Chest: 92
+Waist: 74
+Hips: 100
+Inseam: 76
 Orientation: Pansexual
 Personality:
 MainGoal:

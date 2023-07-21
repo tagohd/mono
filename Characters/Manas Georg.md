@@ -7,6 +7,12 @@ DOB: 1951-03-05
 Species: Garden Gnome (*Pumiliohorti alemanes*)
 Gender: Male (he/it)
 Pronouns: he/it
+Height: 175.3
+Weight: 91.6
+Chest: 109
+Waist: 96
+Hips: 108
+Inseam: 77
 Orientation: Gnomesexual
 Personality: "Just a silly little guy :3"
 MainGoal: "Revert back to his original form."

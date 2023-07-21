@@ -7,8 +7,12 @@ DOB: 1799-10-12
 Species: Elk (*Cervus canadensis*)
 Gender: Wizard (he/him)
 Pronouns: he/him
-Height: 188.0 cm (6'2")
-Weight: 83.9 kg (185 lbs)
+Height: 188.0
+Weight: 83.9
+Chest: 100
+Waist: 89
+Hips: 103
+Inseam: 86
 Orientation: Bisexual
 Personality: Laconic (unless you ask him about silver mines)
 MainGoal: Revenge on [[CURSED AL|AL]] for abandoning him

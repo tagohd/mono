@@ -13,6 +13,10 @@ Gender:
 Pronouns:
 Height:
 Weight:
+Chest:
+Waist:
+Hips:
+Inseam:
 Orientation:
 Personality:
 MainGoal:
@@ -28,7 +32,29 @@ For the sake of birthdates, I'm just going to pretend the game takes place in 20
 
 # All
 ```dataview
-TABLE WITHOUT ID Category, link(file.link,Name) AS "Name", round((date(2020-10-22) - DOB).years, 1) AS "Age", Gender, Height, Weight, Species, Role
+TABLE WITHOUT ID Category, link(file.link,Name) AS "Name", round((date(2020-10-22) - DOB).years, 1) AS "Age", Gender, Species, Role
+FROM "Characters" WHERE Name
+SORT SortOrder
+```
+
+## Statistics
+### Metric
+```dataview
+TABLE WITHOUT ID link(file.link,Name) AS "Name", Height AS "Height (cm)", Weight AS "Weight (kg)", Chest AS "Chest (cm)", Waist AS "Waist (cm)", Hips AS "Hips (cm)", Inseam AS "Inseam (cm)"
+FROM "Characters" WHERE Name
+SORT SortOrder
+```
+
+#### For Drawing
+```dataview
+TABLE WITHOUT ID link(file.link,Name) AS "Name", Height AS "Height (cm)", Weight AS "Weight (kg)", Chest*0.375 AS "Chest (cm)", Waist*0.375 AS "Waist (cm)", Hips*0.375 AS "Hips (cm)", Inseam AS "Inseam (cm)"
+FROM "Characters" WHERE Name
+SORT SortOrder
+```
+
+### Customary
+```dataview
+TABLE WITHOUT ID link(file.link,Name) AS "Name", round(Height/2.54, 1) AS "Height (in)", round(Weight*2.205, 1) AS "Weight (lbs)", round(Chest/2.54, 1) AS "Chest (in)", round(Waist/2.54, 1) AS "Waist (in)", round(Hips/2.54, 1) AS "Hips (in)", round(Inseam/2.54, 1) AS "Inseam (in)"
 FROM "Characters" WHERE Name
 SORT SortOrder
 ```
