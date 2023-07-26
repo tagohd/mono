@@ -1,7 +1,9 @@
 ---
 number headings: auto, first-level 1, max 6, 1.1, contents ^toc
 ---
-sudoMajor:: A place for all the "photos", especially references.
+sudoChange:: Added the commission of James, and also Kyubey in a pirate hat.
+Priority:: 99
+#sudoChange #unseenByLun 
 
 >[!question] Is this Dataviewable?
 
@@ -117,6 +119,9 @@ AL during his time in "stasis"
 AL's ultimate attack
 
 ## 2.5 James Redawić
+![[James (zarthzh commission).png]]
+An actual portrait of James that I commissioned from [zarthzh](https://zarthzh.tumblr.com) on Tumblr.
+
 ![[alp_art2.png]]
 Top: Is this [[James Redawić|James]]? Bottom: [[Steve the Royalty-Free Skeleton]]
 
@@ -135,6 +140,13 @@ James Stephanie Sterling
 
 ![[thank god for them.png]]
 JSS again
+
+![[the emperoress.png]]
+Kyubey from Madoka Magica, but wearing a pirate hat.
+%%
+tvRefType:: PMMM/Character
+#Cite/TV/PMMM
+%%
 
 ## 2.7 Ednathrallor Verdensmorder
 ![[A Losing Proposition.png]]
