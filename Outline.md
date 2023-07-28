@@ -75,3 +75,50 @@ Note to self: Just an outline, okay? Don't worry about the details yet. That com
 
 ### The Return/Return with the Elixir
 - Nope. Not on this timeline.
+
+# Second Loop
+## Departure
+### Ordinary World
+- Luke lives a boring life in a boring town called Genton. He can't help but feel that something is missing from his life, but what?
+
+### Call to Adventure
+- He'll be going to the [[Plata Fairgrounds|Renaissance Faire]] this weekend, but something feels off. For some reason, he feels compelled to go there early.
+	- Maybe he had a dream about Sam the night before.
+- When Edna attacks, Luke experiences déjà vu. He feels that he came here to look for someone.
+	- Also, maybe he's a bit less frightened by the attack since it's happened before.
+- He sees Case. Is this the person he's looking for? He looks familiar...
+- The déjà vu intensifies. Luke freaks out. Case gets James to help.
+	- Maybe Case senses that the déjà vu is magical in origin?
+
+### Refusal of the Call
+- James confirms that the déjà vu is real. (He's just bullshitting, but he happens to be right.) Luke really has done this before.
+- Luke may question how good of a CHOSEN ONE he really is since he's apparently failed to break the time loop, but he ultimately resigns himself to his fate.
+
+### Meeting with the Mentor
+- James reluctantly agrees to teach Luke the magic he needs to know. He'll also send Case along with him.
+- Luke reluctantly agrees to be taught.
+
+### Crossing the First Threshold
+
+
+## Initiation
+### Tests, Allies, and Enemies
+
+
+### The Approach
+
+
+### The Ordeal
+
+
+### Reward
+
+
+## Return
+### The Road Back
+
+
+### The Resurrection
+
+
+### The Return
