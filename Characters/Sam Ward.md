@@ -7,15 +7,23 @@ DOB: 2003-12-05
 Species: Red fox (*Vulpes vulpes*)
 Gender: "&quot;No, thanks!&quot; (they/them)"
 Pronouns: they/them
-Height: 190.5
-Weight: 78.9
-Chest: 95
-Waist: 79
-Hips: 106
-Inseam: 92
+Measurements:
+  Height: 190.5
+  Weight: 78.9
+  Chest: 95
+  Waist: 79
+  Hips: 106
+  Inseam: 92
 Orientation: Queer (let's just leave it at that)
 Personality: Athletic and outgoing.
 MainGoal: ["Not be captured by [[CURSED AL]], I guess?", "They're just trying to get ready for college, man"]
+Ability:
+  STR: 15 (+2)
+  DEX: 13 (+1)
+  CON: 16 (+3)
+  INT: 12 (+1)
+  WIS: 10 (+0)
+  CHA: 12 (+1)
 References: ["Cloth (Hollow Knight)???", "Noelle Holiday (Deltarune)", "Kronk (The Emperor's New Groove)"]
 Notes:
 SortOrder: 2

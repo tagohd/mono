@@ -6,15 +6,23 @@ DOB: 1666-01-07
 Species: Elk (*Cervus canadensis*)
 Gender: "&quot;Gender is beneath me&quot; (he/they/it)"
 Pronouns: he/they/it
-Height: 181.6
-Weight: 72.6
-Chest: 95
-Waist: 82
-Hips: 98
-Inseam: 82
+Measurements:
+  Height: 181.6
+  Weight: 72.6
+  Chest: 95
+  Waist: 82
+  Hips: 98
+  Inseam: 82
 Orientation: Gay
 Personality: "Extremely devoted to [[James Redawić|James]], but not the best at showing it"
 MainGoal: Save [[James Redawić|James]]
+Ability:
+  STR: 14 (+2)
+  DEX: 19 (+4)
+  CON: 16 (+3)
+  INT: 20 (+5)
+  WIS: 11 (+0)
+  CHA: 12 (+1)
 References: ["Belos (The Owl House)", "Flowey (Undertale)", "The Radiance (Hollow Knight)", "Chuck McGill (Better Call Saul)"]
 AppearanceNotes:
 OtherNotes: His curse is that he's French.

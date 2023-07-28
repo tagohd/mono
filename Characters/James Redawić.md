@@ -7,15 +7,23 @@ DOB: 1799-10-12
 Species: Elk (*Cervus canadensis*)
 Gender: Wizard (he/him)
 Pronouns: he/him
-Height: 188.0
-Weight: 83.9
-Chest: 100
-Waist: 89
-Hips: 103
-Inseam: 86
+Measurements:
+  Height: 188.0
+  Weight: 83.9
+  Chest: 100
+  Waist: 89
+  Hips: 103
+  Inseam: 86
 Orientation: Bisexual
 Personality: Laconic (unless you ask him about silver mines)
 MainGoal: Revenge on [[CURSED AL|AL]] for abandoning him
+Ability:
+  STR: 9 (-1)
+  DEX: 6 (-2)
+  CON: 8 (-1)
+  INT: 19 (+4)
+  WIS: 16 (+3)
+  CHA: 18 (+4)
 References: ["Obi-Wan Kenobi (Star Wars)"]
 AppearanceNotes: Uses a wheelchair
 OtherNotes: Runs a museum out of an [[The Old Silver Mine|old silver mine]] in [[Plata]]

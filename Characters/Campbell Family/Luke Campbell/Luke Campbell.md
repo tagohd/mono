@@ -7,15 +7,23 @@ DOB: 2003-10-22
 Species: Dogboy - Labrador Retriever (*Canis familiaris*)
 Gender: Male (he/him)
 Pronouns: he/him
-Height: 160.0
-Weight: 52.1
-Chest: 84
-Waist: 67
-Hips: 86
-Inseam: 72
+Measurements:
+  Height: 160.0
+  Weight: 52.1
+  Chest: 84
+  Waist: 67
+  Hips: 86
+  Inseam: 72
 Orientation: Asexual/Panromantic (Poly?)
 Personality: "Friendly, but stupid. Very in love with [[Sam Ward|Sam]]."
 MainGoal: Find [[Sam Ward|Sam]]
+Ability:
+  STR: 13 (+1)
+  DEX: 11 (+0)
+  CON: 14 (+2)
+  INT: 9 (-1)
+  WIS: 10 (+0)
+  CHA: 12 (+1)
 References: ["Vash the Stampede (Trigun (1998))", "Link (The Legend of Zelda)", "Luke Skywalker (Star Wars)"]
 AppearanceNotes:
 OtherNotes:

@@ -7,12 +7,13 @@ DOB: 1047-06-10
 Species: Stoat (*Mustela erminea*)
 Gender: "&quot;Yes, please!&quot; (any pronouns)"
 Pronouns: any
-Height: 182.9
-Weight: 112.9
-Chest: 120
-Waist: 108
-Hips: 116
-Inseam: 80
+Measurements:
+  Height: 182.9
+  Weight: 112.9
+  Chest: 120
+  Waist: 108
+  Hips: 116
+  Inseam: 80
 Orientation: Aroace
 Personality:
 MainGoal:

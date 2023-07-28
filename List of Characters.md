@@ -37,24 +37,31 @@ FROM "Characters" WHERE Name
 SORT SortOrder
 ```
 
-## Statistics
+## Measurements
 ### Metric
 ```dataview
-TABLE WITHOUT ID link(file.link,Name) AS "Name", Height AS "Height (cm)", Weight AS "Weight (kg)", Chest AS "Chest (cm)", Waist AS "Waist (cm)", Hips AS "Hips (cm)", Inseam AS "Inseam (cm)"
+TABLE WITHOUT ID link(file.link,Name) AS "Name", Measurements.Height AS "Height (cm)", Measurements.Weight AS "Weight (kg)", Measurements.Chest AS "Chest (cm)", Measurements.Waist AS "Waist (cm)", Measurements.Hips AS "Hips (cm)", Measurements.Inseam AS "Inseam (cm)"
 FROM "Characters" WHERE Name
 SORT SortOrder
 ```
 
 #### For Drawing
 ```dataview
-TABLE WITHOUT ID link(file.link,Name) AS "Name", Height AS "Height (cm)", Weight AS "Weight (kg)", Chest*0.375 AS "Chest (cm)", Waist*0.375 AS "Waist (cm)", Hips*0.375 AS "Hips (cm)", Inseam AS "Inseam (cm)"
+TABLE WITHOUT ID link(file.link,Name) AS "Name", Measurements.Height AS "Height (cm)", Measurements.Weight AS "Weight (kg)", Measurements.Chest*0.375 AS "Chest (cm)", Measurements.Waist*0.375 AS "Waist (cm)", Measurements.Hips*0.375 AS "Hips (cm)", Measurements.Inseam AS "Inseam (cm)"
 FROM "Characters" WHERE Name
 SORT SortOrder
 ```
 
 ### Customary
 ```dataview
-TABLE WITHOUT ID link(file.link,Name) AS "Name", round(Height/2.54, 1) AS "Height (in)", round(Weight*2.205, 1) AS "Weight (lbs)", round(Chest/2.54, 1) AS "Chest (in)", round(Waist/2.54, 1) AS "Waist (in)", round(Hips/2.54, 1) AS "Hips (in)", round(Inseam/2.54, 1) AS "Inseam (in)"
+TABLE WITHOUT ID link(file.link,Name) AS "Name", round(Measurements.Height/2.54, 1) AS "Height (in)", round(Measurements.Weight*2.205, 1) AS "Weight (lbs)", round(Measurements.Chest/2.54, 1) AS "Chest (in)", round(Measurements.Waist/2.54, 1) AS "Waist (in)", round(Measurements.Hips/2.54, 1) AS "Hips (in)", round(Measurements.Inseam/2.54, 1) AS "Inseam (in)"
+FROM "Characters" WHERE Name
+SORT SortOrder
+```
+
+## Ability Scores
+```dataview
+TABLE WITHOUT ID link(file.link,Name) AS "Name", Ability.STR AS "Strength", Ability.DEX AS "Dexterity", Ability.CON AS "Constitution", Ability.INT AS "Intelligence", Ability.WIS AS "Wisdom", Ability.CHA AS "Charisma"
 FROM "Characters" WHERE Name
 SORT SortOrder
 ```

@@ -7,15 +7,23 @@ DOB: 2002-07-15
 Species: "Maybe: Wolverine (*Gulo gulo*)"
 Gender: Male (Trans?) (he/they)
 Pronouns: he/they
-Height: 170.2
-Weight: 53.5
-Chest: 83
-Waist: 66
-Hips: 93
-Inseam: 80
+Measurements:
+  Height: 170.2
+  Weight: 53.5
+  Chest: 83
+  Waist: 66
+  Hips: 93
+  Inseam: 80
 Orientation: Gay
 Personality: Tsundere
 MainGoal: ["Investigate [[James Redawić|James]]", "Keep [[Luke Campbell|Luke]] safe"]
+Ability:
+  STR: 12 (+1)
+  DEX: 14 (+2)
+  CON: 13 (+1)
+  INT: 14 (+2)
+  WIS: 12 (+1)
+  CHA: 12 (+1)
 References: ["Nicholas D. Wolfwood (Trigun (1998))"]
 AppearanceNotes:
 OtherNotes:

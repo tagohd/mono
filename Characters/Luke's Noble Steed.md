@@ -7,8 +7,9 @@ DOB: 2012-01-13
 Species: American Quarter Horse (*Equus ferus caballus*)
 Gender: Female (she/it)
 Pronouns: she/it
-Height: 152.4
-Weight: 477.6
+Measurements:
+  Height: 152.4
+  Weight: 477.6
 Orientation: Lesbian, apparently
 Personality: Gentle and reliable. All around a good horse.
 MainGoal: "Whatever most horses' goals are, I guess. Not be eaten by dragons?"
