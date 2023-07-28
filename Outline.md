@@ -61,9 +61,9 @@ Note to self: Just an outline, okay? Don't worry about the details yet. That com
 
 ## Return
 ### The Road Back
-- With the spell and the message, Luke should be able to defeat AL.
 - Luke and Case make their way to [[CURSED AL'S CURSED DOMAIN]].
-- Even if collecting The Artifacts was easy, this is going to be a challenge.
+	- Even if collecting The Artifacts was easy, this is going to be a challenge.
+- With the spell and the message, Luke should be able to defeat AL. 
 
 ### The Resurrection
 - Despite this, AL is *still* able to defeat them easily.
@@ -89,6 +89,7 @@ Note to self: Just an outline, okay? Don't worry about the details yet. That com
 - He sees Case. Is this the person he's looking for? He looks familiar...
 - The déjà vu intensifies. Luke freaks out. Case gets James to help.
 	- Maybe Case senses that the déjà vu is magical in origin?
+- Luke remembers Sam.
 
 ### Refusal of the Call
 - James confirms that the déjà vu is real. (He's just bullshitting, but he happens to be right.) Luke really has done this before.
@@ -99,26 +100,42 @@ Note to self: Just an outline, okay? Don't worry about the details yet. That com
 - Luke reluctantly agrees to be taught.
 
 ### Crossing the First Threshold
-
+- Luke returns home to tell his parents he's going on a quest. Maybe Case helps him make it sound less insane than saying he's saving a person who never existed.
+- Luke's moms aren't super stoked about this, but hey! Their son is THE CHOSEN ONE! That's something to be proud of, right? Plus, who are they to interfere with fate?
+- They give him some supplies, including THE NEEDLE.
 
 ## Initiation
 ### Tests, Allies, and Enemies
-
+- Luke learns some spells
+- James is pushing Luke really hard, and Luke's not doing that well with it. He perseveres because he believes it's necessary to save Sam.
 
 ### The Approach
-
+- Luke and Case set out to gather the Legendary Artifacts
+- The first Artifact he gets is THE ORB, located in Rhapsody
+	- Luke saves Case, but suffers from Mana toxicity
+	- Case maybe doesn't know that Luke is suffering from Mana toxicity
+- They also get THE BLADE and THE STAFF.
 
 ### The Ordeal
-
+- While attempting to retrieve THE CHALICE, Luke encounters AL for the first time. Despite James's "best" efforts, he is woefully unprepared, and AL beats him handily.
+- Case, who is separated from Luke for reasons yet to be determined, shows up in the nick of time to save Luke, repaying him for saving his life in Rhapsody.
+- Luke wonders why he lost if he's THE CHOSEN ONE. Case assures him that it's simply because he hasn't completed his training. (And maybe there's a sweet moment where Case promises that he'll never let Luke face AL alone again.)
 
 ### Reward
-
+- Luke returns to finish his training. James teaches him a very powerful spell, but Luke accidentally kills James when he tries to cast it. Maybe Luke has some more déjà vu about this, but it's too little, too late.
+- As he dies, James begrudgingly admits that he is proud of Luke, and that he has a message for Luke to deliver to AL when next they meet: James still remembers AL.
 
 ## Return
 ### The Road Back
-
+- Luke and Case make their way to CURSED AL'S CURSED DOMAIN.
+	- Even if collecting The Artifacts was easy, this is going to be a challenge.
+- With the spell and the message, Luke should be able to defeat AL.
 
 ### The Resurrection
-
+- Despite this, AL is *still* able to defeat them easily.
+- Case sacrifices himself to save Luke.
+- Just as AL is preparing to cast Reverse Fate, Luke cries out for him to wait. He has a message from James.
+- AL casts Reverse Fate anyway, but, for some reason, instead of resurrecting James, it resets the timeline to the beginning of the story.
 
 ### The Return
+![[no-jonathan-frakes.gif]]
