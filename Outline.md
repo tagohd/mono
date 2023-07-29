@@ -52,6 +52,7 @@ Note to self: Just an outline, okay? Don't worry about the details yet. That com
 ### The Ordeal
 - While attempting to retrieve [[CHALICE OF SUDMORANTH|THE CHALICE]], Luke encounters AL for the first time. Despite James's "best" efforts, he is woefully unprepared, and AL beats him handily.
 - Case, who is separated from Luke for reasons yet to be determined, shows up in the nick of time to save Luke, repaying him for saving his life in Rhapsody.
+	- He's investigating James, since that's supposed to be the reason he works for James in the first place.
 - Luke wonders why he lost if he's THE CHOSEN ONE. Case assures him that it's simply because he hasn't completed his training. (And maybe there's a sweet moment where Case promises that he'll never let Luke face AL alone again.)
 	- So maybe the timeline without Case is the one where AL tells Luke that James is just using him...
 
@@ -83,16 +84,17 @@ Note to self: Just an outline, okay? Don't worry about the details yet. That com
 
 ### Call to Adventure
 - He'll be going to the [[Plata Fairgrounds|Renaissance Faire]] this weekend, but something feels off. For some reason, he feels compelled to go there early.
-	- Maybe he had a dream about Sam the night before.
+	- Maybe he had a dream about Sam the night before. He might not have recognized them, however.
 - When Edna attacks, Luke experiences déjà vu. He feels that he came here to look for someone.
 	- Also, maybe he's a bit less frightened by the attack since it's happened before.
 - He sees Case. Is this the person he's looking for? He looks familiar...
 - The déjà vu intensifies. Luke freaks out. Case gets James to help.
 	- Maybe Case senses that the déjà vu is magical in origin?
-- Luke remembers Sam.
 
 ### Refusal of the Call
-- James confirms that the déjà vu is real. (He's just bullshitting, but he happens to be right.) Luke really has done this before.
+- James confirms that the déjà vu is real. Luke really has done this before.
+	- James suspects this is the work of CURSED AL.
+	- If Luke wants to break the time loop, he'll need to gather the Legendary Artifacts and defeat AL.
 - Luke may question how good of a CHOSEN ONE he really is since he's apparently failed to break the time loop, but he ultimately resigns himself to his fate.
 
 ### Meeting with the Mentor
@@ -107,7 +109,7 @@ Note to self: Just an outline, okay? Don't worry about the details yet. That com
 ## Initiation
 ### Tests, Allies, and Enemies
 - Luke learns some spells
-- James is pushing Luke really hard, and Luke's not doing that well with it. He perseveres because he believes it's necessary to save Sam.
+- James is pushing Luke really hard, and Luke's not doing that well with it. He perseveres because he believes it's necessary to save ~~Sam~~ someone.
 
 ### The Approach
 - Luke and Case set out to gather the Legendary Artifacts
@@ -118,7 +120,7 @@ Note to self: Just an outline, okay? Don't worry about the details yet. That com
 
 ### The Ordeal
 - While attempting to retrieve THE CHALICE, Luke encounters AL for the first time. Despite James's "best" efforts, he is woefully unprepared, and AL beats him handily.
-- Case, who is separated from Luke for reasons yet to be determined, shows up in the nick of time to save Luke, repaying him for saving his life in Rhapsody.
+- Case, who is separated from Luke because he's busy investigating James, shows up in the nick of time to save Luke, repaying him for saving his life in Rhapsody.
 - Luke wonders why he lost if he's THE CHOSEN ONE. Case assures him that it's simply because he hasn't completed his training. (And maybe there's a sweet moment where Case promises that he'll never let Luke face AL alone again.)
 
 ### Reward
