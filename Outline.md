@@ -20,16 +20,16 @@ Note to self: Just an outline, okay? Don't worry about the details yet. That com
 - James tells Luke that he is THE CHOSEN ONE or some bullshit.
 
 ### 1.1.3 Refusal of the Call
-- It's not that Luke doesn't want to be THE CHOSEN ONE. He wants to save Sam, of course. But is he really the right person for the job? He's only 16. He was terrified when Edna attacked. And he doesn't know magic.
+- It's not that Luke doesn't want to be THE CHOSEN ONE. He wants to save Sam, of course. But is he really the right person for the job? He's only 16. He was terrified when Edna attacked. And he doesn't know magic. (Well, won't know unless he tries...)
 	- I'm kinda worried that this could be at odds with Luke's defining personality traits: being an idiot and being in love with Sam. I guess we need to make sure that we frame it more as a matter of self-doubt.
 
 ### 1.1.4 Meeting with the Mentor
 - James reluctantly agrees to teach Luke the magic he needs to know. He'll also send Case along with him.
-- Luke reluctantly agrees to be taught.
+- Luke agrees to be taught.
 
 ### 1.1.5 Crossing the First Threshold
 - Luke returns home to tell [[The Mothers Campbell|his moms]] he is leaving to save Sam. They are, quite reasonably, not very enthusiastic about this, largely for the same reasons as Luke.
-	- Luke's like, "I'm not happy about this, either, but I have to do it. I'm THE CHOSEN ONE."
+	- Luke's like, "I was surprised about this, too, but I must have what it takes since I'm THE CHOSEN ONE."
 	- One of his mothers (probably [[Elizabeth Campbell|Elizabeth]], since she's supposed to be the smart one) asks if he's sure James is right about him being THE CHOSEN ONE.
 	- Case assures her that James is himself a powerful wizard and probably knows what he's talking about. (Case is there because he drove Luke home from Plata.)
 - Luke's mothers relent and decide to let him go. They know he would go anyway. They give him some supplies to get him ready for his journey.
@@ -38,14 +38,14 @@ Note to self: Just an outline, okay? Don't worry about the details yet. That com
 ## 1.2 Initiation
 ### 1.2.1 Tests, Allies, and Enemies
 - Luke learns some spells
-- James is pushing Luke really hard, and Luke's not doing that well with it. He perseveres because he believes it's necessary to save Sam.
+- James is pushing Luke really hard, and Luke's not doing that well with it. He perseveres because he believes it's necessary to save Sam. (He'll just have to try harder.)
 
 ### 1.2.2 The Approach/Approach to the Inmost Cave
 - Luke and Case set out to gather the [[Legendary Artifacts]]
 - The first Artifact he gets is [[CURSED AL'S CURSED ORB|THE ORB]], located in [[Rhapsody]]
 	- Amazingly, the warehouse where it's kept is not very closely guarded. Seems like a pretty easy mission...
 	- ...Until they accidentally trigger the security systems
-	- Luke has been struggling a lot with his lessons and continues to doubt whether he truly is THE CHOSEN ONE, but he manages to cast a powerful spell, saving Case from a close call
+	- Luke has been struggling a lot with his lessons, occasionally doubting whether he truly is THE CHOSEN ONE, but he manages to cast a powerful spell, saving Case from a close call
 	- It's not a spell Luke should know. It's way above his level, and he gets some pretty bad [[Mana#Mana Toxicity|Mana toxicity]] symptoms. But, it's a good boost to his confidence. (I'm also going to say right now that the more severe symptoms don't always kick in right away. They have enough time to get out of the warehouse, and maybe they'll even be partway back to Plata before Luke really begins to feel it. And, of course, this will happen less frequently as he builds tolerance.)
 	- Case is surprised that Luke knew that spell but figures James's intense training must really be working. Though if/when he realizes that Luke is experiencing severe mana toxicity, he's going to be very pissed at James. (James: Well, he saved your life, didn't he? And he's still alive. I don't see what the problem is here.)
 		- Luke would probably try to hide this from Case. Mix of animal instinct to hide pain, desire to look cool in front of Case, not wanting him to worry, and of course, denial.
@@ -59,6 +59,7 @@ Note to self: Just an outline, okay? Don't worry about the details yet. That com
 	- He's investigating James, since that's supposed to be the reason he works for James in the first place.
 - Luke wonders why he lost if he's THE CHOSEN ONE. Case assures him that it's simply because he hasn't completed his training. (And maybe there's a sweet moment where Case promises that he'll never let Luke face AL alone again.)
 	- So maybe the timeline without Case is the one where AL tells Luke that James is just using him...
+	- He'll just have to try harder.
 
 ### 1.2.4 Reward
 - Luke returns to finish his training. James teaches him a very powerful spell, but Luke accidentally kills James when he tries to cast it.
@@ -99,11 +100,11 @@ Note to self: Just an outline, okay? Don't worry about the details yet. That com
 - James confirms that the déjà vu is real. Luke really has done this before.
 	- James suspects this is the work of CURSED AL.
 	- If Luke wants to break the time loop, he'll need to gather the Legendary Artifacts and defeat AL.
-- Luke may question how good of a CHOSEN ONE he really is since he's apparently failed to break the time loop, but he ultimately resigns himself to his fate.
+- Luke may question how good of a CHOSEN ONE he really is since he's apparently failed to break the time loop, but he ultimately resigns himself to his fate. (He'll just have to try harder.)
 
 ### 2.1.4 Meeting with the Mentor
 - James reluctantly agrees to teach Luke the magic he needs to know. He'll also send Case along with him.
-- Luke reluctantly agrees to be taught.
+- Luke agrees to be taught.
 
 ### 2.1.5 Crossing the First Threshold
 - Luke returns home to tell his parents he's going on a quest. Maybe Case helps him make it sound less insane than saying he's saving a person who never existed.
@@ -113,7 +114,7 @@ Note to self: Just an outline, okay? Don't worry about the details yet. That com
 ## 2.2 Initiation
 ### 2.2.1 Tests, Allies, and Enemies
 - Luke learns some spells
-- James is pushing Luke really hard, and Luke's not doing that well with it. He perseveres because he believes it's necessary to save ~~Sam~~ someone.
+- James is pushing Luke really hard, and Luke's not doing that well with it. (He'll just have to try harder.) He perseveres because he believes it's necessary to save ~~Sam~~ someone.
 
 ### 2.2.2 The Approach
 - Luke and Case set out to gather the Legendary Artifacts
@@ -123,9 +124,10 @@ Note to self: Just an outline, okay? Don't worry about the details yet. That com
 - They also get THE BLADE and THE STAFF.
 
 ### 2.2.3 The Ordeal
-- While attempting to retrieve THE CHALICE, Luke encounters AL for the first time. Despite James's "best" efforts, he is woefully unprepared, and AL beats him handily.
+- While attempting to retrieve THE CHALICE, Luke encounters AL for the "first" time. Despite James's "best" efforts, he is woefully unprepared, and AL beats him handily.
 - Case, who is separated from Luke because he's busy investigating James, shows up in the nick of time to save Luke, repaying him for saving his life in Rhapsody.
 - Luke wonders why he lost if he's THE CHOSEN ONE. Case assures him that it's simply because he hasn't completed his training. (And maybe there's a sweet moment where Case promises that he'll never let Luke face AL alone again.)
+	- He'll just have to try harder.
 
 ### 2.2.4 Reward
 - Luke returns to finish his training. James teaches him a very powerful spell, but Luke accidentally kills James when he tries to cast it. Maybe Luke has some more déjà vu about this, but it's too little, too late.
@@ -138,7 +140,7 @@ Note to self: Just an outline, okay? Don't worry about the details yet. That com
 - With the spell and the message, Luke should be able to defeat AL.
 
 ### 2.3.2 The Resurrection
-- Despite this, AL is *still* able to defeat them easily.
+- Despite this, AL is *still* able to defeat them easily. (He'll just have to try harder.)
 - Case sacrifices himself to save Luke.
 - Just as AL is preparing to cast Reverse Fate, Luke cries out for him to wait. He has a message from James.
 - AL casts Reverse Fate anyway, but, for some reason, instead of resurrecting James, it resets the timeline to the beginning of the story.
@@ -151,7 +153,7 @@ This probably repeats a few times, then:
 # 3 "Third" Loop
 ## 3.1 Departure
 ### 3.1.1 Ordinary World
-- Luke lives a boring life in a boring town called Genton. At least, it *was* boring until his partner, Sam, was wiped from existence. Now he actively wishes it was still boring. He's tired of this shit, man. He just wants it to be over. But he doesn't know how to do that yet.
+- Luke lives a boring life in a boring town called Genton. At least, it *was* boring until his partner, Sam, was wiped from existence. Now he actively wishes it was still boring. He's tired of this shit, man. He just wants it to be over. But he doesn't know how to do that yet. (He'll just have to try harder.)
 
 ### 3.1.2 Call to Adventure
 - Luke knows Sam isn't going to be at the Renaissance Faire.
@@ -180,14 +182,15 @@ This probably repeats a few times, then:
 ### 3.2.1 Tests, Allies, and Enemies
 - James is still kind of a dick, even though Luke has more experience this time around.
 	- "Oh, wow. Your form was almost perfect. Perfectly wrong! Do it again, but do it right."
+	- He'll just have to try harder.
 - Maybe James makes Luke train with Case anyway, hoping Luke changes his mind.
-	- See what I wrote in the "Case File (get it?)" thread on Discord, but maybe Case is ostensibly there to learn magic from James
+	- See what I wrote in the "Case File (get it?)" thread on Discord, but maybe Case is ostensibly there to learn magic from James, and IMAS is just using him as a way to keep tabs on James.
 	- And maybe he's also trying to set them up a little? Not that James actually cares—he just wants Case gone—but if Case is going to show up later anyway during [[Outline#3.2.3 The Ordeal|The Ordeal]], then it would probably make more sense if he at least knew Luke a little better.
 		- Luke would probably have a hard time opening up, though.
 
 ### 3.2.2 The Approach
 - This isn't fun anymore without Case. Luke doesn't even care about the [[Chocolate Orange]] in Rhapsody.
-	- He's not eating much at all, lately. And he hasn't been sleeping well, either. He's constantly on edge. How can he sleep when the world is counting on him? When Sam is counting on him? When every time he sleeps, he sees his failure at the end of each loop? When every time he closes his eyes, the air fills with the scent of iron? ~~Case screams~~ he couldn't make a sound. ~~Luke runs towards him~~ he couldn't move. ~~It lasts an eternity~~ it was over in a minute. But it never really ends, does it? In his dreams and in his life. ~~It would be better to just die.~~ Some CHOSEN ONE he is. ~~It would be better to just die.~~ He has to keep going regardless.
+	- He's not eating much at all, lately. And he hasn't been sleeping well, either. He's constantly on edge. How can he sleep when the world is counting on him? When Sam is counting on him? When every time he sleeps, he sees his failure at the end of each loop? When every time he closes his eyes, the air fills with the scent of iron? ~~Case screams~~ he couldn't make a sound. ~~Luke runs towards him~~ he couldn't move. ~~It lasts an eternity~~ it was over in a minute. But it never really ends, does it? In his dreams and in his life. ~~It would be better to just die.~~ Some CHOSEN ONE he is. ~~It would be better to just die.~~ He has to keep going regardless. He'll just have to try harder. ~~Can he try any harder?~~
 	- Since the playfighting with Case was what triggered the security system in the previous timelines (see [[1.4 The Crossing of the First Threshold]]), maybe that doesn't happen this time.
 	- Probably a good thing. In the state that he's in, Mana Toxicity would be way worse than usual.
 - He also gets THE BLADE and THE STAFF.
@@ -196,7 +199,7 @@ This probably repeats a few times, then:
 ### 3.2.3 The Ordeal
 - Despite being in a constant state of hypervigilance, AL still catches Luke by surprise while he's attempting to retrieve THE CHALICE.
 - Luke tries to defend himself, but, as stated above, his Mana tolerance is kinda fucked.
-- Again, Luke wonders what kind of CHOSEN ONE he must be if he can be beaten so easily.
+- Again, Luke wonders what kind of CHOSEN ONE he must be if he can be beaten so easily. (He'll just have to try harder.)
 - Then this happens: 
 ![[queen of england.jpeg]] 
 - Maybe Case shows up anyway because he's discovered TEH DARK TRUTH \[sic\] about James
@@ -206,7 +209,7 @@ This probably repeats a few times, then:
 - Luke accidentally(?) kills James. Again, with the whole PTSD thing Luke has going on, he's going to have some major side effects from casting the powerful spell James teaches him. (By this point, he has built up some tolerance, but it's still going to hit harder than normal.)
 	- At some point, I should probably decide what this spell is
 - James wants Luke to deliver his message to AL
-- Maybe Luke has another existential crisis about what a bad CHOSEN ONE he is since he doesn't feel bad enough about killing James
+- Maybe Luke has another existential crisis about what a bad CHOSEN ONE he is since he doesn't feel bad enough about killing James. (He'll just have to try harder?)
 
 ## 3.3 Return
 ### 3.3.1 The Road Back
@@ -219,6 +222,8 @@ This probably repeats a few times, then:
 - I can't breathe!
 - I need out of here!
 ![[mr bones wild ride.jpg]]
+- He can't try any harder.
+- He can't do it alone.
 
 ### 3.3.2 The Resurrection
 - AL casts Reverse Fate, uninterrupted by Luke or Case.
@@ -226,3 +231,31 @@ This probably repeats a few times, then:
 
 ### 3.3.3 The Return
 ![[no-no-no-not-today.gif]]
+
+# 4 Fourth Loop
+## 4.1 Departure
+### 4.1.1 Ordinary World
+
+### 4.1.2 Call to Adventure
+
+### 4.1.3 Refusal of the Call
+
+### 4.1.4 Meeting with the Mentor
+
+### 4.1.5 Crossing the First Threshold
+
+## 4.2 Initiation
+### 4.2.1 Tests, Allies, and Enemies
+
+### 4.2.2 The Approach
+
+### 4.2.3 The Ordeal
+
+### 4.2.4 Reward
+
+## 4.3 Return
+### 4.3.1 The Road Back
+
+### 4.3.2 The Resurrection
+
+### 4.3.3 The Return
