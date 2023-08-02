@@ -8,48 +8,99 @@ Priority:: 1
 
 Note to self: Just an outline, okay? Don't worry about the details yet. That comes later.
 
-# 1 First Loop (One-off)
-
+# 1 First Loop
 ## 1.1 Departure
 ### 1.1.1 Ordinary World
 - [[Luke Campbell|Luke]] lives a boring life in a boring town called [[Genton]]. We've been over this many times already. Nothing new here.
 
 ### 1.1.2 Call to Adventure
-- [[Sam Ward|Sam]] disappears. Luke goes looking for them in [[Plata]].
+- [[Sam Ward|Sam]] doesn't show up for their morning run with Luke. The [[Plata Fairgrounds|Renaissance Faire]] is this weekend, and this will be Sam's first time attending. Luke suspects they were simply overeager and left early (because that's the kind of thing *he* would do). He saddles up [[Luke's Noble Steed|Pauline]] and starts riding towards [[Plata]].
+	- Luke jousts, so he'll need Pauline there anyway.
+	- Plata is only 35 km (21.75 mi) away from Genton. He can get there on horseback no problem, but it will take a while.
+		- About 20-30 minutes by car, but at least a couple hours by horse.
+			- Assuming Pauline is in good shape, she can probably maintain a trot of 8-12 mph for 20 miles, so it would take approximately 2 hours at that speed.
+			- Luke probably won't ride that fast so she doesn't get exhausted, plus they'll need to stop for water every so often. So, let's say it takes about 3 hours? (Not 5.5 hours like I've said previously.)
+		- Ideally, he would take Pauline there in a horse trailer, but Luke isn't a very good driver.
+		- Couldn't he just ask one of [[The Mothers Campbell|his moms]] to take him? Well, he's *supposed* to be in school that day. Also, they're busy. [[Elizabeth Campbell|Elizabeth]] is going to take him tomorrow, though.
+		- Actually, it's 35 km as measured from the center of Genton to the center of Plata. But Luke doesn't live in Genton proper. [[Campbell Farms]] is likely on the outskirts, so it could be a bit closer.
+	- Does he put on his armor before he leaves?
+		- Can he do that by himself? (Depends on the armor, but it's possible.)
+		- Can he mount Pauline unassisted if he does? (Might be kinda hard, especially with his hip problems.)
+		- Wouldn't that be kinda uncomfortable to wear all day? (At least the weather is probably pretty cool.)
+		- If he doesn't put it on before he leaves, how does he get it there? And when *does* he put it on?
 - [[Ednathrallor Verdensmorder|Edna]] attacks.
-- Luke is introduced to [[James Redawić|James]] and [[Case Weston|Case]]. Luke learns Sam has been kidnapped by [[CURSED AL]].
-- James tells Luke that he is THE CHOSEN ONE or some bullshit.
+	- Well, people assume she's attacking, but she doesn't really do anything. Everyone freaks out anyway, resulting in a riot.
+	- Pauline is injured in the ensuing chaos.
+	- Luke is not having a good time.
+- [[Case Weston|Case]] shows up. He wasn't attending the Faire, but he, too, is a Good Boy (TM), and he's there to help if he can.
+	- He spots Luke, who is clearly shaken up and trying desperately to keep Pauline under control so she doesn't exacerbate her injuries.
+	- Case knows a little bit of healing magic, so he heals Pauline, but she should still probably be checked by a professional.
+	- If he hasn't already, this would probably be a good time for Luke to take off his armor. Maybe Case suggests it. Like, "Hey, you're kinda freaking out right now, and that's a totally valid reaction to surviving a dragon attack, but maybe you'd feel better if you weren't wearing fucking plate armor?"
+- Luke asks Case if he's seen anyone who looks like Sam. He still hasn't found them, and now he's worried that maybe they were kidnapped by the dragon.
+	- He hasn't, and he's not sure about that last part. Maybe [[James Redawić|James]] would know more.
+- James is offended by the suggestion that Edna would kidnap anyone. No, it's more likely that Sam was kidnapped by [[CURSED AL]].
+	- How does James know this? He doesn't. He just knows that AL has returned, and whatever he's planning is probably going to require at least a few sacrifices.
+- Sensing Luke's desperation to save Sam, James sees an opportunity: he can use Luke to gather the materials he will need to cast [[Wizard Divorce]] and be rid of AL for good.
+	- He tells Luke that it was clearly fate that brought him here. Luke must be THE CHOSEN ONE foretold by the prophecy James is *totally* not making up on the spot.
 
 ### 1.1.3 Refusal of the Call
 - It's not that Luke doesn't want to be THE CHOSEN ONE. He wants to save Sam, of course. But is he really the right person for the job? He's only 16. He was terrified when Edna attacked. And he doesn't know magic. (Well, won't know unless he tries...)
-	- I'm kinda worried that this could be at odds with Luke's defining personality traits: being an idiot and being in love with Sam. I guess we need to make sure that we frame it more as a matter of self-doubt.
+- Refusing the call is part of the prophecy, so obviously this means that Luke really is THE CHOSEN ONE. Luke is not smart enough to question this any further.
 
 ### 1.1.4 Meeting with the Mentor
 - James reluctantly agrees to teach Luke the magic he needs to know. He'll also send Case along with him.
-- Luke agrees to be taught.
+	- **James:** Excellent! According to the prophecy, you must first gather the seven [[Legendary Artifacts]]. AL will be seeking these as well, but it is vital that you find them first.
+	- **Luke:** Right, okay, one problem.
+	- **James:** What?
+	- **Luke:** AL's a wizard, right? And I don't know if you heard me earlier, but I don't know magic. I barely even know algebra.
+	- **James:** Yes... Right, I can see how that would be a concern. Since AL likely has a significant head start, (*slightly sarcastic*) it seems the honor of instructing THE CHOSEN ONE has fallen upon me. However, it is quite late \[22:00 (lol)\]. We will begin your training first thing in the morning. Mr Weston, you may wish to join as well.
+	- **James:** In the meantime, I suggest you freshen up. I can tell you were quite... active, today.
+	- **Luke:** Sir?
+	- **James:** Go home and take a shower, kid. You reek. Maybe tell your parents your THE CHOSEN ONE; I'm sure they'll be thrilled. But be back here at sunup. We have a lot of ground to cover.
+		- In my head, I feel like his voice suddenly switched from Obi-Wan Kenobi to J. Jonah Jameson. (Or perhaps from Hero (OMORI) to Mr Jawsum.) Maybe the "sagely British guy" act is just that: an act. (Or maybe it's just: he would not fucking say that.)
+		- Wait, that might be kinda weird for Case, then. Since Luke's going to be riding bitch on his motorcycle. (Maybe not. It is a motorcycle.)
+	- **Luke:** Yessir. Thank you, sir!
+	- **James:** Don't thank me yet. Now, go!
 
 ### 1.1.5 Crossing the First Threshold
 - Luke returns home to tell [[The Mothers Campbell|his moms]] he is leaving to save Sam. They are, quite reasonably, not very enthusiastic about this, largely for the same reasons as Luke.
 	- Luke's like, "I was surprised about this, too, but I must have what it takes since I'm THE CHOSEN ONE."
 	- One of his mothers (probably [[Elizabeth Campbell|Elizabeth]], since she's supposed to be the smart one) asks if he's sure James is right about him being THE CHOSEN ONE.
 	- Case assures her that James is himself a powerful wizard and probably knows what he's talking about. (Case is there because he drove Luke home from Plata.)
-- Luke's mothers relent and decide to let him go. They know he would go anyway. They give him some supplies to get him ready for his journey.
-	- Maybe among the supplies is [[NEEDLE OF CALAGASH|THE NEEDLE]]?
+		- Is Case gonna stay the night? Again, Plata isn't that far, but it is late, and Luke's parents are good people. They might want him to stay just to be safe. At the very least, they'll want to thank him for helping their son—he gets some supplies, too.
+		- If Luke's back on the farm, how is he returning to Plata? Is Case taking him? Could make sense if he's staying the night, less so if he isn't. But, 1) Pauline is still in Plata, so someone's going to have to get her, and 2) before he left on his own to look for Sam, the original plan was that Elizabeth would drive him to the Renaissance Faire tomorrow, anyway.
+		- Why did Case drive Luke back from Plata, anyway? (Because I wanted it to happen.)
+			- Why didn't one of his moms just pick him up? (I don't know.)
+			- Why didn't he ride Pauline back? This one's easy: it's 20-30 minutes by motorcycle, but 5 1/2 hours by horse. Plus, even if Edna didn't happen, Luke already rode her *to* Plata. She's tired. (Also, shouldn't his parents have noticed earlier that Pauline was missing, even if they assumed Luke was at school? Were all three of his moms away?)
+			- Why doesn't he just take a train? I'm American, so correct me if I'm wrong, but it seems unlikely that there would be a train between two small towns that also runs at night. You might be able to catch a train from Plata to Rhapsody at that hour, but not one that's going to stop in Genton.
+		- Where does Case even live? Did IMAS set him up with an apartment? Is he staying with James and [[Grigori Karstov|Grigori]]? (See the "Case File" thread.) Would James be okay with that? (He's probably not thrilled.)
+- Luke's mothers relent and decide to let him go. They know he would go anyway. They give him some supplies to get him ready for his journey. Among the supplies is [[NEEDLE OF CALAGASH|THE NEEDLE]], one of the Legendary Artifacts.
+	- I don't think any of them are aware that it's a Legendary Artifact.
 
 ## 1.2 Initiation
 ### 1.2.1 Tests, Allies, and Enemies
-- Luke learns some spells
-- James is pushing Luke really hard, and Luke's not doing that well with it. He perseveres because he believes it's necessary to save Sam. (He'll just have to try harder.)
+- Luke and Case learn some spells
+	- Case is older and smarter than Luke, plus he took some magic classes in [[Paul W. Friendship High School|high school]], so he has a bit of an advantage over Luke.
+	- This may cause Luke to view Case as something of a rival. (Luke is competitive?)
+	- Case doesn't see it that way (it's not a competition; they're trying to save the world). But maybe he's a little bit jealous that Luke gets to be THE CHOSEN ONE.
+- James is pushing Luke really hard, and Luke's not doing that well with it. (He'll just have to try harder.) He perseveres because he believes it's necessary to save Sam.
+	- If Case is there, wouldn't he have some objections to James's teaching methods?
+		- Oh. If I do give him the sad backstory that I mentioned in "Case File", maybe he just... thinks it's normal? Like, "Yep, this is how people are taught things."
+		- Or he doesn't feel it's safe for him to object, especially if he lives with James. James might turn his abuse towards Case instead, or threaten to kick him out. (Even if James wouldn't kick him out (Grigori would kill him), it's still something Case *thinks* could happen, because maybe it wouldn't be the first time.)
+			- "Case intentionally draws the abuse to get James to ease off Luke" - No. I don't know how to explain it, but that does not sit right with me. Like he's being abused "heroically"? Like it's *his* fault for not stopping Luke from being abused, and not James's fault for abusing both of them in the first place? (Though Case very well might think that, similar to how Luke thinks it's his fault Case dies. Doesn't mean either is correct.) But I think the big thing is this: it is perfectly rational that Case would not want to be abused either.
+			- Ooh, wait. Maybe on the timeline without Case, James really does kick Case out, and Grigori is the one who kills James. Or Luke still kills him, but it's definitely not an accident. (Bonus: Luke's like, "Great, even though he didn't die, I still ended up making his life worse.")
 
 ### 1.2.2 The Approach/Approach to the Inmost Cave
 - Luke and Case set out to gather the [[Legendary Artifacts]]
-- The first Artifact he gets is [[CURSED AL'S CURSED ORB|THE ORB]], located in [[Rhapsody]]
+- The first Artifact they get is [[CURSED AL'S CURSED ORB|THE ORB]], located in [[Rhapsody]]
 	- Amazingly, the warehouse where it's kept is not very closely guarded. Seems like a pretty easy mission...
 	- ...Until they accidentally trigger the security systems
 	- Luke has been struggling a lot with his lessons, occasionally doubting whether he truly is THE CHOSEN ONE, but he manages to cast a powerful spell, saving Case from a close call
 	- It's not a spell Luke should know. It's way above his level, and he gets some pretty bad [[Mana#Mana Toxicity|Mana toxicity]] symptoms. But, it's a good boost to his confidence. (I'm also going to say right now that the more severe symptoms don't always kick in right away. They have enough time to get out of the warehouse, and maybe they'll even be partway back to Plata before Luke really begins to feel it. And, of course, this will happen less frequently as he builds tolerance.)
 	- Case is surprised that Luke knew that spell but figures James's intense training must really be working. Though if/when he realizes that Luke is experiencing severe mana toxicity, he's going to be very pissed at James. (James: Well, he saved your life, didn't he? And he's still alive. I don't see what the problem is here.)
 		- Luke would probably try to hide this from Case. Mix of animal instinct to hide pain, desire to look cool in front of Case, not wanting him to worry, and of course, denial.
+		- If they've been training together, the surprise is likely more that Luke managed to do it, not that he knew the spell in the first place. So, it's more like, "Hey! You finally did it! I know you've been struggling with that spell, so great job!"
+		- Likewise, Case might not be surprised that Luke is suffering from Mana toxicity. It's that Case has never seen such a severe case of it in person before. It's one thing to read about the symptoms in a book, but seeing it happen right in front of you is obviously more visceral.
 - They also get [[BLADE OF POWER|THE BLADE]] and [[STAFF OF RULKOHIM|THE STAFF]]. (If Luke is already in possession of [[NEEDLE OF CALAGASH|THE NEEDLE]], this means they now have 4 of the 7 Artifacts.)
 	- What if all of them are actually pretty easy to get? Undermines James's insistence on intense training, which might actually be making things worse. (I want James to *feel* justified in mistreating Luke, but I don't want him to *be* justified.)
 - AL already has [[CRYSTAL OF GRELLNATH|THE CRYSTAL]] since he needed it to summon [[Emperoress, The|The Emperoress]], and he may have one of the other Artifacts as well.
@@ -57,14 +108,15 @@ Note to self: Just an outline, okay? Don't worry about the details yet. That com
 ### 1.2.3 The Ordeal
 - While attempting to retrieve [[CHALICE OF SUDMORANTH|THE CHALICE]], Luke encounters AL for the first time. Despite James's "best" efforts, he is woefully unprepared, and AL beats him handily.
 - Case, who is separated from Luke for reasons yet to be determined, shows up in the nick of time to save Luke, repaying him for saving his life in Rhapsody.
-	- He's investigating James, since that's supposed to be the reason he works for James in the first place.
-- Luke wonders why he lost if he's THE CHOSEN ONE. Case assures him that it's simply because he hasn't completed his training. (And maybe there's a sweet moment where Case promises that he'll never let Luke face AL alone again.)
-	- So maybe the timeline without Case is the one where AL tells Luke that James is just using him...
-	- He'll just have to try harder.
+	- Maybe they split up to find THE CHALICE faster?
+	- Or maybe he was looking for [[BEE|THE BRIEFCASE OF BEES]].
+- Luke wonders why he lost if he's THE CHOSEN ONE. (He'll just have to try harder.) Case assures him that it's simply because he hasn't completed his training. (And maybe there's a sweet moment where Case promises that he'll never let Luke face AL alone again.)
 
 ### 1.2.4 Reward
 - Luke returns to finish his training. James teaches him a very powerful spell, but Luke accidentally kills James when he tries to cast it.
+	- Let's say the spell is [[Greater Fuck You Up Big Time]] for now.
 - As he dies, James begrudgingly admits that he is proud of Luke, and that he has a message for Luke to deliver to AL when next they meet: James still remembers AL.
+	- Do Case and Luke know that AL is James's ex-husband? If they didn't, do they know now?
 
 ## 1.3 Return
 ### 1.3.1 The Road Back
@@ -97,8 +149,7 @@ What does Luke remember from this timeline? Not much, really. Mostly just vague 
 - When Edna attacks, Luke experiences déjà vu. He feels that he came here to look for someone.
 	- Also, maybe he's a bit less frightened by the attack since it's happened before.
 - He sees Case. Is this the person he's looking for? He looks familiar...
-- The déjà vu intensifies. Luke freaks out. Case gets James to help.
-	- Maybe Case senses that the déjà vu is magical in origin?
+- Luke mentions his weird dreams and déjà vu, and Case suggests they talk to James about it.
 
 ### 2.1.3 Refusal of the Call
 - James confirms that the déjà vu is real. Luke really has done this before.
@@ -129,9 +180,8 @@ What does Luke remember from this timeline? Not much, really. Mostly just vague 
 
 ### 2.2.3 The Ordeal
 - While attempting to retrieve THE CHALICE, Luke encounters AL for the "first" time. Despite James's "best" efforts, he is woefully unprepared, and AL beats him handily.
-- Case, who is separated from Luke because he's busy investigating James, shows up in the nick of time to save Luke, repaying him for saving his life in Rhapsody.
-- Luke wonders why he lost if he's THE CHOSEN ONE. Case assures him that it's simply because he hasn't completed his training. (And maybe there's a sweet moment where Case promises that he'll never let Luke face AL alone again.)
-	- He'll just have to try harder.
+- Case, who is separated from Luke for some reason, shows up in the nick of time to save Luke, repaying him for saving his life in Rhapsody.
+- Luke wonders why he lost if he's THE CHOSEN ONE. (He'll just have to try harder.) Case assures him that it's simply because he hasn't completed his training. (And maybe there's a sweet moment where Case promises that he'll never let Luke face AL alone again.)
 
 ### 2.2.4 Reward
 - Luke returns to finish his training. James teaches him a very powerful spell, but Luke accidentally kills James when he tries to cast it. Maybe Luke has some more déjà vu about this, but it's too little, too late.
@@ -176,6 +226,8 @@ What does Luke remember from this timeline? Not much, really. Mostly just vague 
 	- **James:** But you say you had foresight of this dragon "attack", boy?
 	- **Luke:** Name's Luke, sir. And no, sir. I only saw it twice. In my dreams last night, and again about an hour ago. \[They were already introduced. James is just rude.\]
 	- **James \[pinching the bridge of his nose\]:** Out of curiosity, who is your father, Luke?
+		- Why does he ask this? Does he already know?
+			- I don't think it really matters. Even if Luke did have a father, James would have just made up a slightly different explanation. (Well, Luke *does* have a father; he's just gullible.)
 	- **Luke:** Don't have one, sir. Sorry.
 	- **James:** You... don't have one?
 	- **Luke:** Yessir. My [[Loretta Campbell|Mama]] told me I'm a "virgin birth".
@@ -217,8 +269,6 @@ What does Luke remember from this timeline? Not much, really. Mostly just vague 
 	- **Luke:** AL's a wizard, right? And I don't know if you heard me earlier, but I don't know magic. I barely even know algebra.
 	- **James:** Yes... Right, I can see how that would be a concern. Since we don't know how long the loop is, or, indeed, how many more there will be before AL can stop them himself, (*slightly sarcastic*) it seems the honor of instructing THE CHOSEN ONE has fallen upon me. However, it is quite late \[22:00 (lol)\]. We will begin your training first thing in the morning. Mr Weston, you may wish to join as well.
 	- **James:** In the meantime, I suggest you freshen up. I can tell you were quite... active, today.
-		- Luke's probably going to want to take his armor off at some point, if he was wearing it, though probably before this interaction. When did he even put it on? Has he been wearing it since he left Genton? I'll admit that I don't know much about armor, but I'm pretty sure 1) it takes a while to put on, and 2) you usually need help. Who helped him put it on? And whose going to help him take it off? Case? Isn't that kinda... intimate? But these are the details I said I wasn't going to worry about right now. (I just realized that I've actually been worrying about these details the whole time; I've just been doing it in Discord and not here lol.)
-			- (This is under the third loop because that's when I had the idea, but it could apply to the other loops as well.)
 	- **Luke:** Sir?
 	- **James:** Go home and take a shower, kid. You reek. Maybe tell your parents your THE CHOSEN ONE; I'm sure they'll be thrilled. But be back here at sunup. We have a lot of ground to cover.
 	- **Luke:** Yessir. Thank you, sir!
@@ -230,26 +280,12 @@ What does Luke remember from this timeline? Not much, really. Mostly just vague 
 - Luke returns home to take a shower and tell his parents he's going on a quest.
 - Luke's moms aren't super stoked about this, but hey! Their son is THE CHOSEN ONE! That's something to be proud of, right? Plus, who are they to interfere with fate?
 - They give him some supplies, including THE NEEDLE.
-- Here I go worrying about the details again (after I specifically restated I wasn't going to), but:
-	- (These are under the third loop because that's when I had the idea, but they apply to the other loops as well.)
-	- Is Case gonna stay the night? Plata is only 35 km away (as the crow flies). I'm going to say that's probably a 20-30 minute drive, accounting for traffic (likely to be minimal), speed limits (likely to be ignored), stop lights/signs, etc. Not a major drive, but it is late, and Luke's parents are good people. They might want him to stay just to be safe. At the very least, they'll want to thank him for helping their son—he gets some supplies, too.
-	- If Luke's back on the farm, how is he returning to Plata? Is Case taking him? Could make sense if he's staying the night, less so if he isn't. But, 1) Pauline is still in Plata, so someone's going to have to get her, and 2) before he left on his own to look for Sam, the original plan was that Elizabeth would drive him to the Renaissance Faire tomorrow, anyway.
-	- Why did Case drive Luke back from Plata, anyway? (Because I wanted it to happen.)
-		- Why didn't one of his moms just pick him up? (I don't know.)
-		- Why didn't he ride Pauline back? This one's easy: it's 20-30 minutes by motorcycle, but 5 1/2 hours by horse. Plus, even if Edna didn't happen, Luke already rode her *to* Plata. She's tired. (Also, shouldn't his parents have noticed earlier that Pauline was missing, even if they assumed Luke was at school? Were all three of his moms away?)
-		- Why doesn't he just take a train? I'm American, so correct me if I'm wrong, but it seems unlikely that there would be a train between two small towns that also runs at night. You might be able to catch a train from Plata to Rhapsody at that hour, but not one that's going to stop in Genton.
-	- Where does Case even live? Did IMAS set him up with an apartment? Is he staying with James and [[Grigori Karstov|Grigori]] (see the "Case File" thread)? Would James be okay with that?
 
 ## 3.2 Initiation
 ### 3.2.1 Tests, Allies, and Enemies
 - Luke learns some spells
 - James is pushing Luke really hard, and Luke's not doing that well with it because of Mana toxicity. (He'll just have to try harder.) He perseveres because he believes it's necessary to save ~~Sam~~ someone.
 	- He might have a little bit of muscle memory for any spells that have somatic components.
-	- If Case is there, wouldn't he have some objections to James's teaching methods? (This is under the third loop because that's when I had the idea, but it could apply to the other loops as well.)
-		- Oh. If I do give him the sad backstory that I mentioned in "Case File", maybe he just... thinks it's normal. Like, "Yep, this is how people are taught things."
-		- Or he just doesn't feel it's safe for him to object, especially if he lives with James. James might turn his abuse towards Case instead, or threaten to kick him out. (Even if James wouldn't kick him out (Grigori would kill him—hmmm, maybe that could happen on one of the other loops, actually), it's still something Case *thinks* could happen, because maybe it wouldn't be the first time.)
-			- "Case intentionally draws the abuse to get James to ease off Luke" - No. I don't know how to explain it, but that does not sit right with me. Like he's being abused "heroically"? Like it's *his* fault for not stopping Luke from being abused, and not James's fault for abusing both of them in the first place? (Though Case very well might think that, similar to how Luke thinks it's his fault Case dies. Doesn't mean either is correct.) But I think the big thing is this: it is perfectly rational that Case would not want to be abused either.
-			- Ooh, wait. Maybe on the timeline without Case, James really does kick Case out, and Grigori is the one who kills James. Or Luke still kills him, but it's definitely not an accident. (Bonus: Luke's like, "Great, even though he didn't die, I still ended up making his life worse.")
 
 ### 3.2.2 The Approach
 - Luke and Case set out to gather the Legendary Artifacts
@@ -260,9 +296,8 @@ What does Luke remember from this timeline? Not much, really. Mostly just vague 
 
 ### 3.2.3 The Ordeal
 - While attempting to retrieve THE CHALICE, Luke encounters AL for the "first" time. Despite James's "best" efforts, he is woefully unprepared, and AL beats him handily.
-- Case, who is separated from Luke because he's busy investigating James, shows up in the nick of time to save Luke, repaying him for saving his life in Rhapsody.
-- Luke wonders why he lost if he's THE CHOSEN ONE. Case assures him that it's simply because he hasn't completed his training. (And maybe there's a sweet moment where Case promises that he'll never let Luke face AL alone again.)
-	- He'll just have to try harder.
+- Case, who is separated from Luke for some reason, shows up in the nick of time to save Luke, repaying him for saving his life in Rhapsody.
+- Luke wonders why he lost if he's THE CHOSEN ONE. (He'll just have to try harder.) Case assures him that it's simply because he hasn't completed his training. (And maybe there's a sweet moment where Case promises that he'll never let Luke face AL alone again.)
 
 ### 3.2.4 Reward
 - Luke returns to finish his training. James teaches him a very powerful spell, but Luke accidentally kills James when he tries to cast it. Maybe Luke has some more déjà vu about this, but it's too little, too late.
@@ -294,38 +329,65 @@ What does Luke remember from this timeline? Not much, really. Mostly just vague 
 ## 4.1 Departure
 ### 4.1.1 Ordinary World
 - Still a time loop. Still the same.
-
 ### 4.1.2 Call to Adventure
-- He'll be going to the Renaissance Faire this weekend, but something feels off. For some reason, he feels compelled to go there early.
+- He'll be going to the Renaissance Faire this weekend, but he knows Sam won't be there. He goes anyway.
 	- Maybe he can stop the other fairgoers from attacking the dragon? (He can't.)
 - He sees Case. Case is alive! Maybe it was all just a bad dream, then.
-	- Case has no idea who the boy currently hugging him to death is
-
+	- Case has no idea who the boy currently hugging him to death is. (Case: This is kinda nice, though. I've never had someone this happy to see me, even though it's clearly a case of mistaken identity. Wait, what do you mean it's not?)
+- Luke brings Case up to speed (at least, to Luke's understanding of events):
+	- There's someone who used to be in his life who's missing; he thinks they were his partner. No one else seems to remember them. He's convinced they were real, however. He's not sure why, but he also knows they had some connection to the Renaissance Faire.
+	- He knew Edna was going to be at the Faire, but he also knew they weren't actually a threat. (Perhaps Case also notices that Edna wasn't really attacking anyone.)
+	- Luke realizes he's never met Case, but he feels like he knows him all the same. He tells Case about the dream he had the night before, in which Case is killed by an evil wizard named CURSED AL. (Case: That name sounds familiar, actually. Maybe we should talk to James about this.)
 ### 4.1.3 Refusal of the Call
+- James tells Luke that he is THE CHOSEN ONE.
+- How can he be THE CHOSEN ONE if he keeps losing to AL? He doesn't even know magic! (insert Shrek meme)
+	- James: Skill issue. Git gud, scrub.
+	- Luke: K 
 
 ### 4.1.4 Meeting with the Mentor
+- James agrees to teach Luke magic. Case can learn, too.
 
 ### 4.1.5 Crossing the First Threshold
+- Luke returns home to take a shower and tell his parents he's going on a quest.
+- Luke's moms aren't super stoked about this, but hey! Their son is THE CHOSEN ONE! That's something to be proud of, right? Plus, who are they to interfere with fate?
+- They give him some supplies, including THE NEEDLE.
 
 ## 4.2 Initiation
 ### 4.2.1 Tests, Allies, and Enemies
+- Same as it ever was.
 
 ### 4.2.2 The Approach
-
+- Same as it ever was.
+- Wait, maybe Luke remembers the security system in Rhapsody, and they avoid setting it off this time.
+	- Luke doesn't get to save Case, then.
+		- But it's not like Case saves him from AL just because he's "returning the favor". He does genuinely care about Luke. (He may *act* like he's just returning the favor on the previous timelines, but that's just his Cool Guy façade.)
+	- But, he also doesn't go through Mana toxicity.
+	- If it's still like [[1.4 The Crossing of the First Threshold]], does this mean Luke foregoes the [[Chocolate Orange]]? (Maybe he's shifting into Serious Mode.)
+- Other than that, same as it ever was.
 ### 4.2.3 The Ordeal
 
+
 ### 4.2.4 Reward
+
 
 ## 4.3 Return
 ### 4.3.1 The Road Back
 
+
 ### 4.3.2 The Resurrection
+
 
 ### 4.3.3 The Return
 
-## 4.4 Lessons Learned
 
-# 5 Fifth Loop
+## 4.4 Lessons Learned
+- Luke is experiencing a time loop.
+- Case is still going to die. It wasn't a dream after all. 
+	- Luke will just have to try harder.
+	- How much harder? He's not sure he can take much more.
+- James is a bastard man.
+
+# 5 Fifth Loop (The One Without James?)
 ## 5.1 Departure
 ### 5.1.1 Ordinary World
 
@@ -354,7 +416,9 @@ What does Luke remember from this timeline? Not much, really. Mostly just vague 
 ### 5.3.3 The Return
 
 ## 5.4 Lessons Learned
-
+- Case is still going to die. (Maybe Luke should try a different approach.)
+- James is a bastard man, but unfortunately, he seems to be the only one who knows how to defeat AL.
+- Luke is THE CHOSEN ONE.
 
 # 6 Sixth Loop (The One Without Case)
 ## 6.1 Departure
