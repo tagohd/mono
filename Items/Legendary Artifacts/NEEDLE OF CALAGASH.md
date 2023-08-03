@@ -1,7 +1,7 @@
 ---
 alias: THE NEEDLE
 Location: "[[Campbell Farms]]???"
-Purpose: "When a SOUL is separated from its owner by the ~~GAY BLADE~~ BLADE OF POWER, it needs to be guided into the vessel. This is the thing that does that. It's different from the STAFF OF RULKOHIM somehow."
+Purpose: You have to stir the near-death potion with it in order for it to work?
 Description: A really big needle in an even bigger haystack.
 OrderAcquired: 7
 IncludeInTable: True

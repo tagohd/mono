@@ -1,6 +1,6 @@
 ---
 alias: THE BLADE
-Location: Unknown
+Location: Unknown, but it's a sword in a stone
 Purpose: Severs the connection between SOUL and body.
 Description: Zoinks! It's the gay blade!
 OrderAcquired: 2
