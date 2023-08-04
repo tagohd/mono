@@ -54,8 +54,23 @@ Here's what we've definitely agreed on:
 - Luke is an idiot
 - Luke can disguise the fact that he is a dogboy: ![[tumblr_a95290422c786493948da1b76d44e38c_e848edc9_1280.png]]
 - Luke helps various other people on his quest
-- Luke saves Case's ass, and Case catches feelings for Luke
+- Luke saves [[Case Weston|Case's]] ass, and Case catches feelings for Luke
 - Luke is colorblind
+- Kinda competitive
+- Tendency to be overly trusting
+- Can be very possessive of food and sticks
+- Fiercely loyal (see: [[Sam Ward|Sam]])
+- Very physically affectionate (\# of times I've mentioned him running up and hugging Case)
+  - But also tends to playfight with Case a lot (related?)
+  - Related: Is definitely going to need more than a few hugs when this is all over (and probably therapy lol)
+- Prone to guilt
+- Prone to crying
+  - Is he embarrassed by this? I wrote that he wants to look cool in front of Case, but maybe he doesn't think that crying makes him look uncool?
+- Is the kind of guy who goes to Renaissance Faires and owns a suit of armor (again, we already knew this one)
+- Does not want to kill anyone
+  - Moreover, does not want anyone to *be* killed
+  - Kinda conflicts with the whole "'accidentally' kills [[James Redawić|James]] and maybe doesn't feel that bad about it" thing?
+- Relentless optimist
 
 ## LukeVISION (TM)
 Luke suffers from protanopia, or red-green colorblindness. Among other things, this causes him to mistake [[CURSED AL'S CURSED ORB]] for an ordinary [[chocolate orange]]. I mean, it's also because he's an idiot, but being colorblind isn't doing him any favors either. (A Legendary Artifact has some distinct vibes it gives off that Luke totally failed to pick up on.)

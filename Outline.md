@@ -8,6 +8,8 @@ Priority:: 1
 
 Note to self: Just an outline, okay? Don't worry about the details yet. That comes later.
 
+There might be even more loops, but keep in mind that we're not necessarily going to show the whole loop each time.
+
 # 1 First Loop
 ## 1.1 Departure
 ### 1.1.1 Ordinary World
@@ -70,8 +72,10 @@ Note to self: Just an outline, okay? Don't worry about the details yet. That com
 		- Is Case gonna stay the night? Again, Plata isn't that far, but it is late, and Luke's parents are good people. They might want him to stay just to be safe. At the very least, they'll want to thank him for helping their son—he gets some supplies, too.
 		- If Luke's back on the farm, how is he returning to Plata? Is Case taking him? Could make sense if he's staying the night, less so if he isn't. But, 1) Pauline is still in Plata, so someone's going to have to get her, and 2) before he left on his own to look for Sam, the original plan was that Elizabeth would drive him to the Renaissance Faire tomorrow, anyway.
 		- Why did Case drive Luke back from Plata, anyway? (Because I wanted it to happen.)
-			- Why didn't one of his moms just pick him up? (I don't know.)
-			- Why didn't he ride Pauline back? This one's easy: it's 20-30 minutes by motorcycle, but 5 1/2 hours by horse. Plus, even if Edna didn't happen, Luke already rode her *to* Plata. She's tired. (Also, shouldn't his parents have noticed earlier that Pauline was missing, even if they assumed Luke was at school? Were all three of his moms away?)
+			- Why didn't one of his moms just pick him up?
+				- Luke's an idiot, and it didn't occur him to call one of them? (I was thinking more that they would come there on their own, assuming they heard about the dragon. So that's not really an answer...)
+				- Case volunteered? Not because he likes him or anything. (I know we've said he's tsundere, but also: they literally just met. It's really not because he likes him.) But, Luke *is* THE CHOSEN ONE. Maybe he views it as an honor? Though, like I said, Case is also a Good Boy (TM), so he would probably do it even if Luke was Just Some Guy (which he is).
+			- Why didn't he ride Pauline back? This one's easy: it's 20-30 minutes by motorcycle, but ~3 hours by horse. Plus, even if Edna didn't happen, Luke already rode her *to* Plata. She's tired. (Also, shouldn't his parents have noticed earlier that Pauline was missing, even if they assumed Luke was at school? Were all three of his moms away?)
 			- Why doesn't he just take a train? I'm American, so correct me if I'm wrong, but it seems unlikely that there would be a train between two small towns that also runs at night. You might be able to catch a train from Plata to Rhapsody at that hour, but not one that's going to stop in Genton.
 		- Where does Case even live? Did IMAS set him up with an apartment? Is he staying with James and [[Grigori Karstov|Grigori]]? (See the "Case File" thread.) Would James be okay with that? (He's probably not thrilled.)
 - Luke's mothers relent and decide to let him go. They know he would go anyway. They give him some supplies to get him ready for his journey. Among the supplies is [[NEEDLE OF CALAGASH|THE NEEDLE]], one of the Legendary Artifacts.

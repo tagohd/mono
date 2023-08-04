@@ -46,4 +46,21 @@ He works at [[The Old Silver Mine]] for [[James Redawić|James]]. He's actually 
 # The Things He Does For Love
 Maybe [[Luke Campbell|Luke]] fights [[CURSED AL]] for the first time and is woefully unprepared, and Case steps in to help Luke out. Then when Luke fights AL for the last time, Case ends up sacrificing himself. (Cf: [[(6) June 2023 Chat Logs]] and [[Repo organization]]) #Cite/Game/Mega-Man-X [gameRefType:: MMX/Plot]
 
+# Characterizations
+**Case**
+- Kinda jealous that Luke is THE CHOSEN ONE?
+- He looks serious, but he can make silly jokes, too, sometimes (especially around Luke?)
+- I've said that he's tsundere, but I feel like I haven't really written him that way? At the very least, it's apparent from his actions (if not his words) that he genuinely cares for Luke (saves his ass at least twice, and looks like a badass while doing it; promises Luke that he'll protect him; reassures Luke that he isn't dead (yet))
+	- This is because he, too, is a Good Boy (TM) (though he may be more reluctant to admit it than Luke)
+	- Is he only nice to Luke because he thinks Luke is THE CHOSEN ONE? (Maybe at first?)
+	- Does seem to be (initially) confused by finding Luke attractive, at least
+- ![[megamind_no_parents.jpg]]
+- Is the smart one
+- If he's Wolfwood, then he's probably not quite as concerned with the morality of killing people as Luke is
+- Australian?
+- Rides a motorcycle
+	- \[image pending\]
+- ~~Professional MILF hunter (may or may not be literally hunting them for sport lol)~~
+	- ![[milf hunter case.png]]
+
 #Character/Case-Weston 
