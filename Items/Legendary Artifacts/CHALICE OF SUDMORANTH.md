@@ -1,6 +1,6 @@
 ---
 alias: THE CHALICE
-Location: "~~The Cuyahoga River~~ A poison swamp"
+Location: It's in the desert now.
 Purpose: Holds the poison. The poison for Sam. The poison chosen specially to place Sam into a state of near death. Sam's poison.
 Description: A silver chalice with a gold inlay.
 OrderAcquired: 4

@@ -1,6 +1,6 @@
 ---
 alias: THE ORB
-Location: "[[Rhapsody]]"
+Location: "[[Rhapsody]], specifically an abandoned warehouse in the Industrial District."
 Purpose: Holds fused SOULS
 Description: A small, blood-red orb.
 OrderAcquired: 1

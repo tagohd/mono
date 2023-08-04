@@ -1,7 +1,7 @@
 ---
 alias: THE STAFF
 Location: Tollenberg Temple
-Purpose: Acts as a conduit for SOUL energy from THE ORB. Also makes for a pretty sweet bō staff.
+Purpose: Acts as a conduit for SOUL energy from THE ORB. Also makes for a pretty sweet bō staff/gun thing.
 Description: An ornately carved staff made of wood from a rare tree. Possibly also a gun???
 OrderAcquired: 3
 IncludeInTable: True
