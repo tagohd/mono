@@ -106,6 +106,7 @@ There might be even more loops, but keep in mind that we're not necessarily goin
 		- If they've been training together, the surprise is likely more that Luke managed to do it, not that he knew the spell in the first place. So, it's more like, "Hey! You finally did it! I know you've been struggling with that spell, so great job!"
 		- Likewise, Case might not be surprised that Luke is suffering from Mana toxicity. It's that Case has never seen such a severe case of it in person before. It's one thing to read about the symptoms in a book, but seeing it happen right in front of you is obviously more visceral.
 - They also get [[BLADE OF POWER|THE BLADE]] and [[STAFF OF RULKOHIM|THE STAFF]]. (If Luke is already in possession of [[NEEDLE OF CALAGASH|THE NEEDLE]], this means they now have 4 of the 7 Artifacts.)
+	- If you're reading this, you should also read the article for [[BLADE OF POWER|THE BLADE]].
 	- What if all of them are actually pretty easy to get? Undermines James's insistence on intense training, which might actually be making things worse. (I want James to *feel* justified in mistreating Luke, but I don't want him to *be* justified.)
 	- Well, okay, there should be *some* challenges involved, otherwise the story would get kinda boring. But maybe they don't really require that much magic to solve.
 - AL already has [[CRYSTAL OF GRELLNATH|THE CRYSTAL]] since he needed it to summon [[Emperoress, The|The Emperoress]], and he may have one of the other Artifacts as well.
