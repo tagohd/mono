@@ -1,6 +1,6 @@
 ---
 alias: hero, protagonist, Luke
-Name: Lucas 'Luke' Campbell
+Name: Luke Campbell
 Category: Main
 Role: Protagonist
 DOB: 2003-10-22

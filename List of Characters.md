@@ -11,28 +11,34 @@ DOB:
 Species:
 Gender:
 Pronouns:
-Height:
-Weight:
-Chest:
-Waist:
-Hips:
-Inseam:
+Measurements:
+  Height:
+  Weight:
+  Chest:
+  Waist:
+  Hips:
+  Inseam:
 Orientation:
 Personality:
 MainGoal:
+Ability:
+  STR:
+  DEX:
+  CON:
+  INT:
+  WIS:
+  CHA:
 References:
 AppearanceNotes:
 OtherNotes:
 SortOrder:
 ```
 
-For the sake of birthdates, I'm just going to pretend the game takes place in 2020 (which is when I first had the idea for MONO; 'rona doesn't exist in this game, though). It might not actually take place then, but if everyone's born in 199X or whatever, it makes it kinda hard to distinguish who's older than whom. Also for the sake of convenience, age is calculated relative to Luke's 17th birthday.[^age] Again, the game doesn't necessarily begin on his birthday (but it doesn't NOT begin on his birthday), it's just a simplification.
-
-[^age]: It used to be calculated from the current date, but I don't want them to keep aging because who knows how long this will take.
+For the sake of birthdates, I'm just going to pretend the game takes place in 2020 (which is when I first had the idea for MONO; 'rona doesn't exist in this game, though). It might not actually take place then, but if everyone's born in 199X or whatever, it makes it kinda hard to distinguish who's older than whom. Ages given are the characters' ages at the beginning of the story (2020-09-18), Some characters may end up having birthdays as the story progresses.
 
 # All
 ```dataview
-TABLE WITHOUT ID Category, link(file.link,Name) AS "Name", round((date(2020-10-22) - DOB).years, 1) AS "Age", Gender, Species, Role
+TABLE WITHOUT ID Category, link(file.link,Name) AS "Name", DOB, round((date(2020-09-18) - DOB).years, 1) AS "Age", Gender, Species, Role
 FROM "Characters" WHERE Name
 SORT SortOrder
 ```
