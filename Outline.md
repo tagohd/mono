@@ -58,7 +58,7 @@ There might be even more loops, but keep in mind that we're not necessarily goin
 	- **James:** Yes... Right, I can see how that would be a concern. Since AL likely has a significant head start, (*slightly sarcastic*) it seems the honor of instructing THE CHOSEN ONE has fallen upon me. However, it is quite late \[22:00 (lol)\]. We will begin your training first thing in the morning. Mr Weston, you may wish to join as well.
 	- **James:** In the meantime, I suggest you freshen up. I can tell you were quite... active, today.
 	- **Luke:** Sir?
-	- **James:** Go home and take a shower, kid. You reek. Maybe tell your parents your THE CHOSEN ONE; I'm sure they'll be thrilled. But be back here at sunup. We have a lot of ground to cover.
+	- **James:** Go home and take a shower, kid. You reek. Maybe tell your parents you're THE CHOSEN ONE; I'm sure they'll be thrilled. But be back here at sunup. We have a lot of ground to cover.
 		- In my head, I feel like his voice suddenly switched from Obi-Wan Kenobi to J. Jonah Jameson. (Or perhaps from Hero (OMORI) to Mr Jawsum.) Maybe the "sagely British guy" act is just that: an act. (Or maybe it's just: he would not fucking say that.)
 		- Wait, that might be kinda weird for Case, then. Since Luke's going to be riding bitch on his motorcycle. (Maybe not. It is a motorcycle.)
 	- **Luke:** Yessir. Thank you, sir!
