@@ -86,7 +86,8 @@ There might be even more loops, but keep in mind that we're not necessarily goin
 - Luke and Case learn some spells
 	- Case is older and smarter than Luke, plus he took some magic classes in [[Paul W. Friendship High School|high school]], so he has a bit of an advantage over Luke.
 	- This may cause Luke to view Case as something of a rival. (Luke is competitive?)
-	- Case doesn't see it that way (it's not a competition; they're trying to save the world). But maybe he's a little bit jealous that Luke gets to be THE CHOSEN ONE.
+	- Case doesn't see it that way (it's not a competition; they're trying to save the world). But maybe he's a little bit jealous that Luke gets to be THE CHOSEN ONE. This may reverse as the loops continue and Luke ends up more skilled.
+	- What spells do they learn? How many do they learn before James starts sending them after the Artifacts?
 - James is pushing Luke really hard, and Luke's not doing that well with it. (He'll just have to try harder.) He perseveres because he believes it's necessary to save Sam.
 	- If Case is there, wouldn't he have some objections to James's teaching methods?
 		- Oh. If I do give him the sad backstory that I mentioned in "Case File", maybe he just... thinks it's normal? Like, "Yep, this is how people are taught things."
@@ -277,7 +278,7 @@ What does Luke remember from this timeline? Not much, really. Mostly just vague 
 	- **James:** Yes... Right, I can see how that would be a concern. Since we don't know how long the loop is, or, indeed, how many more there will be before AL can stop them himself, (*slightly sarcastic*) it seems the honor of instructing THE CHOSEN ONE has fallen upon me. However, it is quite late \[22:00 (lol)\]. We will begin your training first thing in the morning. Mr Weston, you may wish to join as well.
 	- **James:** In the meantime, I suggest you freshen up. I can tell you were quite... active, today.
 	- **Luke:** Sir?
-	- **James:** Go home and take a shower, kid. You reek. Maybe tell your parents your THE CHOSEN ONE; I'm sure they'll be thrilled. But be back here at sunup. We have a lot of ground to cover.
+	- **James:** Go home and take a shower, kid. You reek. Maybe tell your parents you're THE CHOSEN ONE; I'm sure they'll be thrilled. But be back here at sunup. We have a lot of ground to cover.
 	- **Luke:** Yessir. Thank you, sir!
 	- **James:** Don't thank me yet. Now, go!
 

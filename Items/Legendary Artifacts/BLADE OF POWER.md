@@ -15,7 +15,7 @@ What the hell kind of RPG doesn't have a sword? Not this one, that's for sure.
 ## Acquisition
 It's a sword in a stone. [[Case Weston|Case]] is impressed when [[Luke Campbell|Luke]] manages to pull it out, but it's actually not that hard. He even puts it back into the stone so Case can try it himself. Case declares that, by returning the sword, Luke has abdicated the throne, and that he, Case, is the true king of Mevaro. "That's not how you hold it, Your Majesty," Luke teases. "Here, let me show you."
 
-Case reluctantly hands THE BLADE back to Luke, who proceeds to demonstrate to proper way to wield a sword. Impressed by his skill, Case remarks that maybe Luke really is THE CHOSEN ONE.
+Case reluctantly hands THE BLADE back to Luke, who proceeds to demonstrate the proper way to wield a sword. Impressed by his skill, Case remarks that maybe Luke really is THE CHOSEN ONE.
 
 "Huh? Oh, it's not that. It's just, you go to enough [[Plata Fairgrounds|Renaissance Faires]], and you're bound to pick up a few things."
 
