@@ -209,9 +209,7 @@ This hasn't really changed that much, except for removing any references to Sam 
 ## 2.2 Initiation
 ### 2.2.1 Tests, Allies, and Enemies
 - Luke and Case learn some spells
-	- Probably the only thing that changes here is that Luke becomes more and more convinced that he knows Case from a past life or something.
-	- Normally, Case would find this kinda weird, but it probably only reinforces the idea that James is telling the truth.
-	- Maybe Case tries to ask him what he remembers about the previous timeline. Luke doesn't remember Case dying, but he gets the sense that they spent a lot of time together. (That's kinda obvious, though.)
+	- Maybe Case tries to ask him what he remembers about the previous timeline. Luke doesn't remember Case dying, but he gets the sense that they spent a lot of time together. (That's kinda obvious, though. Point is, he doesn't really remember anything specific.)
 - James is pushing Luke really hard, and Luke's not doing that well with it. (He'll just have to try harder.) He perseveres because he believes it's necessary to save Sam.
 
 ### 2.2.2 The Approach
@@ -251,8 +249,9 @@ This hasn't really changed that much, except for removing any references to Sam 
 - Case is a friend.
 
 # 3 Third Loop
-This hasn't really changed that much, except for removing any references to Sam being memory-holed.
 ## 3.1 Departure
 ### 3.1.1 Ordinary World
 - Luke lives a boring life in a boring town called Genton.
 
+### 3.1.2 Call to Adventure
+- Luke thinks Sam is in trouble, but he doesn't know how. Maybe they're already at the Renaissance Faire and will be endangered by the dragon.
