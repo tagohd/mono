@@ -5,7 +5,7 @@ number headings: auto, max 6, 1.1
 I feel like I've made enough changes that it might be easier to just start a new document (again).
 
 # 1 First Loop
-Everything before [[Outline NEO#1.2.2 The Approach/Approach to the Inmost Cave|The Approach]] is the same.
+Everything before [[Outline EX#1.2.2 The Approach/Approach to the Inmost Cave|The Approach]] is the same.
 ## 1.1 Departure
 This entire "Act" takes place on 18 Sep.
 ### 1.1.1 Ordinary World
