@@ -3,7 +3,7 @@ alias: Sam, Sammich
 Name: Sammich 'Sam' Ward
 Category: Main
 Role: Damsel-in-distress (not a damsel and maybe not in distress)
-DOB: 2003-12-05
+DOB: 2002-12-05
 Species: Red fox (*Vulpes vulpes*)
 Gender: "&quot;No, thanks!&quot; (they/them)"
 Pronouns: they/them
