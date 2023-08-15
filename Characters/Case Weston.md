@@ -5,7 +5,7 @@ Category: Main
 Role: Deuteragonist?
 DOB: 2002-07-15
 Species: "Maybe: Wolverine (*Gulo gulo*)"
-Gender: Male (Trans?) (he/they)
+Gender: Male (Trans) (he/they)
 Pronouns: he/they
 Measurements:
   Height: 170.2
@@ -62,5 +62,23 @@ Maybe [[Luke Campbell|Luke]] fights [[CURSED AL]] for the first time and is woef
 	- \[image pending\]
 - ~~Professional MILF hunter (may or may not be literally hunting them for sport lol)~~
 	- ![[milf hunter case.png]]
+
+## Questions
+- What is the character's go-to drink order? (How do they like to be publicly perceived?)
+- What is their grooming routine? (How do they treat themselves in private?)
+- What was their most expensive purchase/where does their disposable income go?
+	- Probably his motorcycle
+- Do they have any scars or tattoos?
+	- Tattoos? Idk, maybe he's the kind of guy to have a full back tattoo? Probably not.
+	- Top surgery scars
+	- Probably a few others from fights in school or abuse
+- When was the last time they cried, and under what circumstances?
+	- It's probably been a while. I don't think he cries very often. He might want to, but he holds back. He wants to look tough.
+- Are they an oldest, middle, youngest, or only child?
+	- If he's not actually an older brother, he at least sees himself that way with Luke.
+- Describe the shoes they're wearing.
+- Describe the place where they sleep. (What does their safe space look like?)
+- What is their (least) favorite holiday? (How do they relate to their culture/outside world?)
+- What objects do they always carry around with them? (What do they need for their normal, day-to-day routine? What does "normal" even look like for them?)
 
 #Character/Case-Weston 
