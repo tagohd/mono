@@ -70,7 +70,7 @@ Maybe [[Luke Campbell|Luke]] fights [[CURSED AL]] for the first time and is woef
 	- Probably his motorcycle
 - Do they have any scars or tattoos?
 	- Tattoos? Idk, maybe he's the kind of guy to have a full back tattoo? Probably not.
-	- Top surgery scars
+	- Top surgery scars?
 	- Probably a few others from fights in school or abuse
 - When was the last time they cried, and under what circumstances?
 	- It's probably been a while. I don't think he cries very often. He might want to, but he holds back. He wants to look tough.
