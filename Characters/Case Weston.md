@@ -78,7 +78,11 @@ Maybe [[Luke Campbell|Luke]] fights [[CURSED AL]] for the first time and is woef
 	- If he's not actually an older brother, he at least sees himself that way with Luke.
 - Describe the shoes they're wearing.
 - Describe the place where they sleep. (What does their safe space look like?)
+	- "Safe space? What's that?"
+	- Maybe we should figure out where he lives first.
+	- But I'm thinking he's used to sleeping wherever he can, though he doesn't usually sleep that well.
 - What is their (least) favorite holiday? (How do they relate to their culture/outside world?)
+	- Again, we should probably finalize his backstory a little bit first, but I'm going to go out on a limb and say that he's probably not too fond of Mother's Day or Father's Day. Or maybe most holidays centered around family. (Poor guy...)
 - What objects do they always carry around with them? (What do they need for their normal, day-to-day routine? What does "normal" even look like for them?)
 
 #Character/Case-Weston 
