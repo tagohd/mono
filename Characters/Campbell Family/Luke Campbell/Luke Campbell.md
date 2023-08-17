@@ -95,7 +95,7 @@ See [[Characterization Questions]]
 - Describe the place where they sleep. (What does their safe space look like?)
 	- His room's probably pretty messy. He has a stand for his armor, and probably a few places on the wall(s) for his blades. (Or maybe he doesn't have space to keep all those in his room.) Maybe he has some fantasy art or posters depicting knights and dragons and whatnot. He has a twin (single) bed.
 - What is their (least) favorite holiday? (How do they relate to their culture/outside world?)
-	- Least favorite: Mother's Day. He has **three** moms! Finding the right gifts for all of them can be very stressful. (Not a big fan of Winterday for similar reasons.)
+	- Least favorite: Mother's Day. He has **three** moms! Finding the right gifts for all of them can be very stressful. (Not a big fan of [[Winterday]] for similar reasons.)
 - What objects do they always carry around with them? (What do they need for their normal, day-to-day routine? What does "normal" even look like for them?)
 	- Before the story: He's in school still, so he might get in trouble if he brought a knife. (It's a rural school, though, so they're probably a bit more lax about that.) But he doesn't really carry anything too out of the ordinary most days. Notebooks, pen/pencil, a change of clothes for running, phone, wallet, water bottle. Maybe some ibuprofen for his hips.
 ## LukeVISION (TM)
