@@ -66,34 +66,62 @@ Answer these questions as the author.
 	- Dog-human hybrid. Everyone in the story is an animal-human hybrid, though, so I don't think he really has any unique benefits. He can hear better than a regular human, for example, but so can pretty much everyone else.
 	- For the most part, he's just a regular human who happens to look like a dog and have a dog-like personality.
 - What powers do they have? Do they have none at all?
+	- He can remember the previous timelines, or at least remember them better than others. Other than that, he's not special. Anyone can learn magic, and most can do it better than he can.
 - How did they first learn of their abilities?
+	- By remembering the previous timelines? Seems pretty self-explanatory. But [[James Redawić|James]] confirms that he is, in fact, remembering them and not just experiencing déjà vu.
 - Do they have any magical items or weapons? How did they obtain their magical items?
+	- Not at the beginning of the story, but [[The Mothers Campbell|his moms]] give him [[NEEDLE OF CALAGASH|THE NEEDLE]] pretty early on. It's been handed down the Campbell family line for generations!
 - Does your character have any weaknesses when it comes to their species, powers or magical items?
+	- He should not eat chocolate. It probably won't kill him, but it could make him sick.
+	- As a novice mage, he gets [[Mana#Mana Toxicity|sick]] if he tries to cast too powerful a spell.
 - If your character was formerly human (or any species other than what they are currently), tell the story of how they became what they currently are.
+	- N/A
 
 ## Developer
 Try to answer these questions in-character if possible.
 
 ### Personality
 - Do you have a lifelong dream or aspiration?
+	- <span style="color:yellow">I've always dreamed about being a knight. I know it's not a realistic goal, but I don't know what I'd want to do instead.</span>
+	- What about being a knight appeals to you?
+	- <span style="color:yellow">Helping people, I guess. But I'd be lying if I said it wasn't also about going on some grand adventure and getting to be a hero.</span>
 - In general, how do you act around other people that you have just met?
+	- <span style="color:yellow">I try to be friendly. I love making new friends!</span>
 - Does your behavior around people change depending on how well you know them? If so, how?
+	- <span style="color:yellow">I try to always be my most authentic self. Once you've met me, you've already met the "real" me. But I have to remember that not everyone likes hugs from people they don't know that well.</span>
 - Are you an introvert or an extrovert?
+	- <span style="color:yellow">Extrovert for sure! I hate being alone. Why have "me" time when you could have "we" time?</span>
 - Are you generally organized or messy?
+	- <span style="color:yellow">Have you seen my room? If you have, do you know where I put the book I'm supposed to be reading for my literature class?</span>
 - Are you spontaneous and impulsive, or do you always need to have a plan?
+	- <span style="color:yellow">I like to think I'm a "go with the flow" kinda guy.</span>
 - Are you hot-tempered or calm?
+	- <span style="color:yellow">It takes a lot to get me mad.</span>
 - Do you tend to argue with people or avoid conflict?
+	- <span style="color:yellow">I don't like when people are mad at me, so I try not to start too many arguments.</span>
 - Do you care what others think of you?
+	- <span style="color:yellow">I know I'm not supposed to, but how can I not? What if they think I'm not a good boy?</span>
 - Are you a better leader or follower?
+	- <span style="color:yellow">I guess I'm a follower? Is that bad? Do you want me to be more of a leader?</span>
 - What is the most important quality you look for in a friend?
+	- <span style="color:red">{Not sure about this answer}</span> <span style="color:yellow">Hmmm... that's a tough one. Someone who knows how to have fun? Who likes the same things I do, but also likes different things that they can introduce me to?</span>
 - What is your greatest strength?
+	- <span style="color:red">{Pass}</span>
 - What is your greatest weakness?
+	- <span style="color:red">{OOC: Probably that he's too trusting, but I don't think he would answer that way.}</span>
 - Name three other traits about yourself- positive or negative.
+	- <span style="color:red">{Pass}</span>
 - Do you hide your true self from others and in what way?
+	- <span style="color:yellow">Like I said, I try not to. People say I wear my heart on my sleeve, even though I don't have any shirts with hearts on them...</span>
 - Are you optimistic or pessimistic?
+	- <span style="color:yellow">I try to be optimistic.</span> <span style="color:red">{Could maybe use some elaboration.}</span>
 - What is your greatest fear?
+	- <span style="color:yellow">Losing a friend, especially if it was because of something I did.</span>
 - What trait do you find most admirable? How often do you find it in others?
+	- <span style="color:red">{Pass}</span>
 - What’s something you’re good at doing? How about something you’re bad at?
+	- <span style="color:yellow">I'm actually pretty good at jousting! I came in 3rd at the last tournament I did! I'm going to get 1st place this year, though, I know it!</span>
+	- <span style="color:yellow">But something I'm bad at? Well, I've never been too great at math...</span>
 - Do you smoke, drink, or use drugs? If yes, why? Do you want to quit? If no, why not?
 - Do you have any quirks, strange mannerisms, annoying habits, or other defining characteristics?
 - What is your most treasured possession?
