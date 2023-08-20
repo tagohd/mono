@@ -41,8 +41,7 @@ Answer these questions as the author.
 - If your character was formerly human (or any species other than what they are currently), tell the story of how they became what they currently are.
 
 ## Developer
-Try to answer these questions in-character if possible.
-
+Try to answer these questions in-character if possible. Don’t worry if you still meet some resistance. Sometimes a character will feel uncomfortable answering a question, and deflect in an in-character way. Write down their response. Why did they deflect? Why did they choose that method? Are they scared? Covering up with humor? Is the question related to a traumatic event? You can learn a lot from these deflections- sometimes more than an answer could provide.
 ### Personality
 - Do you have a lifelong dream or aspiration?
 - In general, how do you act around other people that you have just met?
