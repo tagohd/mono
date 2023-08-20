@@ -152,13 +152,13 @@ Try to answer these questions in-character if possible. Don’t worry if you sti
 	- I probably should.
 	- **What about drinking or drugs?**
 	- I'll drink if someone else is buying. Can't afford drugs.
-- Do you have any quirks, strange mannerisms, annoying habits, or other defining characteristics?
+- **Do you have any quirks, strange mannerisms, annoying habits, or other defining characteristics?**
 	- {Probably, but idk what.}
-- What is your most treasured possession?
+- **What is your most treasured possession?**
 	- {Maybe something his little sister gave him?}
-- Do you consider yourself to be a funny person? Do others agree?
+- **Do you consider yourself to be a funny person? Do others agree?**
 	- {He's funny when you get to know him, but it can take a while to get to that point.}
-- If you have powers or magical items, what do you think of them? Are they cool or have you been screwed?
+- **If you have powers or magical items, what do you think of them? Are they cool or have you been screwed?**
 	- {I could answer this in character, but I also want to take a break. His "power" is just that he seems to have a natural talent for magic, or maybe that he's been tutored in it for a while if his parents own some sort of magic-related business. But this is also the main source of conflict with his parents, so he doesn't really see it as an asset.}
 
 ### Current Life
