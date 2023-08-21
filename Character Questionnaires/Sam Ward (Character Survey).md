@@ -9,7 +9,7 @@ Answer these questions as the author.
 	- Male (47,XXY)
 - What is their gender?
 	- Nonbinary (they/them)
-	- I guess they tend towards a more masculine presentation?
+	- I guess they tend towards a more masculine presentation? Not all the way masculine. I think their ideal presentation would be if you looked at them and you weren't sure if they were a tall woman or an effeminate man, and then you got closer and you *still* weren't sure. But maybe it's about 60/40 whether you initially think they're male.
 - How old are they?
 	- 17
 - How tall are they?
@@ -31,15 +31,18 @@ Answer these questions as the author.
 - Do they have any tattoos or other markings?
 	- No.
 - Do they wear any jewelry?
-	- Maybe?
+	- Maybe? I think they would like silly earrings. Fruits or planets or birds. Stuff that looks more like a phone charm.
 - How do they dress most of the time?
 	- Dumb t-shirts they found at a thrift shop. Shorts. Running shoes.
+	- I think they like to paint their nails fun colors.
+	- If they're not running that day, maybe they like to wear platform boots so they can be even taller.
+	- They'll really just wear whatever.
 - Do they wear any accessories not listed above?
 	- Idk, maybe they wear contact lenses. Let's say they're farsighted.
 
 ### Advanced
 - Do they have any allergies, diseases, or other physical differences (such as blindness) from birth at the start of your story?
-	- They have Klinefelter syndrome (KS; two X chromosomes and a Y chromosome), but they might not have a diagnosis.
+	- They have Klinefelter syndrome (KS; two X chromosomes and a Y chromosome), but they might not have a diagnosis. (They're probably not especially jacked, then. They might even have trouble putting on muscle mass.)
 - Do they have any neurological differences from birth at the start of the story (autism, OCD, etc. )?
 	- They may have had some developmental delays due to KS.
 - Do they have physical or mental differences from an earlier point in life at the start of your story (PTSD, etc.)?
@@ -79,17 +82,32 @@ Answer these questions as the author.
 ## Developer
 Try to answer these questions in-character if possible. Don’t worry if you still meet some resistance. Sometimes a character will feel uncomfortable answering a question, and deflect in an in-character way. Write down their response. Why did they deflect? Why did they choose that method? Are they scared? Covering up with humor? Is the question related to a traumatic event? You can learn a lot from these deflections- sometimes more than an answer could provide.
 ### Personality
-- Do you have a lifelong dream or aspiration?
-- In general, how do you act around other people that you have just met?
-- Does your behavior around people change depending on how well you know them? If so, how?
-- Are you an introvert or an extrovert?
-- Are you generally organized or messy?
-- Are you spontaneous and impulsive, or do you always need to have a plan?
-- Are you hot-tempered or calm?
-- Do you tend to argue with people or avoid conflict?
-- Do you care what others think of you?
-- Are you a better leader or follower?
-- What is the most important quality you look for in a friend?
+- **Do you have a lifelong dream or aspiration?**
+	- My goal in life is to become a cryptozoologist who is also a cryptid.
+- **In general, how do you act around other people that you have just met?**
+	- Gotta give 'em a good sniff first, y'know? Can't trust folks who don't smell right. {I can't tell if they're being serious.}
+- **Does your behavior around people change depending on how well you know them? If so, how?**
+	- I'm just as weird around my friends as I am with strangers. Weirder, even.
+	- **Can you give some examples?**
+	- You wouldn't get them.
+- **Are you an introvert or an extrovert?**
+	- Introvert. I need a break from people every now and then. For *their* safety.
+- **Are you generally organized or messy?**
+	- Do I look like a neat freak to you?
+	- **Not really...**
+	- There you have it.
+- **Are you spontaneous and impulsive, or do you always need to have a plan?**
+	- If you have a fun idea, you should do it. Why wait?
+- **Are you hot-tempered or calm?**
+	- I am easy like Sunday morning, baby.
+- **Do you tend to argue with people or avoid conflict?**
+	- I just loom over them until they see the error of their ways >:)
+- **Do you care what others think of you?**
+	- I like confusing people, but other than that, not really.
+- **Are you a better leader or follower?**
+	- I don't know if I'm a good leader, but I definitely ain't a follower.
+- **What is the most important quality you look for in a friend?**
+	- Authenticity. If you're not as weird with me as I am with you, what's the point?
 - What is your greatest strength?
 - What is your greatest weakness?
 - Name three other traits about yourself- positive or negative.
