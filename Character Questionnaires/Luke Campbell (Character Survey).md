@@ -125,7 +125,7 @@ Try to answer these questions in-character if possible.
 - **Do you smoke, drink, or use drugs? If yes, why? Do you want to quit? If no, why not?**
 	- I don't smoke; that stuff's bad for you!
 	- I don't really like drinking. I've tried it a couple times, but I don't like the taste.
-	- Weed is fun and helps with my hips, but I've never tried anything stronger.
+	- Weed is fun and helps with my hips, but I've never tried anything stronger. And my parents don't want me smoking it that often.
 - **Do you have any quirks, strange mannerisms, annoying habits, or other defining characteristics?**
 	- {Pass}
 - **What is your most treasured possession?**
@@ -145,7 +145,8 @@ Answer with respect to your character's position at the beginning of the story.
 	- I don't even know. Just... anything, I guess. Bands don't come here on tour. You're not gonna bump into someone famous at the market, or see a movie being filmed here—no one's even heard of us! If anything interesting happens, it happens in [[Plata]].
 	- What's there to do out here in Boringsville? (Playing up his accent) Well, you can go fishin' or huntin', or you can go ride four-wheelers and shoot some soda cans out in the woods. There's football on Fridays, bingo on Saturdays, and church on Sundays. All the other days, you can go drank at the bar. What else do ya need?
 	- (Normal voice) You know what I do wish we had? A game store. There's this game I've heard of, *Caves & Cryptids*, that I want to check out, but you need all these weird dice and little figurines for it. I guess I can order them online, but it'd be nice if I didn't have to pay for shipping. (I'd still need to find people to play it with me. Most of the other kids aren't into "that nerdy shit".) Heck, even a bowling alley would be more excitement than what we have now.
-- Who are your friends? Describe them.
+- **Who are your friends? Describe them.**
+	- {Other than [[Sam Ward|Sam]], he probably has a few friends from cross-country, and maybe some from the Renaissance Faire, but the latter don't necessarily live in Genton.}
 - Do you have a best friend? Describe them.
 - How close are you to your family?
 - Do you currently have a spouse or significant other? Describe them.
