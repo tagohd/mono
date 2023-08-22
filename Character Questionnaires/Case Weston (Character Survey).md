@@ -182,8 +182,9 @@ Answer with respect to your character's position at the beginning of the story.
 		- {I'd say he's never snowboarded in his life, but he did grow up a rich kid. They may have taken the occasional holiday to Plata or somewhere else.}
 - **Who are your friends? Describe them.**
 	- Don't have too many here. I get on alright with my coworkers; not sure I'd call them my friends yet.
-	- **Do you have any friends in Plata?**
-	- 
+	- **Do you have *any* friends in Plata?**
+	- I have... acquaintances.
+	- **What about in Rhapsody?**
 - Do you have a best friend? Describe them.
 - How close are you to your family?
 - Do you currently have a spouse or significant other? Describe them.
