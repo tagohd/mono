@@ -160,14 +160,30 @@ Try to answer these questions in-character if possible. Don’t worry if you sti
 - **Do you consider yourself to be a funny person? Do others agree?**
 	- {He's funny when you get to know him, but it can take a while to get to that point.}
 - **If you have powers or magical items, what do you think of them? Are they cool or have you been screwed?**
-	- {I could answer this in character, but I also want to take a break. His "power" is just that he seems to have a natural talent for magic, or maybe that he's been tutored in it for a while if his parents own some sort of magic-related business. But this is also the main source of conflict with his parents, so he doesn't really see it as an asset.}
+	- Not really a power, more of a... talent. And I'd say it's more trouble than it's worth.
 
 ### Current Life
 Answer with respect to your character's position at the beginning of the story.
 
 - **Where do you call home now? (Feel free to answer “homeless” or “traveler” if that’s the case!)**
+	- Little town called [[Plata]]. Not much to say about it.
+	- **Do you like living there?**
+	- It's okay, I guess. Quaint. Haven't lived here long enough to have too strong an opinion of it.
+	- **Do you live by yourself?**
+	- Why, you looking to rob the place? Already told you I don't got much.
+	- **No, but you seem young to be living on your own.**
+	- Yeah, you'd think so.
+	- **So, you do live on your own?**
+	- I'm staying with a friend of the family.
+	- **You mentioned you recently moved here. Where were you staying before?**
+	- [[Rhapsody]].
+	- **Why did you move?**
+	- (Sarcastically) I wanted to pursue my dreams of being a professional snowboarder.
+		- {I'd say he's never snowboarded in his life, but he did grow up a rich kid. They may have taken the occasional holiday to Plata or somewhere else.}
+- **Who are your friends? Describe them.**
+	- Don't have too many here. I get on alright with my coworkers; not sure I'd call them my friends yet.
+	- **Do you have any friends in Plata?**
 	- 
-- Who are your friends? Describe them.
 - Do you have a best friend? Describe them.
 - How close are you to your family?
 - Do you currently have a spouse or significant other? Describe them.
