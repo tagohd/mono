@@ -3,194 +3,220 @@
 ## "Wispy"
 Answer these questions as the author.
 ### Basic
-- **What is your character’s name?**
+- What is your character’s name?
 	- Case Weston
-- **What is their physical sex?**
+- What is their physical sex?
 	- Female
-- **What is their gender?**
+- What is their gender?
 	- Male
-- **How old are they?**
+- How old are they?
 	- 18
-- **How tall are they?**
+- How tall are they?
 	- 170.2 cm (5'7")
-- **What is their weight?**
+- What is their weight?
 	- 53.5 kg (118 lbs.)
-- **What is their eye color?**
+- What is their eye color?
 	- Dark brown
-- **What is their hair color?**
+- What is their hair color?
 	- Brown
-- **What is their hair style?**
+- What is their hair style?
 	- A bit shorter than shoulder length? He usually wears it loose and with bangs.
-- **Do they have any distinguishing facial features?**
+- Do they have any distinguishing facial features?
 	- Do the ears count?
-- **Do they have any birthmarks?**
+- Do they have any birthmarks?
 	- I don't think so.
-- **Do they have any scars?**
+- Do they have any scars?
 	- I think he has at least two on his chest, right around the pectoral region.
 	- He might have some others, possibly from fights, possibly self-inflicted.
-- **Do they have any tattoos or other markings?**
-	- Maybe he got his nipples tattooed back on? That's apparently a thing for some people.
-- **Do they wear any jewelry?**
+- Do they have any tattoos or other markings?
+	- I don't think so.
+- Do they wear any jewelry?
 	- He might wear a watch, I guess.
-- **How do they dress most of the time?**
+- How do they dress most of the time?
 	- He works the front desk at [[The Old Silver Mine]] museum, so he usually dresses fairly professionally, or what you might call business casual: collared shirt, slacks, nice shoes, but not necessarily a coat and tie.
-- **Do they wear any accessories not listed above?**
+- Do they wear any accessories not listed above?
 	- Where does he keep that gun? Where did he even get that? Who gave him a gun?
 	- Insulin pump?
 
 ### Advanced
-- **Do they have any allergies, diseases, or other physical differences (such as blindness) from birth at the start of your story?**
+- Do they have any allergies, diseases, or other physical differences (such as blindness) from birth at the start of your story?
 	- No.
-- **Do they have any neurological differences from birth at the start of the story (autism, OCD, etc. )?**
+- Do they have any neurological differences from birth at the start of the story (autism, OCD, etc. )?
 	- No?
-- **Do they have physical or mental differences from an earlier point in life at the start of your story (PTSD, etc.)?**
+- Do they have physical or mental differences from an earlier point in life at the start of your story (PTSD, etc.)?
 	- Diabetic?
 	- He definitely has some mental health issues from being kicked out, and also from living with the kind of parents who would kick out their own child. Complex PTSD?
-- **What is their sexual preference?**
+- What is their sexual preference?
 	- He prefers other men.
-- **Are they right or left handed?**
+- Are they right or left handed?
 	- I guess he's right handed now?
-- **What does their voice sound like?**
+- What does their voice sound like?
 	- He has an Australian accent for some reason.
-- **What social class do they belong to?**
+- What social class do they belong to?
 	- Currently? That's kinda hard to answer. His parents are rich. [[James Redawić|James]] (with whom he lives) is also rich. But Case doesn't really have much for himself. James doesn't pay him a whole lot (in exchange for not charging him rent).
-- **Did they come from money?**
+- Did they come from money?
 	- Yes, but his parents basically disowned him.
 
 ### Fantasy/Sci-Fi
-- **If they are nonhuman, what species are they?**
+- If they are nonhuman, what species are they?
 	- He's a wolverine-man.
-- **Are they an artificial species (robot, golem, etc.)?**
+- Are they an artificial species (robot, golem, etc.)?
 	- No.
-- **Are they a hybrid species (i.e.- half human, half vampire)? How does this benefit them?**
+- Are they a hybrid species (i.e.- half human, half vampire)? How does this benefit them?
 	- Look, they're furries because I wanted them to be furries, but they're basically just human. (Unless it's funny for them to have more animal characteristics.)
-- **What powers do they have? Do they have none at all?**
+- What powers do they have? Do they have none at all?
 	- He can use magic just like anyone else. He's actually quite talented at it, but that's not necessarily due to any supernatural phenomena.
-- **How did they first learn of their abilities?**
+- How did they first learn of their abilities?
 	- In class?
-- **Do they have any magical items or weapons? How did they obtain their magical items?**
+- Do they have any magical items or weapons? How did they obtain their magical items?
 	- He has a magic gun, I guess. Where did he get that? Did he steal it? Oooh, maybe his parents invented it. But the current idea is that they kicked him out because he didn't want to take over the (undefined) family business. But if they make magic weapons and Case wants to be a mage, that doesn't make sense. Maybe he *doesn't* want to be a mage...
-- **Does your character have any weaknesses when it comes to their species, powers or magical items?**
+- Does your character have any weaknesses when it comes to their species, powers or magical items?
 	- No more than the average person.
-- **If your character was formerly human (or any species other than what they are currently), tell the story of how they became what they currently are.**
+- If your character was formerly human (or any species other than what they are currently), tell the story of how they became what they currently are.
 	- N/A
 
 ## Developer
 Try to answer these questions in-character if possible. Don’t worry if you still meet some resistance. Sometimes a character will feel uncomfortable answering a question, and deflect in an in-character way. Write down their response. Why did they deflect? Why did they choose that method? Are they scared? Covering up with humor? Is the question related to a traumatic event? You can learn a lot from these deflections- sometimes more than an answer could provide.
 
 ### Personality
-- **Do you have a lifelong dream or aspiration?**
+- Do you have a lifelong dream or aspiration?
 	- {Pass}
-- **In general, how do you act around other people that you have just met?**
-	- I try to be polite, but mostly I prefer to stick to myself.
-- **Does your behavior around people change depending on how well you know them? If so, how?**
-	- Doesn't everyone's?
-	- **Can you give some examples specific to you?**
-	- ...More willing to put up with questions like this?
-- **Are you an introvert or an extrovert?**
-	- Introvert.
-- **Are you generally organized or messy?**
-	- Organized, I guess. Pretty easy when you don't have much to begin with.
-	- **You're a minimalist?**
-	- That's one way of putting it...
-- **Are you spontaneous and impulsive, or do you always need to have a plan?**
-	- I prefer to follow a plan. Sometimes, I even get to follow my own.
-- **Are you hot-tempered or calm?**
-	- I can get angry, but it's not going to accomplish anything.
+- In general, how do you act around other people that you have just met?
+	- **I try to be polite, but mostly I prefer to stick to myself.**
+- Does your behavior around people change depending on how well you know them? If so, how?
+	- **Doesn't everyone's?**
+	- Can you give some examples specific to you?
+	- **...More willing to put up with questions like this?**
+- Are you an introvert or an extrovert?
+	- **Introvert.**
+- Are you generally organized or messy?
+	- **Organized, I guess. Pretty easy when you don't have much to begin with.**
+	- You're a minimalist?
+	- **That's one way of putting it...**
+- Are you spontaneous and impulsive, or do you always need to have a plan?
+	- **I prefer to follow a plan. Sometimes, I even get to follow my own.**
+- Are you hot-tempered or calm?
+	- **I can get angry, but it's not going to accomplish anything.**
 	- {Who's asking these questions? I don't think he'd admit this unless he trusted the interviewer, but he doesn't like how angry he can get over seemingly small things.}
-- **Do you tend to argue with people or avoid conflict?**
-	- Argue? {He seems uncomfortable answering this one.}
-- **Do you care what others think of you?**
-	- Not really.
-- **Are you a better leader or follower?**
-	- Leader, I guess.
-- **What is the most important quality you look for in a friend?**
-	- Dependability.
-- **What is your greatest strength?**
-	- People say I'm resilient.
-	- **Do you agree with that?**
-	- I guess. Haven't died yet, anyway.
-- **What is your greatest weakness?**
-	- I dunno. Not knowing when to quit? Not knowing how good I have it? Depends who you ask.
-	- **I'm asking *you*.**
-	- Being named Weston.
-- **Name three other traits about yourself- positive or negative.**
-	- I make a good omelet.
-	- I don't like talking about myself.
-	- I'd really rather being doing anything else right now. Can I go now?
-- **Do you hide your true self from others and in what way?**
-	- I take it that's a "no"?
-	- **Let's finish this group of questions, then you can go. We'll come back later.**
-	- If I have to...
-	- **You do. This is to help—**
-	- Oh, this is about helping me, huh? I can take care of myself just fine. I don't need your help.
-	- **No one is doubting that. This is actually to help *me*. I want to know who you are.**
-	- You're wasting your time. I'm not worth knowing. But fine, if it gets me out of here faster.
-	- ... Can you repeat the question?
-	- **Do you hide your true self from others and in what way?**
-	- Man, what do you want me to say that? "I push others away because I don't want to be hurt"? Is that the kind of answer you're looking for?
-	- **Is that the kind of answer you want to give?**
-	- You're the fucking author here. You tell me.
+- Do you tend to argue with people or avoid conflict?
+	- **Argue?** {He seems uncomfortable answering this one.}
+- Do you care what others think of you?
+	- **Not really.**
+- Are you a better leader or follower?
+	- **Leader, I guess.**
+- What is the most important quality you look for in a friend?
+	- **Dependability.**
+- What is your greatest strength?
+	- **People say I'm resilient.**
+	- Do you agree with that?
+	- **I guess. Haven't died yet, anyway.**
+- What is your greatest weakness?
+	- **I dunno. Not knowing when to quit? Not knowing how good I have it? Depends who you ask.**
+	- I'm asking *you*.
+	- **Being named Weston.**
+- Name three other traits about yourself- positive or negative.
+	- **I make a good omelet.**
+	- **I don't like talking about myself.**
+	- **I'd really rather being doing anything else right now. Can I go now?**
+- Do you hide your true self from others and in what way?
+	- **I take it that's a "no"?**
+	- Let's finish this group of questions, then you can go. We'll come back later.
+	- **If I have to...**
+	- You do. This is to help—
+	- **Oh, this is about helping me, huh? I can take care of myself just fine. I don't need your help.**
+	- No one is doubting that. This is actually to help *me*. I want to know who you are.
+	- **You're wasting your time. I'm not worth knowing. But fine, if it gets me out of here faster.**
+	- **... Can you repeat the question?**
+	- Do you hide your true self from others and in what way?
+	- **Man, what do you want me to say that? "I push others away because I don't want to be hurt"? Is that the kind of answer you're looking for?**
+	- Is that the kind of answer you want to give?
+	- **You're the fucking author here. You tell me.**
 		- {Ignore the meta-awareness. Not currently planning on having him acknowledge his existence as a character in a story outside of this note. That's more Luke's department.}
-	- **Let's just move on...**
-	- Gladly.
-- **Are you optimistic or pessimistic?**
-	- Oh, I'm *all* sunshine and rainbows...
-- **What is your greatest fear?**
-	- Right now, it's that I'm gonna have to come back and do this again.
-- **What trait do you find most admirable? How often do you find it in others?**
-	- Minding their own business? It's not going so great.
-- **What’s something you’re good at doing? How about something you’re bad at?**
-	- Good at magic. Bad at changing my mind.
-	- **In that you change it too often?**
-	- In that I don't.
-- **Do you smoke, drink, or use drugs? If yes, why? Do you want to quit? If no, why not?**
-	- Actually, do you mind if I smoke right now? It helps take the edge off. {Also helps you feel less hungry, but he might not be willing to admit that.}
-	- **Go right ahead.**
-	- Thanks.
-	- Sorry I lost my cool a bit there. We can keep going.
-	- **I think we'll take a break soon anyway. Do you want to quit smoking?**
-	- I probably should.
-	- **What about drinking or drugs?**
-	- I'll drink if someone else is buying. Can't afford drugs.
-- **Do you have any quirks, strange mannerisms, annoying habits, or other defining characteristics?**
+	- Let's just move on...
+	- **Gladly.**
+- Are you optimistic or pessimistic?
+	- **Oh, I'm *all* sunshine and rainbows...**
+- What is your greatest fear?
+	- **Right now, it's that I'm gonna have to come back and do this again.**
+- What trait do you find most admirable? How often do you find it in others?
+	- **Minding their own business? It's not going so great.**
+- What’s something you’re good at doing? How about something you’re bad at?
+	- **Good at magic. Bad at changing my mind.**
+	- In that you change it too often?
+	- **In that I don't.**
+- Do you smoke, drink, or use drugs? If yes, why? Do you want to quit? If no, why not?
+	- **Actually, do you mind if I smoke right now? It helps take the edge off.** {Also helps you feel less hungry, but he might not be willing to admit that.}
+	- Go right ahead.
+	- **Thanks.**
+	- **Sorry I lost my cool a bit there. We can keep going.**
+	- I think we'll take a break soon anyway. Do you want to quit smoking?
+	- **I probably should.**
+	- What about drinking or drugs?
+	- **I'll drink if someone else is buying. Can't afford drugs.**
+- Do you have any quirks, strange mannerisms, annoying habits, or other defining characteristics?
 	- {Probably, but idk what.}
-- **What is your most treasured possession?**
+- What is your most treasured possession?
 	- {Maybe something his little sister gave him?}
-- **Do you consider yourself to be a funny person? Do others agree?**
+- Do you consider yourself to be a funny person? Do others agree?
 	- {He's funny when you get to know him, but it can take a while to get to that point.}
-- **If you have powers or magical items, what do you think of them? Are they cool or have you been screwed?**
-	- Not really a power, more of a... talent. And I'd say it's more trouble than it's worth.
+- If you have powers or magical items, what do you think of them? Are they cool or have you been screwed?
+	- **Not really a power, more of a... talent. And I'd say it's more trouble than it's worth.**
 
 ### Current Life
 Answer with respect to your character's position at the beginning of the story.
 
-- **Where do you call home now? (Feel free to answer “homeless” or “traveler” if that’s the case!)**
-	- Little town called [[Plata]]. Not much to say about it.
-	- **Do you like living there?**
-	- It's okay, I guess. Quaint. Haven't lived here long enough to have too strong an opinion of it.
-	- **Do you live by yourself?**
-	- Why, you looking to rob the place? Already told you I don't got much.
-	- **No, but you seem young to be living on your own.**
-	- Yeah, you'd think so.
-	- **So, you do live on your own?**
-	- I'm staying with a friend of the family.
-	- **You mentioned you recently moved here. Where were you staying before?**
-	- [[Rhapsody]].
-	- **Why did you move?**
-	- (Sarcastically) I wanted to pursue my dreams of being a professional snowboarder.
-		- {I'd say he's never snowboarded in his life, but he did grow up a rich kid. They may have taken the occasional holiday to Plata or somewhere else.}
-- **Who are your friends? Describe them.**
-	- Don't have too many here. I get on alright with my coworkers; not sure I'd call them my friends yet.
-	- **Do you have *any* friends in Plata?**
-	- I have... acquaintances.
-	- **What about in Rhapsody?**
+- Where do you call home now? (Feel free to answer “homeless” or “traveler” if that’s the case!)
+	- **Little town called [[Plata]]. Not much to say about it.**
+	- Do you like living there?
+	- **It's okay, I guess. Quaint. Haven't lived here long enough to have too strong an opinion of it.**
+	- Do you live by yourself?
+	- **Why, you looking to rob the place? Already told you I don't got much.**
+	- No, but you seem young to be living on your own.
+	- **Yeah, you'd think so.**
+	- So, you do live on your own?
+	- **I'm staying with a friend of the family.**
+	- You mentioned you recently moved here. Where were you staying before?
+	- **[[Rhapsody]].**
+	- Why did you move?
+	- **(Sarcastically) I wanted to pursue my dreams of being a professional snowboarder.**
+		- {I'd say he's never snowboarded in his life, but he did grow up a rich kid. They may have taken the occasional holiday to Plata or somewhere else, so it's not entirely out of the question.}
+- Who are your friends? Describe them.
+	- **Don't have too many here. I get on alright with my coworkers; not sure I'd call them my friends yet.**
+	- Do you have *any* friends in Plata?
+	- **I have... acquaintances.**
+	- What about in Rhapsody?
+	- **Not anymore.**
+	- What happened?
+	- **(Forcefully) I moved.**
 - Do you have a best friend? Describe them.
+	- Maybe we should skip this one?
+	- **Fine by me.**
 - How close are you to your family?
+	- **I'm not.**
+	- Why is that?
+	- **Let's just say "irreconcilable differences."**
 - Do you currently have a spouse or significant other? Describe them.
+	- **No.**
 - If you’re no longer with your spouse or significant other- describe them here. Why did you split up?
+	- **I misjudged his reliability.**
+	- In what way?
+	- **I couldn't count on him when I needed him the most.**
+	- I have a feeling I won't be getting any specifics about that out of you—
+	- **Correct.**
+	- —but can you tell me more about him in general?
+	- **Like what?**
+	- His name would be a good start.
+	- **Tristan. [[Tristan Frieberg]].** {He says the name as though it literally leaves a bad taste in his mouth.}
+	- What else can you tell me about him?
+	- **He was on the swim team; think he got a scholarship for it. He had awful taste in movies and a very childish sense of humor. I think he stopped maturing at age 12, and it seemed like he stopped learning then, too. Dumb as a bag of rocks, that one.**
+		- {I couldn't decide if he'd be able to keep it together when talking about him. He misses him, but he feels betrayed by him, though part of him knows it's not (entirely) Tristan's fault. Case might get a little choked up talking about it, but he wants to present himself as tough. He's not going to cry over something as stupid as not being able to live with his boyfriend after being kicked out by his parents. Especially not if he (I) rolled a natural 20 on his skill check. (What skill would that even be? Deception? It wasn't a true skill check, anyway. I didn't apply any bonuses; I just rolled a d20. But a nat 20's a nat 20.)}
+	- What did you see in him?
+	- **I ask myself the same thing.**
+		- {Anyway, if Case had failed what I decided was a DC 12 Deception check, he may have admitted one or more of the following: Tristan was physically attractive, a good listener, gave great hugs, was a passionate lover, etc. (Well, he probably wouldn't admit that last one unless he had rolled a nat 1 lol.)}
 - Have you started your own family? Describe them if you did.
+	- **Nope. Not planning on it, either.**
 - Out of everyone you know right now, who are you closest to? Why?
+	- {Probably Grigori}
 - What is your occupation? If you have none, how do you get money?
 - How much money do you have right now? In general? In your pocket?
 - Are you currently physically abused? Verbally? Sexually? If so, who is responsible? How does it make you feel? Have you told anyone about it?

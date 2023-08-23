@@ -3,156 +3,156 @@
 ## "Wispy"
 Answer these questions as the author.
 ### Basic
-- **What is your character’s name?**
+- What is your character’s name?
 	- Luke Campbell. Just "Luke", not short for "Lucas".
 	- Middle name?
-- **What is their physical sex?**
+- What is their physical sex?
 	- Male
-- **What is their gender?**
+- What is their gender?
 	- Male
-- **How old are they?**
+- How old are they?
 	- At the start of the story, he's about a month away from turning 18.
-- **How tall are they?**
+- How tall are they?
 	- 160 cm (5'3")
-- **What is their weight?**
+- What is their weight?
 	- 52.1 kg (115 lbs.)
-- **What is their eye color?**
+- What is their eye color?
 	- Green
-- **What is their hair color?**
+- What is their hair color?
 	- Chestnut
-- **What is their hair style?**
+- What is their hair style?
 	- Shoulder length, usually tied back into a ponytail
-- **Do they have any distinguishing facial features?**
+- Do they have any distinguishing facial features?
 	- Do his dog ears count?
-- **Do they have any birthmarks?**
+- Do they have any birthmarks?
 	- I don't think so? None that are usually visible, anyway.
-- **Do they have any scars?**
+- Do they have any scars?
 	- Probably a few, mostly on his hands and arms from farm work, but also from liking to play with knives and swords.
-- **Do they have any tattoos or other markings?**
+- Do they have any tattoos or other markings?
 	- No.
-- **Do they wear any jewelry?**
+- Do they wear any jewelry?
 	- Before the story? Not really. He might wear [[NEEDLE OF CALAGASH|THE NEEDLE]] as a necklace, though.
-- **How do they dress most of the time?**
+- How do they dress most of the time?
 	- He's a kid in high school, so I'm going to say he dresses fairly casually most of the time.
-- **Do they wear any accessories not listed above?**
+- Do they wear any accessories not listed above?
 	- I don't think so.
 
 ### Advanced
-- **Do they have any allergies, diseases, or other physical differences (such as blindness) from birth at the start of your story?**
+- Do they have any allergies, diseases, or other physical differences (such as blindness) from birth at the start of your story?
 	- Like most real dogs (but not necessarily like most dog-people), Luke is [[LukeVISION (TM)|colorblind]]. He can't distinguish shades of red.
 	- He also has some mild hip dysplasia. This doesn't usually affect him too much, but it can make running painful.
-- **Do they have any neurological differences from birth at the start of the story (autism, OCD, etc. )?**
+- Do they have any neurological differences from birth at the start of the story (autism, OCD, etc. )?
 	- Yeah, I'm pretty sure I accidentally gave him ADHD, just based on what I've already written about him. He's impulsive, disorganized, and occasionally forgetful. Maybe it's not so much that he's stupid, but that he has trouble paying attention in school.
-- **Do they have physical or mental differences from an earlier point in life at the start of your story (PTSD, etc.)?**
+- Do they have physical or mental differences from an earlier point in life at the start of your story (PTSD, etc.)?
 	- Not at the start of the story, no ;)
-- **What is their sexual preference?**
+- What is their sexual preference?
 	- He'd be happy dating someone of any gender, perhaps even multiple people. But sex isn't really a big priority for him; it's just not something he really thinks about.
 	- He's not completely lacking in libido, however, nor is he sex-repulsed; he's open to the idea, with the right person(s) at the right time. Like I said, it's just not a priority for him. If he gets laid, great. If not, it's not the end of the world for him.
-- **Are they right or left handed?**
+- Are they right or left handed?
 	- Right.
-- **What does their voice sound like?**
+- What does their voice sound like?
 	- He has a southern accent. He talks like a cowboy. Being petite as he is, his voice probably isn't too deep, but it's still masculine. If you were talking to him on the phone, you likely wouldn't think a woman had answered. Let's say he sings tenor.
-- **What social class do they belong to?**
+- What social class do they belong to?
 	- I'm not sure. His parents aren't millionaires, but they do own a farm and can afford at least one horse. I guess they're middle class?
-- **Did they come from money?**
+- Did they come from money?
 	- Not really.
 
 ### Fantasy/Sci-Fi
-- **If they are nonhuman, what species are they?**
+- If they are nonhuman, what species are they?
 	- He's a dogboy!
-- **Are they an artificial species (robot, golem, etc.)?**
+- Are they an artificial species (robot, golem, etc.)?
 	- No.
-- **Are they a hybrid species (i.e.- half human, half vampire)? How does this benefit them?**
+- Are they a hybrid species (i.e.- half human, half vampire)? How does this benefit them?
 	- Dog-human hybrid. Everyone in the story is an animal-human hybrid, though, so I don't think he really has any unique benefits. He can hear better than a regular human, for example, but so can pretty much everyone else.
 	- For the most part, he's just a regular human who happens to look like a dog and have a dog-like personality.
-- **What powers do they have? Do they have none at all?**
+- What powers do they have? Do they have none at all?
 	- He can remember the previous timelines, or at least remember them better than others. Other than that, he's not special. Anyone can learn magic, and most can do it better than he can.
-- **How did they first learn of their abilities?**
+- How did they first learn of their abilities?
 	- By remembering the previous timelines? Seems pretty self-explanatory. But [[James Redawić|James]] confirms that he is, in fact, remembering them and not just experiencing déjà vu.
-- **Do they have any magical items or weapons? How did they obtain their magical items?**
+- Do they have any magical items or weapons? How did they obtain their magical items?
 	- Not at the beginning of the story, but [[The Mothers Campbell|his moms]] give him [[NEEDLE OF CALAGASH|THE NEEDLE]] pretty early on. It's been handed down the Campbell family line for generations!
-- **Does your character have any weaknesses when it comes to their species, powers or magical items?**
+- Does your character have any weaknesses when it comes to their species, powers or magical items?
 	- He should not eat chocolate. It probably won't kill him, but it could make him sick.
 	- As a novice mage, he gets [[Mana#Mana Toxicity|sick]] if he tries to cast too powerful a spell.
-- **If your character was formerly human (or any species other than what they are currently), tell the story of how they became what they currently are.**
+- If your character was formerly human (or any species other than what they are currently), tell the story of how they became what they currently are.
 	- N/A
 
 ## Developer
 Try to answer these questions in-character if possible.
 
 ### Personality
-- **Do you have a lifelong dream or aspiration?**
-	- I've always dreamed about being a knight. I know it's not a realistic goal, but I don't know what I'd want to do instead.
-	- **What about being a knight appeals to you?**
-	- Helping people, I guess. But I'd be lying if I said it wasn't also about going on some grand adventure and getting to be a hero.
-- **In general, how do you act around other people that you have just met?**
-	- I try to be friendly. I love making new friends.
-- **Does your behavior around people change depending on how well you know them? If so, how?**
-	- I try to always be my most authentic self. Once you've met me, you've already met the "real" me. But I have to remember that not everyone likes hugs from people they don't know that well.
-- **Are you an introvert or an extrovert?**
-	- Extrovert for sure! I hate being alone. Why have "me" time when you could have "we" time?
-- **Are you generally organized or messy?**
-	- Have you seen my room? If you have, do you know where I put the book I'm supposed to be reading for my literature class?
-- **Are you spontaneous and impulsive, or do you always need to have a plan?**
-	- I like to think I'm a "go with the flow" kinda guy.
-- **Are you hot-tempered or calm?**
-	- It takes a lot to get me mad.
-- **Do you tend to argue with people or avoid conflict?**
-	- I don't like when people are mad at me, so I try not to start too many arguments.
-- **Do you care what others think of you?**
-	- I know I'm not supposed to, but how can I not? What if they think I'm not a good boy?
-- **Are you a better leader or follower?**
-	- I guess I'm a follower? Is that bad? Do you want me to be more of a leader?
-- **What is the most important quality you look for in a friend?**
-	- {Not sure about this answer} Hmmm... that's a tough one. Someone who knows how to have fun? Who likes the same things I do, but also likes different things that they can introduce me to.
-- **What is your greatest strength?**
+- Do you have a lifelong dream or aspiration?
+	- **I've always dreamed about being a knight. I know it's not a realistic goal, but I don't know what I'd want to do instead.**
+	- What about being a knight appeals to you?
+	- **Helping people, I guess. But I'd be lying if I said it wasn't also about going on some grand adventure and getting to be a hero.**
+- In general, how do you act around other people that you have just met?
+	- **I try to be friendly. I love making new friends.**
+- Does your behavior around people change depending on how well you know them? If so, how?
+	- **I try to always be my most authentic self. Once you've met me, you've already met the "real" me. But I have to remember that not everyone likes hugs from people they don't know that well.**
+- Are you an introvert or an extrovert?
+	- **Extrovert for sure! I hate being alone. Why have "me" time when you could have "we" time?**
+- Are you generally organized or messy?
+	- **Have you seen my room? If you have, do you know where I put the book I'm supposed to be reading for my literature class?**
+- Are you spontaneous and impulsive, or do you always need to have a plan?
+	- **I like to think I'm a "go with the flow" kinda guy.**
+- Are you hot-tempered or calm?
+	- **It takes a lot to get me mad.**
+- Do you tend to argue with people or avoid conflict?
+	- **I don't like when people are mad at me, so I try not to start too many arguments.**
+- Do you care what others think of you?
+	- **I know I'm not supposed to, but how can I not? What if they think I'm not a good boy?**
+- Are you a better leader or follower?
+	- **I guess I'm a follower? Is that bad? Do you want me to be more of a leader?**
+- What is the most important quality you look for in a friend?
+	- {Not sure about this answer} **Hmmm... that's a tough one. Someone who knows how to have fun? Who likes the same things I do, but also likes different things that they can introduce me to.**
+- What is your greatest strength?
 	- {Pass}
-- **What is your greatest weakness?**
+- What is your greatest weakness?
 	- {OOC: Probably that he's too trusting, but I don't think he would answer that way.}
-- **Name three other traits about yourself- positive or negative.**
+- Name three other traits about yourself- positive or negative.
 	- {Pass}
-- **Do you hide your true self from others and in what way?**
-	- Like I said, I try not to. People say I wear my heart on my sleeve, even though I don't have any shirts with hearts on them...
-- **Are you optimistic or pessimistic?**
-	- I try to be optimistic. {Could maybe use some elaboration.}
-- **What is your greatest fear?**
-	- Losing a friend, especially if it was because of something I did.
-- **What trait do you find most admirable? How often do you find it in others?**
+- Do you hide your true self from others and in what way?
+	- **Like I said, I try not to. People say I wear my heart on my sleeve, even though I don't have any shirts with hearts on them...**
+- Are you optimistic or pessimistic?
+	- **I try to be optimistic.** {Could maybe use some elaboration.}
+- What is your greatest fear?
+	- **Losing a friend, especially if it was because of something I did.**
+- What trait do you find most admirable? How often do you find it in others?
 	- {Pass}
-- **What’s something you’re good at doing? How about something you’re bad at?**
-	- I'm actually pretty good at jousting! I came in 3rd at the last tournament I did! I'm going to get 1st place this year, though, I know it!
-	- But something I'm bad at? Well, I've never been too great at math...
-- **Do you smoke, drink, or use drugs? If yes, why? Do you want to quit? If no, why not?**
-	- I don't smoke; that stuff's bad for you!
-	- I don't really like drinking. I've tried it a couple times, but I don't like the taste.
-	- Weed is fun and helps with my hips, but I've never tried anything stronger. And my parents don't want me smoking it that often.
-- **Do you have any quirks, strange mannerisms, annoying habits, or other defining characteristics?**
+- What’s something you’re good at doing? How about something you’re bad at?
+	- **I'm actually pretty good at jousting! I came in 3rd at the last tournament I did! I'm going to get 1st place this year, though, I know it!**
+	- **But something I'm bad at? Well, I've never been too great at math...**
+- Do you smoke, drink, or use drugs? If yes, why? Do you want to quit? If no, why not?
+	- **I don't smoke; that stuff's bad for you!**
+	- **I don't really like drinking. I've tried it a couple times, but I don't like the taste.**
+	- **Weed is fun and helps with my hips, but I've never tried anything stronger. And my parents don't want me smoking it that often.**
+- Do you have any quirks, strange mannerisms, annoying habits, or other defining characteristics?
 	- {Pass}
-- **What is your most treasured possession?**
+- What is your most treasured possession?
 	- {Probably the armor}
-- **Do you consider yourself to be a funny person? Do others agree?**
-	- Yeah! I love making people laugh.
-- **If you have powers or magical items, what do you think of them? Are they cool or have you been screwed?**
-	- {Beginning of story} I wish! I'd love to be able to fly...
-	- {Later in the story} What I have doesn't really feel like a superpower. I think it's more like a curse. There's a lot I wish I could forget. I don't know who chose me to be THE CHOSEN ONE, but I wish they would have chosen someone else.
+- Do you consider yourself to be a funny person? Do others agree?
+	- **Yeah! I love making people laugh.**
+- If you have powers or magical items, what do you think of them? Are they cool or have you been screwed?
+	- {Beginning of story} **I wish! I'd love to be able to fly...**
+	- {Later in the story} **What I have doesn't really feel like a superpower. I think it's more like a curse. There's a lot I wish I could forget. I don't know who chose me to be THE CHOSEN ONE, but I wish they would have chosen someone else.**
 
 ### Current Life
 Answer with respect to your character's position at the beginning of the story.
 
-- **Where do you call home now? (Feel free to answer “homeless” or “traveler” if that’s the case!)**
-	- Same place I've lived my whole life: a little [[Campbell Farms|farm]] outside of [[Genton]]. It's okay, I guess, but there's nothing to do there.
-	- **What kinds of things do you wish there were to do?**
-	- I don't even know. Just... anything, I guess. Bands don't come here on tour. You're not gonna bump into someone famous at the market, or see a movie being filmed here—no one's even heard of us! If anything interesting happens, it happens in [[Plata]].
-	- What's there to do out here in Boringsville? (Playing up his accent) Well, you can go fishin' or huntin', or you can go ride four-wheelers and shoot some soda cans out in the woods. There's football on Fridays, bingo on Saturdays, and church on Sundays. All the other days, you can go drank at the bar. What else do ya need?
-	- (Normal voice) You know what I do wish we had? A game store. There's this game I've heard of, *Caves & Cryptids*, that I want to check out, but you need all these weird dice and little figurines for it. I guess I can order them online, but it'd be nice if I didn't have to pay for shipping. (I'd still need to find people to play it with me. Most of the other kids aren't into "that nerdy shit".) Heck, even a bowling alley would be more excitement than what we have now.
-- **Who are your friends? Describe them.**
+- Where do you call home now? (Feel free to answer “homeless” or “traveler” if that’s the case!)
+	- **Same place I've lived my whole life: a little [[Campbell Farms|farm]] outside of [[Genton]]. It's okay, I guess, but there's nothing to do there.**
+	- What kinds of things do you wish there were to do?
+	- **I don't even know. Just... anything, I guess. Bands don't come here on tour. You're not gonna bump into someone famous at the market, or see a movie being filmed here—no one's even heard of us! If anything interesting happens, it happens in [[Plata]].**
+	- **What's there to do out here in Boringsville? (Playing up his accent) Well, you can go fishin' or huntin', or you can go ride four-wheelers and shoot some soda cans out in the woods. There's football on Fridays, bingo on Saturdays, and church on Sundays. All the other days, you can go drank at the bar. What else do ya need?**
+	- **(Normal voice) You know what I do wish we had? A game store. There's this game I've heard of, *Caves & Cryptids*, that I want to check out, but you need all these weird dice and little figurines for it. I guess I can order them online, but it'd be nice if I didn't have to pay for shipping. (I'd still need to find people to play it with me. Most of the other kids aren't into "that nerdy shit".) Heck, even a bowling alley would be more excitement than what we have now.**
+- Who are your friends? Describe them.
 	- {Other than [[Sam Ward|Sam]], he probably has a few friends from cross-country, and maybe some from the Renaissance Faire, but the latter don't necessarily live in Genton.}
 - Do you have a best friend? Describe them.
 - How close are you to your family?
 - Do you currently have a spouse or significant other? Describe them.
 - If you’re no longer with your spouse or significant other- describe them here. Why did you split up?
-- **Have you started your own family? Describe them if you did.**
-	- Dude, I'm only 17...
+- Have you started your own family? Describe them if you did.
+	- **Dude, I'm only 17...**
 - Out of everyone you know right now, who are you closest to? Why?
 - What is your occupation? If you have none, how do you get money?
 - How much money do you have right now? In general? In your pocket?

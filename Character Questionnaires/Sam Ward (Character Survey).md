@@ -3,7 +3,7 @@
 ## "Wispy"
 Answer these questions as the author.
 ### Basic
-- **What is your character’s name?**
+- What is your character’s name?
 	- Sammich "Sam" Ward
 - What is their physical sex?
 	- Male (47,XXY)
@@ -82,32 +82,32 @@ Answer these questions as the author.
 ## Developer
 Try to answer these questions in-character if possible. Don’t worry if you still meet some resistance. Sometimes a character will feel uncomfortable answering a question, and deflect in an in-character way. Write down their response. Why did they deflect? Why did they choose that method? Are they scared? Covering up with humor? Is the question related to a traumatic event? You can learn a lot from these deflections- sometimes more than an answer could provide.
 ### Personality
-- **Do you have a lifelong dream or aspiration?**
-	- My goal in life is to become a cryptozoologist who is also a cryptid.
-- **In general, how do you act around other people that you have just met?**
-	- Gotta give 'em a good sniff first, y'know? Can't trust folks who don't smell right. {I can't tell if they're being serious.}
-- **Does your behavior around people change depending on how well you know them? If so, how?**
-	- I'm just as weird around my friends as I am with strangers. Weirder, even.
-	- **Can you give some examples?**
-	- You wouldn't get them.
-- **Are you an introvert or an extrovert?**
-	- Introvert. I need a break from people every now and then. For *their* safety.
-- **Are you generally organized or messy?**
-	- Do I look like a neat freak to you?
-	- **Not really...**
-	- There you have it.
-- **Are you spontaneous and impulsive, or do you always need to have a plan?**
-	- If you have a fun idea, you should do it. Why wait?
-- **Are you hot-tempered or calm?**
-	- I am easy like Sunday morning, baby.
-- **Do you tend to argue with people or avoid conflict?**
-	- I just loom over them until they see the error of their ways >:)
-- **Do you care what others think of you?**
-	- I like confusing people, but other than that, not really.
-- **Are you a better leader or follower?**
-	- I don't know if I'm a good leader, but I definitely ain't a follower.
-- **What is the most important quality you look for in a friend?**
-	- Authenticity. If you're not as weird with me as I am with you, what's the point?
+- Do you have a lifelong dream or aspiration?
+	- **My goal in life is to become a cryptozoologist who is also a cryptid.**
+- In general, how do you act around other people that you have just met?
+	- **Gotta give 'em a good sniff first, y'know? Can't trust folks who don't smell right.** {I can't tell if they're being serious.}
+- Does your behavior around people change depending on how well you know them? If so, how?
+	- **I'm just as weird around my friends as I am with strangers. Weirder, even.**
+	- Can you give some examples?
+	- **You wouldn't get them.**
+- Are you an introvert or an extrovert?
+	- **Introvert. I need a break from people every now and then. For *their* safety.**
+- Are you generally organized or messy?
+	- **Do I look like a neat freak to you?**
+	- Not really...
+	- **There you have it.**
+- Are you spontaneous and impulsive, or do you always need to have a plan?
+	- **If you have a fun idea, you should do it. Why wait?**
+- Are you hot-tempered or calm?
+	- **I am easy like Sunday morning, baby.**
+- Do you tend to argue with people or avoid conflict?
+	- **I just loom over them until they see the error of their ways >:)**
+- Do you care what others think of you?
+	- **I like confusing people, but other than that, not really.**
+- Are you a better leader or follower?
+	- **I don't know if I'm a good leader, but I definitely ain't a follower.**
+- What is the most important quality you look for in a friend?
+	- **Authenticity. If you're not as weird with me as I am with you, what's the point?**
 - What is your greatest strength?
 - What is your greatest weakness?
 - Name three other traits about yourself- positive or negative.
