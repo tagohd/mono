@@ -16,7 +16,7 @@ Measurements:
   Inseam: 72
 Orientation: Asexual/Panromantic (Poly?)
 Personality: "Friendly, but stupid. Very in love with [[Sam Ward|Sam]]."
-MainGoal: Find [[Sam Ward|Sam]]
+MainGoal: "Find [[Sam Ward|Sam]]"
 Ability:
   STR: 13 (+1)
   DEX: 11 (+0)
@@ -39,7 +39,7 @@ Paragraph 1 moved to [[(Talk) Luke Campbell]].
 Paragraph 2 deleted. Outdated, plus plot should probably go in the relevant Plot article.
 %%
 
-Luke is 16 (almost 17). He runs cross-country because Sam does, and only because Sam does. He doesn't care much for sports, and he hates running. He helps [[The Mothers Campbell|his parents]] on the farm, but he can't wait to leave [[Genton]] where he can finally be himself. Maybe he (naively) wants to move to [[Rhapsody]]? This possibly contradicts my earlier characterization of Rhapsody, but he's also going there under different circumstances than he imagined. (Also a little bit of [Paris syndrome](https://en.wikipedia.org/wiki/Paris_syndrome).)
+Luke is 17 (almost 18). He runs cross-country because Sam does, and only because Sam does. He doesn't care much for sports, and he hates running. He helps [[The Mothers Campbell|his parents]] on the farm, but he can't wait to leave [[Genton]] where he can finally be himself. Maybe he (naively) wants to move to [[Rhapsody]]? This possibly contradicts my earlier characterization of Rhapsody, but he's also going there under different circumstances than he imagined. (Also a little bit of [Paris syndrome](https://en.wikipedia.org/wiki/Paris_syndrome).)
 
 ## Various Luke Characterizations
 %%
@@ -63,15 +63,15 @@ Here's some new stuff from Discord:
 - Can be very possessive of food and sticks
 - Fiercely loyal (see: [[Sam Ward|Sam]])
 - Very physically affectionate (\# of times I've mentioned him running up and hugging Case)
-  - But also tends to playfight with Case a lot (related?)
-  - Related: Is definitely going to need more than a few hugs when this is all over (and probably therapy lol)
+	- But also tends to playfight with Case a lot (related?)
+	- Related: Is definitely going to need more than a few hugs when this is all over (and probably therapy lol)
 - Prone to guilt
 - Prone to crying
-  - Is he embarrassed by this? I wrote that he wants to look cool in front of Case, but maybe he doesn't think that crying makes him look uncool?
+	- Is he embarrassed by this? I wrote that he wants to look cool in front of Case, but maybe he doesn't think that crying makes him look uncool?
 - Is the kind of guy who goes to Renaissance Faires and owns a suit of armor (again, we already knew this one)
 - Does not want to kill anyone
-  - Moreover, does not want anyone to *be* killed
-  - Kinda conflicts with the whole "'accidentally' kills [[James Redawić|James]] and maybe doesn't feel that bad about it" thing?
+	- Moreover, does not want anyone to *be* killed
+	- Kinda conflicts with the whole "'accidentally' kills [[James Redawić|James]] and maybe doesn't feel that bad about it" thing?
 - Relentless optimist
 
 See also: [[Luke Campbell (Character Survey)]]

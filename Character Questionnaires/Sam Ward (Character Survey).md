@@ -4,7 +4,7 @@
 Answer these questions as the author.
 ### Basic
 - What is your character’s name?
-	- Sammich "Sam" Ward
+	- [[Sam Ward|Sammich "Sam" Ward]]
 - What is their physical sex?
 	- Male (47,XXY)
 - What is their gender?

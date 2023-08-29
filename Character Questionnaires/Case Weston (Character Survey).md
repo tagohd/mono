@@ -4,7 +4,7 @@
 Answer these questions as the author.
 ### Basic
 - What is your character’s name?
-	- Case Weston
+	- [[Case Weston]]
 - What is their physical sex?
 	- Female
 - What is their gender?

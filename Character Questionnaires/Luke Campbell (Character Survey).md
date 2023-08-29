@@ -4,7 +4,7 @@
 Answer these questions as the author.
 ### Basic
 - What is your character’s name?
-	- Luke Campbell. Just "Luke", not short for "Lucas".
+	- [[Luke Campbell]]. Just "Luke", not short for "Lucas".
 	- Middle name?
 - What is their physical sex?
 	- Male
