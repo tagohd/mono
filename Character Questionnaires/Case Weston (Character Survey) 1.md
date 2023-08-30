@@ -1,5 +1,5 @@
 # firedragon1321
-
+{I didn't want to erase what I wrote, but I wanted to rewrite it.}
 ## "Wispy"
 Answer these questions as the author.
 ### Basic
@@ -74,139 +74,45 @@ Answer these questions as the author.
 	- No more than the average person.
 - If your character was formerly human (or any species other than what they are currently), tell the story of how they became what they currently are.
 	- N/A
-
 ## Developer
 Try to answer these questions in-character if possible. Don’t worry if you still meet some resistance. Sometimes a character will feel uncomfortable answering a question, and deflect in an in-character way. Write down their response. Why did they deflect? Why did they choose that method? Are they scared? Covering up with humor? Is the question related to a traumatic event? You can learn a lot from these deflections- sometimes more than an answer could provide.
-
 ### Personality
 - Do you have a lifelong dream or aspiration?
-	- {Pass}
 - In general, how do you act around other people that you have just met?
-	- **I try to be polite, but mostly I prefer to stick to myself.**
 - Does your behavior around people change depending on how well you know them? If so, how?
-	- **Doesn't everyone's?**
-	- Can you give some examples specific to you?
-	- **...More willing to put up with questions like this?**
 - Are you an introvert or an extrovert?
-	- **Introvert.**
 - Are you generally organized or messy?
-	- **Organized, I guess. Pretty easy when you don't have much to begin with.**
-	- You're a minimalist?
-	- **That's one way of putting it...**
 - Are you spontaneous and impulsive, or do you always need to have a plan?
-	- **I prefer to follow a plan. Sometimes, I even get to follow my own.**
 - Are you hot-tempered or calm?
-	- **I can get angry, but it's not going to accomplish anything.**
-	- {Who's asking these questions? I don't think he'd admit this unless he trusted the interviewer, but he doesn't like how angry he can get over seemingly small things.}
 - Do you tend to argue with people or avoid conflict?
-	- **Argue?** {He seems uncomfortable answering this one.}
 - Do you care what others think of you?
-	- **Not really.**
 - Are you a better leader or follower?
-	- **Leader, I guess.**
 - What is the most important quality you look for in a friend?
-	- **Dependability.**
 - What is your greatest strength?
-	- **People say I'm resilient.**
-	- Do you agree with that?
-	- **I guess. Haven't died yet, anyway.**
 - What is your greatest weakness?
-	- **I dunno. Not knowing when to quit? Not knowing how good I have it? Depends who you ask.**
-	- I'm asking *you*.
-	- **Being named Weston.**
 - Name three other traits about yourself- positive or negative.
-	- **I make a good omelet.**
-	- **I don't like talking about myself.**
-	- **I'd really rather being doing anything else right now. Can I go now?**
 - Do you hide your true self from others and in what way?
-	- **I take it that's a "no"?**
-	- Let's finish this group of questions, then you can go. We'll come back later.
-	- **If I have to...**
-	- You do. This is to help—
-	- **Oh, this is about helping me, huh? I can take care of myself just fine. I don't need your help.**
-	- No one is doubting that. This is actually to help *me*. I want to know who you are.
-	- **You're wasting your time. I'm not worth knowing. But fine, if it gets me out of here faster.**
-	- **... Can you repeat the question?**
-	- Do you hide your true self from others and in what way?
-	- **Man, what do you want me to say that? "I push others away because I don't want to be hurt"? Is that the kind of answer you're looking for?**
-	- Is that the kind of answer you want to give?
-	- **You're the fucking author here. You tell me.**
-		- {Ignore the meta-awareness. Not currently planning on having him acknowledge his existence as a character in a story outside of this note. That's more Luke's department.}
-	- Let's just move on...
-	- **Gladly.**
 - Are you optimistic or pessimistic?
-	- **Oh, I'm *all* sunshine and rainbows...**
 - What is your greatest fear?
-	- **Right now, it's that I'm gonna have to come back and do this again.**
 - What trait do you find most admirable? How often do you find it in others?
-	- **Minding their own business? It's not going so great.**
 - What’s something you’re good at doing? How about something you’re bad at?
-	- **Good at magic. Bad at changing my mind.**
-	- In that you change it too often?
-	- **In that I don't.**
 - Do you smoke, drink, or use drugs? If yes, why? Do you want to quit? If no, why not?
-	- **Actually, do you mind if I smoke right now? It helps take the edge off.** {Also helps you feel less hungry, but he might not be willing to admit that.}
-	- Go right ahead.
-	- **Thanks.**
-	- **Sorry I lost my cool a bit there. We can keep going.**
-	- I think we'll take a break soon anyway. Do you want to quit smoking?
-	- **I probably should.**
-	- What about drinking or drugs?
-	- **I'll drink if someone else is buying. Can't afford drugs.**
 - Do you have any quirks, strange mannerisms, annoying habits, or other defining characteristics?
-	- {Probably, but idk what.}
 - What is your most treasured possession?
-	- {Maybe something his little sister gave him?}
 - Do you consider yourself to be a funny person? Do others agree?
-	- {He's funny when you get to know him, but it can take a while to get to that point.}
 - If you have powers or magical items, what do you think of them? Are they cool or have you been screwed?
-	- **Not really a power, more of a... talent. And I'd say it's more trouble than it's worth.**
 
 ### Current Life
 Answer with respect to your character's position at the beginning of the story.
 
 - Where do you call home now? (Feel free to answer “homeless” or “traveler” if that’s the case!)
-	- **Little town called [[Plata]]. Not much to say about it.**
-	- Do you like living there?
-	- **It's okay, I guess. Quaint. Haven't lived here long enough to have too strong an opinion of it.**
-		- {When I wrote this, I was thinking that he had only lived there a couple months, but now it might actually have been a couple years. I don't necessarily have to change this, though. He might really not have a strong opinion, or maybe he just doesn't want to get into it.}
-	- Do you live by yourself?
-	- **Why, you looking to rob the place? Already told you I don't got much.**
-	- No, but you seem young to be living on your own.
-	- **Yeah, you'd think so.**
-	- So, you do live on your own?
-	- **I'm staying with a friend of the family.**
-	- You mentioned you recently moved here. Where were you staying before?
-	- **[[Rhapsody]].**
-	- Why did you move?
-	- **(Sarcastically) I wanted to pursue my dreams of being a professional snowboarder.**
-		- {I'd say he's never snowboarded in his life, but he did grow up a rich kid. They may have taken the occasional holiday to Plata or somewhere else, so it's not entirely out of the question.}
 - Who are your friends? Describe them.
-	- **Don't have too many here. I get on alright with my coworkers; not sure I'd call them my friends, though.**
-	- Do you have *any* friends in Plata?
-	- **I have... acquaintances.**
-		- {Again, I wrote this thinking that he had only been here a couple months. It could still be true that he doesn't have many friends, but it would just be for different reasons, mostly that he has a hard time trusting people.}
-	- What about in Rhapsody?
-	- **Not anymore.**
-	- What happened?
-	- **(Forcefully) I moved.**
 - Do you have a best friend? Describe them.
-	- Maybe we should skip this one?
-	- **Fine by me.**
 - How close are you to your family?
-	- **I'm not.**
-	- Why is that?
-	- **Let's just say "irreconcilable differences."**
 - Do you currently have a spouse or significant other? Describe them.
-	- **No.**
-	- Have you ever had a significant other?
-	- **I did a couple years ago.**
 - If you’re no longer with your spouse or significant other- describe them here. Why did you split up?
-	- **I really don't like thinking about that time in my life. Can we move on to the next question?**
 - Have you started your own family? Describe them if you did.
-	- **Nope. Not planning on it, either.**
 - Out of everyone you know right now, who are you closest to? Why?
-	- {Probably Grigori}
 - What is your occupation? If you have none, how do you get money?
 - How much money do you have right now? In general? In your pocket?
 - Are you currently physically abused? Verbally? Sexually? If so, who is responsible? How does it make you feel? Have you told anyone about it?
@@ -414,3 +320,30 @@ These questions are intended for adult characters.
 - If you could live anywhere in the world, where would it be and why?
 - What time period do you wish you could have lived in? (This is not a chance to change history.) What appeals to you about this era?
 - You’ve reached the end! Smash that fourth wall with a hammer and say anything you want to your author!
+
+[Source](https://firedragon1321.tumblr.com/post/706537853505732608/made-my-own-character-questionnaire)
+# wisteria-lodge
+- What is the character's go-to drink order? (How do they like to be publicly perceived?)
+- What is their grooming routine? (How do they treat themselves in private?)
+- What was their most expensive purchase/where does their disposable income go?
+- Do they have any scars or tattoos?
+- When was the last time they cried, and under what circumstances?
+- Are they an oldest, middle, youngest, or only child?
+- Describe the shoes they're wearing.
+- Describe the place where they sleep. (What does their safe space look like?)
+- What is their (least) favorite holiday? (How do they relate to their culture/outside world?)
+- What objects do they always carry around with them? (What do they need for their normal, day-to-day routine? What does "normal" even look like for them?)
+
+[Source](https://sudoscience.tumblr.com/post/725512968338620416/wisteria-lodge-so-my-problem-with-most-get-to)
+# elumish
+- What is your character's response to fear? (Happiness? Despair?)
+- How often does your character cry?
+- What causes your character to make bad decisions?
+- What is your character's first reaction to hearing a baby crying?
+- What is your character's bedtime ritual? Their morning ritual?
+- Are there any foods that your character hates but eats anyway?
+- How strongly does your character identify with their gender(s)?
+- When did your character figure out their sexuality?
+- Is your character ever surprised when they see themselves in the mirror?
+
+[Source](https://sudoscience.tumblr.com/post/724708749144670208)
