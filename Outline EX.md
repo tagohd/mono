@@ -38,16 +38,20 @@ This entire "Act" takes place on 18 Sep.
 	- He hasn't, and he's not sure about that last part. Maybe [[James Redawić|James]] would know more.
 - James is offended by the suggestion that Edna would kidnap anyone. No, it's more likely that Sam was kidnapped by [[CURSED AL]].
 	- How does James know this? He doesn't. He just knows that AL has returned, and whatever he's planning is probably going to require at least a few sacrifices.
+	- James actually does know what AL is up to. Also, [[Grigori Karstov|Grigori]] told him that AL is back.
 - Sensing Luke's desperation to save Sam, James sees an opportunity: he can use Luke to gather the materials he will need to cast [[Wizard Divorce]] and be rid of AL for good.
 	- He tells Luke that it was clearly fate that brought him here. Luke must be THE CHOSEN ONE foretold by the prophecy James is *totally* not making up on the spot.
+	- Something about Luke makes James think this is a good idea. Maybe he tries to attack Edna?
+		- Revenge for Pauline?
+		- Maybe he tries to talk to her instead. (Can she speak Common?)
 
 ### 1.1.3 Refusal of the Call
-- It's not that Luke doesn't want to be THE CHOSEN ONE. He wants to save Sam, of course. But is he really the right person for the job? He's only 16. He was terrified when Edna attacked. And he doesn't know magic. (Well, won't know unless he tries...)
+- It's not that Luke doesn't want to be THE CHOSEN ONE. He wants to save Sam, of course. But is he really the right person for the job? He's only 17. ~~He was terrified when Edna attacked.~~ And he doesn't know magic. (Well, won't know unless he tries...)
 - Refusing the call is part of the prophecy, so obviously this means that Luke really is THE CHOSEN ONE. Luke is not smart enough to question this any further.
 
 ### 1.1.4 Meeting with the Mentor
 - James reluctantly agrees to teach Luke the magic he needs to know. He'll also send Case along with him.
-	- **James:** Excellent! According to the prophecy, you must first gather the seven [[Legendary Artifacts]]. AL will be seeking these as well, but it is vital that you find them first.
+	- **James:** Excellent! According to the prophecy, you must first gather the [[Legendary Artifacts]]. AL will be seeking these as well, but it is vital that you find them first.
 	- **Luke:** Right, okay, one problem.
 	- **James:** What?
 	- **Luke:** AL's a wizard, right? And I don't know if you heard me earlier, but I don't know magic. I barely even know algebra.
@@ -146,11 +150,13 @@ This entire "Act" takes place on 18 Sep.
 - While attempting to retrieve [[CHALICE OF SUDMORANTH|THE CHALICE]], Luke encounters AL for the first time. Despite James's "best" efforts, he is woefully unprepared, and AL beats him handily.
 - Case shows up in the nick of time to save Luke, repaying him for saving his life in Rhapsody.
 - Luke wonders why he lost if he's THE CHOSEN ONE. (He'll just have to try harder.) Case assures him that it's simply because he hasn't completed his training. (And maybe there's a sweet moment where Case promises that he'll never let Luke face AL alone again.)
+	- AL does not steal Artifacts here?
 
 ### 1.2.4 Reward
 3-6 Oct (THE CHALICE was really far away...)
 - Luke returns to finish his training. James teaches him a very powerful spell, but Luke accidentally kills James when he tries to cast it.
 	- Let's say the spell is [[Greater Fuck You Up Big Time]] for now.
+	- Luke is only able to cast it because he has the Artifacts.
 - As he dies, James begrudgingly admits that he is proud of Luke, and that he has a message for Luke to deliver to AL when next they meet: James still remembers AL.
 	- Do Case and Luke know that AL is James's ex-husband? If they didn't, do they know now?
 
@@ -159,7 +165,7 @@ This entire "Act" takes place on 18 Sep.
 7-11 Oct
 - Luke and Case make their way to [[CURSED AL'S CURSED DOMAIN]].
 	- Even if collecting The Artifacts was easy, this is going to be a challenge.
-- With the spell and the message, Luke should be able to defeat AL. 
+- With the spell and the message, Luke should be able to defeat AL.
 ### 1.3.2 The Resurrection
 12 Oct
 - Despite this, AL is *still* able to defeat them easily.
