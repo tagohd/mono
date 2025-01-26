@@ -27,8 +27,9 @@ Lun's Ideas For "It's Another Goddamn Outline (except this time I'm going to try
 		- But also tricks comic readers!
 		- Evil little plans ensue
 - Alter first loop ending? ((first loop as in first shown to audience not first-first))
-	- `Realizing he has the last Artifact AL needs, they decide to take the fight to him` is a bit weird to me. I think that means you should run away actually
-		- `sudo: never said it was a *good* idea ;)`
+	- "Realizing he has the last Artifact AL needs, they decide to take the fight to him" is a bit weird to me. I think that means you should run away actually
+		- `sudo: never said it was a *good* idea ;)
+			- > it's already stretching it for Luke, but Case is there too!
 	- Maybe have it be a desperation thing instead?
 	- Alternatively: shorten the first loop
 		- Luke's death this loop could occur before reaching AL's domain
@@ -36,18 +37,22 @@ Lun's Ideas For "It's Another Goddamn Outline (except this time I'm going to try
 - Only distinct loops are shown
 	- However loop 1 ends, the story is rerun up until what disaster decision leads to Luke dying previously
 		- `not sure i know what you mean? that sounds like it kinda contradicts only showing distinct loops`
+			- > ok so what I mean is that at no point we should show a loop where the exact same things happen except with more of a sense of deja vu. there should be a new premonition moment that undoes a fatal mistake from a previous loop unlocking a new part of the story, so to speak
 	- And this time he goes "oh deja vu/bad feeling/whatever" and does the other thing
 	- After which we can get some story that isn't in the previous loop
 		- Maybe what Luke evades is getting ambushed by AL and this time they make it to AL's domain with all the artefacts
 		- Additional angst idea: they actually manage to beat (not kill) AL with all the artefacts but Case dies. After which AL tells Luke about the spell they've been trying to cast the entire time and that Case will also be alive again if he just lets him do his thing
 			- Also option to add the Janus talk idea you had?
 				- `I do like the idea of adding temptations for Luke, but I also think he might not exactly be in the best mood for a heart-to-heart with AL if AL has just killed Case`
+					- > you got me there.gif
 			- I think this is a good time for the gods to get properly introduced, though some foreshadowing (by IMAS?) would be nice
 				- `I had some more thoughts about this this morning that may complicate things. Or, rather, I remembered thoughts that you had?`
 				- `So, remember how we said Luke isn't really THE CHOSEN ONE even though he kinda is because he can remember the previous loops? And the reason he can remember the previous loops is because Sam cut a deal with Janus? If that's the case, then maybe AL doesn't know Janus is fucking with him after all. The time loops are just occurring "naturally" (AL fucked up the spell or something, idk), but Janus sees it as an opportunity to harvest some SOULs.`
 					- `Sam's like: This sucks. I'm going to summon a demon.`
+						- > Objectively funnier storyline but then how do we explain that Sam can do this
 					- `Maybe while in the process of having their SOUL extracted, they go into the Mana Plane and that's how they encounter Janus?`
 				- `Although, I think we also said that AL only knows how to cast the spell because Janus taught him? Maybe we can retcon that.`
+					- > So AL still teleports to the MANA plane or does that also not happen? Cause that's how James got crippled and bitter
 				- `Initially, nobody knows Janus is involved, but somehow the DRAGON GOD gets mentioned. James would probably be the one to tell Luke about DG, or maybe he just tells Luke to talk to Edna, and *she* mentions him.`
 				- `Also, since Janus has been using AL's failures to harvest SOULs, she's going to notice when the spell doesn't get cast, if she doesn't already know that AL et al. are onto her.`
 			- AL explaining the time reset spell could unlock the "i may be in a time loop" memory for Luke in next loops
@@ -55,6 +60,7 @@ Lun's Ideas For "It's Another Goddamn Outline (except this time I'm going to try
 	- If the 2nd loop ends with some nice Case death trauma the 3rd one could already be the Case-less one
 		- EZ distinctness
 		- `i mean, my idea was more that luke thinks he can prevent case from dying by using his "precognition", but he fails so many times that eventually he decides the best course of action is to just not bring case along`
+			- > oh yes that still happens, we just dont show it. which i assume was also part of your plan
 	- After the Case-less loop we can go right into the finale
 		- This one could be unlocked by Luke not killing James because I need him for the next point
 - My idea for the ending
@@ -67,6 +73,7 @@ Lun's Ideas For "It's Another Goddamn Outline (except this time I'm going to try
 		- James does some stuff off-camera and uses the BFS to Reverse Time. This time, he's the one that gets to remember what happened this loop
 			- Maybe we only show the ending of this loop later since Luke does not remember anything about it?
 			- `why does james want to reverse fate? guilt?`
+				- > i assume you know now!
 	- Ultimate loop
 		- Sam is missing
 		- Luke goes to look for them
@@ -76,12 +83,15 @@ Lun's Ideas For "It's Another Goddamn Outline (except this time I'm going to try
 		- James explains the time loop situation. He convinces AL to stop trying to cast Reverse Time. They should enjoy the time they have left together instead of trying to make it last forever.
 			- James is really wholesome this time around
 			- `idk how i feel about "james redemption arc", but i guess if it's just an act, it's okay`
+				- > did the reverse redemption arc make it better?
 		- AL wants to help Luke finally find Sam, so helps them get into the [[Mana Plane]]
 			- Maybe they collect some artefacts first since it's dangerous there?
 				- `Okay, going back to the idea I mentioned earlier, if Luke is the only one who can remember the loops, then AL, by definition, does *not* remember them, and he just carries on normally. So, they have to get the Artifacts anyway to stop him. Basically, the loop plays out like all the previous ones until the end, and *then* they're able to convince AL to join them. So, I guess we skip the part where James takes them to AL?`
 				- `I guess either way would work, actually, though they do seem mutually exclusive.`
+					- > Don't forget that last loop it was James that cast the spell and now he's the only one with memories of the prev loop!
 			- Janus realizes this is the end of their SOUL-farming idea so goes into the next phase of the plan by trick-shotting the moon
 				- `moons (plural), no?`
+					- > ofc apologies
 		- Mana plane shenanigans
 		- They encounter Janus (pirate form) and their enslaved SOULs!
 		- They have a big fight to free the SOULs and win!
@@ -91,12 +101,14 @@ Lun's Ideas For "It's Another Goddamn Outline (except this time I'm going to try
 			- As the inventor of human/arcane magic, Janus (true form) is impervious to it. Only dragon magic works against them
 		- James interrupts Janus' dramatic monologue arguing that, given enough time, a mage could learn dragon magic if they somehow managed to befriend a dragon
 			- `i already "befriended" your mom last night`
+				- > SANS?!
 		- Janus_sweat_smile.png
 			- Luckily, now the moon is gone, there's no MANA flow to use dragon magic even if that somehow was possible
 		- James argues that it would also be possible for a human mage to invent an arcane spell that created their own local MANA flow
 			- James gets out of his wheelchair
 			- James casts EGOCENTRISM
 				- `lol. A+ spell name`
+					- > i thought it was pretty clever
 			- An enormous storm forms around him in the ocean of MANA
 			- James fires an enormous blast of Edna's signature magic
 		- Janus is dead
@@ -116,5 +128,7 @@ Lun's Ideas For "It's Another Goddamn Outline (except this time I'm going to try
 		- James' laugh reverberates throughout the entire plane as he disappears again, leaving Luke, Case and Sam standing there kind of awkwardly
 			- `hmmm... that kinda doesn't seem like a good thing. i like it.`
 			- `what happens to AL though?`
+				- > up to decide. either James kills him after killing God or his bigger plans involve hurting AL more than killing him would
 			- `i feel like i had another thought here, but now i don't remember what it was. guess it wasn't important.`
+				- > i command thee, remember
 		- THE END
