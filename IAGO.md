@@ -1,0 +1,83 @@
+It's Another Goddamn Outline (except this time I'm going to try and keep it as simple as possible)
+
+- Sam is missing
+- Luke goes to look for them
+- A dragon "attacks"
+- Luke meets Case and James
+- James tells Luke that he's THE CHOSEN ONE
+- Luke doesn't know magic, so James teaches him some
+- Luke and Case set out to look for the first Artifact
+	- Let's say it's [[CHALICE OF SUDMORANTH|THE CHALICE]] for now
+	- They overcome some minor hurdles to eventually succeed
+- James teaches Luke some more magic
+- They go to get the second Artifact
+	- It's [[BLADE OF POWER|THE BLADE]]
+	- Biggest problem is they're going to need transportation to the island it's on
+	- They eventually convince [[Iris van Halt]] to take them there
+	- Probably some other challenges, too
+- They learn more magic and then get the third Artifact
+	- This time it's [[CURSED AL'S CURSED ORB|THE ORB]]
+	- Oh, wait, Case's parents have that one. Awkward...
+	- Luke thinks it's a chocolate orange
+	- Luke also saves Case's life somehow?
+- More lessons, then on to Artifact No. 4
+	- [[STAFF OF RULKOHIM|THE STAFF]] is at the top of a very tall mountain
+	- It's a real bitch getting up there
+	- Also, there are some monks, and they kind of adopt Case?
+- With the fifth Artifact, they'll be very close to their goal
+	- It's [[CRYSTAL OF GRELLNATH|THE CRYSTAL]], which is... somewhere
+	- Luke's on his own for this one (see above about Case being adopted)
+	- He gets ambushed by AL, who takes the other Artifacts from him
+		- Do any of them know that Luke has [[NEEDLE OF CALAGASH|THE NEEDLE]]?
+		- I'm going to say no
+	- AL tells Luke that James has been lying to him about being THE CHOSEN ONE
+	- Luke doesn't know how to feel about this
+		- James has been an enormous bastard to him basically the whole time, so it's not really that big of a stretch
+		- James *did* teach him magic, though
+		- He also has no reason to trust AL at all
+	- Case shows up at the last minute and saves Luke
+- Luke has some questions for James
+	- Does James come clean or does he double down?
+- At some point, they realize that Luke has THE NEEDLE
+- Luke accidentally(?) kills James
+- Realizing he has the last Artifact AL needs, they decide to take the fight to him
+	- Luke thinks he's going to be all badass like, "Looking for this?"
+	- AL wipes the floor with him and turns Case into a pincushion
+- The world ends
+- Sam is missing
+- Luke goes to look for them
+- A dragon "attacks"
+- Luke meets Case and James
+- James tells Luke that he's THE CHOSEN ONE
+- Hey, wait, doesn't this seem kinda familiar?
+- It's probably nothing
+- Things go more or less the same, except Luke has a persistent feeling of déjà vu
+- Yada yada yada
+- The world ends
+- Sam is missing
+- Luke goes to look for them
+- A dragon "attacks"
+- Luke meets Case and James
+- James tells Luke that he's THE CHOSEN ONE
+- Okay, hold on, this has definitely happened before
+- Does anything really change? Maybe
+	- It's left unclear exactly how many loops have occurred prior to this. This could be the third loop or it could be the thirtieth.
+	- It's also heavily implied that the "first" loop wasn't really the first
+- Case dies violently (again)
+- The world ends (again)
+- Sam is missing
+- Luke goes to look for them
+- A dragon "attacks"
+- Luke remembers all the times Case got exploded and tries to go it alone so that Case can live for once
+	- He actually does alright since he basically has precognition
+	- Turns out James did actually teach him some things, too
+	- He still gets his ass handed to him by AL, though, except Case isn't there to intervene this time
+		- I've always thought that this would be an alternate scene with THE CRYSTAL, but maybe Luke decides to skip that one since he knows AL is going to ambush him
+		- He might instead just go directly to [[CURSED AL'S CURSED DOMAIN]] and confront him there
+		- Or maybe he thinks he can take AL (in a fight) since he knows the ambush is coming
+		- My point is, AL needs to get THE NEEDLE somehow in order for the current loop to end
+	- Maybe AL keeps talking since he isn't interrupted by Case and inadvertently gives Luke a big hint?
+		- Mentions Janus, e.g.
+		- Something that implies Luke needs help from everyone; he can't do it alone
+	- Maybe AL has also figured out that they're stuck in a time loop, or maybe Luke tells him
+- The world ends

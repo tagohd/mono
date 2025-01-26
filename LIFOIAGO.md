@@ -1,0 +1,120 @@
+Lun's Ideas For "It's Another Goddamn Outline (except this time I'm going to try and keep it as simple as possible)"
+
+
+- Case doesn't join Luke immediately / Case IMAS things 
+	- `I forgot IMAS existed lol`
+	- Details
+		- Maybe after getting the 1st artefact together, Case decides it's easy enough for Luke to do it on his own
+		- But actually he wants to stay at James' place because he's supposed to keep tabs on him for IMAS
+			- Though also at this point he doesn't care for Luke much
+		- He still doesn't join for the 3rd artefact. He's actually going to retrieve the ORB himself again in order of IMAS. They're starting to catch on AL is doing **something** and don't want him to have his goddamned ORB
+			- Case's parents like the idea of AL causing some kind of war (they make weapons after all) so they've stolen the ORB from IMAS, planning to give it to AL
+			- Against all Case's expectations, Luke is skilled enough to actually break into his parent's secret storage on his own and they run into each other. Chocolate orange shenanigans ensue. 
+			- They end up having to make a risky escape and Luke ends up saving Case (due to premonition powers?)
+			- Start of Case's respect for Luke
+		- James convinces Case to go with Luke starting from the 4th artefact
+			- Because "things are getting dangerous", but really because he knows Case is on his case and wants to be alone to make his little plans
+	- Reasons
+		- I like it when cool characters that seemed like side characters become main characters later on
+			- `works for me`
+		- Case working for IMAS gives us a lot of potential for dumping hidden lore through Case / IMAS
+		- IMAS thing can be separate from Case not being there from the beginning if you want to drop one of the two
+- Timeloop foreshadowing from da START
+	- Luke has premonitions/bad feelings about taking certain decisions which make him Not Do That pretty much from the start
+	- James explains it is "Ultra Rare CHOSEN ONE Divination Magic"
+		- In reality, this information + Luke looking for some non-existent individual tips James off about the timeloop situation
+		- And he likes lying to keep others out of the loop
+		- But also tricks comic readers!
+		- Evil little plans ensue
+- Alter first loop ending? ((first loop as in first shown to audience not first-first))
+	- `Realizing he has the last Artifact AL needs, they decide to take the fight to him` is a bit weird to me. I think that means you should run away actually
+		- `sudo: never said it was a *good* idea ;)`
+	- Maybe have it be a desperation thing instead?
+	- Alternatively: shorten the first loop
+		- Luke's death this loop could occur before reaching AL's domain
+		- Maybe somewhere around 4th/5th artefact?
+- Only distinct loops are shown
+	- However loop 1 ends, the story is rerun up until what disaster decision leads to Luke dying previously
+		- `not sure i know what you mean? that sounds like it kinda contradicts only showing distinct loops`
+	- And this time he goes "oh deja vu/bad feeling/whatever" and does the other thing
+	- After which we can get some story that isn't in the previous loop
+		- Maybe what Luke evades is getting ambushed by AL and this time they make it to AL's domain with all the artefacts
+		- Additional angst idea: they actually manage to beat (not kill) AL with all the artefacts but Case dies. After which AL tells Luke about the spell they've been trying to cast the entire time and that Case will also be alive again if he just lets him do his thing
+			- Also option to add the Janus talk idea you had?
+				- `I do like the idea of adding temptations for Luke, but I also think he might not exactly be in the best mood for a heart-to-heart with AL if AL has just killed Case`
+			- I think this is a good time for the gods to get properly introduced, though some foreshadowing (by IMAS?) would be nice
+				- `I had some more thoughts about this this morning that may complicate things. Or, rather, I remembered thoughts that you had?`
+				- `So, remember how we said Luke isn't really THE CHOSEN ONE even though he kinda is because he can remember the previous loops? And the reason he can remember the previous loops is because Sam cut a deal with Janus? If that's the case, then maybe AL doesn't know Janus is fucking with him after all. The time loops are just occurring "naturally" (AL fucked up the spell or something, idk), but Janus sees it as an opportunity to harvest some SOULs.`
+					- `Sam's like: This sucks. I'm going to summon a demon.`
+					- `Maybe while in the process of having their SOUL extracted, they go into the Mana Plane and that's how they encounter Janus?`
+				- `Although, I think we also said that AL only knows how to cast the spell because Janus taught him? Maybe we can retcon that.`
+				- `Initially, nobody knows Janus is involved, but somehow the DRAGON GOD gets mentioned. James would probably be the one to tell Luke about DG, or maybe he just tells Luke to talk to Edna, and *she* mentions him.`
+				- `Also, since Janus has been using AL's failures to harvest SOULs, she's going to notice when the spell doesn't get cast, if she doesn't already know that AL et al. are onto her.`
+			- AL explaining the time reset spell could unlock the "i may be in a time loop" memory for Luke in next loops
+				- `see above`
+	- If the 2nd loop ends with some nice Case death trauma the 3rd one could already be the Case-less one
+		- EZ distinctness
+		- `i mean, my idea was more that luke thinks he can prevent case from dying by using his "precognition", but he fails so many times that eventually he decides the best course of action is to just not bring case along`
+	- After the Case-less loop we can go right into the finale
+		- This one could be unlocked by Luke not killing James because I need him for the next point
+- My idea for the ending
+	- Penultimate loop
+		- Luke once again defeats AL
+		- James appears and interrupts AL's cast of Reverse Time
+		- James Wizard Divorce's AL into wizard hell
+			- Luke tries to stop James because he needs time to get reversed because Case died again?
+			- In any case, James kills Luke and possibly Case
+		- James does some stuff off-camera and uses the BFS to Reverse Time. This time, he's the one that gets to remember what happened this loop
+			- Maybe we only show the ending of this loop later since Luke does not remember anything about it?
+			- `why does james want to reverse fate? guilt?`
+	- Ultimate loop
+		- Sam is missing
+		- Luke goes to look for them
+		- A dragon "attacks"
+		- Luke meets Case and James
+		- James takes both of them to AL
+		- James explains the time loop situation. He convinces AL to stop trying to cast Reverse Time. They should enjoy the time they have left together instead of trying to make it last forever.
+			- James is really wholesome this time around
+			- `idk how i feel about "james redemption arc", but i guess if it's just an act, it's okay`
+		- AL wants to help Luke finally find Sam, so helps them get into the [[Mana Plane]]
+			- Maybe they collect some artefacts first since it's dangerous there?
+				- `Okay, going back to the idea I mentioned earlier, if Luke is the only one who can remember the loops, then AL, by definition, does *not* remember them, and he just carries on normally. So, they have to get the Artifacts anyway to stop him. Basically, the loop plays out like all the previous ones until the end, and *then* they're able to convince AL to join them. So, I guess we skip the part where James takes them to AL?`
+				- `I guess either way would work, actually, though they do seem mutually exclusive.`
+			- Janus realizes this is the end of their SOUL-farming idea so goes into the next phase of the plan by trick-shotting the moon
+				- `moons (plural), no?`
+		- Mana plane shenanigans
+		- They encounter Janus (pirate form) and their enslaved SOULs!
+		- They have a big fight to free the SOULs and win!
+		- Emotional Sam reunion
+		- Oh shit second phase. Janus (true form) shows up
+		- Turns out they don't stand a chance against the creator deity of humans
+			- As the inventor of human/arcane magic, Janus (true form) is impervious to it. Only dragon magic works against them
+		- James interrupts Janus' dramatic monologue arguing that, given enough time, a mage could learn dragon magic if they somehow managed to befriend a dragon
+			- `i already "befriended" your mom last night`
+		- Janus_sweat_smile.png
+			- Luckily, now the moon is gone, there's no MANA flow to use dragon magic even if that somehow was possible
+		- James argues that it would also be possible for a human mage to invent an arcane spell that created their own local MANA flow
+			- James gets out of his wheelchair
+			- James casts EGOCENTRISM
+				- `lol. A+ spell name`
+			- An enormous storm forms around him in the ocean of MANA
+			- James fires an enormous blast of Edna's signature magic
+		- Janus is dead
+		- James drops the wholesome act and laughs kind of manically
+		- Luke & gang escape the MANA plane
+		- Oops! The world is ending.
+			- Janus played a fundamental role in the MANA plane. Without them, MANA flows into the Material plane uncontrolled. Essentially he's a bit Atlascore
+			- Janus was gathering human SOULs to take over their role so they could finally explore the material plane and the fruits of them giving animals SOULs that led to the evolution of... furries
+			- The only way to stop the world from ending is for Sam & co to return to the MANA plane...
+		- Sam is about to return to the MANA plane
+		- Out of nowhere, the world repairs itself
+		- James appears again
+			- James has used the artefacts to fuse Janus' primal SOUL with his own, therefore becoming the new god of the MANA plane
+			- James wishes them all a fun time while he reorganizes the MANA plane
+			- No need for Sam's SOUL crew anymore, James has bigger plans ;)
+			- `morally ambiguous self-sacrifice!`
+		- James' laugh reverberates throughout the entire plane as he disappears again, leaving Luke, Case and Sam standing there kind of awkwardly
+			- `hmmm... that kinda doesn't seem like a good thing. i like it.`
+			- `what happens to AL though?`
+			- `i feel like i had another thought here, but now i don't remember what it was. guess it wasn't important.`
+		- THE END
