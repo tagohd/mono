@@ -22,7 +22,7 @@ L:
 
 >Also, you're making the erroneous, though reasonable, assumption that my ideas follow the normal rules of causality. I actually came up with the idea that one of the artifacts is a CHALICE *first*, and *then* I had the idea that it was used to hold the poison. Similar process for BEE. I knew there were going to be 7 Artifacts, so I basically made a shell article, titled it "ARTIFACT 6", and made the description the first line of The Bee Movie script just for the lulz, and then I decided that it actually was just a giant bee. In other words, the purpose of each Artifact is not written in stone—in fact, they're written in Markdown :P Also, as implied in [[2. Plot Overview (Again)]], there's nothing saying the Artifacts can't have more than one purpose. The [[CRYSTAL OF GRELLNATH]], for example, is used in casting [[Longevity (Spell)|Longevity]] and also to summon [[Emperoress, The|The Emperoress]].
 >
->Oh! Maybe the [[NEEDLE OF CALAGASH]] imparts some sort of stabilization, and that's why AL's earlier attempts at casting *Longevity* failed.
+>Oh! Maybe the [[NEEDLE OF KALAGASH]] imparts some sort of stabilization, and that's why AL's earlier attempts at casting *Longevity* failed.
 >
 >Or maybe that's not what the NEEDLE does at all. Maybe because *Longevity* and *[[Reverse Fate]]* require so much mana, you need this specialized NEEDLE to seal the rift. (Wouldn't it need to be one of the Artifacts AL originally had then? Also, [[BFS 10000#^needle-ref|when you first suggested that one of the artifacts be a needle]], I got the impression that you meant more like a syringe than a sewing needle.) Instead, maybe THE BLADE has to be coated in [[BEE]] venom, and that slows the rate of decay of the SOULS. (So, then, what's the CHALICE for? Or maybe it shouldn't be a chalice at all. I only chose that because chalices seem to be fairly archetypal artifacts, e.g. The Holy Grail.)
 >
@@ -61,7 +61,7 @@ sudoMajor:: Just realized something: If the prototype didn't use all of the Arti
 Anyway, possible solutions:
 
 ### CURSED AL
-[[CURSED AL]] already has the other Artifacts ([[CHALICE OF SUDMORANTH|THE CHALICE]], [[NEEDLE OF CALAGASH|THE NEEDLE]], and [[BEE|THE BEE]]). This makes sense if he invented them/that's what he's been doing for the past ~20 years, and I feel it adds a lot of weight to the [[(6) June 2023 Chat Logs#^game-over|scripted game over idea]], especially if that's how AL acquires the other four.
+[[CURSED AL]] already has the other Artifacts ([[CHALICE OF SUDMORANTH|THE CHALICE]], [[NEEDLE OF KALAGASH|THE NEEDLE]], and [[BEE|THE BEE]]). This makes sense if he invented them/that's what he's been doing for the past ~20 years, and I feel it adds a lot of weight to the [[(6) June 2023 Chat Logs#^game-over|scripted game over idea]], especially if that's how AL acquires the other four.
 > L: Maybe this is the information [[James Redawić|James]] acquires in the first loop (while a [[SOUL]]) that allows him to change the game in the second loop?
 
 Maybe Luke feels like it's his fault for not being strong enough. Is he wrong? In one sense, it's really *my* fault for writing the story this way. (Ties in with theme of fate.)

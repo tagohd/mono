@@ -175,7 +175,7 @@ Some more thoughts in a list:
 
 [Lun]: Mono: Into the multiverse?!
 
-[Sudo]: I was thinking maybe the [[BEE]] comes from some Elemental Plane? And also the [[NEEDLE OF CALAGASH]] is on [[Campbell Farms]], but like, in the Upside Down. (Literally a needle in a haystack)
+[Sudo]: I was thinking maybe the [[BEE]] comes from some Elemental Plane? And also the [[NEEDLE OF KALAGASH]] is on [[Campbell Farms]], but like, in the Upside Down. (Literally a needle in a haystack)
 
 [Lun]: Consider that since the bee is contributing the poison it would be entirely reasonable for it to be from a Poison Swamp. Besides that, how did the needle get on the Campbell Farms?! Are his moms actually powerful mages as well? Actually, I have something to say about this on the [[Legendary Artifacts]]
 

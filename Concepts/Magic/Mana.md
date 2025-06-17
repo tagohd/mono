@@ -15,18 +15,18 @@ Chinwe Ejiofor was a prominent researcher into the effects of Mana on living tis
 ## Mana Toxicity
 The average person can tolerate around 150 Ej of Mana without significant reaction.
 
-| Spell Level      | Mana Cost      | Typical Symptoms (experienced by >50% of novices)                              |
-|------------------|----------------|--------------------------------------------------------------------------------|
-| 0 (Cantrip)      | <157.58 Ej     | Slight tingling sensation in extremities, metallic taste in mouth              |
-| 1 (Minor)        | >3.17 KEj      | Slight headache, nausea, cramps, fatigue                                       |
-| 2 (Minor)        | >63.57 KEj     | Burns at exposure site, visual hallucinations, mild fever, vomiting, malaise   |
-| 3 (Minor)        | >1.28 MEj      | Loss of appetite, aphasia, tremors, emotional lability                         |
-| 4 (Intermediate) | >25.65 MEj     | Body-wide pain, incontinence, auditory hallucinations, dissociation            |
-| 5 (Intermediate) | >515.14 MEj    | Overwhelming sense of guilt, high fever, moderate diarrhea and vomiting        |
-| 6 (Intermediate) | >10.35 GEj     | Shock, numbness of the extremities, loss of muscle tone, death                 |
-| 7 (Major)        | >207.82 GEj    | Paralysis, temporary blindness, Cotard delusion, severe depression             |
-| 8 (Major)        | >4.17 TEj      | Multiple organ failure, organ rupture, toxic epidermal necrolysis              |
-| 9 (Major)        | >83.84 TEj     | Intense euphoria, followed shortly by an extremely agonizing death (100%)      |
+| Spell Level      | Mana Cost   | Typical Symptoms (experienced by >50% of novices)                            |
+| ---------------- | ----------- | ---------------------------------------------------------------------------- |
+| 0 (Cantrip)      | <157.58 Ej  | Slight tingling sensation in extremities, metallic taste in mouth            |
+| 1 (Minor)        | >3.17 KEj   | Slight headache, nausea, cramps, fatigue                                     |
+| 2 (Minor)        | >63.57 KEj  | Burns at exposure site, visual hallucinations, mild fever, vomiting, malaise |
+| 3 (Minor)        | >1.28 MEj   | Loss of appetite, aphasia, tremors, emotional lability                       |
+| 4 (Intermediate) | >25.65 MEj  | Body-wide pain, incontinence, auditory hallucinations, dissociation          |
+| 5 (Intermediate) | >515.14 MEj | Overwhelming sense of guilt, high fever, moderate diarrhea and vomiting      |
+| 6 (Intermediate) | >10.35 GEj  | Shock, numbness of the extremities, loss of muscle tone, death               |
+| 7 (Major)        | >207.82 GEj | Paralysis, temporary blindness, Cotard delusion, severe depression           |
+| 8 (Major)        | >4.17 TEj   | Multiple organ failure, organ rupture, toxic epidermal necrolysis            |
+| 9 (Major)        | >83.84 TEj  | Intense euphoria, followed shortly by an extremely agonizing death (100%)    |
 
 Mana Cost, $m$, for a spell can be calculated according to the following formula: $$m=\frac{e^{3l}}{E}$$
 where $e$ is Euler's number, $l$ is the Spell Level, and $E$ is Ejiofor's constant, $6.3459269958\times10^{-3}$.

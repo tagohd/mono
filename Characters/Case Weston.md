@@ -48,6 +48,7 @@ Maybe [[Luke Campbell|Luke]] fights [[CURSED AL]] for the first time and is woef
 
 # Characterizations
 **Case**
+- (**New as of 2025-05-03**) He's initially standoffish with Luke because he thinks he leaves a trail of destruction in his wake and doesn't feel deserving of love. To the extent that this is true, it has more to do with his parents than him. (But it makes him sound cool.)
 - Kinda jealous that Luke is THE CHOSEN ONE?
 - He looks serious, but he can make silly jokes, too, sometimes (especially around Luke?)
 - I've said that he's tsundere, but I feel like I haven't really written him that way? At the very least, it's apparent from his actions (if not his words) that he genuinely cares for Luke (saves his ass at least twice, and looks like a badass while doing it; promises Luke that he'll protect him; reassures Luke that he isn't dead (yet))
@@ -59,7 +60,7 @@ Maybe [[Luke Campbell|Luke]] fights [[CURSED AL]] for the first time and is woef
 - If he's Wolfwood, then he's probably not quite as concerned with the morality of killing people as Luke is
 - Australian?
 - Rides a motorcycle
-	- \[image pending\]
+	- ![[luke case motorcycle.png]]
 - ~~Professional MILF hunter (may or may not be literally hunting them for sport lol)~~
 	- ![[milf hunter case.png]]
 

@@ -31,7 +31,7 @@ Answer these questions as the author.
 - Do they have any tattoos or other markings?
 	- No.
 - Do they wear any jewelry?
-	- Before the story? Not really. He might wear [[NEEDLE OF CALAGASH|THE NEEDLE]] as a necklace, though.
+	- Before the story? Not really. He might wear [[NEEDLE OF KALAGASH|THE NEEDLE]] as a necklace, though.
 - How do they dress most of the time?
 	- He's a kid in high school, so I'm going to say he dresses fairly casually most of the time.
 - Do they wear any accessories not listed above?
@@ -70,7 +70,7 @@ Answer these questions as the author.
 - How did they first learn of their abilities?
 	- By remembering the previous timelines? Seems pretty self-explanatory. But [[James Redawić|James]] confirms that he is, in fact, remembering them and not just experiencing déjà vu.
 - Do they have any magical items or weapons? How did they obtain their magical items?
-	- Not at the beginning of the story, but [[The Mothers Campbell|his moms]] give him [[NEEDLE OF CALAGASH|THE NEEDLE]] pretty early on. It's been handed down the Campbell family line for generations!
+	- Not at the beginning of the story, but [[The Mothers Campbell|his moms]] give him [[NEEDLE OF KALAGASH|THE NEEDLE]] pretty early on. It's been handed down the Campbell family line for generations!
 - Does your character have any weaknesses when it comes to their species, powers or magical items?
 	- He should not eat chocolate. It probably won't kill him, but it could make him sick.
 	- As a novice mage, he gets [[Mana#Mana Toxicity|sick]] if he tries to cast too powerful a spell.

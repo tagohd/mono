@@ -1,5 +1,7 @@
 ---
-alias: The Emperoress
+aliases:
+  - The Emperoress
+  - Janus
 Name: The Emperoress
 Category: Supporting
 Role: The *real* big bad
@@ -15,11 +17,13 @@ Measurements:
   Hips: 116
   Inseam: 80
 Orientation: Aroace
-Personality:
-MainGoal:
-References: ["James Stephanie Sterling (Real Life)", "Papa Titan (The Owl House)"]
-AppearanceNotes:
-OtherNotes:
+Personality: 
+MainGoal: 
+References:
+  - James Stephanie Sterling (Real Life)
+  - Papa Titan (The Owl House)
+AppearanceNotes: 
+OtherNotes: 
 SortOrder: 6
 ---
 

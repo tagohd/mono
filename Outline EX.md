@@ -78,7 +78,7 @@ This entire "Act" takes place on 18 Sep.
 			- Why didn't he ride Pauline back? This one's easy: it's 20-30 minutes by motorcycle, but ~3 hours by horse. Plus, even if Edna didn't happen, Luke already rode her *to* Plata. She's tired. (Also, shouldn't his parents have noticed earlier that Pauline was missing, even if they assumed Luke was at school? Were all three of his moms away?)
 			- Why doesn't he just take a train? I'm American, so correct me if I'm wrong, but it seems unlikely that there would be a train between two small towns that also runs at night. You might be able to catch a train from Plata to Rhapsody at that hour, but not one that's going to stop in Genton.
 		- Where does Case even live? Did IMAS set him up with an apartment? Is he staying with James and [[Grigori Karstov|Grigori]]? (See the "Case File" thread.) Would James be okay with that? (He's probably not thrilled.)
-- Luke's mothers relent and decide to let him go. They know he would go anyway. They give him some supplies to get him ready for his journey. Among the supplies is [[NEEDLE OF CALAGASH|THE NEEDLE]], one of the Legendary Artifacts.
+- Luke's mothers relent and decide to let him go. They know he would go anyway. They give him some supplies to get him ready for his journey. Among the supplies is [[NEEDLE OF KALAGASH|THE NEEDLE]], one of the Legendary Artifacts.
 	- I don't think any of them are aware that it's a Legendary Artifact.
 
 ## 1.2 Initiation

@@ -1,0 +1,38 @@
+- Long ago (possibly as far back as [last Thursday](https://en.m.wikipedia.org/wiki/Last_Thursdayism)), dragons ruled over the world
+- [[Emperoress, The|Janus]] did not like this. She thought Janus should rule the world
+	- Also, a dragon ate her wife or something
+- In order to depose the dragons, Janus gave the humans magic. This also turned them into furries for some reason? (For brevity's sake, I'll keep calling them humans.)
+	- The moons are also involved somehow
+	- Okay, actually, he gave the animals magic, and *they* became furries. Still gonna call them humans, though
+- There was a long war that ultimately saw Janus banished to the ~~shadow realm~~ [[Eeby Deeby]] by the DRAGON GOD, at the cost of the death of most of the world's dragons
+	- Fortunately for Janus, Greece doesn't exist in this world, so DG wasn't familiar with the myth of Prometheus (don't ask why he's named Janus)
+	- Humans still have magic (it can't be undone (easily))
+	- Why didn't DG just kill Janus?
+		- Okay, maybe banished isn't the right word. They *fled* to Eeby Deeby, and they can't return as long as DG lives
+- Slightly less long ago, a human wizard named [[CURSED AL|AL]] (he hadn't become cursed yet) performs human transmutation in an attempt to make himself immortal
+	- I would strike out "performs human transmutation" to replace it with something less obviously stolen from FMA, but that basically *is* what he did
+- AL amasses something of a cult following, and among his most loyal and handsome followers is [[James Redawić|James]]
+- After falling in love with and wizard-marrying James, AL attempts to make James immortal, too
+	- The spell goes wrong, and James is nearly killed. He survives but is left paralyzed.
+	- AL fucks off for a long time while he tries to figure out how to save James.
+		- I've been thinking of this happening in the last 20 years or so, but what if it happened longer ago than that? Long enough ago that a mythos has developed around AL, and he's basically the bogeyman. "If you don't behave, AL will come and steal your SOUL" kind of thing
+		- James tells Luke that Sam has most likely been kidnapped by AL, and Luke's like, "Yeah, right"
+			- "Hey, ten minutes ago you thought dragons were just a myth, too"
+	- AL recalls the name of a shadowy figure hinted at in his earlier research: Janus
+		- The surviving dragons worked to keep Janus's very existence secret
+	- He contacts Janus somehow, and Janus teaches him how to cast [[Reverse Fate]]
+		- This was actually Janus's plan all along, including the spell nearly killing James
+			- Well, actually, she would have preferred that it completely killed James, for reasons that will become clear in the next bullet point, but James survives due to some bullshit plot armor or something (power of love (evil version))
+	- James basically got his Ph.D. in Dragon, so he's going to be pissed when he finds out AL made a deal with Janus. He may even consider this to be unforgivable.
+		- AL not being there is the main reason James's opinion of him soured, but this is the last straw. He won't find this out until near the end of the story, however.
+- Finally, in the present, Luke wakes up one morning and finds that his twin sibling, Sam, is missing
+- He decides to look for them at the Renaissance Faire
+- A dragon "attacks" the Faire
+	- She isn't really attacking, but people tend to freak out when a giant dragon suddenly appears
+	- Perhaps she notices a certain, attractive horse ;)
+- Luke meets Case
+	- Luke instantly thinks Case is the coolest person ever
+	- Case thinks Luke is kinda annoying
+- Case introduces him to James
+- James tells Luke he's THE CHOSEN ONE
+- 

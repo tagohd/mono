@@ -28,7 +28,7 @@ Lun's Ideas For "It's Another Goddamn Outline (except this time I'm going to try
 		- Evil little plans ensue
 - Alter first loop ending? ((first loop as in first shown to audience not first-first))
 	- "Realizing he has the last Artifact AL needs, they decide to take the fight to him" is a bit weird to me. I think that means you should run away actually
-		- `sudo: never said it was a *good* idea ;)
+		- `sudo: never said it was a *good* idea ;)`
 			- > it's already stretching it for Luke, but Case is there too!
 	- Maybe have it be a desperation thing instead?
 	- Alternatively: shorten the first loop

@@ -1679,7 +1679,7 @@ S:
 ### THREAD "Sorry to interrupt, but: BFS thread jumpscare"
 L:
 > Sorry to interrupt, but: BFS thread jumpscare
->>Even though ÜBERSOULS formed in living vessels are more stable, they aren't usable while still in the vessel's body. You will need to use [[NEEDLE OF CALAGASH|THE NEEDLE]] to transfer the ÜBERSOUL into a more appropriate container, such as [[CURSED AL'S CURSED ORB|THE ORB]].
+>>Even though ÜBERSOULS formed in living vessels are more stable, they aren't usable while still in the vessel's body. You will need to use [[NEEDLE OF KALAGASH|THE NEEDLE]] to transfer the ÜBERSOUL into a more appropriate container, such as [[CURSED AL'S CURSED ORB|THE ORB]].
 >so is the ubersoul completely taken out of the vessel?
 
 S:

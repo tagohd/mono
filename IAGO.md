@@ -28,7 +28,7 @@ It's Another Goddamn Outline (except this time I'm going to try and keep it as s
 	- It's [[CRYSTAL OF GRELLNATH|THE CRYSTAL]], which is... somewhere
 	- Luke's on his own for this one (see above about Case being adopted)
 	- He gets ambushed by AL, who takes the other Artifacts from him
-		- Do any of them know that Luke has [[NEEDLE OF CALAGASH|THE NEEDLE]]?
+		- Do any of them know that Luke has [[NEEDLE OF KALAGASH|THE NEEDLE]]?
 		- I'm going to say no
 	- AL tells Luke that James has been lying to him about being THE CHOSEN ONE
 	- Luke doesn't know how to feel about this
@@ -76,8 +76,14 @@ It's Another Goddamn Outline (except this time I'm going to try and keep it as s
 		- He might instead just go directly to [[CURSED AL'S CURSED DOMAIN]] and confront him there
 		- Or maybe he thinks he can take AL (in a fight) since he knows the ambush is coming
 		- My point is, AL needs to get THE NEEDLE somehow in order for the current loop to end
+	- \[**NEW**] Actually, Case is there, but Luke doesn't know it
 	- Maybe AL keeps talking since he isn't interrupted by Case and inadvertently gives Luke a big hint?
 		- Mentions Janus, e.g.
 		- Something that implies Luke needs help from everyone; he can't do it alone
 	- Maybe AL has also figured out that they're stuck in a time loop, or maybe Luke tells him
 - The world ends
+# New Stuff
+- Sam is missing
+- At this point, Luke knows they're not at the Faire, but he goes anyway
+	- For one, it's where Case and James are
+	- 

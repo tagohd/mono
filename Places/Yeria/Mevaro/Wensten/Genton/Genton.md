@@ -17,7 +17,7 @@ alias: Boringsville
 - [[Manas Georg|George Ward]]
 
 ## Legendary Artifacts
-- [[NEEDLE OF CALAGASH]] (but on a different plane of reality)
+- [[NEEDLE OF KALAGASH]] (but on a different plane of reality)
 
 # About
 
