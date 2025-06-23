@@ -49,7 +49,7 @@ For practical reasons, I will not be creating my own font but instead will just 
 - ć (ch) - like the "ch" in "church"
 - ś (sh) - like the "sh" in "shy"
 - dz - like the "j" in "jive"
-- ø (eh) - like the "a" in "comma"
+- y - like the "a" in "comma"
 - ù (uh) - like the "u" in "strut"
 - w - w
 - á, é, í, ó, ú - stressed syllable
@@ -81,13 +81,66 @@ Because of the case system, word order is not as rigid as it is in other languag
 | Gen              | -te                      | -će                     | -er       |
 | Prep             | -la                      | -lat                    | -lat      |
 | Inst             | -st                      | -ž                      | -st       |
-| Voc              | Final vowel becomes long | -k                      | -ø        |
+| Voc              | Final vowel becomes long | -k                      | -y        |
 #### Type II
 | Nom ends with... | Short vowel | Long vowel | Consonant |
 | ---------------- | ----------- | ---------- | --------- |
-| Acc              |             |            |           |
-| Dat              |             |            |           |
-| Gen              |             |            |           |
-| Prep             |             |            |           |
-| Inst             |             |            |           |
-| Voc              |             |            |           |
+| Acc              | -da         | -din       | -anda     |
+| Dat              | -sk         | -sko       | -esk      |
+| Gen              | -lor        | -l         | -olo      |
+| Prep             | -sk         | -sko       | -esk      |
+| Inst             | -v          | -f         | -ev       |
+| Voc              | -da         | -din       | -oda      |
+#### Type III
+| Nom ends with... | Short vowel | Long vowel | Consonant |
+| ---------------- | ----------- | ---------- | --------- |
+| Acc              | -r          | -w         | -eri      |
+| Dat              | -ts         | -ć         | -ots      |
+| Gen              | -va         | -van       | -ova      |
+| Prep             | -r          | -r         | -er       |
+| Inst             | -tor        | -toto      | -ototo    |
+| Voc              | No change   | -dov       | No change |
+How do you tell which type of declension a given noun uses? Fuck you, that's how.
+
+# Vocabulary
+
+| Gloss    | Nom      | Acc     | Dat    | Gen     | Prep     | Inst    | Voc    |
+| -------- | -------- | ------- | ------ | ------- | -------- | ------- | ------ |
+| magic    | kasyn    | kasynīs | kasyne | kasyner | kasynlat | kasynst | kasyny |
+| spell    | kīsa     |         |        |         |          |         |        |
+| fire     | aže      |         |        |         |          |         |        |
+| water    | dzoveh   |         |        |         |          |         |        |
+| ice      | dzok     |         |        |         |          |         |        |
+| life     | anava    |         |        |         |          |         |        |
+| death    | mìnt     |         |        |         |          |         |        |
+| SOUL     | ana      | anās    | anati  | anate   | anala    | anast   | anā    |
+| spirit   | anet     |         |        |         |          |         |        |
+| person   | anai     |         |        |         |          |         |        |
+| mother   | moži     |         |        |         |          |         |        |
+| father   | vani     |         |        |         |          |         |        |
+| child    | ikan     |         |        |         |          |         |        |
+| body     | kavel    |         |        |         |          |         |        |
+| hand     | luta     |         |        |         |          |         |        |
+| arm      | tâni     | tânida  | tânisk | tânilor | tânisk   | tâniv   | tânida |
+| face     | oś       |         |        |         |          |         |        |
+| eye      | tsasa    |         |        |         |          |         |        |
+| sun      | loxer    |         |        |         |          |         |        |
+| power    | xalit    |         |        |         |          |         |        |
+| weapon   | ula      |         |        |         |          |         |        |
+| blade    | usla     | uslās   | uslati | uslate  | uslala   | uslast  | uslā   |
+| shield   | ergala   |         |        |         |          |         |        |
+| lock     | ervaś    |         |        |         |          |         |        |
+| soldier  | erxaśli  |         |        |         |          |         |        |
+| skeleton | erana    |         |        |         |          |         |        |
+| grain    | javteh   |         |        |         |          |         |        |
+| food     | jośev    |         |        |         |          |         |        |
+| bed      | gevwa    |         |        |         |          |         |        |
+| wing     | tânivker |         |        |         |          |         |        |
+| scale    | mol      |         |        |         |          |         |        |
+| gold     | reś      |         |        |         |          |         |        |
+| silver   | ōty      |         |        |         |          |         |        |
+| jewel    | varny    |         |        |         |          |         |        |
+| horse    | kovat    |         |        |         |          |         |        |
+| realm    | mava     | mavās   | mavati | mavate  | mavala   | mavast  | mavā   |
+| sky      | ker      | keranda | keresk | kerolo  | keresk   | kerev   | keroda |
+| animal   | tonmer   |         |        |         |          |         |        |
