@@ -18,7 +18,7 @@
 >Maybe I should make them a couple hundred years older, huh? Also, I like this idea, but it seems to conflict with Luke being the one to kill James. (I have been kind of rethinking that, though. James is useful to keep around because who else is going to teach Luke new spells? At the very least, Luke probably kills him later than I initially intended, in which case he's not like Toriel.) ^3d7c01
 
 **Lun:**
->Alright hear me out on this one. What if [[James Redawić\|James]] gets killed in the first loop, which causes AL to successfully collect all parts of the [[BFS 10000\|SOUL AMPLIFIER]], get in a big final fight with [[Luke Campbell\|Luke]] and then get RESET on by [[Sam Ward\|Sam]]. In the next loop however, Luke does _not_ kill James (not sure how this comes to be, maybe his sense of "something is wrong" makes him act more carefully?). This allows Luke to learn more advanced magic in the next loop and also changes the final boss fight to James, as he kills AL and takes the [[BFS 10000\|SOUL AMPLIFIER]] if he survives.
+>Alright hear me out on this one. What if [[James Redawić\|James]] gets killed in the first loop, which causes AL to successfully collect all parts of the [[BFS 10000\|SOUL AMPLIFIER]], get in a big final fight with [[Luke Campbell\|Luke]] and then get RESET on by [[Sam Campbell\|Sam]]. In the next loop however, Luke does _not_ kill James (not sure how this comes to be, maybe his sense of "something is wrong" makes him act more carefully?). This allows Luke to learn more advanced magic in the next loop and also changes the final boss fight to James, as he kills AL and takes the [[BFS 10000\|SOUL AMPLIFIER]] if he survives.
 
 **Sudo:**
 >Hmmm... very, very interesting. I like it.

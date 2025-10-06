@@ -1,10 +1,10 @@
 ---
 alias: Sam, Sammich
-Name: Sammich 'Sam' Ward
+Name: Sammich 'Sam' Campbell
 Category: Main
 Role: Damsel-in-distress (not a damsel and maybe not in distress)
-DOB: 2002-12-05
-Species: Red fox (*Vulpes vulpes*)
+DOB: 2002-10-22
+Species: Dog (*Canis familiaris*)
 Gender: "&quot;No, thanks!&quot; (they/them)"
 Pronouns: they/them
 Measurements:
@@ -16,7 +16,9 @@ Measurements:
   Inseam: 92
 Orientation: Queer (let's just leave it at that)
 Personality: Athletic and outgoing.
-MainGoal: ["Not be captured by [[CURSED AL]], I guess?", "They're just trying to get ready for college, man"]
+MainGoal:
+  - Not be captured by [[CURSED AL]], I guess?
+  - They're just trying to get ready for college, man
 Ability:
   STR: 15 (+2)
   DEX: 13 (+1)
@@ -24,12 +26,16 @@ Ability:
   INT: 12 (+1)
   WIS: 10 (+0)
   CHA: 12 (+1)
-References: ["Cloth (Hollow Knight)???", "Noelle Holiday (Deltarune)", "Kronk (The Emperor's New Groove)"]
+References:
+  - Cloth (Hollow Knight)???
+  - Noelle Holiday (Deltarune)
+  - Kronk (The Emperor's New Groove)
 Notes:
 SortOrder: 2
-Focus: True
+Focus: true
 FocusComment: Do they have a SOUL or not? This may be determined by solving [[BFS 10000]].
 ---
+Basically everything below is outdated. They're Luke's twin sibling now.
 # Sam, THE INNOCENT ONE
 Love interest for [Luke](Luke%20Campbell.md).
 
@@ -47,12 +53,12 @@ question:: Do they have a SOUL or not?
 #Gameplay 
 ^reminders-of-sam
 %%
-vnViable:: Perhaps it will be a recurring theme that Luke will find something that reminds him of Sam. ([[Sam Ward#^reminders-of-sam|ref]])
+vnViable:: Perhaps it will be a recurring theme that Luke will find something that reminds him of Sam. ([[Sam Campbell#^reminders-of-sam|ref]])
 
 sudoChange:: New gameplay idea.
 Priority:: 40
 
-vnViable:: Scrapbook where Luke puts things he wants to show Sam. Or maybe there are opportunities to have your photo taken, like Earthbound. The player can choose not to do this, and it doesn't really affect anything. They just miss out on something cute/maybe you get an achievement if you get all of them. It might count as "ignoring what Luke wants to do", though. ([[Sam Ward#^reminders-of-sam|ref]]) (Well, the scrapbook thing could work in a VN. Not sure about the other thing.)
+vnViable:: Scrapbook where Luke puts things he wants to show Sam. Or maybe there are opportunities to have your photo taken, like Earthbound. The player can choose not to do this, and it doesn't really affect anything. They just miss out on something cute/maybe you get an achievement if you get all of them. It might count as "ignoring what Luke wants to do", though. ([[Sam Campbell#^reminders-of-sam|ref]]) (Well, the scrapbook thing could work in a VN. Not sure about the other thing.)
 
 
 Lun: Thats really cute...

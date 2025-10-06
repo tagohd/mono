@@ -1,4 +1,4 @@
-The true domain of [[Ednathrallor Verdensmorder|Edna]]. Only accessible by broken elevator. Also where [[Emperoress, The|The Emperoress]] resides.
+The true domain of [[Ednathrallor Verdensmorder|Edna]]. Only accessible by broken elevator. Also where [[MELADRIËN|The Emperoress]] resides.
 
 ![[eeby deeby.jpg]]
 

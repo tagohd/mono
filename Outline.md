@@ -110,7 +110,7 @@ There might be even more loops, but keep in mind that we're not necessarily goin
 	- If you're reading this, you should also read the article for [[BLADE OF POWER|THE BLADE]].
 	- What if all of them are actually pretty easy to get? Undermines James's insistence on intense training, which might actually be making things worse. (I want James to *feel* justified in mistreating Luke, but I don't want him to *be* justified.)
 	- Well, okay, there should be *some* challenges involved, otherwise the story would get kinda boring. But maybe they don't really require that much magic to solve.
-- AL already has [[CRYSTAL OF GRELLNATH|THE CRYSTAL]] since he needed it to summon [[Emperoress, The|The Emperoress]], and he may have one of the other Artifacts as well.
+- AL already has [[CRYSTAL OF GRELLNATH|THE CRYSTAL]] since he needed it to summon [[MELADRIËN|The Emperoress]], and he may have one of the other Artifacts as well.
 	- Maybe they try to get THE CRYSTAL anyway, only to find that it isn't there.
 
 ### 1.2.3 The Ordeal

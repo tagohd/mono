@@ -215,7 +215,7 @@ Cf. [[Outline]]
 
 ## Part III
 ### Chapter 3.1
-Very broad strokes: the time loops are due to the interference of a god named [[Emperoress, The|Janus]] (this is a placeholder name). Janus has been using the loops to collect SOULS for their armada of ghost pirates in order to overthrow the [[DRAGON GOD]], god of the dragons. Luke finds this out from Edna, but only after letting her have Pauline. More accurately, Edna takes Luke to the DRAGON GOD,[^dragon] and DG tells him about Janus.
+Very broad strokes: the time loops are due to the interference of a god named [[MELADRIËN|Janus]] (this is a placeholder name). Janus has been using the loops to collect SOULS for their armada of ghost pirates in order to overthrow the [[DRAGON GOD]], god of the dragons. Luke finds this out from Edna, but only after letting her have Pauline. More accurately, Edna takes Luke to the DRAGON GOD,[^dragon] and DG tells him about Janus.
 
 [^dragon]: If you're going to have a friendly dragon in the story and the main character(s) *don't* get to ride on it at some point, what the fuck are you even doing?
 ### Chapter 3.2

@@ -185,7 +185,7 @@ Some more thoughts in a list:
 >
 >Two other notes:
 >1. The X and Y axes are continuous, but the Z (planar) axis is discrete; you can't, e.g., go to (10.06475, -11.33150, 2.79625). That's just... not a thing.
->2. Because [[Teleport]] doesn't work the same way in MONO as it does in D&D, [[Plane Shift]] only permits travel along the Z axis. Your X and Y coordinates don't change. (Summoning [[Emperoress, The|The Emperoress]], as in [[2. Plot Overview (Again)]], is an exception.
+>2. Because [[Teleport]] doesn't work the same way in MONO as it does in D&D, [[Plane Shift]] only permits travel along the Z axis. Your X and Y coordinates don't change. (Summoning [[MELADRIËN|The Emperoress]], as in [[2. Plot Overview (Again)]], is an exception.
 
 [Lun]: That is quite exactly how I envisioned the planes yes. And at this point you should assume your references will be lost on me, I have not seen many popular shows. Same for a lot of games. I will never leave this rock i live under. Also, just how many planes are there next to the mana and physical planes? Are we going full dnd on this? (Time to get sued by wizards of the coast as well) ^r6
 

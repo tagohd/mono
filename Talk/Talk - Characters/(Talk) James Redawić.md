@@ -54,7 +54,7 @@ Or maybe CURSED AL is manipulating James into manipulating Luke? James knows whe
 
 >[!question] Why not? Why is anyone disabled in a universe where magic exists?
 >Just because (almost) anyone can use magic doesn't mean everyone *should*. Magic is dangerous. You're literally tearing holes into the fabric of reality, and if you're not careful, that can have some pretty dire consequences.
->>[!note] Maybe [[Sam Ward|Sam]] can't use magic because they don't have a [[SOUL]]
+>>[!note] Maybe [[Sam Campbell|Sam]] can't use magic because they don't have a [[SOUL]]
 
 >[!question] So then, wouldn't there be a class of mages who specialize in healing magic? Like doctors?
 >Maybe they're really expensive. Like doctors. You think [[James Redawić|James]] can afford that with the money he makes from the [[The Old Silver Mine|museum]]? (Oh, sorry, maybe that doesn't make sense if you live in a civilized country.)
@@ -132,7 +132,7 @@ This of course raises some questions:
 	  - That can still be preserved in this approach! However, James now means it as a _threat_ (which Luke / the player does not know, but AL definitely does).
   - What does this mean for the rest of the story?
 	  - Luke killing James definitely wasn't part of James' plans. However, Luke is now on his quest to obtain all the artefacts and helps out AL all the same. AL finds out James got killed, but continues to assemble the [[BFS 10000]] anyways since he can just use it to resurrect James now. If the player has a choice in what to do with the [[BFS 10000]] after defeating AL, the true ending entails using it to resurrect James. Who then snatches it and becomes the new big bad. #Gameplay 
-	  - AL is actually not that evil. To save James he's definitely done some messed up stuff (like abducting [[Sam Ward|Sam]]) but does it out of love for his husbando. And yes, he was definitely morally grey to start out with, but he's like, a respectable type of evil. This may also explain why he spares Luke in their first encounter with [[Case Weston|Case]].
+	  - AL is actually not that evil. To save James he's definitely done some messed up stuff (like abducting [[Sam Campbell|Sam]]) but does it out of love for his husbando. And yes, he was definitely morally grey to start out with, but he's like, a respectable type of evil. This may also explain why he spares Luke in their first encounter with [[Case Weston|Case]].
 	    James, on the contrary, is now acting purely out of hatred and is just an all-around evil guy. 
 ^true-ending
 

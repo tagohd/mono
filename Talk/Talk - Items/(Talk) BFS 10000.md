@@ -137,7 +137,7 @@ songTitle:: Undertale/SAVE the World - Toby Fox
 songRemarks:: Inspiration for song that plays when Sam does their SQL injection
 %%
 
-[^2]: I guess that makes [[Emperoress, The|The Emperoress]] Giygas?
+[^2]: I guess that makes [[MELADRIËN|The Emperoress]] Giygas?
 
 Per [[(6) June 2023 Chat Logs#^ZmluYWxl|our discussion]], I've had an even better idea for the song that plays here: ![[80 Finale.m4a]] ^r9
 %%
@@ -154,7 +154,7 @@ After the reset, [[Luke Campbell|Luke]] wakes up in his bed. He is no longer get
 
 [^3]: Case still being in high school is one of the aforementioned knock-on effects.
 
-Somehow, they learn they have to go to [[Eeby Deeby]] and defeat [[Emperoress, The|The Emperoress]]. (So, The Emperoress is The Radiance, not [[CURSED AL]].) And then they're able to restore the timeline? Idk, that's all I have right now.
+Somehow, they learn they have to go to [[Eeby Deeby]] and defeat [[MELADRIËN|The Emperoress]]. (So, The Emperoress is The Radiance, not [[CURSED AL]].) And then they're able to restore the timeline? Idk, that's all I have right now.
 
 Oh! I remembered another idea I had. I had mentioned in [[(Talk) 1. Plot Overview#^3d7c01]] that maybe [[James Redawić|James]] shouldn't die too soon since he can teach Luke more spells. So, what if he lives in the first timeline, but Luke accidentally kills him in *this* timeline?
 

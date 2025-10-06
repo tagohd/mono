@@ -1,14 +1,14 @@
 See [[Tolvanaite]] for a guide to pronunciation.
 # Epistle for Those New to the World
-Long, long ago, dragons ruled over the world, and chief among them was TALA SUMÁNAVATE, the DRAGON GOD. Beneath the dragons were the KEROLOÄNI, the Sky People, and chief among them were the angels known as the KASYNERIKAN, the Children of Magic, each of which presided over a given school of magic:
+Long, long ago, dragons ruled over the world, and chief among them was [[TALA SUMÁNAVATE]], the DRAGON GOD. Beneath the dragons were the KEROLOÄNI, the Sky People, and chief among them were the angels known as the KASYNERIKAN, the Children of Magic, each of which presided over a given school of magic:
 
-1. RULKOHIM THE FAITHFUL, Kasynerikan of Healing
-2. SÛDMORANTH THE WISE, Kasynerikan of Transmutation
-3. GRELLNATH THE KIND, Kasynerikan of Enchantment
-4. KALAGASH THE STEADFAST, Kasynerikan of Protection
-5. ELADRINŪR THE GIVING, Kasynerikan of Summoning
-6. BOTÚTH THE MIGHTY, Kasynerikan of Destruction, and
-7. MELADRIËN THE MERICFUL[^1], Kasynerikan of Illusion and *primus inter pares*
+1. [[RULKOHIM THE FAITHFUL]], Kasynerikan of Healing
+2. [[SÛDMORANTH THE WISE]], Kasynerikan of Transmutation
+3. [[GRELLNATH THE KIND]], Kasynerikan of Enchantment
+4. [[KALAGASH THE STEADFAST]], Kasynerikan of Protection
+5. [[ELADRINŪR THE GIVING]], Kasynerikan of Summoning
+6. [[BOTÚTH THE MIGHTY]], Kasynerikan of Destruction, and
+7. [[MELADRIËN|MELADRIËN THE MERCIFUL]][^1], Kasynerikan of Illusion and *primus inter pares*
 
 [^1]: Formerly known as Janus, and formerly formerly known as The Emperoress
 

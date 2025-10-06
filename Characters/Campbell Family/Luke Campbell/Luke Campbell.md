@@ -61,7 +61,7 @@ Here's some new stuff from Discord:
 - Kinda competitive
 - Tendency to be overly trusting
 - Can be very possessive of food and sticks
-- Fiercely loyal (see: [[Sam Ward|Sam]])
+- Fiercely loyal (see: [[Sam Campbell|Sam]])
 - Very physically affectionate (\# of times I've mentioned him running up and hugging Case)
 	- But also tends to playfight with Case a lot (related?)
 	- Related: Is definitely going to need more than a few hugs when this is all over (and probably therapy lol)

@@ -118,7 +118,7 @@ S:
 >
 >And there's another potential FMA parallel: the [[BFS 10000]] is kinda like the giant transmutation circle, and it's going to draw on the power of everyone's [[SOUL|SOULS]].
 >
->And CURSED AL is after [[Sam Ward|Sam]] because they're a ginger and therefore don't have a SOUL, so he's going to, like, focus the power of everybody's SOULS onto them and use them as a vessel or something
+>And CURSED AL is after [[Sam Campbell|Sam]] because they're a ginger and therefore don't have a SOUL, so he's going to, like, focus the power of everybody's SOULS onto them and use them as a vessel or something
 >Is that racist?
 >
 >But what makes [[Luke Campbell|Luke]] special? Why is he THE CHOSEN ONE? He's not, actually. There is no CHOSEN ONE. James just says that to everyone. The only thing that makes Luke special is that he was stupid enough to actually believe James

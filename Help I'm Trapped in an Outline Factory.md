@@ -1,5 +1,5 @@
 - Long ago (possibly as far back as [last Thursday](https://en.m.wikipedia.org/wiki/Last_Thursdayism)), dragons ruled over the world
-- [[Emperoress, The|Janus]] did not like this. She thought Janus should rule the world
+- [[MELADRIËN|Janus]] did not like this. She thought Janus should rule the world
 	- Also, a dragon ate her wife or something
 - In order to depose the dragons, Janus gave the humans magic. This also turned them into furries for some reason? (For brevity's sake, I'll keep calling them humans.)
 	- The moons are also involved somehow

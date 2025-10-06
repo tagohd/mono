@@ -4,7 +4,7 @@
 ## [[1.1 The Call to Adventure]]
 ### EXT. [[Genton|GENTON]]
 
-**[[Luke Campbell|LUKE]]:** Hey, there's some weird shit going down in town, and now [[Sam Ward|my best friend]] is missing. What can I do?
+**[[Luke Campbell|LUKE]]:** Hey, there's some weird shit going down in town, and now [[Sam Campbell|my best friend]] is missing. What can I do?
 
 **STRANGER:** You didn't hear it from me, but there's this weird old guy up in the mountains who might know a thing or two. You should talk to him. Ask him about... (sotto) [[CURSED AL]].
 

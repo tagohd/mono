@@ -1,0 +1,1 @@
+The DRAGON GOD. You think he's going to be some huge, imposing figure, but he's more like a kitty cat. This is by choice; he can be huge and imposing if he wants.

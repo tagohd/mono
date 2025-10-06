@@ -173,7 +173,7 @@ This entire "Act" takes place on 18 Sep.
 - Just as AL is preparing to cast [[Reverse Fate]], Luke cries out for him to wait. He has a message from James.
 	- Lol, what if AL's reaction is just, "Yeah, I'd fucking hope he remembers me. We were married for like 200 years..."
 - Regardless of AL's reaction, he's distracted long enough for Sam to do some shenanigans
-	- They make a deal with [[Emperoress, The|The Emperoress]] for Luke to be able to remember the previous timelines. Who knows how many loops there have been? Even Sam isn't sure, but they know this isn't the first one.
+	- They make a deal with [[MELADRIËN|The Emperoress]] for Luke to be able to remember the previous timelines. Who knows how many loops there have been? Even Sam isn't sure, but they know this isn't the first one.
 - AL casts Reverse Fate, but instead of resurrecting James, it resets the timeline to the beginning of the story.
 	- Technically, this *does* resurrect James...
 

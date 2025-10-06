@@ -32,7 +32,7 @@ Already mentioned that everyone is queer, but now we also have... d i s a b i l 
 - Maybe [[CURSED AL|CURSED AL's]] curse is that he has ADHD/is ADHD-coded
 - Maybe [[James Redawić|James]] is paraplegic or otherwise can't walk very far. (See: [[(Talk) James Redawić]])
 	  [Lun]: Also works with what I suggested in [[CURSED AL#^fb3aaa]]!
-- [[Sam Ward|Sam]] has IBD (not to be confused with IED, IUD, or IBS)
+- [[Sam Campbell|Sam]] has IBD (not to be confused with IED, IUD, or IBS)
 	- They also don't have a [[SOUL]] [question:: Is "not having a SOUL" a disability? In this world, it could be.]
 
 #general #Character/Luke-Campbell #Character/CURSED-AL  #unanswered-questions 

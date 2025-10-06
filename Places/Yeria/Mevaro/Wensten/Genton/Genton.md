@@ -13,7 +13,7 @@ alias: Boringsville
 - [[Luke Campbell]]
 - [[The Mothers Campbell]]
 - [[Luke's Noble Steed|Pauline]]
-- [[Sam Ward]]
+- [[Sam Campbell]]
 - [[Manas Georg|George Ward]]
 
 ## Legendary Artifacts

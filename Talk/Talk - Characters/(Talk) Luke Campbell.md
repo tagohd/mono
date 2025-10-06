@@ -2,7 +2,7 @@
 
 # Open Issues
 ## Luke, THE RELUCTANT HERO
-His bond with [[Sam Ward|Sam]] is so strong that it allows him to track their SOUL to [[CURSED AL]]. Luke’s SOUL is also quite powerful itself, allowing him to use [[Magic]], but it’s his bond with Sam that truly gives him strength.
+His bond with [[Sam Campbell|Sam]] is so strong that it allows him to track their SOUL to [[CURSED AL]]. Luke’s SOUL is also quite powerful itself, allowing him to use [[Magic]], but it’s his bond with Sam that truly gives him strength.
 
 >[!bug]
 >issue:: It hasn't been decided whether Sam actually has a [[SOUL]].
@@ -121,7 +121,7 @@ Dependencies:: "[[BLADE OF POWER]] - Potentially affects order of acquisition", 
 >There are no plans to include any sexually explicit scenes in the game. I don't want to write that.
 >%%[aq:: How old are Luke, Sam, and Case?]%%
 
-(Carried over from [[Sam Ward#Characterizations]])
+(Carried over from [[Sam Campbell#Characterizations]])
 * \[Sam\] is about Luke's age, so... 16-17? (I haven't really decided how old Luke is, either.)
 
 Lun:

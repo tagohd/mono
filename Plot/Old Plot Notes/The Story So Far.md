@@ -1,5 +1,5 @@
 - [[Luke Campbell]] wakes up one morning to find he has turned into a dogboy. Rather than being alarmed by this, he actually thinks it’s pretty cool.
-- He goes to show his neighbor and best friend, [[Sam Ward]], but discovers they have disappeared.
+- He goes to show his neighbor and best friend, [[Sam Campbell]], but discovers they have disappeared.
 - Luke must seek out the reclusive and mysterious [[James Redawić]] in order to solve the mysteries of his transformation and Sam’s disappearance. James lives in a secluded town high in the mountains called [[Plata]].
 - James reluctantly agrees to help Luke. Sam and the others are being lured to their doom by a being known only as [[CURSED AL]] (his true name has been lost to time). Luke is the only one who can defeat CURSED AL, so James has no choice but to train him.
 - Luke’s skills gradually surpass even James’s. As a final challenge, James demands a fight to the death, which Luke wins despite his best efforts not to. (This isn’t a case of Luke being an idiot, even though he is. He’s just understandably hesitant to kill his mentor.) With his dying words, James instructs Luke to retrieve a [[CURSED AL'S CURSED ORB|legendary artifact]] from the city of [[Rhapsody]], and to deliver a message to CURSED AL: James still remembers him.

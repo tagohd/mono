@@ -36,7 +36,7 @@ You thought [[CURSED AL]] was [The Big Bad](https://tvtropes.org/pmwiki/pmwiki.p
 - The one actually pulling all the strings
 - The bigender/genderfluid master of CURSED AL
 	- Many believe they're two separate people
-- Possibly the same as [[Ednathrallor Verdensmorder]]?
+- Stuck in the [[Mana Plane]], holding it together kind of like Atlas
 
 
 >[!question] [aq:: Is The Emperoress secretly Edna?]
