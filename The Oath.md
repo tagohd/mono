@@ -3,45 +3,77 @@
 Situated atop the highest mountain in the region, the TEMPLE resembles a modest chalet or perhaps a ski lodge.
 The KNIGHT MOTHER is a middle-aged, anthropomorphic goat. Her vestments are plain, prioritizing warmth over style, though the SIGIL OF RULKOHIM is embroidered into her outermost layer. The postulant is a young person of any gender and species, around 14-16 years old.*
 
->**KNIGHT MOTHER:** Do you seek to join our ranks?
->>**Postulant:** Yes, KNIGHT MOTHER, if holy RULKOHIM wills it, and if I am found to be worthy in your eyes, and if you shall have me.
->What do you know of the world, child?[^age] 
+>**KNIGHT MOTHER:** Dost thou seek to join our ranks?
+
+
+>>**Postulant:** Yea, KNIGHT MOTHER, if holy RULKOHIM so willeth, and if I be found worthy in your eyes, and if you shalt receive me.
+
+>What knowest thou of the world, child?[^age] 
+
 >>Precious little, KNIGHT MOTHER.
->You know little, and in your ignorance, you still wish to join us?
->>Yes, KNIGHT MOTHER. I seek the guidance of holy RULKOHIM, that I may be led into the truth.
->What do you know of the KASYNERIKAN?
->>Long ago, TALA SUMÁNAVATE, king of the dragons and ruler of the cosmos, blessed be His name, saw fit to delegate the governance of magic to a select few of the KEROLOÄNI, the angels of heaven, and He called them the KASYNERIKAN, the Children of Magic, and He was pleased.
+
+>Thou knowest but little, and in thine ignorance, thou nonetheless desirest to join our ranks?
+
+>>Yea, KNIGHT MOTHER. I seek the guidance of holy RULKOHIM, that I may be led into the truth.
+
+>What knowest thou of the KASYNERIKAN?
+
+>>Long ago, TALA SUMÁNAVATE, king of the dragons and ruler of the cosmos, blessed be His name, saw fit to bestow the governance of magic upon a chosen few of the KEROLOÄNI, the angels of heaven, and He called them the KASYNERIKAN, the Children of Magic, and He was pleased.
+
+(Art suggestion: portrait of DG (large form) before 7 nondescript angels)
+
 >Who are the KASYNERIKAN, child?
+
 >>With holy STAFF is RULKOHIM, the guardian of life.
->>BOTÚTH, with her[^gender] wicked BLADE, protects in times of strife.
->>SÛDMORANTH, the noble sage, drinks wisdom from his CHALICE,
->>While KALAGASH's NEEDLE delivers us from malice.
+>>BOTÚTH, with her[^gender] wicked BLADE, doth protect in times of strife.
+>>SÛDMORANTH, the noble sage, drinketh wisdom from his CHALICE,
+>>While KALAGASH's NEEDLE delivereth us from malice.
 >>The sight of GRELLNATH's CRYSTAL is sure to soothe one's SOUL,
 >>And the BEE of ELADRINŪR is not spoken of.
 >>Last but also first is MELADRIËN of mercy infinite,
->>Whose sacred ORB tells the future definite.
->>MELADRIËN stands gracefully as *primus inter pares*,
+>>Whose sacred ORB telleth the future definite.
+>>MELADRIËN doth stand gracefully as *primus inter pares*,
 >>And on her shoulders our sorrows gently carries.
 >>To MELADRIËN we owe our life and offer highest praise,
->>Which we shall to the heavens sing until our dying days.
+>>Which we shall unto the heavens sing until our dying days.
+
+(Art suggestion: If you really want to, you could do a portrait of each of the KASYNERIKAN. They aren't furries.)
+
 >Glory be to the Seven, and to the DRAGON GOD, as it was in the beginning, is now, and ever shall be, world without end.
->Now I must ask you: why have you not chosen to serve MELADRIËN?
->>To serve one of the KASYNERIKAN is to serve them all, KNIGHT MOTHER. Verily, it pleases MELADRIËN's humility to see us serve another.[^pride]
->Why, then, have you chosen to serve RULKOHIM in particular?
->>MELADRIËN is the giver of life, but RULKOHIM, its protector. I am drawn by his mercy and compassion. His sacrifice has inspired me to extend my own compassion to others, that they might live in his stead.
->Do you swear to show mercy to all life?
->>Yes, KNIGHT MOTHER.
->And do you swear to forsake all your earthly desires?
->>Yes, KNIGHT MOTHER.
->And do you swear to give your life in service to RULKOHIM if that is his will?
+>
+>Now I must ask thee: why hast thou not chosen to serve MELADRIËN?
+
+>>To serve one of the KASYNERIKAN is to serve them all, KNIGHT MOTHER. Verily, it pleaseth MELADRIËN's humility to behold us serve another.[^pride]
+
+>Why, then, hast thou chosen to serve RULKOHIM in especial?
+
+>>MELADRIËN is the giver of life, but RULKOHIM, its protector. I am drawn by his mercy and compassion. His sacrifice hath inspired me to extend mine own compassion to others, that they might live in his stead.
+
+>Dost thou swear to shew mercy to all life?
+
+>>Yea, verily, KNIGHT MOTHER.
+
+>And dost thou swear to forsake all thine earthly desires?
+
+>>Yea, verily, KNIGHT MOTHER.
+
+>And dost thou swear to give thy life in service unto RULKOHIM if that be his will?
+
 >>Gladly, KNIGHT MOTHER.
->You acknowledge the possibility of pain and seizure.
->>Yes, KNIGHT MOTHER.
->You accept everything that will happen from now on.
->>Yes, KNIGHT MOTHER.
->Then, I welcome you to join our order.
+
+>Thou dost acknowledge the possibility of pain and seizure.
+
+>>Yea, KNIGHT MOTHER.
+
+>And thou dost accept everything that shall befall thee henceforth.
+
+>>Yea, KNIGHT MOTHER.
+
+>Then, I welcome thee to join our order and grant thee the rank of novice.
+
 >>I am grateful, KNIGHT MOTHER. Praise be to RULKOHIM.
->Your journey is beginning still, my child. Swearing the oath is only the first and easiest of the challenges ahead.[^challenge] Come, follow me.
+
+>Thy journey but beginneth, my child. To swear the oath is but the first, and the easiest, of the trials to come.[^challenge] Come, follow me.
 
 # A Discussion on Magic?
 *They walk through the labyrinthine corridors, the path growing darker and darker until the only faint light is from a torch several meters away. KM summons a sphere of soft, blue light to guide the rest of their journey.
@@ -54,18 +86,36 @@ KM asks P for some fruit. P thinks KM is hungry, but she actually just wants to 
 
 As if this weren't impressive enough, KM keeps going. In just a few moments, the fruit sprouts and begins to grow. Soon, an adult tree stands before them.[^agriculture] The tree blooms and bears fruit; KM gives a fruit to P.
 
-"Wow, this is amazing, etc, etc. Why are we keeping THE STAFF to ourselves?" \[Maybe it would be better to combine this with the next section so it flows better/feels less redundant.]
+"Wow, this is amazing, etc.., etc. Why are we keeping THE STAFF to ourselves?" \[Maybe it would be better to combine this with the next section so it flows better/feels less redundant.]
 
 KM goes further, pumping even more mana into the tree. The tree grows taller; the fruit ripens and falls off. The leaves cycle through their fall colors, fall off, and grow back. This repeats several times until finally the tree withers and dies.[^senescence]
 
 "This is the true power of THE STAFF" or whatever.
 
 # A Warning
-Now this is a story all about how
-My life got flipped, turned upside down
-And I'd like to take a minute, just sit right there
-I'll tell you how I became the Ice Witch of Bel-Air
+~~Now this is a story all about how~~
+~~My life got flipped, turned upside down~~
+~~And I'd like to take a minute, just sit right there~~
+~~I'll tell you how I became the Ice Witch of Bel-Air~~ Yeah, I'm not doing that.
 
+Broad strokes: Yeltah was a young postulant, around the same age as the current postulant. She came from a poor village stricken by a plague. She sought to join the [[KNIGHTS OF RULKOHIM]] in order to learn healing magic and save her village. She proved to be quite prodigious, and her skills rivaled even the KNIGHT MOTHER's.
+
+(Gaining the necessary skills and earning the trust of THE KNIGHTS is a process that likely took several years, so I guess it's not a particularly deadly plague? Or maybe it was the losses she suffered that inspired her to join THE KNIGHTS in the first place. Maybe it works better if she's the only survivor from her village.)
+## The Truth
+When Yeltah was ready to begin leading missions on her own, she was asked to steal a small amount of life energy from each villager to pay in tribute to the KNIGHT MOTHER. She realized this had been happening on every mission she had completed before then, and she was horrified. "These are not a people accustomed to loss," she concluded. "How could I rob someone of even one day more with their loved ones?"
+
+But THE KNIGHTS were set in their ways. There was no changing a centuries old tradition, not when its followers were convinced it was the will of the heavens. There could be no reasoning with such people. They would only learn from experience.
+
+She made a plan to steal [[STAFF OF RULKOHIM|THE STAFF]] and kill the KNIGHT MOTHER. She almost succeeded. The other KNIGHTS rallied to the aid of the KNIGHT MOTHER. One hits her with a powerful blast of ice magic, freezing her in place long enough for KM to fight back. Yeltah is strong, however, and doesn't give up easily.  All the KNIGHTS work together to attempt to freeze her to death, but she won't die because she still has THE STAFF. Due to bullshit plot reasons, she turns into an ice monster instead.
+
+She makes a strategic retreat into the mountains to plot her revenge. She knows better than to attack the TEMPLE directly, and the KNIGHTS soon learn that walking the mountain trails alone at night frequently means you won't be coming back.
+
+## Yeltah (Taylor's Version)
+Basically the same as the above, except KM's obviously not going to admit *why* Yeltah snapped. She'll say Yeltah's heart wasn't pure or something, and she got greedy, wanting to steal THE STAFF to grant herself eternal life. Well, she got what she wanted, didn't she?
+
+She'll also probably change it to make her look better. Maybe instead of attacking her, Yeltah initially attacked another KNIGHT, and KM heroically stepped in to save them, taking a lot of damage in the process.
+
+But this is why they protect THE STAFF the way they do. Its power is terrifying in the wrong hands.
 # Notes
 [^postulant]: Technically, since they have yet to be formally admitted as a novice, they are more accurately called a postulant.
 

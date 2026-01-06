@@ -1,0 +1,5 @@
+Look, I want to say I at least wrote *something* tonight, so here's this.
+
+We open with the Renaissance Faire. People are laughing and making merry and all in all having a pretty good time. Then a fucking dragon shows up, and they all start to panic. Everyone except our lovable idiot of a protagonist, that is. He thinks they just went all out on the effects budget this year. Eventually he realizes, no, this is a real dragon and he might be in real danger. He *is* in real danger, but from the other people, not the dragon. Everyone is panicking and knocking shit down in their rush to get the hell out of there, and this includes the torches that were burning for ambiance and also Luke himself. However, Case sees Luke get knocked down and saves his ass before he gets trampled to death. Luke is incredibly flustered after having his life saved by a cute boy who's evidently very skilled at magic.
+
+\[Okay, so, that's a summary. You were supposed to try actually writing the story.]
